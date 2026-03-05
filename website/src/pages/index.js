@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Start Learning - 5min ⏱️
+            Start the Curriculum 🚀
           </Link>
         </div>
       </div>
@@ -29,7 +29,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title="Welcome"
       description="Computer Literacy Curriculum for Kids - A comprehensive 18-week program">
       <HomepageHeader />
       <main>

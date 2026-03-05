@@ -1,62 +1,74 @@
-﻿# Week 7: Keyboard Quests & Digital Post
+﻿---
+sidebar_position: 7
+sidebar_label: "Week 7: Keyboard Quests"
+title: "Week 7: Keyboard Quests & Digital Post"
+description: "Practice touch typing skills and learn how to compose and send emails safely."
+---
 
-- **Teacher Preparation (Before the Week's Sessions):**
+# Week 7: Keyboard Quests & Digital Post
 
-  - Review Week 7 LOs and Activities.
+---
 
-  - Have typing practice site ready ([<u>TypingClub</u>](https://www.typingclub.com/) / [<u>BBC Dance Mat</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)) and know child's current level/lesson.
+## Teacher Preparation
 
-  - Prepare for supervised email practice: Decide on WordPad drafting or supervised child-safe email account (have login, be comfortable supervising).
+:::info Before You Begin
+- Review Week 7 LOs and Activities.
+- Have typing practice site ready ([TypingClub](https://www.typingclub.com/) / [BBC Dance Mat](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)) and know child's current level/lesson.
+- Prepare for supervised email practice: Decide on WordPad drafting or supervised child-safe email account (have login, be comfortable supervising).
+- Prepare discussion points/scenarios for email safety, linking back to Week 1/BIA.
+- Prepare/print visual instruction card.
+- Set up visual timer.
+:::
 
-  - Prepare discussion points/scenarios for email safety, linking back to Week 1/BIA.
+:::tip Flexibility Note
+If typing is progressing well, introduce punctuation keys. If email concepts are tricky, spend more time drafting offline or discussing safety scenarios.
+:::
 
-  - Prepare/print visual instruction card.
+---
 
-  - Set up visual timer.
+## Guided Session 1: Typing Tune-Up
 
-  - *Flexibility Note:* If typing is progressing well, introduce punctuation keys. If email concepts are tricky, spend more time drafting offline or discussing safety scenarios.
+> **Learning Objectives:** Continue practicing touch typing (accuracy/rhythm); identify keys without looking; complete lesson/level in typing program.
 
-- **Guided Session 1: Typing Tune-Up**
+### Activities
 
-  - **LO:** Continue practicing touch typing (accuracy/rhythm); identify keys without looking; complete lesson/level in typing program.
+1. **Posture Check:** Review good typing posture (sit tall, feet flat, wrists straight).
+2. **Typing Practice (15–20 min):** Log in to [TypingClub](https://www.typingclub.com/) or [BBC Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr). Work through next lesson/level. Offer encouragement.
+3. **Keyboard Game (Optional):** Quick "find the key" game without looking (e.g., "Find P," "Find Shift").
 
-  - **Activity:**
+### Reflection
 
-    1.  **Posture Check:** Review good typing posture (sit tall, feet flat, wrists straight).
+- "Which keys are easiest/hardest for you right now?"
+- "Did you notice your accuracy improving?"
 
-    2.  **Typing Practice (15-20 min):** Log in to [<u>TypingClub</u>](https://www.typingclub.com/) or [<u>BBC Dance Mat Typing</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr). Work through next lesson/level. Offer encouragement.
+---
 
-    3.  **Keyboard Game (Optional):** Quick "find the key" game without looking (e.g., "Find P," "Find Shift").
+## Guided Session 2: Email Essentials
 
-  - **Reflection (1-2 min):** Ask: "Which keys are easiest/hardest for you right now?" "Did you notice your accuracy improving?"
+> **Learning Objectives:** Identify email interface parts (To, Subject, Body, Send); understand purpose; compose simple, polite email (greeting/closing); understand basic email safety (known people, no strange links/attachments, tell adult if weird).
 
-- **Guided Session 2: Email Essentials**
+### Activities
 
-  - **LO:** Identify email interface parts (To, Subject, Body, Send); understand purpose; compose simple, polite email (greeting/closing); understand basic email safety (known people, no strange links/attachments, tell adult if weird).
+1. **Email Purpose:** Discuss email use (messages, pictures fast). Compare to letters.
+2. **Interface Tour (Simulated/Supervised):** Use WordPad draft or supervised email account. Point out 'To' (address), 'Subject' (title), 'Body' (message). Show 'Send' button (emphasize not clicking without permission).
+3. **Compose Practice Email:** Draft simple email to family/pretend:
+   - **To:** Type/select address (supervised).
+   - **Subject:** Write short title ("Hello!", "My Scratch Project"). Explain good subjects help receiver.
+   - **Body:** Start with greeting ("Hi Grandma,"). Write 1–2 simple sentences ("I learned email today. I practiced typing."). Add closing ("From,", "Love,"), then name. Review politeness.
+4. **Email Safety Discussion:** Ask: "Who should we email?" (Known/trusted people). "What if you get email from unknown person?" (Don't open, tell adult). "What if email asks for password/address?" (Never tell, tell adult). Explain not clicking links/opening attachments unless sure. Reinforce: **"When in Doubt, Talk It Out!"**
 
-  - **Activity:**
+### Reflection
 
-    1.  **Email Purpose:** Discuss email use (messages, pictures fast). Compare to letters.
+- "What are the three main parts of writing an email?"
+- "What's one important safety rule for email?"
 
-    2.  **Interface Tour (Simulated/Supervised):** Use WordPad draft or supervised email account. Point out 'To' (address), 'Subject' (title), 'Body' (message). Show 'Send' button (emphasize not clicking without permission).
+---
 
-    3.  **Compose Practice Email:** Draft simple email to family/pretend:
+## Independent Session: "Typing & Telling"
 
-        - **To:** Type/select address (supervised).
+**Instruction:** "First, practice typing for 10 minutes using our typing game ([TypingClub](https://www.typingclub.com/) or [BBC Dance Mat](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)). Try to beat your last score or finish a new lesson! After typing, open Notepad (built-in) and write one sentence telling me something you learned or practiced in the typing game today (like 'I practiced the E key' or 'I got 3 stars')."
 
-        - **Subject:** Write short title ("Hello!", "My Scratch Project"). Explain good subjects help receiver.
+**Skills Reinforced:** Typing practice, recalling information, writing a simple sentence using Notepad.
 
-        - **Body:** Start with greeting ("Hi Grandma,"). Write 1-2 simple sentences ("I learned email today. I practiced typing."). Add closing ("From,", "Love,"), then name. Review politeness.
-
-    4.  **Email Safety Discussion:** Ask: "Who should we email?" (Known/trusted people). "What if you get email from unknown person?" (Don't open, tell adult). "What if email asks for password/address?" (Never tell, tell adult). Explain not clicking links/opening attachments unless sure. Reinforce: **"When in Doubt, Talk It Out!"**
-
-  - **Reflection (1-2 min):** Ask: "What are the three main parts of writing an email?" "What's one important safety rule for email?"
-
-- **Independent Session (20 min): "Typing & Telling"**
-
-  - **Instruction:** "First, practice typing for 10 minutes using our typing game ([<u>TypingClub</u>](https://www.typingclub.com/) or [<u>BBC Dance Mat</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)). Try to beat your last score or finish a new lesson! After typing, open Notepad (built-in) and write one sentence telling me something you learned or practiced in the typing game today (like 'I practiced the E key' or 'I got 3 stars')."
-
-  - **Skills Reinforced:** Typing practice, recalling information, writing a simple sentence using Notepad.
-
-  - **Setup:** Access to typing game, Notepad, visual timer.
+**Setup:** Access to typing game, Notepad, visual timer.
 

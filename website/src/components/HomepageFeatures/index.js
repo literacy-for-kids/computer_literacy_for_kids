@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Internet Safety First',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    emoji: '🛡️',
     description: (
       <>
         Start with essential digital citizenship and internet safety skills.
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Hands-On Learning',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    emoji: '🛠️',
     description: (
       <>
         Engage with practical activities including file management, creative tools,
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Future-Ready Skills',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    emoji: '🚀',
     description: (
       <>
         Build foundation skills in AI awareness, data analysis, and project management
@@ -35,11 +35,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({emoji, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <span className={styles.featureEmoji} role="img">{emoji}</span>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

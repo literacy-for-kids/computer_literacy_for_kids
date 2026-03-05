@@ -6,25 +6,128 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #4a90d9;
+  --ifm-color-primary-dark: #3580d2;
+  --ifm-color-primary-darker: #2d78cd;
+  --ifm-color-primary-darkest: #2563a9;
+  --ifm-color-primary-light: #5fa0e0;
+  --ifm-color-primary-lighter: #67a6e2;
+  --ifm-color-primary-lightest: #8cbdea;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-heading-font-weight: 700;
+  --ifm-font-size-base: 16px;
+  --ifm-line-height-base: 1.75;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #6db3f2;
+  --ifm-color-primary-dark: #4ea1ef;
+  --ifm-color-primary-darker: #3e98ed;
+  --ifm-color-primary-darkest: #1580e8;
+  --ifm-color-primary-light: #8cc5f5;
+  --ifm-color-primary-lighter: #9ccdf7;
+  --ifm-color-primary-lightest: #cbe6fb;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Better content width for readability */
+.markdown {
+  max-width: 900px;
+}
+
+/* Subtle horizontal rules between sections */
+article .markdown hr {
+  border: none;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  margin: 2.5rem 0 1.5rem;
+}
+
+/* Session headings (h2) get extra top spacing */
+article .markdown h2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Better spacing for nested content */
+article .markdown h3 {
+  margin-top: 1.5rem;
+}
+
+/* Style ordered lists (activity steps) with more breathing room */
+article .markdown ol > li {
+  margin-bottom: 0.75rem;
+}
+
+/* Admonition tweaks for curriculum use */
+.alert {
+  margin-bottom: 1.25rem;
+}
+
+/* Consecutive admonitions should be tighter */
+.alert + .alert {
+  margin-top: -0.25rem;
+}
+
+/* Sidebar category descriptions */
+.menu__list-item--collapsed .menu__link--sublist::after {
+  transform: rotate(-90deg);
+}
+
+/* Make the doc page sidebar labels more readable */
+.menu__link {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* Blockquote styling for learning objectives */
+article .markdown blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  background: var(--ifm-color-primary-lightest);
+  padding: 1rem 1.25rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1rem 0;
+}
+
+[data-theme='dark'] article .markdown blockquote {
+  background: rgba(109, 179, 242, 0.1);
+}
+
+/* Table styling improvements */
+article .markdown table {
+  display: table;
+  width: 100%;
+}
+
+article .markdown table th {
+  background: var(--ifm-color-primary-lightest);
+}
+
+[data-theme='dark'] article .markdown table th {
+  background: rgba(109, 179, 242, 0.15);
+}
+
+/* Independent session section — give it a distinct look */
+article .markdown h2:last-of-type ~ p {
+  line-height: 1.8;
+}
+
+/* Unordered list items in reflections — more spacing */
+article .markdown h3 + ul > li {
+  margin-bottom: 0.5rem;
+}
+
+/* Improve pagination buttons */
+.pagination-nav__link {
+  border-radius: 8px;
+}
+
+/* TOC right sidebar — tighter and cleaner */
+.table-of-contents {
+  font-size: 0.85rem;
+}
+
+.table-of-contents li {
+  margin: 0.25rem 0;
 }
