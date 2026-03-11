@@ -1,4 +1,4 @@
-﻿---
+---
 sidebar_position: 4
 sidebar_label: "Week 4: Keyboard Ninja Training"
 title: "Week 4: Keyboard Ninja Training"
@@ -29,8 +29,23 @@ Learning to type comfortably will make everything else in this course easier —
 
 ---
 
-## Teacher Preparation
 
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
+
+## Teacher Preparation
 :::info Before You Begin
 - Ensure the keyboard is comfortable and easy to reach.
 - Bookmark a beginner typing site such as:
@@ -51,11 +66,9 @@ Keep it playful and relaxed.
 
 ---
 
-# Guided Session 1  
-## Meeting the Keyboard
-
-### Learning Goal
-
+## Guided Session 1
+### Meeting the Keyboard
+#### Learning Goal
 The student understands:
 
 - the keyboard is used to type words and commands
@@ -64,8 +77,7 @@ The student understands:
 
 ---
 
-### Activities
-
+#### Activities
 **1. Keyboard Exploration**
 
 Ask the student to simply **look at the keyboard**.
@@ -133,19 +145,16 @@ Do not worry about perfection — this is just familiarity.
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “What are some keys you discovered today?”
 - “What happens when you press Enter?”
 - “Why do you think the keyboard has so many keys?”
 
 ---
 
-# Guided Session 2  
-## Typing Practice Adventure
-
-### Learning Goal
-
+## Guided Session 2
+### Typing Practice Adventure
+#### Learning Goal
 The student begins developing:
 
 - typing coordination
@@ -154,8 +163,7 @@ The student begins developing:
 
 ---
 
-### Activities
-
+#### Activities
 **1. Try a Typing Game**
 
 Open one beginner lesson on:
@@ -212,19 +220,16 @@ My Projects → Stories
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “Which keys were easiest to find?”
 - “Which keys were hardest?”
 - “Why do you think typing is useful when using a computer?”
 
 ---
 
-# Independent Session  
-## Ninja Practice
-
-### Instruction
-
+## Independent Session
+### Ninja Practice
+#### Instruction
 Choose one typing activity to practice for about **20–30 minutes**.
 
 You can:
@@ -245,8 +250,7 @@ Every time you practice typing, your fingers get **faster and smarter**.
 
 ---
 
-### Skills Reinforced
-
+#### Skills Reinforced
 - keyboard familiarity  
 - typing accuracy  
 - correcting mistakes  
@@ -254,8 +258,7 @@ Every time you practice typing, your fingers get **faster and smarter**.
 
 ---
 
-### Setup
-
+#### Setup
 - typing practice website open  
 or  
 - Notepad available  

@@ -26,6 +26,22 @@ Just like keeping treasures in a chest or toys in labeled bins, computers use **
 
 ---
 
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
+
 ## Teacher Preparation
 
 :::info Before You Begin
@@ -51,11 +67,9 @@ This idea will carry through the entire curriculum.
 
 ---
 
-# Guided Session 1  
-## What Is a File?
-
-### Learning Goal
-
+## Guided Session 1
+### What Is a File?
+#### Learning Goal
 The student understands that:
 
 - things created on a computer become **files**
@@ -64,8 +78,7 @@ The student understands that:
 
 ---
 
-### Activities
-
+#### Activities
 **1. The Treasure Analogy**
 
 Ask the student:
@@ -135,19 +148,16 @@ This is one of the most powerful things computers can do.
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “What is a file?”
 - “Why do you think saving files is useful?”
 - “What kinds of things could we save on a computer?”
 
 ---
 
-# Guided Session 2  
-## The Folder System
-
-### Learning Goal
-
+## Guided Session 2
+### The Folder System
+#### Learning Goal
 The student understands that:
 
 - folders organize files
@@ -156,8 +166,7 @@ The student understands that:
 
 ---
 
-### Activities
-
+#### Activities
 **1. Real-World Analogy**
 
 Ask the student:
@@ -238,19 +247,16 @@ Open File Explorer and confirm the drawing appears there.
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “Why do computers use folders?”
 - “How do folders help us find things later?”
 - “What kinds of things do you want to save in your project folder?”
 
 ---
 
-# Independent Session  
-## Build Your Treasure Chest
-
-### Instruction
-
+## Independent Session
+### Build Your Treasure Chest
+#### Instruction
 Open your **My Projects** folder.
 
 Create **two new folders** for things you care about.
@@ -276,8 +282,7 @@ Your digital treasure chest is starting to grow.
 
 ---
 
-### Skills Reinforced
-
+#### Skills Reinforced
 - creating folders
 - saving files
 - understanding file persistence
@@ -286,8 +291,7 @@ Your digital treasure chest is starting to grow.
 
 ---
 
-### Setup
-
+#### Setup
 - File Explorer open
 - Paint available
 - Notepad available

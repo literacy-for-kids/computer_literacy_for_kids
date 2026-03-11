@@ -1,88 +1,277 @@
 ﻿---
 sidebar_position: 14
-sidebar_label: "Week 14: Video Ventures"
-title: "Week 14: Movie Maker Moments - Video Ventures"
-description: "Explore basic video editing by sequencing images, adding text overlays and music, and exporting a finished video."
+sidebar_label: "Week 14: AI Creative Partner"
+title: "Week 14: AI as a Creative Partner"
+description: "Learn how to collaborate with AI tools to generate ideas, improve projects, and explore creativity while staying in control of the thinking."
 ---
 
-# Week 14: Movie Maker Moments - Video Ventures
+# Week 14: AI as a Creative Partner  
+*Using AI as a Creative Tool*
+
+Last week we discovered something important:
+
+AI can generate ideas.
+
+It can:
+
+- write stories
+- describe inventions
+- suggest characters
+- help answer questions
+- help brainstorm new ideas
+
+But AI works best when it is used the right way.
+
+The big idea this week:
+
+**AI works best as a creative partner, not a replacement for thinking.**
+
+When people use AI effectively, they:
+
+- ask clear questions
+- experiment with different prompts
+- improve the ideas the AI gives them
+- combine their own creativity with the AI’s suggestions
+
+This week you will learn how to **collaborate with AI**.
 
 ---
+
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
 
 ## Teacher Preparation
-
 :::info Before You Begin
-- Review Week 14 LOs and Activities.
-- Ensure [Microsoft Clipchamp](https://app.clipchamp.com/) accessible (built-in app or web; may need free Microsoft account). Familiarize with import, timeline, text tool, stock audio, export.
-- Ensure images available for importing (Paint 3D drawings, saved pictures).
-- Have typing practice site ready.
-- Prepare/print visual instruction card.
-- Set up visual timer.
+- Ensure access to a generative AI tool.
+- Prepare a few example prompts that demonstrate how prompts change results.
+- Have drawing and writing tools available.
+- Confirm the **My Projects** folder exists.
+- Set up a visual timer.
 :::
 
-:::tip Flexibility Note
-If Clipchamp seems complex, focus just on sequencing images and adding music. If the child is enjoying it, explore simple video effects or transitions between clips.
-:::
+:::tip Teaching Mindset
+Focus on **creative collaboration**.
 
-:::note Final Project Connection
-"Making videos like this is another great way you could choose to tell your final 'Digital Creation Story'!"
-:::
+Students should feel like:
 
-:::tip Storytelling Prompt
-Encourage arranging the imported images in an order that makes logical or narrative sense, like steps in a process or scenes in a story.
+> “AI can help me explore ideas, but I am still the creator.”
 :::
 
 ---
 
-## Guided Session 1: Lights, Camera, Clipchamp!
+## Guided Session 1
+### Asking Better Questions
+#### Learning Goal
+The student understands that:
 
-> **Learning Objectives:** Understand video editing concept (sequencing); navigate Clipchamp interface (Media, Preview, Timeline); import images; understand timeline; place/arrange/adjust duration/reorder clips; preview sequence.
-
-### Activities
-
-1. **Introduce Video Editing:** Explain: "Putting pictures/clips together in order, adding text/music to make a movie."
-2. **Clipchamp Tour:** Open Clipchamp. New project. Show Media library, Preview window, Timeline (bottom bar, reads left-right). Show playhead.
-3. **Import Media:** Click 'Import media'. Navigate to saved drawings/pictures folder. Select 3–4 images related to interests. Click 'Open'. Images appear in Media library.
-4. **Add to Timeline:** Drag images one by one from library down onto timeline track in desired order.
-5. **Preview & Adjust Duration:** Click 'Play' below preview. Note default duration. Hover over clip end on timeline → cursor changes → click & drag to change duration (aim 3–5 sec).
-6. **Reorder Clips:** Click & drag whole clip on timeline to change position.
-7. **Save Project:** Show how to name project (top of screen). Explain auto-save (web).
-8. **Typing Practice (5–10 min):** Continue typing lessons.
-
-### Reflection
-
-- "What does the timeline show us?"
-- "How do you change how long a picture stays on screen?"
+- AI responses depend on the question being asked
+- clearer prompts produce better results
+- experimenting with prompts can change the outcome
 
 ---
 
-## Guided Session 2: Sound & Style
+#### Activities
+**1. Try a Simple Prompt**
 
-> **Learning Objectives:** Add simple text overlays; adjust basic text appearance; adjust text duration; add background music from library; adjust audio volume; export finished video file (MP4).
+Ask the AI something simple such as:
 
-### Activities
 
-1. **Add Text:** Find 'Text' (sidebar). Choose simple style. Drag to timeline *above* image track. Click text element, edit content (options panel or preview window). Add title at start. Add caption to another image.
-2. **Adjust Text:** Select text element. Explore options panel (font, size, color — keep simple). Drag ends of text clip on timeline to control duration.
-3. **Add Music:** Find 'Music & SFX' / 'Content library → Audio' (sidebar). Browse categories. Preview tracks. Drag liked track to timeline *below* images.
-4. **Adjust Music:** Drag end of music clip to match video length. Select music track, find 'Audio' panel, lower volume slider (e.g., 10–20%).
-5. **Preview:** Play whole video with text & music.
-6. **Export Video:** Click 'Export' (top right). Choose quality (720p fine). Click Export. Wait.
-7. **View Exported File:** Save exported MP4 file (to 'My Projects' or 'Downloads'). Play file using computer's media player. Show final result.
+Tell me about dogs.
 
-### Reflection
 
-- "How did we add words to the video?"
-- "Why did we turn the music volume down a bit?"
-- "What does 'Export' do?"
+Read the response together.
+
+Explain that this prompt is **very general**.
 
 ---
 
-## Independent Session: "Picture Movie"
+**2. Improve the Prompt**
 
-**Instruction:** "Make tiny movie! Start new video in [Clipchamp](https://app.clipchamp.com/). Find 3–4 saved pictures (drawings/photos). Import them. Drag to timeline in order telling tiny story (e.g., character wakes up, eats breakfast, goes outside). Try making each picture show for 3–4 seconds."
+Try a more detailed prompt:
 
-**Skills Reinforced:** Basic video editing (importing, sequencing, adjusting duration).
 
-**Setup:** Clipchamp access, folder with saved images, visual timer.
+Tell me three interesting facts about dogs that a kid might like.
 
+
+Compare the responses.
+
+Ask the student:
+
+- Which answer was more interesting?
+- Why do you think the second prompt worked better?
+
+Explain that the instructions we give AI are called **prompts**.
+
+Better prompts help AI produce better results.
+
+---
+
+**3. Prompt Experiment**
+
+Try a creative prompt together.
+
+Example:
+
+
+Invent a new kind of robot that helps animals.
+
+
+Then modify the prompt:
+
+
+Invent a robot that helps dogs find lost toys.
+
+
+Observe how the results change.
+
+Explain that small changes in prompts can produce **very different ideas**.
+
+---
+
+#### Reflection Questions
+- “What is a prompt?”
+- “Why do better prompts produce better results?”
+- “What new idea did the AI create?”
+
+---
+
+## Guided Session 2
+### Improving AI Ideas
+#### Learning Goal
+The student understands that:
+
+- AI-generated ideas can be improved
+- creativity often happens through **iteration**
+- humans guide the creative process
+
+---
+
+#### Activities
+**1. Generate an Idea**
+
+Ask the AI to generate something creative.
+
+Examples:
+
+
+Invent a new animal that lives in space.
+
+
+or
+
+
+Describe a robot that helps take care of dogs.
+
+
+Read the idea together.
+
+---
+
+**2. Improve the Idea**
+
+Ask the student questions such as:
+
+- What do you like about this idea?
+- What would you change?
+- What could make it more interesting?
+
+Write down improvements.
+
+Then ask the AI:
+
+
+Make the robot faster and able to fly.
+
+
+or
+
+
+Add special abilities to the space animal.
+
+
+Observe how the idea evolves.
+
+Explain that creators often **refine ideas step-by-step**.
+
+---
+
+**3. Turn the Idea into Something Creative**
+
+Ask the student to turn the improved idea into something new.
+
+They can choose to:
+
+- draw the invention
+- write a short story
+- design a character
+- describe how it works
+
+Save the result in:
+
+
+My Projects → Experiments
+
+
+---
+
+#### Reflection Questions
+- “What part of the AI idea did you change?”
+- “How did your changes improve the idea?”
+- “Why do creators improve ideas instead of using the first version?”
+
+---
+
+## Independent Session
+### AI Collaboration Lab
+#### Instruction
+Use AI to help you explore a creative idea.
+
+Try prompts like:
+
+- invent a new animal
+- design a robot helper
+- create a story idea
+- imagine a new invention
+
+Then choose one idea and **make it your own**.
+
+You can:
+
+- draw the idea
+- write a short description
+- add your own improvements
+
+Save your creation in:
+
+
+My Projects → Experiments
+
+
+---
+
+#### Skills Reinforced
+- writing prompts
+- evaluating AI responses
+- creative iteration
+- combining AI ideas with personal creativity
+
+---
+
+#### Setup
+- AI tool open
+- drawing or writing tool available
+- access to **My Projects → Experiments**
+- visual timer

@@ -1,18 +1,79 @@
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+  padding: 4rem 0 3rem;
   position: relative;
   overflow: hidden;
+  background:
+    radial-gradient(circle at top left, rgba(255, 255, 255, 0.2), transparent 30%),
+    linear-gradient(135deg, #2563a9 0%, #4a90d9 48%, #8cbdea 100%);
+}
+
+.heroContent {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(300px, 0.95fr);
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.heroCopy {
+  text-align: left;
+}
+
+.kicker {
+  display: inline-block;
+  margin: 0 0 1rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.18);
+  color: #f6fbff;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.heroMedia {
+  display: flex;
+  justify-content: center;
+}
+
+.heroImage {
+  display: block;
+  width: min(100%, 560px);
+  height: auto;
+  border-radius: 22px;
+  box-shadow: 0 22px 60px rgba(22, 48, 87, 0.35);
+  background: rgba(255, 255, 255, 0.12);
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 2rem 0 2.5rem;
+  }
+
+  .heroContent {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+
+  .heroCopy {
+    text-align: center;
+  }
+
+  .heroMedia {
+    order: -1;
   }
 }
 
 .buttons {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 996px) {
+  .buttons {
+    justify-content: center;
+  }
 }

@@ -1,84 +1,250 @@
 ﻿---
 sidebar_position: 10
-sidebar_label: "Week 10: 3D Print Prep"
-title: "Week 10: From Digital to Reality — 3D Print Prep"
-description: "Students explore 3D model repositories, learn slicer software basics, and begin their first supervised 3D print."
+sidebar_label: "Week 10: Build Your First Program"
+title: "Week 10: Build Your First Program"
+description: "Use Scratch to create simple programs by connecting blocks of instructions."
 ---
 
-# Week 10: From Digital to Reality — 3D Print Prep
+# Week 10: Build Your First Program  
+*Scratch or Block-Based Programming*
+
+Last week we learned that computers follow **instructions step by step**.
+
+This week we begin writing those instructions **for real**.
+
+Instead of typing complicated code, we will use **Scratch**, a visual programming tool where programs are built by snapping blocks together.
+
+Each block represents an instruction, like:
+
+- move
+- turn
+- say something
+- repeat an action
+
+The big idea this week:
+
+**Programs are built from instructions connected in the right order.**
 
 ---
+
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
 
 ## Teacher Preparation
-
 :::info Before You Begin
-- Review Week 10 LOs and Activities.
-- Ensure browser access to [Printables.com](https://www.printables.com/) and/or [Thingiverse](https://www.thingiverse.com/).
-- Have your specific slicer software ([Cura](https://ultimaker.com/software/ultimaker-cura/), [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/), etc.) installed and configured for your 3D printer. Refresh understanding of loading STL, basic manipulation, slicing, previewing.
-- Ensure the 3D printer is operational (filament loaded, bed clear, level). Choose a quick-printing, simple STL beforehand as a backup.
-- Have the typing practice site ready.
-- Prepare/print the visual instruction card for the independent session.
-- Set up the visual timer.
+- Ensure access to **Scratch**:
+  - https://scratch.mit.edu
+- Log in or open the **Scratch editor** in advance to avoid delays.
+- Confirm the student can use the mouse comfortably for dragging blocks.
+- Prepare to demonstrate:
+  - dragging blocks
+  - connecting blocks
+  - running the program
+- Set up a visual timer.
 :::
 
-:::tip Flexibility Note
-Spend more time browsing models if the child enjoys it. If slicer software seems too complex, focus on the concepts (slicing like bread) and just demonstrate the preview, handling most operations yourself initially. The goal is understanding the process, not mastering the slicer yet.
-:::
+:::tip Teaching Mindset
+Focus on **exploration**, not mastery.
 
-:::caution Safety Note
-Emphasize that 3D printers have hot parts and moving components and must only be operated with close adult supervision.
+Scratch is a sandbox. The goal is simply for the student to discover:
+
+> “I can control what happens on the screen.”
 :::
 
 ---
 
-## Guided Session 1: Finding Fantastic Prints
+## Guided Session 1
+### Meet Scratch
+#### Learning Goal
+The student understands that:
 
-> **Learning Objectives:** Navigate model websites ([Printables.com](https://www.printables.com/), [Thingiverse](https://www.thingiverse.com/)); search for models; understand STL files; assess basic printability; download simple STL file.
-
-### Activities
-
-1. **Explore Model Sites:** Open [Printables.com](https://www.printables.com/). Explain as online library for 3D models shared by people for printing. Browse main page.
-2. **Search for Models:** Use search bar for interests (e.g., "dinosaur," "car," "castle," "animal"). Browse results together.
-3. **Analyze Models:** Click interesting models. Look at pictures. Read description briefly. Ask: "Look easy/hard to print?" Point out overhangs/thin parts. Aim for simple/solid first print.
-4. **Download STL:** Select simple model. Find download button/Files tab. Download ".stl" file. Note save location ('Downloads'). Explain STL = shape recipe.
-5. **Typing Practice (5–10 min):** Continue typing lessons.
-
-### Reflection
-
-- "What kind of file do we download for 3D printing?"
-- "What makes a model look 'easy' to print?"
+- Scratch programs are built with **blocks**
+- blocks represent instructions
+- blocks can be **connected to create sequences**
 
 ---
 
-## Guided Session 2: Slicing & Printing Magic!
+#### Activities
+**1. Tour the Scratch Interface**
 
-> **Learning Objectives:** Understand slicer purpose (STL → G-code layers); Open STL in slicer; Use basic move/scale/rotate; Initiate 'Slice' with defaults; Use preview function; (Supervised) Start small 3D print.
+Open the Scratch editor.
 
-### Activities
+Point out the main areas:
 
-1. **Introduce Slicer:** Open your slicer (Cura/PrusaSlicer). Explain: "This software takes the STL shape, slices it into thin layers (like bread), figures out the nozzle path for each layer, and saves instructions (G-code) our printer understands."
-2. **Load STL:** Use 'Open File'/'Import' to load downloaded STL. Model appears on virtual bed.
-3. **Basic Manipulation:** Show tools: Move (center model), Scale (resize if needed), Rotate (place flattest side down).
-4. **Slice & Preview:** Select basic settings (PLA material, 0.2mm layer). Click 'Slice'. Wait. Find 'Preview'/'Layer View'. Use slider to move through layers, showing build process. Point out nozzle path lines.
-5. **Start Print (Supervised):**
-   - Save G-code: Click 'Save/Export G-code'. Save to printer's SD card/send via network.
-   - Prepare Printer: **Adult supervision crucial.** Ensure bed clean, filament loaded. Explain printer parts briefly (bed, nozzle, filament). Emphasize **hot parts** and moving pieces — **do not touch** while running.
-   - Load & Print: Insert SD card/select file on printer. Start print *together*.
-   - Watch First Layers: Watch first layers adhere. Explain slow process, needs supervision. Reiterate safety.
+- **Stage** – where the character appears
+- **Sprite** – the character that can move
+- **Block Palette** – instructions we can use
+- **Script Area** – where we build programs
 
-### Reflection
+Explain that the character is called a **sprite**.
 
-- "What does the slicer software do to the 3D model?"
-- "What did the layer preview show us?"
-- "What's an important safety rule around the 3D printer?"
+Sprites follow the instructions we build.
 
 ---
 
-## Independent Session: "Printable Wishlist"
+**2. First Program**
 
-**Instruction:** "Dream about future prints! Go back to [Printables.com](https://www.printables.com/) or [Thingiverse](https://www.thingiverse.com/). Search for things you like (dinosaurs, cars, characters, useful things). Find three cool models you might like to print someday. Open Notepad (built-in). Try to copy the web address (link) for each model and paste it into Notepad, or just write down their names."
+Drag these blocks into the script area:
 
-**Skills Reinforced:** Website navigation, searching, identifying desired items, copy/paste (optional practice), saving info in text file.
 
-**Setup:** Access to model websites, Notepad, visual timer.
+when green flag clicked
+move 10 steps
 
+
+Click the green flag.
+
+Observe what happens.
+
+Explain:
+
+The sprite moved because the program gave it instructions.
+
+---
+
+**3. Build a Small Sequence**
+
+Add more blocks:
+
+
+move 10 steps
+turn 15 degrees
+move 10 steps
+
+
+Run the program again.
+
+Ask the student:
+
+> “What do you think will happen next?”
+
+Let them predict before running it.
+
+Explain that this is called a **sequence**.
+
+---
+
+#### Reflection Questions
+- “What is a sprite?”
+- “What do Scratch blocks represent?”
+- “What happened when we added more blocks?”
+
+---
+
+## Guided Session 2
+### Making the Sprite Do Something Fun
+#### Learning Goal
+The student understands that:
+
+- programs can control movement and behavior
+- instructions can create patterns
+- coding allows us to create interactive experiences
+
+---
+
+#### Activities
+**1. Create a Movement Pattern**
+
+Try a simple pattern such as:
+
+
+when green flag clicked
+repeat 10
+move 20 steps
+turn 36 degrees
+
+
+Run the program and watch the sprite move in a pattern.
+
+Ask the student:
+
+> “Why do you think the sprite made that shape?”
+
+Explain that repeating instructions creates **patterns**.
+
+---
+
+**2. Make the Sprite Talk**
+
+Add a block like:
+
+
+say "Hello!" for 2 seconds
+
+
+Run the program again.
+
+Explain that code can control **actions and messages**.
+
+---
+
+**3. Let the Student Experiment**
+
+Encourage the student to try things like:
+
+- changing numbers
+- adding movement blocks
+- adding a second sprite
+- making the sprite say something silly
+
+This is where curiosity matters most.
+
+---
+
+#### Reflection Questions
+- “What did your sprite do?”
+- “What happens if we change the numbers in the blocks?”
+- “What new idea did you try?”
+
+---
+
+## Independent Session
+### Sprite Experiment Lab
+#### Instruction
+Open Scratch and build a small program.
+
+Try to make your sprite do **something interesting**.
+
+Ideas to try:
+
+- make the sprite move in a pattern  
+- make the sprite say something funny  
+- create a simple animation  
+- make the sprite move across the screen
+
+Experiment with different blocks and see what happens.
+
+When you finish, give your project a name.
+
+Examples:
+
+- *Dancing Cat*
+- *Funny Robot*
+- *Spinning Rocket*
+
+---
+
+#### Skills Reinforced
+- sequencing instructions
+- experimenting with code blocks
+- understanding cause and effect
+- creative exploration in programming
+
+---
+
+#### Setup
+- Scratch editor open  
+- mouse ready for dragging blocks  
+- visual timer

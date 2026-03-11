@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 
 ## 📚 Curriculum Content
 
-The curriculum is organized into weekly lessons located in the `docs/` folder:
+The curriculum is organized into weekly lessons located in `website/docs`.
 
 - **Week 1-4**: Internet Safety, File Management, and Digital Tools
 - **Week 5-6**: Introduction to Programming with Scratch
@@ -59,7 +59,7 @@ The main site configuration is in `docusaurus.config.js`. Key settings include:
 
 ### Sidebar Configuration
 
-The documentation sidebar is automatically generated from the file structure in the `docs/` folder. Configuration is in `sidebars.js`.
+The documentation sidebar is generated from the files in `website/docs`. Configuration is in `sidebars.js`.
 
 ## 🚀 Deployment
 
@@ -114,7 +114,7 @@ website/
 
 ### Adding New Curriculum Content
 
-1. Add new `.md` files to the `docs/` folder
+1. Add new `.md` files to `website/docs`
 2. Follow the naming convention: `weekXX-description.md`
 3. The sidebar will automatically include new files
 

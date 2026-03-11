@@ -37,8 +37,23 @@ This week the student will start thinking of the computer as a **tool for expres
 
 ---
 
-## Teacher Preparation
 
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
+
+## Teacher Preparation
 :::info Before You Begin
 - Ensure a simple writing tool is available:
   - Notepad
@@ -65,11 +80,9 @@ The goal is helping the student realize:
 
 ---
 
-# Guided Session 1  
-## Turning Ideas into Words
-
-### Learning Goal
-
+## Guided Session 1
+### Turning Ideas into Words
+#### Learning Goal
 The student understands that:
 
 - writing on a computer is a way to share ideas
@@ -78,8 +91,7 @@ The student understands that:
 
 ---
 
-### Activities
-
+#### Activities
 **1. What Do People Write on Computers?**
 
 Ask the student:
@@ -134,19 +146,16 @@ Focus on ideas rather than correctness.
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “What did you choose to write about?”
 - “What happens when you move the cursor?”
 - “Why might writing on a computer be easier than writing on paper?”
 
 ---
 
-# Guided Session 2  
-## Editing and Improving Writing
-
-### Learning Goal
-
+## Guided Session 2
+### Editing and Improving Writing
+#### Learning Goal
 The student understands that:
 
 - text can be edited and improved
@@ -155,15 +164,15 @@ The student understands that:
 
 ---
 
-### Activities
-
+#### Activities
 **1. Fixing Mistakes**
 
 Ask the student to intentionally type a mistake.
 
 Example:
 
-my favrite animal is a dog
+
+My favrite animal is a dog
 
 
 Then demonstrate:
@@ -211,29 +220,28 @@ Possible prompts:
 
 Then save the document in:
 
+
 My Projects → Stories
 
 
 Give the file a name like:
+
 
 My First Story
 
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “What does selecting text allow you to do?”
 - “Why is it helpful that we can edit writing on a computer?”
 - “What new sentence did you add?”
 
 ---
 
-# Independent Session  
-## Write Something Fun
-
-### Instruction
-
+## Independent Session
+### Write Something Fun
+#### Instruction
 Open your writing app and create a short piece of writing.
 
 You can choose one of these ideas:
@@ -249,13 +257,13 @@ Try to include:
 
 After you finish, save your writing in:
 
+
 My Projects → Stories
 
 
 ---
 
-### Skills Reinforced
-
+#### Skills Reinforced
 - typing practice  
 - cursor control  
 - editing mistakes  
@@ -264,8 +272,7 @@ My Projects → Stories
 
 ---
 
-### Setup
-
+#### Setup
 - Notepad, WordPad, or Google Docs open  
 - access to the **My Projects** folder  
 - visual timer

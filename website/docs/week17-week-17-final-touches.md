@@ -1,93 +1,270 @@
 ﻿---
 sidebar_position: 17
-sidebar_label: "Week 17: Final Frontier"
-title: "Week 17: Final Frontier - Project Development"
-description: "Students assemble their Digital Creation Story by importing assets, arranging sequences, and refining their projects for polish and flow."
+sidebar_label: "Week 17: Final Touches"
+title: "Week 17: Final Touches"
+description: "Refine the final project, polish the details, and prepare to present it to others."
 ---
 
-# Week 17: Final Frontier - Project Development
+# Week 17: Final Touches  
+*Final Project Development — Phase 3*
+
+Over the past two weeks you have been building your **final project**.
+
+You have:
+
+- chosen an idea
+- built the first version
+- improved it
+- added new features
+
+Now we enter the final stage of the creative process:
+
+**Polishing and preparing to share your work.**
+
+The big idea this week:
+
+**Creators refine their work before sharing it.**
+
+Before people present a project, they often:
+
+- review their work
+- improve small details
+- test everything
+- explain how it works
+
+This week is about making your project **clear, complete, and ready to show**.
 
 ---
+
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
 
 ## Teacher Preparation
-
 :::info Before You Begin
-- Review Week 17 LOs and Activities.
-- Ensure access to main assembly tool (Clipchamp, Slides, Scratch) & project folder with assets.
-- Be ready to help troubleshoot basic integration issues (importing, arranging, simple code debug). Know how to take screenshots if using Tinkercad assets.
-- Have typing practice site ready.
-- Prepare/print visual instruction card.
-- Set up visual timer.
+- Ensure access to all tools the student has used for the project.
+- Confirm the **Final Project** folder exists:
+
+
+My Projects → Final Project
+
+
+- Prepare to help test and review the project.
+- Have paper or a whiteboard available to outline the presentation.
+- Set up a visual timer.
 :::
 
-:::tip Flexibility Note
-Assembly can be tricky. Focus on getting the main sequence together first, then refine. If one part is too difficult, simplify the story or find an alternative way using known skills. Encourage problem-solving but be ready to assist.
+:::tip Teaching Mindset
+Focus on **confidence and pride in the work**.
+
+The student should begin to feel:
+
+> “I built something interesting, and I can explain it.”
 :::
 
 ---
 
-## Guided Session 1: Assembling the Adventure
+## Guided Session 1
+### Reviewing the Project
+#### Learning Goal
+The student:
 
-> **Learning Objectives:** Open main project file; import/load created assets; begin arranging assets in sequence per outline; add initial text elements; identify/attempt basic problem-solving with guidance.
-
-### Activities
-
-1. **Open Main Tool & Project:** Launch assembly software (Clipchamp, Slides, Scratch). Open project file or start new.
-
-2. **Import Assets:** Use 'Import'/'Insert Image'/'Upload sprite' to bring in assets from project folder. *(For Tinkercad: Use Windows Snipping Tool/Snip & Sketch to capture images of design, save as PNG/JPG in project folder, then import).*
-
-3. **Arrange Sequence:** Put pieces together per outline:
-   - *Clipchamp:* Drag images/clips onto timeline in order.
-   - *Slides:* Create slides for story parts, insert images/text.
-   - *Scratch:* Build scenes (backdrops/sprites), code transitions/actions.
-
-4. **Add Text:** Add text overlays/captions (Clipchamp), story text (Slides), say blocks (Scratch).
-
-5. **Troubleshooting:** Work through issues together. "Image too small? Resize." "Code not working? Check blocks." "How put pic next to text?" Encourage thinking before giving solution. Explain fixing problems = normal part of creating.
-
-6. **Save Progress:** Save main project file often.
-
-7. **Typing Practice (5–10 min):** Continue typing lessons.
-
-### Reflection
-
-- "What was the trickiest part about putting the pieces together?"
-- "How did we solve [specific problem]?"
+- reviews the entire project
+- identifies any missing pieces
+- practices thinking like a creator evaluating their work
 
 ---
 
-## Guided Session 2: Refining the Journey
+#### Activities
+**1. Run or View the Entire Project**
 
-> **Learning Objectives:** Review assembled draft critically; identify areas for improvement (pacing, clarity, visuals, missing parts); implement refinements (timing, transitions, content); check overall story flow.
+Open the latest version of the project from:
 
-### Activities
 
-1. **Review Together:** Play/click through current project state.
+My Projects → Final Project
 
-2. **Identify Improvements:** Discuss: "Story make sense? Easy to follow?" "Pics on screen long enough?" (Clipchamp/Slides). "Animations smooth?" (Scratch). "Anything missing from outline?" "Title slide exciting?" Make short list of 1–3 things to adjust.
 
-3. **Work on Refinements:** Focus on implementing those 1–3 items:
-   - *Pacing:* Adjust clip duration (Clipchamp), slide timing/wait blocks (Slides/Scratch).
-   - *Transitions:* Add simple 'Fade'/'Slide' (Slides) or code scene changes (Scratch).
-   - *Clarity:* Add text caption, re-word story text.
-   - *Visuals:* Change background color, adjust image size, add simple decoration.
+Ask the student to walk through the project from beginning to end.
 
-4. **Check Pacing/Flow:** Play adjusted section again. Ask: "Look/feel better?"
+Examples:
 
-5. **Save:** Save updated project.
+- run the Scratch program
+- read the story
+- look through the drawings
+- review the design
 
-### Reflection
-
-- "What change did we make that improved the story the most?"
-- "Why is it important to review our work?"
+Encourage them to **explain what each part does**.
 
 ---
 
-## Independent Session: "Adding Polish"
+**2. Creator Review Questions**
 
-**Instruction:** "Make project even better! Open main story project file. Choose one small thing from our improvement list, or your own idea. Maybe: Add background color (Scratch)? Change title font (Slides)? Find one more pic (Kiddle first!) for video (Clipchamp)? Make transition smoother?"
+Ask the student to think about the project using these questions:
 
-**Skills Reinforced:** Project refinement, attention to detail, independent problem-solving (minor), using tools for specific adjustments.
 
-**Setup:** Access to main project file, list of potential improvements (optional), visual timer.
+What part works really well?
 
+Is anything confusing?
+
+Is anything missing?
+
+What would make the project even better?
+
+
+Write down the answers.
+
+This helps students practice **evaluating their own work**, which is an important skill for creators.
+
+---
+
+**3. Make a Small Improvement List**
+
+Based on the discussion, create a small improvement list.
+
+Example:
+
+
+Project Improvements
+
+• Add a background to the scene
+• Make the robot move faster
+• Fix spelling in the story
+• Add a final message at the end
+
+
+Explain that creators often focus on **small details at the end**.
+
+These details make the project feel complete.
+
+---
+
+#### Reflection Questions
+- “What part of the project are you most proud of?”
+- “What small improvement could make it better?”
+- “Why do creators review their work before sharing it?”
+
+---
+
+## Guided Session 2
+### Preparing to Present
+#### Learning Goal
+The student:
+
+- prepares to explain their project
+- practices describing how it works
+- develops confidence presenting creative work
+
+---
+
+#### Activities
+**1. Finish the Final Improvements**
+
+Work through the improvement list created earlier.
+
+Examples:
+
+- adjust drawings
+- fix wording
+- tweak Scratch movement
+- add an extra detail
+
+Explain that polishing these details helps make the project easier for others to understand.
+
+---
+
+**2. Create a Simple Presentation Plan**
+
+Explain that next week the student will **present their project**.
+
+Ask them to think about three things they will explain:
+
+
+What is your project about?
+
+How does it work?
+
+What was the most interesting part of building it?
+
+
+Write these answers down as a simple presentation outline.
+
+---
+
+**3. Practice Explaining the Project**
+
+Ask the student to pretend you are seeing the project for the first time.
+
+They should explain:
+
+- what the project is
+- what inspired the idea
+- what parts they created
+
+Encourage them to **walk through the project step-by-step**.
+
+Offer supportive feedback.
+
+---
+
+#### Reflection Questions
+- “What inspired your project idea?”
+- “What was the hardest part to build?”
+- “What do you want people to notice when they see your project?”
+
+---
+
+## Independent Session
+### Final Creator Time
+#### Instruction
+Spend time polishing the final version of your project.
+
+You can:
+
+- improve drawings
+- add finishing touches
+- test the project
+- prepare how you will explain it
+
+Ask yourself:
+
+- Does everything work the way I want?
+- Is there anything small I can improve?
+
+Save the final version inside:
+
+
+My Projects → Final Project
+
+
+Use a file name like:
+
+
+ProjectName_Final
+
+
+---
+
+#### Skills Reinforced
+- evaluating creative work
+- improving small details
+- organizing a presentation
+- explaining ideas clearly
+
+---
+
+#### Setup
+- project tools available
+- access to **My Projects → Final Project**
+- visual timer

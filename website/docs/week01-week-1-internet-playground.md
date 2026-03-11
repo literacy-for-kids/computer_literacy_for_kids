@@ -19,6 +19,22 @@ This week focuses on helping the student understand **how the internet works at 
 
 ---
 
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
+
 ## Teacher Preparation
 
 :::info Before You Begin
@@ -41,11 +57,9 @@ Instead help the student understand **why certain situations require caution or 
 
 ---
 
-# Guided Session 1  
-## The Internet Is Made of People
-
-### Learning Goal
-
+## Guided Session 1
+### The Internet Is Made of People
+#### Learning Goal
 The student understands that:
 
 - the internet connects people all over the world  
@@ -54,8 +68,7 @@ The student understands that:
 
 ---
 
-### Activities
-
+#### Activities
 **1. Draw the Internet Together**
 
 Ask:
@@ -63,6 +76,7 @@ Ask:
 > “What do you think the internet actually is?”
 
 Draw a simple diagram together:
+
 
 Person → computer → internet → other people
 
@@ -127,8 +141,7 @@ Explain that each page is **something someone made and shared**.
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 Ask open-ended questions:
 
 - “What do you think the internet is made of?”
@@ -138,11 +151,9 @@ Ask open-ended questions:
 
 ---
 
-# Guided Session 2  
-## Being a Smart Digital Explorer
-
-### Learning Goal
-
+## Guided Session 2
+### Being a Smart Digital Explorer
+#### Learning Goal
 The student begins developing **internal judgment** about:
 
 - personal information
@@ -151,13 +162,13 @@ The student begins developing **internal judgment** about:
 
 ---
 
-### Activities
-
+#### Activities
 **1. Public vs Private Information Game**
 
 Explain that some information is **okay to share** and some information should stay **private**.
 
 Draw two columns:
+
 
 Public Things | Private Things
 
@@ -232,19 +243,16 @@ This idea will return later in the course.
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “Why do some things stay private online?”
 - “What should you do if something online feels confusing or strange?”
 - “Why do you think websites show us more videos like the ones we watch?”
 
 ---
 
-# Independent Session  
-## Internet Explorer
-
-### Instruction
-
+## Independent Session
+### Internet Explorer
+#### Instruction
 Explore a kid-friendly website and find **one interesting thing**.
 
 You can:
@@ -260,8 +268,7 @@ After exploring, choose one thing to do:
 
 ---
 
-### Skills Reinforced
-
+#### Skills Reinforced
 - navigating websites
 - curiosity and exploration
 - recognizing that information comes from people
@@ -269,8 +276,7 @@ After exploring, choose one thing to do:
 
 ---
 
-### Setup
-
+#### Setup
 - open a safe bookmarked website
 - provide paper or a drawing tool
 - set a visual timer for ~30 minutes

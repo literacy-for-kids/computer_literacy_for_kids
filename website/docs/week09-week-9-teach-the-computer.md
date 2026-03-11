@@ -1,78 +1,262 @@
 ﻿---
 sidebar_position: 9
-sidebar_label: "Week 9: CAD Creations"
-title: "Week 9: Designing Dimensions — CAD Creations"
-description: "Explore purposeful 3D design in Tinkercad using text shapes, the Ruler tool, Snap Grid, and color."
+sidebar_label: "Week 9: Teach the Computer"
+title: "Week 9: Teach the Computer to Follow Instructions"
+description: "Introduction to simple coding ideas like instructions, sequences, and cause-and-effect."
 ---
 
-# Week 9: Designing Dimensions — CAD Creations
+# Week 9: Teach the Computer to Follow Instructions  
+*Introduction to Simple Coding Concepts*
+
+Up to this point you’ve been **using tools on the computer**.
+
+Now we begin something exciting:
+
+**Teaching the computer what to do.**
+
+Computers are very powerful, but they have one important limitation:
+
+They only do **exactly what they are told to do**.
+
+When people write code, they are really writing **instructions for the computer to follow**.
+
+The big idea this week:
+
+**Computers follow instructions step-by-step.**
+
+This is the beginning of **coding**.
 
 ---
+
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
 
 ## Teacher Preparation
-
 :::info Before You Begin
-- Review Week 9 LOs and Activities.
-- Ensure Tinkercad login is ready.
-- Familiarize yourself with the Text shape, Ruler tool, and Snap Grid settings in Tinkercad.
-- Prepare discussion points linking design to purpose.
-- Have the typing practice site ready.
-- Prepare/print the visual instruction card for the independent session.
-- Set up the visual timer.
+- Prepare a simple space on the floor or table for a movement activity.
+- Print or write a few simple instructions on paper (optional).
+- Ensure a browser is available.
+- Bookmark a beginner-friendly block coding site (Scratch or Scratch Jr preview page is fine, but full Scratch will be used next week).
+- Set up a visual timer.
 :::
 
-:::tip Flexibility Note
-If text tool is fun, let the child experiment more with fonts/sizes. If precision tools (ruler/snap) are difficult, focus on visual alignment first and introduce precision gradually.
+:::tip Teaching Mindset
+This week introduces **computational thinking**, not programming syntax.
+
+Focus on the idea that computers follow **clear, ordered instructions**.
 :::
 
 ---
 
-## Guided Session 1: Designing with Purpose
+## Guided Session 1
+### Instructions Control Behavior
+#### Learning Goal
+The student understands that:
 
-> **Learning Objectives:** Brainstorm simple object with purpose; use Text shape tool; modify text content/font; combine Text with other shapes (align/group); rename Tinkercad designs.
-
-### Activities
-
-1. **Design Thinking:** Ask: "What small thing could we design that's useful/fun?" (tag, stand, keychain, simple custom block). Choose idea. Discuss *why* it might be useful.
-2. **Sketch (Optional):** Quick paper sketch.
-3. **Add Text Shape:** Find 'Text' shape (right menu), drag to Workplane.
-4. **Modify Text:** Select Text shape. Use Inspector window (top right) to change 'Text' field (name/initial/word). Explore 'Font' options. Adjust height/bevel.
-5. **Combine with Base:** Drag base shape (flat box for tag). Position Text on/near base. Resize text/base. Use Align tool (select both, click Align) to center text.
-6. **Group:** Select both text and base. Click 'Group'.
-7. **Rename Design:** Click default name (top left). Type descriptive name ("Name Tag"). Press Enter. Explain helps find project later.
-8. **Typing Practice (5–10 min):** Continue typing lessons.
-
-### Reflection
-
-- "How did we add letters in Tinkercad?"
-- "Why did we group the text and the base together?"
+- instructions control what happens
+- order matters
+- computers cannot guess missing steps
 
 ---
 
-## Guided Session 2: Refining & Coloring
+#### Activities
+**1. Human Robot Game**
 
-> **Learning Objectives:** Use Ruler tool for precise dimensions; adjust Snap Grid for precision; change shape/group color; inspect designs from multiple angles (View Cube).
+Explain that the student will be the **robot**, and you will give instructions.
 
-### Activities
+Give very simple commands:
 
-1. **Ruler Tool:** Drag 'Ruler' (right menu) near object. Select object. Dimension lines appear. Click number to type exact size (e.g., make tag 50mm long). Drag ruler away to dismiss. Practice making a cube exactly 20mm × 20mm × 20mm.
-2. **Snap Grid:** Point out 'Snap Grid' (bottom right). Change 1.0mm → 0.1mm → drag shape slowly (finer movement). Change back to 1.0mm. Explain use cases (big steps vs tiny adjustments).
-3. **Change Color:** Select object/shape. Click solid color circle (Inspector window). Choose new color. Explain visualization purpose. Show 'Multicolor' option for groups if applicable.
-4. **Inspect Views:** Use View Cube (top left) systematically. Click 'Top', 'Front', 'Left'. Ask: "Is it aligned? Right height?" Use orbit (right-drag) for corners. Click 'Home' icon. Emphasize checking all angles for building accurately.
-5. **Refine Design:** Use tools (Ruler, Snap Grid, Colors, Views) to refine previous object or start new simple design needing precision (e.g., box with lid, ensuring lid dimensions roughly match box opening).
+- take one step forward
+- turn left
+- raise your hand
+- sit down
 
-### Reflection
-
-- "How does the Ruler tool help make things exact?"
-- "Why is it important to look at your design from different sides when building?"
+Explain that robots follow instructions **exactly**.
 
 ---
 
-## Independent Session: "My Own Creation"
+**2. The Peanut Butter Problem (Simplified)**
 
-**Instruction:** "Keep creating in 3D! Go into [Tinkercad](https://www.tinkercad.com/). Either improve the design from our lesson (maybe use the Ruler to make it an exact size, add more detail, change color), OR start something new! Try designing a character from your favorite game, a cool pattern using shapes, or a futuristic vehicle. Remember to use the view controls!"
+Explain a classic programming idea:
 
-**Skills Reinforced:** Tinkercad skills (grouping, holes, color, text, ruler, snap grid, view controls), creative design, precision adjustments.
+If you tell a robot:
 
-**Setup:** Tinkercad access, visual timer.
+> “Make a sandwich”
 
+The robot would not know how.
+
+Instead we must give **very specific steps**.
+
+Example:
+
+
+Pick up bread
+
+Open peanut butter
+
+Spread peanut butter
+
+
+Ask the student:
+
+> “What other steps might we need?”
+
+This shows how computers require **clear instructions**.
+
+---
+
+**3. Build a Simple Instruction List**
+
+Ask the student to invent a set of instructions for a robot.
+
+Examples:
+
+- how to brush your teeth
+- how to draw a circle
+- how to open a book
+
+Write the instructions together.
+
+Explain that coding is basically **writing instructions for a computer**.
+
+---
+
+#### Reflection Questions
+- “What happens if an instruction is missing?”
+- “Why do computers need clear instructions?”
+- “What instructions would you give a robot?”
+
+---
+
+## Guided Session 2
+### Sequences and Cause-and-Effect
+#### Learning Goal
+The student understands that:
+
+- instructions happen in order
+- changing the order changes the result
+- coding involves thinking about **sequences**
+
+---
+
+#### Activities
+**1. Instruction Order Experiment**
+
+Write a small sequence like this:
+
+
+Stand up
+
+Clap
+
+Spin
+
+
+Ask the student to follow the instructions.
+
+Then rearrange them:
+
+
+Spin
+
+Stand up
+
+Clap
+
+
+Observe how the outcome changes.
+
+Explain that the order of instructions is called a **sequence**.
+
+---
+
+**2. Drawing with Instructions**
+
+Open a drawing app.
+
+Give step-by-step instructions such as:
+
+- draw a circle
+- draw two small dots
+- draw a curved line
+
+Ask the student what the drawing becomes.
+
+Example:
+
+🙂
+
+Explain that these instructions **created something**.
+
+This is how coding works.
+
+---
+
+**3. Prediction Game**
+
+Ask the student:
+
+> “If we changed the order of these instructions, what would happen?”
+
+Let them experiment with different sequences.
+
+Encourage curiosity.
+
+---
+
+#### Reflection Questions
+- “What does the word sequence mean?”
+- “What happened when we changed the order of instructions?”
+- “Why do you think programmers must be careful with instruction order?”
+
+---
+
+## Independent Session
+### Instruction Creator
+#### Instruction
+Invent a set of instructions for something simple.
+
+Examples:
+
+- how to draw a house
+- how to make a sandwich
+- how to brush your teeth
+- how to play with a dog
+
+Write the instructions in a document or draw them as pictures.
+
+Try to make sure the steps are **clear and in the correct order**.
+
+Save your instructions inside:
+
+
+My Projects → Experiments
+
+
+---
+
+#### Skills Reinforced
+- understanding sequences
+- thinking step-by-step
+- communicating instructions
+- early computational thinking
+
+---
+
+#### Setup
+- writing tool or drawing tool available
+- access to **My Projects → Experiments**
+- visual timer

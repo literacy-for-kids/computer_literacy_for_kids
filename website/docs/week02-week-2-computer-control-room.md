@@ -29,6 +29,22 @@ This week helps the student begin thinking about computers as **systems that res
 
 ---
 
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
+
 ## Teacher Preparation
 
 :::info Before You Begin
@@ -52,11 +68,9 @@ The goal is helping the student **notice cause and effect**:
 
 ---
 
-# Guided Session 1  
-## Inputs and Reactions
-
-### Learning Goal
-
+## Guided Session 1
+### Inputs and Reactions
+#### Learning Goal
 The student understands that:
 
 - computers respond to inputs
@@ -65,8 +79,7 @@ The student understands that:
 
 ---
 
-### Activities
-
+#### Activities
 **1. What Makes a Computer Do Something?**
 
 Ask the student:
@@ -85,6 +98,7 @@ Try things like:
 Explain that these are **inputs**.
 
 Draw a simple diagram together:
+
 
 Input → Computer → Result
 
@@ -134,19 +148,16 @@ This builds early computational thinking.
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “What are some ways we give instructions to a computer?”
 - “What happens when you click something?”
 - “Did anything surprise you today?”
 
 ---
 
-# Guided Session 2  
-## Windows and Apps
-
-### Learning Goal
-
+## Guided Session 2
+### Windows and Apps
+#### Learning Goal
 The student understands that:
 
 - apps are tools that do different jobs
@@ -155,8 +166,7 @@ The student understands that:
 
 ---
 
-### Activities
-
+#### Activities
 **1. What Is an App?**
 
 Explain that apps are **tools for different jobs**.
@@ -215,19 +225,16 @@ This builds intuitive understanding of multitasking.
 
 ---
 
-### Reflection Questions
-
+#### Reflection Questions
 - “What is an app?”
 - “Why do you think computers use windows?”
 - “What happens when we minimize something?”
 
 ---
 
-# Independent Session  
-## Control Room Explorer
-
-### Instruction
-
+## Independent Session
+### Control Room Explorer
+#### Instruction
 Spend time exploring the computer like a **control room operator**.
 
 Try to open **three different apps** and see what they do.
@@ -251,8 +258,7 @@ After exploring, explain **one thing you discovered**.
 
 ---
 
-### Skills Reinforced
-
+#### Skills Reinforced
 - recognizing inputs
 - understanding apps as tools
 - experimenting with windows
@@ -260,8 +266,7 @@ After exploring, explain **one thing you discovered**.
 
 ---
 
-### Setup
-
+#### Setup
 - Start menu accessible
 - a few apps easy to find
 - visual timer

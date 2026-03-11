@@ -1,90 +1,301 @@
 ﻿---
 sidebar_position: 12
-sidebar_label: "Week 12: Cyber Smarts"
-title: "Week 12: Awesome Internet Citizens & Cyber Smarts"
-description: "Students learn about online kindness, safe sharing, strong passwords, two-factor authentication, and recognizing phishing attempts."
+sidebar_label: "Week 12: How Things Are Built"
+title: "Week 12: How Things Are Built"
+description: "Explore how complex systems are made from smaller parts and how digital and physical systems work together."
 ---
 
-# Week 12: Awesome Internet Citizens & Cyber Smarts
+# Week 12: How Things Are Built  
+*Digital + Physical Systems*
+
+So far in this course you have learned how to:
+
+- control a computer
+- save files
+- communicate with words and pictures
+- search for information
+- write simple programs
+- debug when something doesn’t work
+
+Now we zoom out and look at a bigger idea:
+
+**How systems are built.**
+
+A **system** is when multiple parts work together to accomplish something.
+
+Examples of systems:
+
+- a bicycle  
+- a robot  
+- a video game  
+- a car  
+- a website  
+- a drone  
+
+The big idea this week:
+
+**Complex things are built from smaller parts working together.**
+
+This is one of the most important ideas in engineering, science, and programming.
 
 ---
+
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
 
 ## Teacher Preparation
-
 :::info Before You Begin
-- Review Week 12 LOs and Activities, focusing on BIA pillars (Kind, Care, Strong).
-- Bookmark/have ready: [Kind Kingdom](https://beinternetawesome.withgoogle.com/en_us/interland/kind-kingdom), [Mindful Mountain](https://beinternetawesome.withgoogle.com/en_us/interland/mindful-mountain), [Tower of Treasure](https://beinternetawesome.withgoogle.com/en_us/interland/tower-of-treasure).
-- Prepare simple role-playing scenarios for kindness/unkindness.
-- Prepare strong password brainstorming examples (phrase-based, mixes — NOT real ones).
-- Have Paint 3D or Canva ready for independent session.
-- Have typing practice site ready.
-- Prepare/print visual instruction card.
-- Set up visual timer.
+- Prepare examples of systems the student is familiar with:
+  - bicycle
+  - dog leash + collar
+  - a kitchen appliance
+  - a game
+  - a robot or machine video
+- Have Scratch available for a short demonstration.
+- Prepare a short “how it’s made” style video clip if possible.
+- Have paper or a whiteboard for drawing system diagrams.
+- Set up the visual timer.
 :::
 
-:::tip Flexibility Note
-Spend more time on the Interland game the child enjoys most or the concept they need more reinforcement on (Kindness, Sharing, Passwords). Keep role-playing simple and focused on positive actions.
+:::tip Teaching Mindset
+This week introduces **systems thinking**.
+
+The goal is helping the student realize:
+
+> Big things are made from smaller parts that work together.
+
+Encourage observation and curiosity.
 :::
 
 ---
 
-## Guided Session 1: Be Internet Awesome — Kind & Careful!
+## Guided Session 1
+### What Is a System?
+#### Learning Goal
+The student understands that:
 
-> **Learning Objectives:** Define/discuss online kindness ("It's Cool to Be Kind"); positive vs. negative behavior; appropriate actions for unkindness (Tell adult, block); think before sharing ("Share with Care"); review private/public info; simple digital footprint concept.
-
-### Activities
-
-1. **Discuss Kindness:** Ask: "How be kind online?" (Nice words, help). Discuss why unkindness hurts. Use BIA slogan: "It's Cool to Be Kind."
-2. **Play Kind Kingdom:** Play [**Google Interland: Kind Kingdom**](https://beinternetawesome.withgoogle.com/en_us/interland/kind-kingdom). Discuss scenarios (spread kindness, block negativity).
-3. **Role-Play:** Scenario: "Mean comment on your drawing?" Discuss options: Don't reply meanly, tell adult, block (explain simply). Emphasize telling adult.
-4. **Share with Care Review:** Review private vs. public info (Week 1). Ask: "Why keep address secret?" Use BIA slogan "Share with Care." Explain: "Think who you share with."
-5. **Digital Footprint Intro:** Explain simply: "Online actions leave 'footprints'. They can last long time. Leave kind & careful footprints!"
-6. **Play Mindful Mountain:** Play [**Google Interland: Mindful Mountain**](https://beinternetawesome.withgoogle.com/en_us/interland/mindful-mountain). Discuss sharing info only with right people.
-7. **Typing Practice (5–10 min):** Continue typing lessons.
-
-### Reflection
-
-- "What's one way to be kind online?"
-- "What does 'Share with Care' mean?"
+- systems are made of multiple parts
+- each part has a job
+- when parts work together, the system works
 
 ---
 
-## Guided Session 2: Be Internet Awesome — Strong & Secure!
+#### Activities
+**1. Look at a Familiar System**
 
-> **Learning Objectives:** Explain password importance ("Secure Your Secrets"); identify stronger password traits (length, mix); brainstorm memorable strong password *ideas*; understand the role of two-factor authentication (2FA); recognize online tricks (phishing).
+Start with something simple like a **bicycle**.
 
-### Activities
+Ask the student:
 
-1. **Why Passwords?:** Ask: "What needs password?" (Email, games). Explain passwords = secret keys. Use BIA slogan: "Secure Your Secrets."
-2. **Strong Password Ideas:** Review why easy passwords bad. Brainstorm stronger ideas:
-   - Phrase: "My green dino loves leaves!" → MgdL0v3sL3@ves!
-   - Combine: "Robot+Castle+8" → R0b0tC@stle8!
-   - Length: Longer = better.
+> “What parts do you see?”
 
-   CRITICAL: Stress ideas only. Never use examples or real passwords. Create real ones privately, never share.
+Possible answers:
 
-3. **What is 2FA?:** Explain that some accounts need two things to unlock—this is called Two-Factor Authentication (2FA). It's like opening a treasure chest that needs both a key (your password) and a secret code (sent to your phone or email). It makes your account even safer.
-   - Analogy: "A treasure chest with two locks is harder for a pirate to break into!"
-   - Ask: "Why does using two steps make it harder for someone else to log into your stuff?"
-   - Reinforce: If you ever see a screen asking for a second step or a code, always talk to a grown-up first.
+- wheels  
+- pedals  
+- handlebars  
+- chain  
 
-4. **Play Tower of Treasure:** Play [**Google Interland: Tower of Treasure**](https://beinternetawesome.withgoogle.com/en_us/interland/tower-of-treasure). Discuss *why* game suggests changes (length, numbers, symbols).
-5. **Spotting Tricks (Phishing Review):** Show simple fake examples (Notepad): "Account locked! Click here enter password." or "You won! Enter name/address." Ask: "Look real? Why/why not? What do?"
-6. **Reinforce "Talk It Out":** Ask: "What if site asks password unexpectedly, or friend asks?" (Never share, tell grown-up!).
+Explain that each part has a job:
 
-### Reflection
+| Part | Job |
+|-----|-----|
+| Pedals | Provide power |
+| Chain | Transfers motion |
+| Wheels | Allow movement |
+| Handlebars | Control direction |
 
-- "What makes a password stronger?"
-- "What should you do if a message asks for your password?"
-- "Why might a website ask for two things to log in?"
+Explain that when the parts work together, the system works.
 
 ---
 
-## Independent Session: "Safety Poster"
+**2. Draw a Simple System Diagram**
 
-**Instruction:** "Make reminder poster! Open Paint 3D or [Canva](https://www.canva.com/). Create poster showing one 'Be Internet Awesome' rule (Be Kind, Be Careful, Be Strong)."
+Draw a simple diagram together:
 
-**Skills Reinforced:** Digital art (Paint 3D/Canva), recalling/representing BIA safety concepts.
 
-**Setup:** Paint 3D/Canva access (Canva requires free account), visual instruction card, visual timer.
+Pedals → Chain → Wheels → Movement
 
+
+Explain that systems often pass **energy or information** from one part to another.
+
+---
+
+**3. Example of a Digital System**
+
+Open Scratch.
+
+Ask:
+
+> “What parts make a Scratch program work?”
+
+Guide them to identify things like:
+
+- sprite
+- blocks
+- stage
+- program instructions
+
+Explain that a Scratch project is also a **system**.
+
+The blocks send instructions to the sprite.
+
+---
+
+#### Reflection Questions
+- “What is a system?”
+- “What are some parts of a bicycle?”
+- “What parts make a Scratch project work?”
+
+---
+
+## Guided Session 2
+### Digital Systems and Physical Systems
+#### Learning Goal
+The student understands that:
+
+- systems exist in both digital and physical worlds
+- many real systems combine both
+- computers are often part of larger systems
+
+---
+
+#### Activities
+**1. Watch a “How It’s Made” Example**
+
+Show a short video of something being built or manufactured.
+
+Examples:
+
+- a toy being assembled  
+- a machine being built  
+- a robot moving  
+- a factory process  
+
+Ask the student to notice:
+
+- what parts they see
+- how those parts interact
+
+---
+
+**2. Break a System Into Parts**
+
+Choose something interesting to the student.
+
+Examples:
+
+- a robot
+- a drone
+- a video game
+- a dog robot toy
+
+Ask questions like:
+
+> “What parts do you think this system has?”
+
+Possible ideas:
+
+For a robot:
+
+| Part | Job |
+|----|----|
+| Sensors | Detect things |
+| Computer | Makes decisions |
+| Motors | Move the robot |
+| Power source | Provides energy |
+
+Explain that engineers often think about systems this way.
+
+---
+
+**3. Connect to Programming**
+
+Open Scratch again.
+
+Create a simple program like:
+
+
+when green flag clicked
+repeat 10
+move 20 steps
+turn 36 degrees
+
+
+Explain that even this simple project has parts:
+
+- instructions
+- loops
+- movement commands
+- sprite behavior
+
+Each block plays a role in the **system of the program**.
+
+---
+
+#### Reflection Questions
+- “What parts did you notice in the video?”
+- “Why do systems need different parts?”
+- “How do parts work together to make something happen?”
+
+---
+
+## Independent Session
+### System Detective
+#### Instruction
+Choose something interesting around you and try to figure out **what system it is part of**.
+
+Examples:
+
+- a bicycle
+- a video game
+- a kitchen appliance
+- a toy
+- a robot
+- a machine
+
+Ask yourself:
+
+- What parts does it have?
+- What job does each part do?
+- How do the parts work together?
+
+Then choose one of these ways to record your idea:
+
+- draw a diagram  
+- write a short description  
+- explain it to someone
+
+Save your drawing or notes in:
+
+
+My Projects → Experiments
+
+
+---
+
+#### Skills Reinforced
+- systems thinking
+- observing parts and roles
+- understanding interactions between components
+- connecting digital and physical systems
+
+---
+
+#### Setup
+- drawing or writing tool available
+- access to **My Projects → Experiments**
+- visual timer

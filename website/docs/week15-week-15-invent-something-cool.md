@@ -1,84 +1,318 @@
 ﻿---
 sidebar_position: 15
-sidebar_label: "Week 15: Chart Champions"
-title: "Week 15: Spreadsheet Secrets & Chart Champions"
-description: "Discover how to organize data in spreadsheets and create visual charts to compare information."
+sidebar_label: "Week 15: Invent Something Cool"
+title: "Week 15: Invent Something Cool"
+description: "Begin the final project by choosing an idea, planning it carefully, and starting the first version."
 ---
 
-# Week 15: Spreadsheet Secrets & Chart Champions
+# Week 15: Invent Something Cool  
+*Digital Project Work — Phase 1*
+
+Throughout this course you have learned many important skills:
+
+- controlling a computer
+- saving and organizing files
+- typing and writing ideas
+- creating images
+- searching for information
+- thinking step-by-step like a programmer
+- solving problems with debugging
+- understanding systems
+- using AI as a creative partner
+
+Now it’s time to bring those skills together.
+
+You will begin working on a **final creative project**.
+
+The big idea this week:
+
+**Creators turn ideas into real things by building them step-by-step.**
+
+Professional creators rarely make something perfectly the first time. Instead they:
+
+1. start with an idea  
+2. build a first version  
+3. improve it  
+4. test and adjust  
+5. keep refining
+
+This process is called **iteration**.
+
+Your final project will go through several versions before it is finished.
 
 ---
+
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
 
 ## Teacher Preparation
-
 :::info Before You Begin
-- Review Week 15 LOs and Activities.
-- Choose spreadsheet software (Excel or [Google Sheets](https://docs.google.com/spreadsheets/)) ensure access/login. Familiarize with data entry, cell formatting (fill), selecting adjacent & non-adjacent data, inserting simple bar/pie charts.
-- Prepare simple dataset relevant to child's interests (e.g., Favorite Animals & Speeds, Game Characters & Powers, Types of Dinosaurs & Diets).
-- Have typing practice site ready.
-- Have Kiddle access ready for independent session fact lookup (optional).
-- Prepare/print visual instruction card.
-- Set up visual timer.
+- Ensure the student has access to the tools they used earlier in the course:
+  - writing tools
+  - drawing tools
+  - Scratch
+  - browser
+  - AI tool (optional)
+- Confirm the **My Projects** folder exists and is organized.
+- Prepare a sheet of paper or whiteboard for planning diagrams.
+- Set up the visual timer.
 :::
 
-:::tip Flexibility Note
-If spreadsheets seem dry, keep data entry minimal and focus on the visual chart creation. If the child enjoys organizing data, create a slightly larger table or explore simple sorting.
-:::
+:::tip Teaching Mindset
+Encourage **ownership and curiosity**.
 
-:::note Final Project Connection
-"Sometimes projects need organized information! While maybe not for *this* story project, knowing how to use spreadsheets and make charts is a useful skill for school projects or tracking collections later."
+This project should belong to the student.
+
+The goal is not perfection — it is **creative exploration and persistence**.
 :::
 
 ---
 
-## Guided Session 1: Data Detectives
+## Guided Session 1
+### Choosing a Project Idea
+#### Learning Goal
+The student:
 
-> **Learning Objectives:** Define spreadsheet (organizing grid); identify rows/columns/cells; enter text/numbers; select cells/ranges; use Fill Color; save/name spreadsheet.
-
-### Activities
-
-1. **Introduce Spreadsheets:** Open Excel/[Google Sheets](https://docs.google.com/spreadsheets/). Explain = super-organized table of cells, good for lists/numbers. Point out Columns (A,B,C), Rows (1,2,3), Cells (A1, B3). Click cells, name addresses.
-2. **Create Headers:** Based on chosen theme (e.g., A1: "Animal", B1: "Habitat", C1: "Can it Fly?"). Explain headers.
-3. **Enter Data:** Guide entering data for 3–4 items relevant to headers (e.g., Eagle/Mountains/Yes, Penguin/Antarctica/No, Lion/Savanna/No). Practice clicking correct cell first.
-4. **Format Cells:** Select header row (A1:C1 or click Row '1'). Use 'Fill Color' (paint bucket) tool, choose color. (Optional) Select data area, apply different fill.
-5. **Save:** File → Save As (Excel) or name file (Google Sheets). Save in "My Projects" as "Animal Data".
-6. **Typing Practice (5–10 min):** Continue typing lessons.
-
-### Reflection
-
-- "What is a 'cell' in a spreadsheet?"
-- "How did we make the headers look different?"
+- chooses a project idea they are excited about
+- understands that projects can combine multiple skills
+- begins planning the project
 
 ---
 
-## Guided Session 2: Charting the Stars
+#### Activities
+**1. Review What We Can Create**
 
-> **Learning Objectives:** Understand charts visualize data; select adjacent or non-adjacent data columns; use 'Insert Chart'; choose simple chart type (Bar/Pie); identify chart elements (title, axes/legend, bars/slices); interpret chart simply.
+Ask the student:
 
-### Activities
+> “What kinds of things can we create with a computer?”
 
-1. **Why Charts?:** Look at table. Ask: "How many animals in our list can fly?" (Requires reading). Explain charts = visual picture, easier comparisons.
-2. **Select Data:** Need Animal Names & 'Can it Fly?' data.
-   - Click & drag to select Animal names (e.g., A2:A5).
-   - Hold **Ctrl** key (Cmd on Mac), *while holding*, click & drag to select 'Can it Fly?' data (e.g., C2:C5). Both selected. Let go. (Or select adjacent columns if dataset allows, e.g., Animal & Speed).
-3. **Insert Chart:** Go to 'Insert' menu → 'Chart'.
-4. **Choose Chart Type:** Choose 'Bar Chart' (Column) or 'Pie Chart'. (A Pie chart might work here to show Yes/No proportions).
-5. **Explore Chart:** Point out: Title, Axes/Legend (explains colors/sections), Bars/Slices.
-6. **Interpret Chart:** Ask: "Looking at the chart, is it easy to see how many animals can/cannot fly?" (Or "Which animal is fastest?" if using speed data). Emphasize visual comparison.
-7. **Save:** Save spreadsheet with chart.
+List examples together:
 
-### Reflection
+| Type of Creation | Example |
+|---|---|
+| Story | A short adventure story |
+| Drawing | A character or machine design |
+| Program | A Scratch animation or mini-game |
+| Invention | A robot or machine idea |
+| Information | A fact page about animals |
+| Combination | A story with pictures |
 
-- "What does a chart help us do with information?"
-- "What did the different parts of the chart show us?"
+Explain that the final project can be **anything creative** that uses the computer.
 
 ---
 
-## Independent Session: "Data Explorer"
+**2. Brainstorm Project Ideas**
 
-**Instruction:** "Add more data! Open the spreadsheet we made ('Animal Data' or similar). Add one more row with information about another animal/dinosaur/character based on our headers (you can use [Kiddle](https://www.kiddle.co/) to look up info if needed). Type the info into the next empty row. Now, look at the chart. Did the new information appear automatically? If not, click the chart, look for options like 'Edit data range' (ask me if you need help!), & see if you can add the new row." (Focus on data entry & observation).
+Ask the student to suggest ideas based on their interests.
 
-**Skills Reinforced:** Spreadsheet data entry, interacting with charts, observation, potentially updating chart data (problem-solving/asking for help).
+Examples might include:
 
-**Setup:** Access to spreadsheet file, Kiddle access (optional), visual timer.
+- a Scratch animation about dogs
+- a robot that helps animals
+- a comic about a silly creature
+- a guide about how rockets work
+- an invention idea for a machine
 
+Write several ideas down.
+
+Encourage imagination.
+
+Even unusual ideas are welcome.
+
+---
+
+**3. Choose One Main Idea**
+
+Ask the student to choose **one project** to start building.
+
+Discuss:
+
+- What will the project show?
+- What tools might we use?
+- What would the first step be?
+
+Write a short project description.
+
+Example:
+
+
+Robot Dog Helper
+
+A Scratch animation showing a robot that helps dogs find lost toys.
+
+
+---
+
+**4. Break the Idea into Parts**
+
+Explain that large projects are easier when broken into smaller pieces.
+
+Example:
+
+
+Project Plan
+
+Design the robot character
+
+Create the dog character
+
+Program the robot to move
+
+Add speech bubbles
+
+Add a simple background
+
+
+This becomes the **project plan**.
+
+---
+
+#### Reflection Questions
+- “What project idea did you choose?”
+- “Why does that idea sound exciting?”
+- “What might the first step be?”
+
+---
+
+## Guided Session 2
+### Building the First Version
+#### Learning Goal
+The student:
+
+- begins building the first version of the project
+- understands that the first version does not have to be perfect
+- experiences the creative process of iteration
+
+---
+
+#### Activities
+**1. Set a Goal for Today**
+
+Explain:
+
+Today we will build **the first version** of the project.
+
+This version is called a **prototype**.
+
+A prototype is an early version that helps us test ideas.
+
+Ask the student:
+
+> “What part of the project should we try first?”
+
+Examples:
+
+- drawing characters
+- building the Scratch scene
+- writing the story introduction
+- designing the background
+
+---
+
+**2. Begin Building**
+
+Let the student begin creating.
+
+Support them with questions such as:
+
+- What should happen first?
+- What tools could help?
+- What could we try next?
+
+Encourage exploration.
+
+---
+
+**3. Solve Problems Together**
+
+If something doesn’t work:
+
+- revisit debugging strategies
+- adjust the plan
+- try small experiments
+
+Explain that every creator encounters problems while building.
+
+The important part is **continuing to try new solutions**.
+
+---
+
+**4. Save the First Version**
+
+Save the work in a new folder:
+
+
+My Projects → Final Project
+
+
+If possible, give the file a version name such as:
+
+
+RobotDog_v1
+
+
+Explain that creators often keep **multiple versions** as their project evolves.
+
+---
+
+#### Reflection Questions
+- “What part of the project did you build today?”
+- “What was the hardest part so far?”
+- “What might you try next time?”
+
+---
+
+## Independent Session
+### Creator Time
+#### Instruction
+Spend time continuing to work on your project.
+
+You can:
+
+- draw characters
+- build Scratch scenes
+- write parts of the story
+- design inventions
+- use AI to brainstorm ideas
+
+Ask yourself:
+
+- What should happen next?
+- What part of the project should I improve?
+
+Save your progress inside:
+
+
+My Projects → Final Project
+
+
+Give your files clear names so you can find them later.
+
+---
+
+#### Skills Reinforced
+- project planning
+- creative ownership
+- persistence
+- problem solving
+- combining multiple digital skills
+
+---
+
+#### Setup
+- project tools available
+- access to **My Projects → Final Project**
+- visual timer

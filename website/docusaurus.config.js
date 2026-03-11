@@ -74,7 +74,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/hero-image.png',
       navbar: {
         title: 'Computer Literacy for Kids',
         logo: {
@@ -147,7 +147,7 @@ const config = {
       },
       tableOfContents: {
         minHeadingLevel: 2,
-        maxHeadingLevel: 3,
+        maxHeadingLevel: 4,
       },
     }),
 };

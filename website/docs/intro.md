@@ -16,7 +16,23 @@ The goal is for students to develop **technical confidence and independent probl
 
 By the end of the curriculum, students will understand not just *how* to use a computer — but **how digital systems work and how to figure things out on their own.**
 
+For learners who are interested, the curriculum also includes **optional 3D design (CAD) modules using TinkerCAD**, allowing students to design simple objects and potentially turn their digital ideas into **real-world physical creations through 3D printing.**
+
 ---
+
+:::tip Use This Page
+- Start with [The Big Idea](#the-big-idea) for the course philosophy.
+- Skim [Course at a Glance](#course-at-a-glance) to see the full program structure.
+- Jump to [What Each Week Includes](#what-each-week-includes) for session format.
+- Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
+- Visit [Optional Extension](#optional-extension) for the CAD track.
+:::
+
+:::info For Caregivers and Teachers
+- You do not need to read the full site in order. Start here, then move into the current week you are teaching.
+- Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, teach one session at a time, and come back later for the rest.
+- Use this page when you want the big-picture philosophy, not when you need minute-by-minute teaching directions.
+:::
 
 ## The Big Idea
 
@@ -32,6 +48,8 @@ Instead of teaching **which buttons to press**, we focus on helping students dev
 - the ability to figure things out independently
 
 Computers are treated as **tools for thinking and creating**, not just devices for watching videos or playing games.
+
+Students will use computers to **write, draw, code, design, and build digital projects** — and optionally even design **3D objects** that can exist in the real world.
 
 ---
 
@@ -106,7 +124,11 @@ Throughout the curriculum students will create:
 - writing
 - simple programs
 - digital projects
-- 3D designs
+- presentations
+- videos
+- **3D designs**
+
+For students exploring the optional CAD extension, those digital designs can even become **physical objects using 3D printing**, showing how ideas move from imagination to the real world.
 
 The focus is on **creative ownership**, not passive screen time.
 
@@ -123,6 +145,19 @@ The focus is on **creative ownership**, not passive screen time.
 | **How Things Work** | 12 | Digital and physical systems |
 | **AI Literacy** | 13–14 | Understanding generative AI and using it creatively |
 | **Creative Project Work** | 15–18 | Designing, building, and presenting a final project |
+
+### Optional Extension
+
+For learners interested in design and engineering, an **optional CAD module** introduces:
+
+- 3D modeling using **TinkerCAD**
+- spatial thinking
+- digital object design
+- preparing models for **3D printing**
+
+This extension allows students to experience an exciting idea:
+
+**Computers can be used not only to create digital things — but also to design real-world objects.**
 
 ---
 
@@ -201,3 +236,5 @@ By the end of the program, students should feel:
 The most important outcome is simple:
 
 **Students should feel like computers are tools they can understand, control, and create with.**
+
+And for some students, that creativity may even extend beyond the screen — into designing objects that can be **built in the physical world.**

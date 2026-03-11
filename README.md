@@ -29,6 +29,8 @@ Students gradually explore topics including:
 - generative AI literacy
 - creative digital projects
 
+For learners who want to go further, the curriculum also includes an optional CAD extension using TinkerCAD and 3D printing concepts.
+
 The program gradually moves students from:
 
 
@@ -66,6 +68,7 @@ The curriculum progresses through several stages:
 | Systems Thinking | 12 | Understanding how technology works |
 | AI Literacy | 13–14 | Understanding and using generative AI |
 | Creative Project | 15–18 | Designing and presenting a final digital project |
+| Optional CAD Extension | Bonus | TinkerCAD, 3D modeling, and preparing designs for 3D printing |
 
 Each week includes:
 
@@ -86,7 +89,7 @@ Most of the educational content lives in `website/docs/`.
 website/
   docs/
     intro.md
-       curriculum-overview.md
+    curriculum-overview.md
     week01-week-1-internet-playground.md
     week02-week-2-computer-control-room.md
     ...

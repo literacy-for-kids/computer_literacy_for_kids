@@ -1,86 +1,256 @@
 ---
 sidebar_position: 18
-sidebar_label: "Week 18: Mission Complete"
-title: "Week 18: Mission Complete - Project Showcase"
-description: "Students add final touches to their project, rehearse their presentation, showcase to family, and celebrate their 18-week learning journey."
+sidebar_label: "Week 18: Creator Showcase"
+title: "Week 18: Creator Showcase"
+description: "Present the final project, explain how it works, and reflect on everything learned during the course."
 ---
 
-# Week 18: Mission Complete - Project Showcase
+# Week 18: Creator Showcase  
+*Final Project Presentation & Reflection*
+
+You have reached the final week of the course.
+
+Over the past 18 weeks you have learned how to:
+
+- explore the internet safely
+- understand how computers respond to inputs
+- organize files and folders
+- type and communicate with text
+- create digital drawings
+- search for information
+- think like a programmer
+- debug problems
+- understand systems
+- use AI as a creative partner
+- plan and build your own project
+
+This week is about something very important:
+
+**Sharing what you created.**
+
+Creators often present their work to others so they can:
+
+- explain their ideas
+- show how something works
+- celebrate what they built
+- learn from feedback
+
+The big idea this week:
+
+**Explaining your ideas is an important part of creating.**
 
 ---
+
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
 
 ## Teacher Preparation
 
 :::info Before You Begin
-- Review Week 18 LOs and Activities.
-- Ensure final project file accessible & working. Check for missing final elements (titles, credits, music).
-- Prepare simple prompts for presentation practice.
-- Arrange time/place for family showcase!
-- Have preferred creative tools ready for independent session.
-- Set up visual timer.
+- Ensure the student’s **Final Project** file is easily accessible:
+
+
+My Projects → Final Project
+
+
+- Prepare a comfortable space for the presentation.
+- Invite a small audience if possible (family members, siblings, or friends).
+- Have paper or a whiteboard ready for discussion.
+- Set up a visual timer.
 :::
 
-:::tip Flexibility Note
-Keep the showcase low-pressure and celebratory. Focus on effort and learning, not perfection. The "Free Create" session should be purely fun and exploratory.
+:::tip Teaching Mindset
+Focus on **celebration and confidence**.
+
+This week should feel like a **showcase**, not a test.
 :::
 
 ---
 
-## Guided Session 1: Final Touches & Rehearsal
+## Guided Session 1
+### The Creator Presentation
+#### Learning Goal
+The student:
 
-> **Learning Objectives:** Add final elements (title, end screen/credits, music); conduct final review for consistency/completeness/errors; practice presenting/demonstrating smoothly; practice explaining story/creation process.
-
-### Activities
-
-1. **Add Final Elements:**
-   - *Title Screen:* Ensure clear title & "By [Child's Name]".
-   - *End Screen/Credits:* Add final slide/scene saying "The End". Optional: add simple credits ("Story/Art by [Name]", "Tools used: Paint 3D, Clipchamp").
-   - *Music (if applicable):* Add suitable background track if using video/slideshow & not done yet; adjust volume.
-
-2. **Final Review:** Play through entire project one last time. Check typos, glitches, timing, sound. Make final small corrections.
-
-3. **Presentation Practice:** Have the child run through presenting:
-   - Start project.
-   - Explain story as it plays.
-   - Pause & practice explaining *how* a part was made ("How did character move?" "Which tool drew this?").
-   - Practice clicking/advancing smoothly.
-   - Practice saying "Thank you for watching!" at end.
-
-### Reflection
-
-- "Are you proud of your project?"
-- "What are you most excited to show?"
+- presents their project clearly
+- explains how it works
+- reflects on their creative process
 
 ---
 
-## Guided Session 2: Project Showcase!
+#### Activities
+**1. Introduce the Project**
 
-> **Learning Objectives:** Confidently present completed project to audience; articulate story/creation process; celebrate accomplishment; reflect on skills learned.
+Ask the student to begin by introducing their project.
 
-### Activities
+They can answer questions like:
 
-1. **Set the Stage:** Gather family/audience. Dim lights if helpful.
 
-2. **Introduction:** Let the child introduce project ("This is my Digital Creation Story about...").
+What is your project?
+What inspired the idea?
+What does it show or do?
 
-3. **Presentation:** They play/click through project, explaining as practiced. Offer quiet support only if needed.
 
-4. **Q&A / Applause:** Lead applause! Encourage positive audience questions ("Favorite part to make?" "How did you get the idea?").
-
-5. **Celebration:** Congratulate enthusiastically! Talk about favorite parts of the whole 18-week learning journey. Which skills did they enjoy most?
-
-### Reflection (Post-Showcase)
-
-- "How did it feel to share your project?"
-- "What was the best part about making it?"
-- "What computer skill do you want to practice more?"
+Encourage them to speak in their own words.
 
 ---
 
-## Independent Session: "Free Create!"
+**2. Demonstrate the Project**
 
-**Instruction:** "Congratulations on finishing your amazing story project! You've learned so much. For our very last session, you get 20 minutes of 'Free Create' time. You can use *any* of the computer tools we learned about this whole time (Paint 3D, Scratch, Tinkercad, Clipchamp, Notepad, Slides, etc.) to make absolutely anything you want! Draw, code, design, write — just have fun creating!"
+The student walks through the project step-by-step.
 
-**Skills Reinforced:** Creative exploration, independent use of learned software tools, reinforcing enjoyment of digital creation.
+Examples:
 
-**Setup:** Access to preferred software tools, visual timer.
+- run the Scratch program
+- show drawings
+- read part of the story
+- explain how an invention works
+
+Encourage them to explain things such as:
+
+- what different parts do
+- how they built the project
+- what tools they used
+
+---
+
+**3. Share the Building Process**
+
+Ask the student to describe what it was like building the project.
+
+Possible prompts:
+
+- What was the hardest part?
+- What problem did you solve?
+- What improvement did you make along the way?
+
+Explain that creators often learn the most while solving problems.
+
+---
+
+#### Reflection Questions
+- “What part of your project are you most proud of?”
+- “What was the most interesting thing you learned while building it?”
+- “If you had more time, what would you add next?”
+
+---
+
+## Guided Session 2
+### Looking Back and Looking Forward
+#### Learning Goal
+The student reflects on what they learned and begins thinking about future creations.
+
+---
+
+#### Activities
+**1. Review the Journey**
+
+Discuss some of the major ideas learned during the course.
+
+Examples:
+
+| Skill | What It Means |
+|------|---------------|
+| Inputs | Computers respond to our actions |
+| Files | Digital work can be saved and organized |
+| Searching | We can explore the internet thoughtfully |
+| Programming | Instructions control computer behavior |
+| Debugging | Problems help us learn |
+| Systems | Big things are built from small parts |
+| AI | AI can help generate ideas |
+
+Ask the student:
+
+> “Which of these skills did you enjoy the most?”
+
+---
+
+**2. Creator Reflection**
+
+Ask the student to answer a few questions:
+
+- What was your favorite activity during the course?
+- What was the most surprising thing you learned?
+- What would you like to learn next?
+
+Write their answers down.
+
+---
+
+**3. Future Project Ideas**
+
+Explain that this project is just the beginning.
+
+Ask the student:
+
+> “If you could build another project, what would it be?”
+
+Encourage imaginative ideas such as:
+
+- a bigger Scratch game
+- a robot design
+- a digital comic
+- a science project
+- a guide about animals
+
+This reinforces that computers are tools for **lifelong creativity**.
+
+---
+
+#### Reflection Questions
+- “What skill are you most proud of learning?”
+- “What new project would you like to build someday?”
+- “How can computers help you create things in the future?”
+
+---
+
+## Independent Session
+### Creator Reflection
+#### Instruction
+Create a short reflection about your learning journey.
+
+You can choose one of these options:
+
+- write a paragraph about what you learned
+- draw your favorite moment from the course
+- describe a future project you want to build
+
+Save your reflection in:
+
+
+My Projects → Final Project
+
+
+Example file name:
+
+
+CreatorReflection
+
+
+---
+
+#### Skills Reinforced
+- explaining ideas clearly
+- reflecting on learning
+- organizing creative work
+- planning future projects
+
+---
+
+#### Setup
+- final project accessible
+- writing or drawing tool available
+- visual timer

@@ -1,87 +1,269 @@
-﻿---
+---
 sidebar_position: 6
-sidebar_label: "Week 6: Scratch Stories"
-title: "Week 6: Scratch Stories & Loopy Logic"
-description: "Build interactive Scratch scenes with backdrops, sprite interactions, loops, and sound effects."
+sidebar_label: "Week 6: Digital Art Studio"
+title: "Week 6: The Digital Art Studio"
+description: "Explore how images communicate ideas and learn to create digital drawings using simple art tools."
 ---
 
-# Week 6: Scratch Stories & Loopy Logic
+# Week 6: The Digital Art Studio  
+*Communicating with Images*
+
+Last week we explored how computers help us communicate using **words**.
+
+This week we explore another powerful way to communicate:
+
+**Pictures.**
+
+Images can explain ideas instantly. A single picture can show:
+
+- a place
+- a character
+- an invention
+- a story
+- an emotion
+
+The big idea this week:
+
+**Images are another language.**
+
+Artists, designers, engineers, and scientists all use images to explain ideas.
+
+This week the student begins thinking of the computer as a **creative art studio**.
 
 ---
+
+
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+- [Setup Notes](#setup)
+:::
 
 ## Teacher Preparation
-
 :::info Before You Begin
-- Review Week 6 LOs and Activities.
-- Ensure login access to Scratch.
-- Familiarize yourself with adding backdrops, adding sprites from library, the `forever` and `repeat` loops, adding/playing sounds, and the difference between `touching` condition and `broadcast`/`receive` events in Scratch.
-- Have the typing practice site ready.
-- Prepare/print the visual instruction card for the independent session.
-- Set up the visual timer.
+- Ensure a simple drawing program is available:
+  - Paint
+  - Paint 3D
+  - Tux Paint (optional alternative)
+- Confirm the **My Projects** folder from Week 3 exists.
+- Prepare to demonstrate a few basic drawing tools:
+  - brush/pencil
+  - shapes
+  - fill bucket
+  - color selection
+- Have a few creative prompts ready based on the child’s interests (dogs, animals, machines, imaginary creatures).
+- Set up a visual timer.
 :::
 
-:::tip Flexibility Note
-If loops are confusing, focus on `repeat` first with small numbers. If interaction is tricky, stick to one method (e.g., just `touching`) rather than introducing both.
-:::
+:::tip Teaching Mindset
+Focus on **exploration instead of artistic skill**.
 
-:::tip Storytelling Prompt
-Encourage naming sprites meaningfully and choosing backdrops/sounds that fit a simple story idea (e.g., "Let's make the dinosaur roar when the explorer gets close!").
+This is about learning that the computer is a tool for **creating ideas visually**, not making perfect drawings.
 :::
 
 ---
 
-## Guided Session 1: Setting the Scene
+## Guided Session 1
+### Exploring the Digital Canvas
+#### Learning Goal
+The student understands that:
 
-> **Learning Objectives:** Choose and add a backdrop from the Scratch library; add a new sprite from the library; position sprites on the stage; implement simple interaction between two sprites using either `if touching` or `broadcast`/`receive`.
-
-### Activities
-
-1. **Add Backdrop:** Open Scratch project. Click 'Choose a Backdrop' (bottom right). Browse library (e.g., 'Fantasy', 'Outdoors') and select one.
-2. **Add Sprite:** Click 'Choose a Sprite' (cat icon). Browse library (e.g., 'Animals', 'People') and select a second sprite.
-3. **Position Sprites:** Click and drag sprites on stage. Show selecting which sprite to code by clicking its icon below stage.
-4. **Interaction Option 1 (Touching):**
-   - Select Sprite 1. Build script: `when green flag clicked` → `forever` (Control) → `if <touching [Sprite 2]?> then` (Sensing inside Control if).
-   - Inside `if`, drag `say Ouch! for 1 secs` (Looks).
-   - Select Sprite 2. Add movement: `when green flag clicked` → `move 10 steps`.
-   - Run (green flag). Drag Sprite 2 to touch Sprite 1; observe reaction. Stop script.
-5. **Interaction Option 2 (Broadcast — Alternative):**
-   - Select Sprite 1. Script: `when green flag clicked` → `move 50 steps` → `wait 1 secs` → `broadcast [message1]` (Events). Click 'New message', name it "greeting", click OK.
-   - Select Sprite 2. Script: `when I receive [greeting]` (Events) → `say Hello back! for 2 secs` (Looks).
-   - Run (green flag). Observe sequence. Explain broadcast = secret signal.
-6. **Typing Practice (5–10 min):** Continue typing lessons.
-
-### Reflection
-
-- "How did we make the sprites interact?"
-- "What does `broadcast`/`receive` do?" or "What does the 'touching' block check for?"
+- drawing apps provide tools for creating images
+- different tools produce different effects
+- the screen can act like a **canvas**
 
 ---
 
-## Guided Session 2: Repeat That! Loops & Sounds
+#### Activities
+**1. What Is a Digital Canvas?**
 
-> **Learning Objectives:** Understand and use `forever` loop for continuous action; use `repeat` loop for fixed repetitions; add sounds from Scratch library; use sound blocks (`play sound until done`, `start sound`); use `when this sprite clicked` event.
+Open the drawing app.
 
-### Activities
+Explain that the blank space is called a **canvas**.
 
-1. **Forever Loop:** Select sprite. Script: `when green flag clicked` → `forever` → (Inside) `move 10 steps` → `if on edge, bounce` (Motion). Click flag → continuous movement. Click red stop sign. Explain `forever` = keep doing until stopped.
-2. **Repeat Loop:** Script: `when green flag clicked` → `repeat [4]` (Control) → (Inside) `turn right 90 degrees` (Motion) → `wait 0.5 secs` (Control). Click flag → turns square. Change '4' to '10', '90' to '36'. Click flag → slow spin. Explain `repeat` = fixed number of times.
-3. **Add Sounds:** Select sprite. Click 'Sounds' tab. Click 'Choose a Sound'. Browse library (e.g., 'Effects', 'Loops'), pick sound. Sound added to list.
-4. **Play Sounds in Script:** Back to 'Code' tab. Drag `play sound [sound] until done` (Sound) into script. Try `start sound [sound]` — discuss difference (waits vs. continues).
-5. **Click Event:** Try script: `when this sprite clicked` (Events) → `start sound [sound]` (Sound). Click sprite on stage → plays sound.
-6. **Save Project:** File → Save now. Name "Loops and Sounds".
+Just like paper for drawing, the canvas is where images appear.
 
-### Reflection
+Ask the student:
 
-- "What's the difference between 'forever' and 'repeat'?"
-- "How do you add a sound to your sprite?"
+> “What kinds of things could we draw on a computer?”
+
+Possible ideas:
+
+- animals  
+- machines  
+- houses  
+- characters  
+- imaginary creatures  
 
 ---
 
-## Independent Session: "Scratch Story Scene"
+**2. Tool Exploration**
 
-**Instruction:** "Build a mini-scene with action! Start new Scratch project. Choose backdrop & at least one sprite. Make sprite move or spin using a loop when green flag clicked. Bonus: Add sound effect when sprite moves or when you click it! Save project."
+Let the student experiment with several tools:
 
-**Skills Reinforced:** Scratch basics (sprites, backdrops, motion, looks, sound, events, loops).
+Examples:
 
-**Setup:** [Scratch](https://scratch.mit.edu/) access, visual timer.
+- pencil or brush  
+- shapes (circle, square, triangle)  
+- color picker  
+- eraser  
 
+Encourage experimentation:
+
+- draw lines
+- change colors
+- try different shapes
+- erase and redraw
+
+Ask the student to **predict what a tool might do before using it**.
+
+---
+
+**3. Mini Drawing Challenge**
+
+Give a playful prompt such as:
+
+- draw your favorite animal
+- design a silly creature
+- draw a rocket or machine
+- draw a house for a dog
+
+Encourage creativity rather than detail.
+
+Explain that drawings are **another type of digital file**.
+
+---
+
+#### Reflection Questions
+- “What tool did you like the most?”
+- “What surprised you while drawing?”
+- “How is drawing on a computer different from drawing on paper?”
+
+---
+
+## Guided Session 2
+### Pictures Tell Stories
+#### Learning Goal
+The student understands that:
+
+- images can tell stories
+- pictures can communicate ideas without words
+- drawings can be saved and organized like other digital work
+
+---
+
+#### Activities
+**1. Picture Story Challenge**
+
+Explain that pictures can tell stories even without words.
+
+Show a simple example:
+
+
+Picture 1 → Character appears
+Picture 2 → Character does something
+
+
+Example ideas:
+
+- dog finds a bone  
+- rocket launches  
+- robot wakes up  
+
+Ask the student to draw **two related pictures**.
+
+---
+
+**2. Drawing the Story**
+
+Create the first drawing.
+
+Example prompts:
+
+- a dog sleeping
+- a rocket on the launch pad
+- a robot in a lab
+
+Save the drawing.
+
+Then create a second drawing that shows **what happens next**.
+
+Example:
+
+- the dog finds a bone
+- the rocket launches
+- the robot starts moving
+
+Save both drawings.
+
+---
+
+**3. Viewing the Saved Images**
+
+Open the **Drawings** folder inside:
+
+
+My Projects
+
+
+Show the student the saved images.
+
+Explain that digital artists often create **many versions of their work**.
+
+Saving allows us to return and improve ideas later.
+
+---
+
+#### Reflection Questions
+- “How did your pictures tell a story?”
+- “Why might someone choose pictures instead of words?”
+- “What would happen if we kept adding more pictures?”
+
+---
+
+## Independent Session
+### Creative Drawing Time
+#### Instruction
+Open your drawing program and create a new picture.
+
+You can draw:
+
+- your favorite animal
+- a machine or invention
+- an imaginary creature
+- a scene from a story
+- something you saw this week
+
+Try using **at least three different tools**.
+
+When you finish, save the drawing inside:
+
+
+My Projects → Drawings
+
+
+Give your picture a name.
+
+---
+
+#### Skills Reinforced
+- using drawing tools  
+- creative exploration  
+- saving image files  
+- communicating ideas visually  
+
+---
+
+#### Setup
+- drawing program open  
+- access to **My Projects → Drawings**  
+- visual timer

@@ -17,6 +17,20 @@ Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing 
 
 ---
 
+:::tip Use This Page
+- Review [Curriculum Overview](#curriculum-overview) for pacing and teaching assumptions.
+- Use [Program at a Glance](#program-at-a-glance) to jump to a specific week quickly.
+- Check [Optional CAD Extension](#optional-cad-extension) for the bonus 3D design track.
+- Open [Learning Ladder: How Skills Build Over Time](#learning-ladder-how-skills-build-over-time) to see how the course connects.
+- Save [Independent Session Setup Tips](#independent-session-setup-tips) for caregiver logistics.
+:::
+
+:::info Planning Help
+- Use this page as your roadmap before the course starts or whenever you need to find the right lesson quickly.
+- The week-by-week table is the fastest way to jump into a teaching page.
+- If you are planning lighter weeks, the optional CAD extension can stay separate from the main 18-week sequence.
+:::
+
 ## Curriculum Overview
 
 ### Target Audience
