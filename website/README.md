@@ -159,7 +159,7 @@ We welcome contributions to improve this curriculum! Please:
 
 ## 📄 License
 
-This curriculum is open source and available under the [MIT License](LICENSE).
+This curriculum is available under the [CC BY-NC-SA 4.0 license](../LICENSE).
 
 ## 📞 Support
 

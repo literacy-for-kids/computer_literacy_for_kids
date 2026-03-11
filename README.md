@@ -1,6 +1,6 @@
 # Computer Literacy for Kids
 
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
 ![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
@@ -127,9 +127,9 @@ Typical workflow:
 
 # License
 
-This curriculum is released under the MIT License.
+This curriculum is released under the CC BY-NC-SA 4.0 license.
 
-You are free to use, adapt, and share it.
+You are free to use, adapt, and share it for non-commercial purposes, with attribution, and under the same license.
 
 # Why This Curriculum Exists
 
