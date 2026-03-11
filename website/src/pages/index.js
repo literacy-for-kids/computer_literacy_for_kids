@@ -1,6 +1,5 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
@@ -8,25 +7,31 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
   const heroImageUrl = useBaseUrl('/img/hero-image.png');
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className={clsx('container', styles.heroContent)}>
         <div className={styles.heroCopy}>
-          <p className={styles.kicker}>Creative computer literacy for kids</p>
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p className={styles.kicker}>Free and open educational curriculum</p>
+          <h1 className="hero__title">Computer Literacy for Kids</h1>
+          <p className="hero__subtitle">
+            A free, open curriculum that teaches kids how computers actually work.
+          </p>
+          <p className={styles.heroLead}>
+            Many children know how to use apps but not how computers and the internet
+            actually function. This curriculum teaches those ideas through hands-on
+            activities that help students explore, question, and create with technology.
+          </p>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/intro">
+              to="/docs/week1">
               Start the Curriculum
             </Link>
             <Link
               className="button button--outline button--lg"
-              to="/docs/curriculum-overview">
-              View the Roadmap
+              to="https://github.com/zcohen-nerd/computer_literacy_for_kids">
+              View on GitHub
             </Link>
           </div>
         </div>
@@ -43,11 +48,10 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title="Welcome"
-      description="Computer Literacy Curriculum for Kids - A comprehensive 18-week program">
+      description="A professional curriculum website for teaching kids how computers and the internet actually work.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

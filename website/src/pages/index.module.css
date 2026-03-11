@@ -18,6 +18,14 @@
   text-align: left;
 }
 
+.heroLead {
+  max-width: 44rem;
+  margin: 0 0 1.5rem;
+  color: rgba(255, 255, 255, 0.96);
+  font-size: 1.03rem;
+  line-height: 1.7;
+}
+
 .kicker {
   display: inline-block;
   margin: 0 0 1rem;
@@ -45,6 +53,18 @@
   background: rgba(255, 255, 255, 0.12);
 }
 
+.heroBanner :global(.hero__title) {
+  max-width: 12ch;
+  margin-bottom: 1rem;
+}
+
+.heroBanner :global(.hero__subtitle) {
+  max-width: 32rem;
+  margin-bottom: 1rem;
+  font-size: 1.35rem;
+  line-height: 1.4;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem 0 2.5rem;
@@ -57,6 +77,17 @@
 
   .heroCopy {
     text-align: center;
+  }
+
+  .heroLead {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .heroBanner :global(.hero__title),
+  .heroBanner :global(.hero__subtitle) {
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .heroMedia {
