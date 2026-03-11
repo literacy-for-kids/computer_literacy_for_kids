@@ -1,119 +1,139 @@
-# 🖥️ Computer Literacy for Kids
+# Computer Literacy for Kids
 
-An 18-week, hands-on computer literacy curriculum for young learners (~age 7) working alongside a parent, guardian, or teacher.
+![License](https://img.shields.io/badge/license-MIT-green)
+![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
+![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
-[![Live Site](https://img.shields.io/badge/View%20Curriculum-zcohen--nerd.github.io-4a90d9?style=for-the-badge)](https://zcohen-nerd.github.io/computer_literacy_for_kids/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
+A curiosity-driven **18-week computer literacy curriculum** that helps young learners explore computers as tools for **thinking, creating, and solving problems.**
 
----
-
-## 📋 Quick Start
-
-The fastest way to use this curriculum — no setup required:
-
-| Format | Link |
-|--------|------|
-| 🌐 **Browse online** | [computer_literacy_for_kids](https://zcohen-nerd.github.io/computer_literacy_for_kids/) |
-| 📄 **Download PDF** | [18-Week Curriculum (PDF)](./18-Week%20Computer%20Literacy%20Curriculum%20for%20Young%20Learners.pdf) |
-| 📝 **Download DOCX** | [18-Week Curriculum (DOCX)](./18-Week%20Computer%20Literacy%20Curriculum%20for%20Young%20Learners.docx) |
-
-Share any of the above with other educators or families.
+🌐 **View the curriculum website:**  
+https://zcohen-nerd.github.io/computer_literacy_for_kids/
 
 ---
 
-## 🗓️ Curriculum Overview
+# About the Curriculum
 
-Each week includes **two guided 30-minute sessions** and **one 20-minute independent session**, following a consistent structure with preparation checklists, step-by-step activities, and reflection questions.
+This project provides an **18-week introduction to computing** designed for young learners (approximately age 7+).
 
-| Unit | Weeks | What Students Learn |
-|------|:-----:|---------------------|
-| **Digital Foundations** | 1–4 | Internet safety & digital citizenship, Windows desktop & file management, digital art with Paint 3D, web searching with kid-safe tools |
-| **Programming & Creativity** | 5–7 | Block-based coding with Scratch, keyboard & typing skills, composing email safely |
-| **3D Design & Making** | 8–10 | TinkerCAD modeling & design, precision tools, 3D printing workflow |
-| **AI & Digital Citizenship** | 11–12 | Supervised AI chatbot exploration, online kindness, strong passwords & phishing awareness |
-| **Multimedia & Data** | 13–15 | Slideshow presentations, video editing with Clipchamp, spreadsheets & charts |
-| **Final Project** | 16–18 | Plan, build, and present a "Digital Creation Story" combining learned skills |
+Instead of focusing on memorizing software steps, the curriculum helps students develop **mental models for how computers work** and how to **figure things out independently**.
 
-Two supplementary pages cover **independent session setup tips** and a **materials checklist**.
+Students gradually explore topics including:
 
----
+- digital citizenship and internet safety
+- computer fundamentals and file organization
+- typing and digital communication
+- searching and evaluating information
+- coding concepts using Scratch
+- debugging and digital problem solving
+- understanding how digital systems work
+- generative AI literacy
+- creative digital projects
 
-## 🧰 Tools & Services Used
+The program gradually moves students from:
 
-All tools are free or included with Windows:
 
-- [Scratch](https://scratch.mit.edu/) — block-based coding
-- [TinkerCAD](https://www.tinkercad.com/) — 3D design
-- [Google Interland](https://beinternetawesome.withgoogle.com/) — internet safety games
-- [Kiddle](https://www.kiddle.co/) — kid-safe search engine
-- [TypingClub](https://www.typingclub.com/) / [BBC Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) — typing practice
-- **Paint 3D**, **Notepad**, **File Explorer**, **Clipchamp** — built-in Windows apps
-- **PowerPoint** / [Google Slides](https://docs.google.com/presentation/) / [Canva](https://www.canva.com/) — presentations
-- **Excel** / [Google Sheets](https://docs.google.com/spreadsheets/) — spreadsheets
-- [ChatGPT](https://chat.openai.com/) — supervised AI exploration
+digital awareness → digital fluency → digital creativity
+
 
 ---
 
-## 📁 Repository Structure
+# Optional CAD Extension
+
+For learners interested in design and engineering, the curriculum includes an **optional 3D design module using TinkerCAD**.
+
+Students can learn to:
+
+- create simple 3D models
+- understand spatial design
+- prepare models for **3D printing**
+
+This introduces a powerful idea for kids:
+
+**Ideas can move from imagination → digital design → real physical objects.**
+
+---
+
+# Curriculum Structure
+
+The curriculum progresses through several stages:
+
+| Stage | Weeks | Focus |
+|------|------|------|
+| Digital Foundations | 1–3 | Internet safety, computers as systems, files & folders |
+| Core Computer Skills | 4–6 | Typing, communication, images and creativity |
+| Information & Media Literacy | 7–8 | Search skills, video literacy, project planning |
+| Coding & Problem Solving | 9–11 | Coding concepts, Scratch programming, debugging |
+| Systems Thinking | 12 | Understanding how technology works |
+| AI Literacy | 13–14 | Understanding and using generative AI |
+| Creative Project | 15–18 | Designing and presenting a final digital project |
+
+Each week includes:
+
+- two guided sessions
+- one independent creative session
+
+The curriculum emphasizes **exploration, creativity, and problem solving**.
+
+---
+
+# Repository Structure
+
+The curriculum is written as a documentation website built with **Docusaurus**.
+
+Most of the educational content lives in `website/docs/`.
 
 ```
-├── README.md
-├── LICENSE
-├── 18-Week Computer Literacy Curriculum for Young Learners.docx
-├── 18-Week Computer Literacy Curriculum for Young Learners.pdf
-├── docs/                    # Markdown source for each lesson
-│   ├── _master.md           # Full curriculum in a single file
-│   ├── week01-...md         # Individual weekly lesson plans
-│   └── ...
-└── website/                 # Docusaurus site (powers the live site)
-    ├── docs/                # Website copy of lesson content
-    ├── src/                 # Homepage components & custom CSS
-    ├── docusaurus.config.js
-    ├── sidebars.js
-    └── package.json
+website/
+  docs/
+    intro.md
+    _master.md
+    week01-week-1-internet-playground.md
+    week02-week-2-computer-control-room.md
+    ...
+    week18-week-18-creator-showcase.md
+    week-CAD-1-shape-builders.md
+    week-CAD-2-from-screen-to-real-objects.md
 ```
 
-- **`docs/`** — The canonical Markdown source files. Edit here if you want to update lesson content.
-- **`website/`** — The Docusaurus project that builds the live site. Pushes to `main` auto-deploy via GitHub Actions.
+Each lesson is written in **Markdown**, which makes it easy to edit and maintain.
+
+The website automatically generates navigation from these files.
 
 ---
 
-## 🖥️ Local Development
+# Contributing
 
-Only needed if you want to run the website locally or contribute changes to the site:
+Contributions that improve the curriculum are welcome.
 
-```bash
-cd website
-npm install
-npm start
-```
+Examples include:
 
-The site will open at `http://localhost:3000/computer_literacy_for_kids/`.
+- improving explanations
+- fixing typos
+- adding examples or activities
+- suggesting teaching improvements
+- expanding documentation
 
-To build a production version:
+Typical workflow:
 
-```bash
-npm run build
-```
-
-**Requirements:** Node.js 18+
-
----
-
-## 🤝 Contributing
-
-Found a typo, have an activity idea, or want to improve a lesson? Contributions are welcome!
-
-1. **Open an issue** to discuss your idea
-2. **Fork & submit a pull request** with your changes
-3. Keep the downloadable DOCX/PDF files and site structure intact
+1. Fork the repository  
+2. Create a new branch  
+3. Edit the Markdown files in `website/docs/`  
+4. Submit a pull request
 
 ---
 
-## 📜 License
+# License
 
-This project is licensed under the [MIT License](./LICENSE).
+This curriculum is released under the MIT License.
 
----
+You are free to use, adapt, and share it.
 
-Built with [Docusaurus](https://docusaurus.io/) · Created by [Zachary Cohen](https://github.com/zcohen-nerd)
+# Why This Curriculum Exists
+
+Many children grow up using computers constantly but never learn how they actually work.
+
+This curriculum aims to change that.
+
+The goal is simple:
+
+Help kids feel like computers are tools they can understand, control, and create with.

@@ -34,9 +34,9 @@
 
     4.  **Emphasize "Talk It Out":** Stress telling a trusted adult about *anything* confusing or uncomfortable online. This is being brave!
 
-    5.  **Optional Mini-Talk (1â€“2 min):** â€œWe use computers for amazing thingsâ€”but it's important to take breaks too! Our bodies and minds need movement, rest, and time with people we love.â€
+    5.  **Optional Mini-Talk (1-2 min):** "We use computers for amazing things — but it's important to take breaks too! Our bodies and minds need movement, rest, and time with people we love."
 
-  - **Reflection (1-2 min):** Ask: "What's one thing the internet lets us do?" "What's the most important rule if something feels weird online?" â€œWhatâ€™s your favorite thing to do *not* on a screen?â€ â€œHow does your body feel after using the computer for a while?â€
+  - **Reflection (1-2 min):** Ask: "What's one thing the internet lets us do?" "What's the most important rule if something feels weird online?" "What's your favorite thing to do *not* on a screen?" "How does your body feel after using the computer for a while?"
 
 - **Guided Session 2: Staying Alert & Protecting Our Secrets**
 

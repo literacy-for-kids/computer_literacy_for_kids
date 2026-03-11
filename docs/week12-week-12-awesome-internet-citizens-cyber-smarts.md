@@ -59,7 +59,7 @@
         - Length: Longer = better.  
           CRITICAL: Stress ideas only. Never use examples or real passwords. Create real ones privately, never share.
 
-    3.  What is 2FA?: Explain that some accounts need two things to unlockâ€”this is called Two-Factor Authentication (2FA). It's like opening a treasure chest that needs both a key (your password) and a secret code (sent to your phone or email). It makes your account even safer.
+    3.  **What is 2FA?:** Explain that some accounts need two things to unlock — this is called Two-Factor Authentication (2FA). It's like opening a treasure chest that needs both a key (your password) and a secret code (sent to your phone or email). It makes your account even safer.
 
         - Analogy: "A treasure chest with two locks is harder for a pirate to break into!"
 

@@ -1,4 +1,4 @@
-﻿# Week 18: Mission Complete - Project Showcase
+# Week 18: Mission Complete - Project Showcase
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -66,9 +66,8 @@
 
 - **Independent Session (20 min): "Free Create!"**
 
-  - **Instruction:** "Congratulations on finishing your amazing story project! You've learned so much. For our very last session, you get 20 minutes of 'Free Create' time. You can use *any* of the computer tools we learned about this whole time (Paint 3D, Scratch, Tinkercad, Clipchamp, Notepad, Slides, etc.) to make absolutely anything you want! Draw, code, design, write â€“ just have fun creating!"
+  - **Instruction:** "Congratulations on finishing your amazing story project! You've learned so much. For our very last session, you get 20 minutes of 'Free Create' time. You can use *any* of the computer tools we learned about this whole time (Paint 3D, Scratch, Tinkercad, Clipchamp, Notepad, Slides, etc.) to make absolutely anything you want! Draw, code, design, write — just have fun creating!"
 
   - **Skills Reinforced:** Creative exploration, independent use of learned software tools, reinforcing enjoyment of digital creation.
 
   - **Setup:** Access to preferred software tools, visual timer.
-

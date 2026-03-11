@@ -138,7 +138,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
     10. Basic Troubleshooting Skills: Introduce a simple checklist for when things don't work right. Explain this is like a “toolbox” for solving little problems on your own.
 
-        - Try clicking again."
+        - "Try clicking again."
 
         - "Is it already open in the background?"
 
@@ -1360,5 +1360,3 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 - Pre-loaded templates or starter files when appropriate (e.g., document templates, Scratch starters, presentation files to add to).
 
 - Quick-reference sheets for commonly used tools (e.g., Paint 3D toolbar, Scratch block categories, Tinkercad view controls).
-
-This fully detailed and generalized 18-week curriculum should now be suitable for sharing and adaptable for various children's interests.

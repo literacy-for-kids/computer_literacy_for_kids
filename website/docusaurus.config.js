@@ -107,8 +107,8 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Week 1: Internet Safety',
-                to: '/docs/week01-week-1-internet-ready-safety-first',
+                label: 'Week 1: Internet Playground',
+                to: '/docs/week01-week-1-internet-playground',
               },
             ],
           },

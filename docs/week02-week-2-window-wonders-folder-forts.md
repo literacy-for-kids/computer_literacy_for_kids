@@ -54,9 +54,9 @@
 
     9.  **Verify:** Close Notepad. Use File Explorer to find and open the saved file.
 
-    10. Basic Troubleshooting Skills: Introduce a simple checklist for when things don't work right. Explain this is like a â€œtoolboxâ€ for solving little problems on your own.
+    10. Basic Troubleshooting Skills: Introduce a simple checklist for when things don't work right. Explain this is like a "toolbox" for solving little problems on your own.
 
-        - Try clicking again."
+        - "Try clicking again."
 
         - "Is it already open in the background?"
 
@@ -66,7 +66,7 @@
 
         - "Ask an adult if you're still stuck after a few minutes."
 
-  - **Reflection (1-2 min):** Ask: "Why is it helpful to put files into folders?" "What does 'Save As' let us do that 'Save' doesn't always do?" (Choose location/name first time) "Whatâ€™s one thing you can try if something isnâ€™t working right?".
+  - **Reflection (1-2 min):** Ask: "Why is it helpful to put files into folders?" "What does 'Save As' let us do that 'Save' doesn't always do?" (Choose location/name first time) "What's one thing you can try if something isn't working right?".
 
 - **Independent Session (20 min): "Folder Fun"**
 

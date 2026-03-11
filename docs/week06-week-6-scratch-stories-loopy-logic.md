@@ -64,7 +64,7 @@
 
     3.  **Add Sounds:** Select sprite. Click 'Sounds' tab. Click 'Choose a Sound'. Browse library (e.g., 'Effects', 'Loops'), pick sound. Sound added to list.
 
-    4.  **Play Sounds in Script:** Back to 'Code' tab. Drag play sound \[sound v\] until done (Sound) into script. Try start sound \[sound v\] â€“ discuss difference (waits vs. continues).
+    4.  **Play Sounds in Script:** Back to 'Code' tab. Drag play sound \[sound v\] until done (Sound) into script. Try start sound \[sound v\] — discuss difference (waits vs. continues).
 
     5.  **Click Event:** Try script: when this sprite clicked (Events) -\> start sound \[sound v\] (Sound). Click sprite on stage -\> plays sound.
 
