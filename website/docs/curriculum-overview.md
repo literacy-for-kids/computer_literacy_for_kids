@@ -1,5 +1,6 @@
 ---
 id: curriculum-master
+slug: /curriculum-overview
 title: 18-Week Computer Literacy Curriculum
 description: >
   Step-by-step computer literacy roadmap that blends guided lessons with independent practice for young beginners.
