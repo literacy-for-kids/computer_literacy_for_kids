@@ -34,17 +34,14 @@ Before you begin, ensure you have the following installed:
 
 ## 📚 Curriculum Content
 
-The curriculum is organized into weekly lessons located in `website/docs`.
+The curriculum is organized into weekly lessons in the `docs/` directory of this Docusaurus site.
 
-- **Week 1-4**: Internet Safety, File Management, and Digital Tools
-- **Week 5-6**: Introduction to Programming with Scratch
-- **Week 7**: Digital Communication Skills
-- **Week 8-10**: 3D Design and Modeling with TinkerCAD
-- **Week 11**: AI Awareness and Understanding
-- **Week 12**: Advanced Internet Safety and Digital Citizenship
-- **Week 13-15**: Multimedia Creation (Presentations, Videos, Spreadsheets)
-- **Week 16-18**: Capstone Project Development and Showcase
-- **Week 19-20**: Independent Learning Resources
+- **Weeks 1-4**: Digital foundations, computer systems, files, and typing
+- **Weeks 5-8**: Writing, digital art, searching, and project planning
+- **Weeks 9-12**: Coding concepts, Scratch, debugging, and systems thinking
+- **Weeks 13-14**: AI literacy and creative AI use
+- **Weeks 15-18**: Final project design, build, revision, and showcase
+- **Optional CAD Weeks**: TinkerCAD, 3D modeling, and preparing designs for printing
 
 ## 🔧 Configuration
 
@@ -114,7 +111,7 @@ website/
 
 ### Adding New Curriculum Content
 
-1. Add new `.md` files to `website/docs`
+1. Add new `.md` files to `docs/` (this maps to `website/docs` from the repository root)
 2. Follow the naming convention: `weekXX-description.md`
 3. The sidebar will automatically include new files
 

@@ -14,12 +14,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Hands-On Learning',
+    title: 'Hands-On Creative Learning',
     emoji: '🛠️',
     description: (
       <>
-        Engage with practical activities including file management, creative tools,
-        programming with Scratch, 3D design, and multimedia projects.
+        Move from writing, drawing, and search skills into Scratch coding,
+        debugging, final projects, and optional 3D design extensions.
       </>
     ),
   },
@@ -28,8 +28,8 @@ const FeatureList = [
     emoji: '🚀',
     description: (
       <>
-        Build foundation skills in AI awareness, data analysis, and project management
-        that prepare students for an increasingly digital world.
+        Build lasting confidence with AI literacy, systems thinking, digital problem
+        solving, and project-based creation that goes beyond passive screen time.
       </>
     ),
   },
