@@ -86,7 +86,7 @@ Most of the educational content lives in `website/docs/`.
 website/
   docs/
     intro.md
-    _master.md
+       curriculum-overview.md
     week01-week-1-internet-playground.md
     week02-week-2-computer-control-room.md
     ...
