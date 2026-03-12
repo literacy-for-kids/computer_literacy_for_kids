@@ -4,6 +4,7 @@
 const sidebars = {
   curriculumSidebar: [
     'intro',
+    'license',
     {
       type: 'category',
       label: 'Digital Foundations',

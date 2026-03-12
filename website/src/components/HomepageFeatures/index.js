@@ -149,6 +149,19 @@ export default function HomepageFeatures() {
               Begin Week 1
             </Link>
           </div>
+          <p className={styles.feedbackPrompt}>
+            Found a mistake or have a suggestion?{' '}
+            <Link to="https://github.com/zcohen-nerd/computer_literacy_for_kids/issues">
+              Open an issue on GitHub.
+            </Link>
+          </p>
+          <div className={styles.versionNote}>
+            <p className={styles.versionLabel}>Version 2.0</p>
+            <p>
+              This curriculum is an open project and will continue to improve as
+              teachers and families use it.
+            </p>
+          </div>
         </div>
       </section>
     </div>

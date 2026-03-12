@@ -92,6 +92,39 @@
   flex-wrap: wrap;
 }
 
+.feedbackPrompt {
+  margin: 1.5rem 0 0;
+  color: var(--ifm-color-emphasis-800);
+  font-size: 0.98rem;
+}
+
+.feedbackPrompt a {
+  font-weight: 700;
+}
+
+.versionNote {
+  max-width: 42rem;
+  margin: 1.25rem auto 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.7);
+  color: var(--ifm-color-emphasis-800);
+}
+
+.versionNote p {
+  margin: 0;
+}
+
+.versionLabel {
+  margin-bottom: 0.35rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--ifm-color-primary-darkest);
+}
+
 @media screen and (max-width: 996px) {
   .section,
   .sectionAlt,

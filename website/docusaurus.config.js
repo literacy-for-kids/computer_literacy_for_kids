@@ -110,6 +110,27 @@ const config = {
                 label: 'Week 1: Internet Playground',
                 to: '/docs/week01-week-1-internet-playground',
               },
+              {
+                label: 'License',
+                to: '/docs/license',
+              },
+            ],
+          },
+          {
+            title: 'License',
+            items: [
+              {
+                label: 'CC BY-NC-SA 4.0',
+                href: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+              },
+              {
+                label: 'License Summary',
+                to: '/docs/license',
+              },
+              {
+                label: 'Source Repository',
+                href: 'https://github.com/zcohen-nerd/computer_literacy_for_kids',
+              },
             ],
           },
           {
@@ -125,21 +146,8 @@ const config = {
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/zcohen-nerd/computer_literacy_for_kids',
-              },
-            ],
-          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Computer Literacy Curriculum. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Zachary Cohen. Curriculum content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. See the <a href="/computer_literacy_for_kids/docs/license">license page</a> for attribution, sharing, and adaptation details.`,
       },
       prism: {
         theme: prismThemes.github,
