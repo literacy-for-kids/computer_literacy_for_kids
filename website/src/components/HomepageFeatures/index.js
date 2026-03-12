@@ -1,4 +1,5 @@
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
@@ -83,6 +84,8 @@ function RoadmapCard({title, weeks, description}) {
 }
 
 export default function HomepageFeatures() {
+  const roadmapImageUrl = useBaseUrl('/img/roadmap.png');
+
   return (
     <div className={styles.pageSections}>
       <section className={styles.section}>
@@ -119,6 +122,13 @@ export default function HomepageFeatures() {
             The learning progression moves from digital foundations into communication, coding,
             systems thinking, and a final creative project.
           </p>
+          <div className={styles.roadmapVisual}>
+            <img
+              className={styles.roadmapImage}
+              src={roadmapImageUrl}
+              alt="Visual roadmap showing the Computer Literacy for Kids curriculum sequence"
+            />
+          </div>
           <div className={styles.roadmapGrid}>
             {roadmapSections.map((section) => (
               <RoadmapCard key={section.title} {...section} />

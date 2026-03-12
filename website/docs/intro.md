@@ -18,6 +18,10 @@ By the end of the curriculum, students will understand not just *how* to use a c
 
 For learners who are interested, the curriculum also includes **optional 3D design (CAD) modules using TinkerCAD**, allowing students to design simple objects and potentially turn their digital ideas into **real-world physical creations through 3D printing.**
 
+![Visual roadmap of the 18-week Computer Literacy for Kids curriculum](/img/roadmap.png)
+
+This visual roadmap gives teachers and caregivers a quick big-picture view of how the curriculum progresses from digital foundations into creative project work.
+
 ---
 
 :::tip Use This Page

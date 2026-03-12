@@ -16,6 +16,10 @@ The program progresses from **basic computer interaction** toward **creative dig
 
 Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing the instructor to adapt activities based on the learner’s curiosity and pace.
 
+![Visual roadmap of the full 18-week computer literacy sequence](/img/roadmap.png)
+
+Use this roadmap image when you want a quick visual summary of how the full sequence fits together before reading the detailed weekly breakdown.
+
 ---
 
 :::tip Use This Page

@@ -34,6 +34,22 @@
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
+.roadmapVisual {
+  margin: 0 0 1.75rem;
+  padding: 1rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 22px;
+  background: linear-gradient(180deg, rgba(74, 144, 217, 0.04), rgba(74, 144, 217, 0.01));
+  box-shadow: 0 10px 30px rgba(22, 48, 87, 0.05);
+}
+
+.roadmapImage {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+}
+
 .card,
 .roadmapCard,
 .callout {
