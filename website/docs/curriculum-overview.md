@@ -10,11 +10,11 @@ sidebar_position: 0
 
 # 18-Week Computer Literacy Curriculum
 
-This curriculum provides a **structured introduction to computer literacy** for young beginners (target age ~7). It blends guided instruction with independent exploration to help learners develop confidence using computers for **communication, creativity, problem solving, and digital citizenship**.
+This curriculum provides a **structured introduction to computer literacy** for young beginners (roughly ages 7-11, with adult guidance as needed). It blends guided instruction with independent exploration to help learners develop confidence using computers for **communication, creativity, problem solving, and digital citizenship**.
 
-The program progresses from **basic computer interaction** toward **creative digital projects**, gradually introducing concepts like coding, media creation, and generative AI.
+The program progresses from **basic computer interaction** toward **creative digital projects**, gradually introducing concepts like coding, media creation, information literacy, and generative AI.
 
-Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing the instructor to adapt activities based on the learner’s curiosity and pace.
+Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing the instructor to adapt activities based on the learner’s curiosity and pace while still pushing students to **analyze, evaluate, and create**.
 
 ![Visual roadmap of the full 18-week computer literacy sequence](/img/roadmap.png)
 
@@ -39,7 +39,7 @@ Use this roadmap image when you want a quick visual summary of how the full sequ
 ## Curriculum Overview
 
 ### Target Audience
-Young beginner computer users (approximately age 7).  
+Young beginner computer users (roughly ages 7-11).  
 Basic reading ability is helpful, but adult guidance is expected.
 
 ### Weekly Structure
@@ -49,7 +49,9 @@ Each week contains:
 - **One independent session** (about 20 minutes)
 
 Guided sessions introduce concepts and tools.  
-Independent sessions reinforce skills through creative exploration.
+Independent sessions reinforce skills through creative exploration, reflection, and purposeful revision.
+
+Across the curriculum, students are regularly asked to explain what they notice, compare possible choices, judge what works best, and create stronger next versions of their work.
 
 ### Typing Practice
 Beginning **Week 4**, incorporate **5–10 minutes of typing practice** during guided sessions.
@@ -125,8 +127,8 @@ Each week below links to a detailed lesson page containing:
 | [Week 4](./week04-week-4-keyboard-ninja-training) | ⌨️ Keyboard Skills | Touch typing basics and keyboard confidence |
 | [Week 5](./week05-week-5-the-power-of-words) | ✉️ Writing on Computers | Text communication and simple writing tools |
 | [Week 6](./week06-week-6-the-digital-art-studio) | 🎨 Pictures Tell Stories | Digital drawing and image communication |
-| [Week 7](./week07-week-7-the-internet-detective-lab) | 🔎 Smart Searching | Search engines, evaluating sources, video literacy |
-| [Week 8](./week08-week-8-the-idea-workshop) | 💡 Planning Digital Ideas | Brainstorming and planning creative projects |
+| [Week 7](./week07-week-7-the-internet-detective-lab) | 🔎 Smart Searching | Better questions, search terms, search results, and choosing what to open |
+| [Week 8](./week08-week-8-the-idea-workshop) | 💡 The Idea Workshop | Wikipedia exploration, connected knowledge, references, and source awareness |
 | [Week 9](./week09-week-9-teach-the-computer) | 🧠 Thinking Like a Programmer | Algorithms, logic, and coding concepts |
 | [Week 10](./week10-week-10-build-your-first-program) | 🧩 Coding with Blocks | Scratch programming and interactive logic |
 | [Week 11](./week11-week-11-the-debugging-lab) | 🛠 Fixing Digital Problems | Debugging and troubleshooting |
@@ -173,14 +175,14 @@ C[📁 Files & Folders<br>Week 3]
 D[⌨️ Touch Typing<br>Week 4]
 end
 
-subgraph L3[Communication Skills]
+subgraph L3[Communication & Information Skills]
 E[✉️ Writing with Text<br>Week 5]
 F[🎨 Communicating with Images<br>Week 6]
-G[🔎 Searching & Video Literacy<br>Week 7]
+G[🔎 Search Strategy & Results<br>Week 7]
 end
 
-subgraph L4[Creative Thinking]
-H[💡 Project Planning & Ideas<br>Week 8]
+subgraph L4[Knowledge Navigation]
+H[💡 Wikipedia & Source Awareness<br>Week 8]
 end
 
 subgraph L5[Computational Thinking]
@@ -214,7 +216,7 @@ N --> O --> P --> Q
 
 ```
 Each layer of the curriculum builds on the previous one.  
-Students begin by learning how computers work and how to stay safe online, then move into communication, creative thinking, coding, and finally producing a complete digital project.
+Students begin by learning how computers work and how to stay safe online, then move into communication, information literacy, coding, and finally producing a complete digital project.
 
 ---
 
@@ -233,7 +235,7 @@ Computer Basics
 ↓
 Communication
 ↓
-Creative Planning
+Information Literacy
 ↓
 Coding & Logic
 ↓
@@ -255,7 +257,7 @@ By the time students reach the final project, they have practiced:
 - file organization  
 - typing  
 - digital communication  
-- searching and evaluating information  
+- searching, comparing results, and tracing information back to sources  
 - coding logic  
 - debugging and problem solving  
 - creative digital tools  

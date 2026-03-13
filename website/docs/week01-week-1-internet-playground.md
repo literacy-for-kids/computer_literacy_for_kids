@@ -60,11 +60,11 @@ Instead help the student understand **why certain situations require caution or 
 ## Guided Session 1
 ### The Internet Is Made of People
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- the internet connects people all over the world  
-- websites and videos are created by people  
-- the internet can be used to **learn, explore, and create**
+- analyze examples of online content and infer the people behind them
+- compare different reasons people create and share things on the internet
+- create a simple explanation of the internet as a network of people, ideas, and tools
 
 ---
 
@@ -144,21 +144,20 @@ Explain that each page is **something someone made and shared**.
 #### Reflection Questions
 Ask open-ended questions:
 
-- “What do you think the internet is made of?”
-- “Who do you think makes websites and videos?”
-- “What was something interesting you saw today?”
-- “Why do you think people put things on the internet?”
+- “What clues helped you infer who made something online?”
+- “How were the sites you explored similar or different in what they were trying to do?”
+- “If you had to explain the internet to someone younger, what idea would you want them to understand?”
 
 ---
 
 ## Guided Session 2
 ### Being a Smart Digital Explorer
 #### Learning Goal
-The student begins developing **internal judgment** about:
+By the end of this session, the student can:
 
-- personal information
-- confusing or strange content
-- when to ask a trusted adult
+- evaluate online situations and judge which ones are safe, private, or adult-help moments
+- justify why some information should stay private even when a website asks for it
+- create a simple personal safety rule for what to do when something online feels confusing or strange
 
 ---
 
@@ -244,35 +243,38 @@ This idea will return later in the course.
 ---
 
 #### Reflection Questions
-- “Why do some things stay private online?”
-- “What should you do if something online feels confusing or strange?”
-- “Why do you think websites show us more videos like the ones we watch?”
+- “How did you decide whether a piece of information was public or private?”
+- “Which situations should lead to an adult-help decision, and why?”
+- “What rule would help you stay in control when a website tries to influence your attention?”
 
 ---
 
 ## Independent Session
 ### Internet Explorer
 #### Instruction
-Explore a kid-friendly website and find **one interesting thing**.
+Explore a kid-friendly website and study it like a careful digital explorer.
 
-You can:
+As you explore, notice:
 
-- read a fact
-- look at pictures
-- watch a short educational video
+- who seems to have made the page
+- what the page is trying to help you do
+- what makes it feel useful, fun, or confusing
 
-After exploring, choose one thing to do:
+When you finish, create one of these:
 
-1. **Tell someone one interesting thing you learned**, or  
-2. **Draw a picture of something you discovered.**
+1. a short explanation of what the site teaches or shares
+2. a drawing that shows something you discovered
+3. a spoken explanation of why the site seems helpful for kids
+
+Be ready to explain **how you decided** what was interesting or useful.
 
 ---
 
 #### Skills Reinforced
-- navigating websites
-- curiosity and exploration
-- recognizing that information comes from people
-- communicating what was learned
+- analyzing websites for purpose and audience
+- evaluating what feels useful, safe, or confusing online
+- inferring that digital content is created by people
+- communicating a reasoned takeaway from exploration
 
 ---
 

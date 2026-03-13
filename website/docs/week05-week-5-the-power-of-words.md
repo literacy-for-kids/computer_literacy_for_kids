@@ -83,11 +83,11 @@ The goal is helping the student realize:
 ## Guided Session 1
 ### Turning Ideas into Words
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- writing on a computer is a way to share ideas
-- typing allows us to easily edit and improve writing
-- the cursor shows where text will appear
+- analyze how cursor placement changes the meaning or structure of writing
+- compose a short digital message with a clear purpose and audience
+- justify why writing on a computer can support revision and improvement
 
 ---
 
@@ -147,20 +147,20 @@ Focus on ideas rather than correctness.
 ---
 
 #### Reflection Questions
-- “What did you choose to write about?”
-- “What happens when you move the cursor?”
-- “Why might writing on a computer be easier than writing on paper?”
+- “How did moving the cursor change what or where you wrote?”
+- “What writing choice helped make your message clearer for a reader?”
+- “Why does digital writing give you more control over your ideas than paper sometimes does?”
 
 ---
 
 ## Guided Session 2
 ### Editing and Improving Writing
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- text can be edited and improved
-- mistakes can be fixed easily
-- writing is something we can **change and refine**
+- evaluate a piece of writing and identify ways to improve it
+- revise text for clarity, detail, and correctness using editing tools
+- create a stronger second draft and explain what improved
 
 ---
 
@@ -233,27 +233,30 @@ My First Story
 ---
 
 #### Reflection Questions
-- “What does selecting text allow you to do?”
-- “Why is it helpful that we can edit writing on a computer?”
-- “What new sentence did you add?”
+- “How did editing change the quality of your writing?”
+- “Which revision made your writing clearer, stronger, or more interesting?”
+- “If you revised it again, what would you improve next?”
 
 ---
 
 ## Independent Session
 ### Write Something Fun
 #### Instruction
-Open your writing app and create a short piece of writing.
+Open your writing app and create a short piece of writing with a clear purpose.
 
-You can choose one of these ideas:
+Choose one idea, then plan how to make it interesting for a reader.
 
-- Write **3 sentences about your favorite animal**  
-- Write about **something you want to invent**  
-- Write a **short silly story**
-
-Try to include:
+Your writing should include:
 
 - a title
-- a few sentences
+- a few connected sentences
+- at least one revision after you reread it
+
+Before saving, ask yourself:
+
+- Is my idea clear?
+- What sentence could be improved?
+- What did I change to make this stronger?
 
 After you finish, save your writing in:
 
@@ -264,11 +267,11 @@ My Projects → Stories
 ---
 
 #### Skills Reinforced
-- typing practice  
-- cursor control  
-- editing mistakes  
-- expressing ideas through text  
-- saving written work  
+- composing ideas with audience and purpose in mind
+- controlling text placement and structure with the cursor
+- revising writing for clarity and quality
+- expressing ideas through increasingly intentional digital writing
+- saving and managing revised written work
 
 ---
 

@@ -79,11 +79,11 @@ Encourage curiosity and experimentation with shapes.
 ## Guided Session 1
 ### Discovering 3D Shapes
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- understands that 3D objects are made from shapes
-- learns how to add and move shapes in TinkerCAD
-- begins exploring the 3D workspace
+- analyze how basic 3D shapes combine to form more complex objects
+- manipulate shapes intentionally in TinkerCAD to test design ideas
+- create a simple 3D arrangement that shows purposeful design choices
 
 ---
 
@@ -180,11 +180,11 @@ Encourage experimentation.
 ## Guided Session 2
 ### Building Something From Shapes
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- combines multiple shapes
-- begins thinking like a designer
-- builds a simple object from basic shapes
+- create a recognizable 3D object by combining basic shapes
+- evaluate which shape choices best support the object they want to build
+- justify how the parts of the model work together in the final design
 
 ---
 
@@ -251,39 +251,24 @@ Explain that naming files helps keep projects organized.
 ---
 
 #### Reflection Questions
-- “What did you build?”
-- “Which shapes did you use?”
-- “What shape was most useful?”
+- “How did you decide which shapes worked best for your design?”
+- “Which shape choice had the biggest effect on the final object?”
+- “If you rebuilt it, what would you change to improve the design?”
 
 ---
 
 ## Independent Session
 ### Shape Explorer
 #### Instruction
-Open TinkerCAD and create **a new design**.
+Open TinkerCAD and create **a new design** that shows experimentation and choice.
 
-Your challenge:
+Build **three different objects** using shapes, but do not just place shapes randomly.
 
-Build **three different objects** using shapes.
+As you work, ask yourself:
 
-Ideas:
-
-- a tall tower  
-- a robot  
-- a funny creature  
-- a spaceship  
-- a castle  
-
-Try using different shapes like:
-
-- boxes
-- spheres
-- cylinders
-- cones
-
-Remember:
-
-> **Designers learn by experimenting.**
+- Which shape fits this idea best?
+- How does resizing or moving the shape improve the object?
+- Which design looks the most successful, and why?
 
 When you're done, rename the design:
 
@@ -294,10 +279,10 @@ Shape Explorer
 ---
 
 #### Skills Reinforced
-- spatial thinking
-- using digital tools creatively
-- combining simple shapes
-- exploring design ideas
+- analyzing form and space in 3D design
+- using digital tools to test creative design choices
+- combining simple shapes into more complex forms
+- exploring and revising early design ideas
 
 ---
 

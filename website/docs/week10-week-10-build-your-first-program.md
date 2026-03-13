@@ -69,11 +69,11 @@ Scratch is a sandbox. The goal is simply for the student to discover:
 ## Guided Session 1
 ### Meet Scratch
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- Scratch programs are built with **blocks**
-- blocks represent instructions
-- blocks can be **connected to create sequences**
+- analyze how connected Scratch **blocks** control what happens on the screen
+- predict and test the behavior of a short program before and after it runs
+- create a working sequence that produces an intended result
 
 ---
 
@@ -137,20 +137,20 @@ Explain that this is called a **sequence**.
 ---
 
 #### Reflection Questions
-- “What is a sprite?”
-- “What do Scratch blocks represent?”
-- “What happened when we added more blocks?”
+- “How did the blocks work together to control what happened on the screen?”
+- “What did you predict before running the program, and what evidence showed whether you were right?”
+- “What sequence would you change if you wanted a different result?”
 
 ---
 
 ## Guided Session 2
 ### Making the Sprite Do Something Fun
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- programs can control movement and behavior
-- instructions can create patterns
-- coding allows us to create interactive experiences
+- create a simple program that controls movement, pattern, or behavior
+- analyze how changing numbers or blocks changes the program's output
+- revise a program to better match a creative goal
 
 ---
 
@@ -204,29 +204,26 @@ This is where curiosity matters most.
 ---
 
 #### Reflection Questions
-- “What did your sprite do?”
-- “What happens if we change the numbers in the blocks?”
-- “What new idea did you try?”
+- “How did changing numbers or blocks change the behavior of your sprite?”
+- “Which change gave the most interesting or useful result, and why?”
+- “What revision would you make next to improve your program?”
 
 ---
 
 ## Independent Session
 ### Sprite Experiment Lab
 #### Instruction
-Open Scratch and build a small program.
+Open Scratch and build a small program with a clear purpose.
 
-Try to make your sprite do **something interesting**.
+Before you begin, decide what you want your sprite to do.
 
-Ideas to try:
+As you build, test and compare different choices:
 
-- make the sprite move in a pattern  
-- make the sprite say something funny  
-- create a simple animation  
-- make the sprite move across the screen
+- Which blocks control the main action?
+- What happens when you change a number or add a new block?
+- Which version works best for your idea?
 
-Experiment with different blocks and see what happens.
-
-When you finish, give your project a name.
+When you finish, give your project a name and be ready to explain what you changed, tested, and improved.
 
 Examples:
 
@@ -237,10 +234,10 @@ Examples:
 ---
 
 #### Skills Reinforced
-- sequencing instructions
-- experimenting with code blocks
-- understanding cause and effect
-- creative exploration in programming
+- creating working sequences of coded instructions
+- experimenting with and revising code blocks deliberately
+- analyzing cause and effect in program behavior
+- exploring programming as a creative design process
 
 ---
 

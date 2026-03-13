@@ -2,11 +2,11 @@
 sidebar_position: 8
 sidebar_label: "Week 8: Idea Workshop"
 title: "Week 8: The Idea Workshop"
-description: "Learn how ideas turn into projects and begin planning something you want to build on the computer."
+description: "Explore Wikipedia, understand how articles connect to sources, and practice evaluating information online."
 ---
 
 # Week 8: The Idea Workshop  
-*Projects and Planning Ideas*
+*Exploring Wikipedia and Understanding Sources*
 
 Over the past several weeks you have learned how to:
 
@@ -16,32 +16,34 @@ Over the past several weeks you have learned how to:
 - create drawings
 - search for information
 
-Now we begin something exciting.
+Now we take the next step.
 
-We start thinking about **projects**.
+We learn how to move from **searching** into **exploring**.
 
-A project is when you take an idea and **turn it into something real**.
+This week introduces an important tool:
 
-People use computers to create projects like:
+**Wikipedia.**
 
-- stories
-- games
-- drawings
-- inventions
-- presentations
-- videos
-- models
-- programs
+Wikipedia can be a powerful place to begin learning when we use it carefully.
+
+It helps us see that:
+
+- the internet is made of people
+- articles connect to other ideas through links
+- many articles include references and sources
+- knowledge on the internet is interconnected
 
 The big idea this week:
 
-**Ideas can turn into projects.**
+**Wikipedia is a place to start learning, not a place to stop learning.**
 
-This week is about learning how creators think. Creators ask questions like:
+This week is about learning how curious people follow ideas, check where information comes from, and go deeper.
 
-- What do I want to make?
-- What tools could help me?
-- What steps might I try first?
+Curious learners ask questions like:
+
+- What is this article helping me learn?
+- What other ideas does it connect to?
+- Where did this information come from?
 
 ---
 
@@ -55,8 +57,10 @@ This week is about learning how creators think. Creators ask questions like:
 
 :::tip Quick Navigation
 - [Teacher Preparation](#teacher-preparation)
+- [Exploring Wikipedia](#exploring-wikipedia)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
+- [Learning Outcomes](#learning-outcomes)
 - [Independent Session](#independent-session)
 - [Setup Notes](#setup)
 :::
@@ -64,213 +68,210 @@ This week is about learning how creators think. Creators ask questions like:
 ## Teacher Preparation
 :::info Before You Begin
 - Ensure access to previously used tools:
-  - Notepad / writing tool
-  - drawing software
   - browser
-- Confirm the **My Projects** folder exists.
-- Prepare paper or a whiteboard for brainstorming.
-- Think of a few example project ideas related to the student’s interests:
-  - animals
-  - machines
-  - building things
-  - stories
-  - imaginary worlds
+- Confirm the student can reach Wikipedia or Simple English Wikipedia.
+- Prepare a few safe, high-interest starting topics such as volcanoes, octopuses, Mars, dinosaurs, or robotics.
+- Have a simple recording sheet, notebook, or document ready for the activity.
 - Set up a visual timer.
 :::
 
 :::tip Teaching Mindset
-This week is about **exploration and imagination**, not choosing the final project yet.
+This week is about **exploration and connected knowledge**.
 
-Encourage many ideas and curiosity.
+Wikipedia should be presented as a useful starting point, not as the final word on a topic.
+:::
+
+---
+
+## Exploring Wikipedia
+
+Wikipedia is a powerful learning tool when used correctly.
+
+It is written by people around the world, and its articles are connected through links, references, and sources.
+
+That makes it useful for helping students see how knowledge connects.
+
+When students explore Wikipedia, they can notice:
+
+- the article summary at the top
+- section headings that organize ideas
+- hyperlinks that lead to related topics
+- references that show where information came from
+- external links that can help readers keep exploring
+
+These features help students understand that learning on the internet is not just about finding one answer. It is about following ideas and noticing where information comes from.
+
+:::tip Teacher Note
+Repeat this rule clearly during the lesson:
+
+> Wikipedia is a place to start learning, not a place to stop learning.
 :::
 
 ---
 
 ## Guided Session 1
-### Where Do Ideas Come From?
+### Exploring Wikipedia
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- projects start with ideas
-- ideas often come from curiosity
-- creators explore many ideas before choosing one
+- analyze the structure of a Wikipedia article and explain how each part helps learning
+- trace how ideas connect by following links across topics
+- evaluate why Wikipedia works best as a starting point rather than a final authority
 
 ---
 
 #### Activities
-**1. What Do You Like to Make?**
+**1. Open an Article Together**
 
-Ask the student open-ended questions:
+Choose a topic the student already finds interesting.
 
-- “What kinds of things do you enjoy creating?”
-- “What would you love to build on a computer someday?”
+Good starting topics:
 
-Write down their ideas.
+- volcano
+- octopus
+- robotics
+- Mars
+- dinosaurs
 
-Examples might include:
+Open the article and read the introduction together.
 
-- a story about dogs
-- a silly animation
-- a drawing series
-- a small game
-- a machine design
-- an imaginary creature world
-
-Explain that **creators often collect many ideas before choosing one**.
+Explain that the first part is the **summary**. It gives a quick overview of the topic.
 
 ---
 
-**2. Idea Brainstorm**
+**2. Look at How the Article Is Built**
 
-Create a simple brainstorm list.
+Scroll slowly and help the student notice:
 
-Example:
+- section headings
+- blue links inside the article
+- references near the bottom
+- external links or related resources
 
+Explain how each part helps readers explore topics more deeply.
 
-Project Ideas
+You can say:
 
-
-Possible prompts:
-
-- animals
-- inventions
-- space
-- robots
-- machines
-- stories
-
-Encourage even silly ideas.
-
-Explain that **good projects often start with playful thinking**.
+- headings help organize ideas
+- links connect ideas together
+- references show where information came from
+- external links help us keep learning
 
 ---
 
-**3. Pick Three Interesting Ideas**
+**3. Follow One Interesting Link**
 
-Ask the student to choose **three ideas they like the most**.
+Ask the student to choose **one interesting link** from the article.
 
-Discuss questions such as:
+Open it together and notice how one topic connects to another.
 
-- What would this project show?
-- Would it use words, pictures, or both?
-- What tools might help?
-
-Explain that next week we will start learning tools that help bring ideas to life.
+Explain that this is one reason Wikipedia is useful: it helps us see how knowledge is connected.
 
 ---
 
 #### Reflection Questions
-- “Which idea sounded the most exciting?”
-- “Where do ideas come from?”
-- “Why might creators write down their ideas?”
+- “How does the structure of a Wikipedia article help someone learn efficiently?”
+- “What did the links reveal about how knowledge connects across topics?”
+- “Why do references make an article more useful to a careful learner?”
 
 ---
 
 ## Guided Session 2
-### Planning a Small Project
+### Understanding Sources
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- projects can be broken into small steps
-- planning helps ideas become real
-- creators often sketch or outline ideas first
+- analyze references to infer where information came from
+- compare an article with its sources to decide what to trust or explore next
+- evaluate when a learner should keep exploring, verify information, or move to a stronger source
 
 ---
 
 #### Activities
-**1. Choose One Idea to Explore**
+**1. Find the References**
 
-From the brainstorm list, ask the student to pick **one idea** to explore a little more.
+Return to the article and scroll to the references.
 
-Explain that this is just a **practice project idea**, not the final project yet.
-
----
-
-**2. Ask Planning Questions**
-
-Ask the student simple questions:
-
-- What would the project show?
-- What would the first part be?
-- What might happen next?
-
-Write a simple outline.
-
-Example:
-
-
-Robot Story
-
-Robot wakes up
-
-Robot explores a city
-
-Robot finds a dog
-
-
-Explain that this is called **planning**.
+Explain that references are one way writers show where they got their information.
 
 ---
 
-**3. Make a Quick Sketch or Notes**
+**2. Look for Clues About the Source**
 
-The student can choose to:
+Choose one or two references and ask simple questions:
 
-- draw a picture of the idea
-- write a few sentences about it
-- describe the project verbally while you write notes
+- What kind of source is this?
+- Does it look like a book, organization, news site, or something else?
+- Why might it be helpful to know where the information came from?
 
-Save any digital work inside:
+Keep this concrete and brief. The goal is not to make the student suspicious of everything online. The goal is to help them notice that information usually comes from somewhere.
 
+---
 
-My Projects → Experiments
+**3. Compare Starting and Going Deeper**
 
+Explain:
 
-Explain that creators often keep **early ideas and experiments**.
+- search helps us find a topic
+- Wikipedia helps us explore that topic
+- references help us go deeper and check where the information came from
 
 ---
 
 #### Reflection Questions
-- “What project idea did you explore today?”
-- “Why do creators plan before building something?”
-- “What might be the first step of your project?”
+- “What did the references help you infer about where the information came from?”
+- “How would you decide whether to keep reading the article or open one of its sources next?”
+- “Why is ‘start learning’ a stronger role for Wikipedia than ‘stop learning’?”
+
+---
+
+## Learning Outcomes
+
+By the end of this week, the student should begin to understand that:
+
+- knowledge is interconnected
+- curiosity leads to discovery
+- articles cite sources
+- learning can happen through exploration
 
 ---
 
 ## Independent Session
-### Idea Explorer
+### Wikipedia Rabbit Hole
 #### Instruction
-Spend some time thinking about things you might want to create on the computer.
+Choose one topic to explore on Wikipedia and trace how ideas connect.
 
-You can:
+Follow the rabbit-hole path, but do it like an investigator:
 
-- draw a project idea
-- write a few sentences about something you want to build
-- collect ideas in your **Experiments** folder
+1. Open a Wikipedia article.
+2. Read the introduction and notice the headings.
+3. Click one interesting link.
+4. Repeat this process **five times**.
 
-Some questions to help you think:
+When you finish, record:
 
-- What are you curious about?
-- What would be fun to make?
-- What would you want to show someone else?
+- the topic you started with
+- the topic you ended with
+- one surprising connection you discovered
+- one place where you might want to check a source or keep learning
 
-Save any drawings or notes in:
+You can write your notes in a document or explain them to an adult.
 
+Remember:
 
-My Projects → Experiments
-
+> Wikipedia is a place to start learning, not a place to stop learning.
 
 ---
 
 #### Skills Reinforced
-- brainstorming ideas
-- planning simple projects
-- creative thinking
-- organizing ideas in project folders
+- tracing how knowledge connects across linked topics
+- analyzing article structure for meaning and usefulness
+- evaluating references and sources as part of learning
+- pursuing curiosity through guided exploration and verification
 
 ---
 
 #### Setup
-- writing or drawing tool available
-- access to **My Projects → Experiments**
+- browser available
+- notebook or document for recording discoveries
 - visual timer

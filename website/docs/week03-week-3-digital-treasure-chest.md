@@ -70,11 +70,11 @@ This idea will carry through the entire curriculum.
 ## Guided Session 1
 ### What Is a File?
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- things created on a computer become **files**
-- files can be **saved and opened again**
-- apps are tools that **create files**
+- analyze how apps create different kinds of **files**
+- organize and save digital work so it can be found and reused later
+- justify why saving and reopening files matters for real projects
 
 ---
 
@@ -149,20 +149,20 @@ This is one of the most powerful things computers can do.
 ---
 
 #### Reflection Questions
-- “What is a file?”
-- “Why do you think saving files is useful?”
-- “What kinds of things could we save on a computer?”
+- “How would you explain the difference between creating something and saving it as a file?”
+- “Why does a saved file have more value than something that disappears when you close the app?”
+- “What kinds of work should always be saved carefully, and why?”
 
 ---
 
 ## Guided Session 2
 ### The Folder System
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- folders organize files
-- folders can contain other folders
-- organizing files helps us find things later
+- categorize digital work into a folder system that makes sense
+- design a folder structure that supports future projects
+- evaluate whether a folder system makes finding work easier or harder
 
 ---
 
@@ -248,46 +248,37 @@ Open File Explorer and confirm the drawing appears there.
 ---
 
 #### Reflection Questions
-- “Why do computers use folders?”
-- “How do folders help us find things later?”
-- “What kinds of things do you want to save in your project folder?”
+- “How did you decide which folders would make the most sense?”
+- “What would happen if all your files were in one place with no organization?”
+- “How could you improve your folder system if your projects kept growing?”
 
 ---
 
 ## Independent Session
 ### Build Your Treasure Chest
 #### Instruction
-Open your **My Projects** folder.
+Open your **My Projects** folder and improve it like a designer of digital spaces.
 
-Create **two new folders** for things you care about.
+Create **two new folders** based on categories that make sense to you.
 
-Examples:
+Then create **one new file** and save it in the folder where it belongs best.
 
-- Dogs
-- Cool Machines
-- Space Stuff
-- Funny Creatures
-- Story Ideas
+After you save it, check your folder system and ask:
 
-Then create **one new file** and save it in one of your folders.
+- Why does this file belong here?
+- Would someone else be able to find it easily?
+- What could I rename or reorganize to make this clearer?
 
-You can choose to:
-
-- draw something in Paint  
-- write a sentence in Notepad  
-
-After saving it, open the folder and make sure your file is there.
-
-Your digital treasure chest is starting to grow.
+Be ready to explain why your folder system works.
 
 ---
 
 #### Skills Reinforced
-- creating folders
-- saving files
-- understanding file persistence
-- organizing digital work
-- ownership of digital creations
+- categorizing digital work into meaningful groups
+- creating and saving files with purposeful organization
+- evaluating how file persistence supports future work
+- designing a system for organizing digital creations
+- building ownership over personal digital work
 
 ---
 

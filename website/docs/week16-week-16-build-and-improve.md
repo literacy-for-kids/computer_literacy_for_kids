@@ -82,11 +82,11 @@ Avoid correcting too much. Instead ask questions that help the student think:
 ## Guided Session 1
 ### Testing the Project
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- reviews the first version of their project
-- identifies things that work well
-- identifies things they want to improve
+- evaluate the current project using evidence from testing and review
+- identify strengths, weaknesses, and missing pieces in the work
+- create a focused improvement plan based on what matters most next
 
 ---
 
@@ -144,20 +144,20 @@ Explain that creators usually improve projects **one step at a time**.
 ---
 
 #### Reflection Questions
-- “What part of your project do you like the most?”
-- “What part do you want to improve?”
-- “Why do creators improve their work many times?”
+- “Which part of your project is strongest right now, and what evidence supports that?”
+- “Which part most needs improvement, and why does it matter?”
+- “How does testing and revision make a project stronger over time?”
 
 ---
 
 ## Guided Session 2
 ### Adding New Features
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- improves an existing part of the project
-- experiments with adding something new
-- practices problem solving during creation
+- revise an existing feature to make the project stronger or clearer
+- create one meaningful new feature that adds value to the project
+- evaluate and explain how problem solving improved the final result
 
 ---
 
@@ -244,31 +244,24 @@ Explain that version numbers help creators keep track of progress.
 ---
 
 #### Reflection Questions
-- “What improvement did you make today?”
-- “What new feature did you add?”
-- “Did you run into any problems while building?”
+- “Which improvement had the biggest impact on your project, and why?”
+- “How did the new feature add value instead of just making the project bigger?”
+- “What problem did you solve during revision, and how did you solve it?”
 
 ---
 
 ## Independent Session
 ### Creator Lab
 #### Instruction
-Continue working on your project.
+Continue working on your project and make **two improvements that matter**.
 
-Try to make **two improvements** today.
+Choose changes that make the project clearer, stronger, more complete, or more interesting.
 
-Examples:
+As you work, ask yourself:
 
-- improve a drawing
-- add a new character
-- add movement or sound
-- write more of the story
-- add labels or details
-
-If you get stuck, ask yourself:
-
-- What is supposed to happen?
-- What could I try changing?
+- Which change will improve the project most?
+- How will I know the change helped?
+- What should I revise if the first attempt does not work?
 
 Save your updated work in:
 
@@ -281,11 +274,11 @@ Use version numbers if possible.
 ---
 
 #### Skills Reinforced
-- creative iteration
-- problem solving
-- debugging during creation
-- project ownership
-- persistence
+- iterating creatively based on testing and review
+- solving problems during revision and improvement
+- debugging while building and refining a project
+- strengthening ownership through purposeful revision
+- persisting through multiple improvement cycles
 
 ---
 

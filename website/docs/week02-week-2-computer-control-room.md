@@ -71,11 +71,11 @@ The goal is helping the student **notice cause and effect**:
 ## Guided Session 1
 ### Inputs and Reactions
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- computers respond to inputs
-- different inputs cause different results
-- keyboards and mice are ways we communicate with computers
+- analyze the cause-and-effect relationship between an input and a computer's response
+- predict and test how changing an input changes the result
+- design a small input experiment to show how people control computers
 
 ---
 
@@ -149,20 +149,20 @@ This builds early computational thinking.
 ---
 
 #### Reflection Questions
-- “What are some ways we give instructions to a computer?”
-- “What happens when you click something?”
-- “Did anything surprise you today?”
+- “Which input led to the biggest change on the computer, and why?”
+- “How could you explain the cause-and-effect pattern you noticed today?”
+- “What new input experiment would you design if you wanted to test the computer again?”
 
 ---
 
 ## Guided Session 2
 ### Windows and Apps
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- apps are tools that do different jobs
-- apps appear in **windows**
-- multiple windows can be open at once
+- evaluate which app is the best tool for a specific job
+- organize multiple **windows** to create an effective workspace
+- justify how their choice of apps and window arrangement supports a task
 
 ---
 
@@ -226,43 +226,38 @@ This builds intuitive understanding of multitasking.
 ---
 
 #### Reflection Questions
-- “What is an app?”
-- “Why do you think computers use windows?”
-- “What happens when we minimize something?”
+- “How did you decide which app was the best tool for a job?”
+- “What window arrangement helped you work most effectively, and why?”
+- “If someone else needed to multitask, what advice would you give them about using windows?”
 
 ---
 
 ## Independent Session
 ### Control Room Explorer
 #### Instruction
-Spend time exploring the computer like a **control room operator**.
+Spend time exploring the computer like a **control room operator** with a plan.
 
-Try to open **three different apps** and see what they do.
+Open **three different apps** and compare them.
 
-Examples:
+As you explore, ask yourself:
 
-- Calculator
-- Paint
-- Notepad
-- Settings
+- What job does this app seem designed to do?
+- Which inputs make the biggest changes?
+- How is this app different from the others?
 
-Then choose **one app** and explore it for a few minutes.
+Then choose **one app** and create a short explanation, drawing, or demonstration that shows:
 
-Ask yourself:
-
-- What happens if I click this?
-- What does this button do?
-- What changes when I try something new?
-
-After exploring, explain **one thing you discovered**.
+- what the app is for
+- which controls mattered most
+- one thing you discovered by experimenting
 
 ---
 
 #### Skills Reinforced
-- recognizing inputs
-- understanding apps as tools
-- experimenting with windows
-- cause-and-effect thinking
+- analyzing how different inputs change computer behavior
+- evaluating apps as tools for different tasks
+- organizing windows to support a task or workflow
+- reasoning about cause and effect in digital systems
 
 ---
 

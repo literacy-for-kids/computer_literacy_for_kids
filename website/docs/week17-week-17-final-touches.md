@@ -79,11 +79,11 @@ The student should begin to feel:
 ## Guided Session 1
 ### Reviewing the Project
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- reviews the entire project
-- identifies any missing pieces
-- practices thinking like a creator evaluating their work
+- evaluate the whole project from an audience's point of view
+- analyze where the project is clear, confusing, complete, or incomplete
+- prioritize and justify the final improvements that matter most before sharing
 
 ---
 
@@ -151,20 +151,20 @@ These details make the project feel complete.
 ---
 
 #### Reflection Questions
-- “What part of the project are you most proud of?”
-- “What small improvement could make it better?”
-- “Why do creators review their work before sharing it?”
+- “Which part of the project is strongest from an audience’s point of view, and why?”
+- “What final improvement would make the biggest difference before sharing?”
+- “Why is review an important creative step instead of just an extra chore?”
 
 ---
 
 ## Guided Session 2
 ### Preparing to Present
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- prepares to explain their project
-- practices describing how it works
-- develops confidence presenting creative work
+- design a short presentation that explains the project clearly
+- rehearse and revise the explanation for clarity, confidence, and audience understanding
+- evaluate feedback or self-observation to improve the presentation
 
 ---
 
@@ -219,28 +219,24 @@ Offer supportive feedback.
 ---
 
 #### Reflection Questions
-- “What inspired your project idea?”
-- “What was the hardest part to build?”
-- “What do you want people to notice when they see your project?”
+- “Which part of your explanation will help an audience understand the project best?”
+- “What challenge in the project reveals the most about your creative process?”
+- “What do you most want the audience to notice, think about, or remember?”
 
 ---
 
 ## Independent Session
 ### Final Creator Time
 #### Instruction
-Spend time polishing the final version of your project.
+Spend time polishing the final version of your project with the audience in mind.
 
-You can:
-
-- improve drawings
-- add finishing touches
-- test the project
-- prepare how you will explain it
-
-Ask yourself:
+As you review, ask yourself:
 
 - Does everything work the way I want?
-- Is there anything small I can improve?
+- Is anything confusing, unfinished, or weak?
+- What small change would most improve the final impression?
+
+Also prepare how you will explain the project clearly when someone sees it.
 
 Save the final version inside:
 
@@ -257,10 +253,10 @@ ProjectName_Final
 ---
 
 #### Skills Reinforced
-- evaluating creative work
-- improving small details
-- organizing a presentation
-- explaining ideas clearly
+- evaluating creative work from an audience perspective
+- refining small details that improve quality
+- organizing a presentation for clarity and impact
+- explaining ideas clearly and intentionally
 
 ---
 

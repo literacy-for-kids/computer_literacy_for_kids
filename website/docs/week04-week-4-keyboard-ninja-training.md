@@ -69,11 +69,11 @@ Keep it playful and relaxed.
 ## Guided Session 1
 ### Meeting the Keyboard
 #### Learning Goal
-The student understands:
+By the end of this session, the student can:
 
-- the keyboard is used to type words and commands
-- different keys have different purposes
-- fingers can rest on a “home position”
+- analyze how different groups of keys change what happens on the screen
+- choose the right keys for a typing or command task
+- create a simple typed response using deliberate key choices and starting hand position
 
 ---
 
@@ -146,20 +146,20 @@ Do not worry about perfection — this is just familiarity.
 ---
 
 #### Reflection Questions
-- “What are some keys you discovered today?”
-- “What happens when you press Enter?”
-- “Why do you think the keyboard has so many keys?”
+- “Which keys seem most useful for creating or changing text, and why?”
+- “How do different keys create different results on the screen?”
+- “If you were teaching someone else the keyboard, which keys would you introduce first?”
 
 ---
 
 ## Guided Session 2
 ### Typing Practice Adventure
 #### Learning Goal
-The student begins developing:
+By the end of this session, the student can:
 
-- typing coordination
-- awareness of finger placement
-- comfort using the keyboard
+- evaluate their own typing for accuracy, spacing, and control
+- revise finger placement and typing habits to improve performance
+- create a short typed message that shows growing fluency and care
 
 ---
 
@@ -221,40 +221,34 @@ My Projects → Stories
 ---
 
 #### Reflection Questions
-- “Which keys were easiest to find?”
-- “Which keys were hardest?”
-- “Why do you think typing is useful when using a computer?”
+- “What patterns helped you find keys more quickly?”
+- “Which typing habit would help you improve the most next time?”
+- “How does stronger typing help someone create, communicate, or solve problems on a computer?”
 
 ---
 
 ## Independent Session
 ### Ninja Practice
 #### Instruction
-Choose one typing activity to practice for about **20–30 minutes**.
+Choose one typing activity to practice for about **20–30 minutes** with a clear goal.
 
-You can:
+As you work, pay attention to:
 
-- continue a typing lesson on **TypingClub**  
-- play a typing game  
-- write a few sentences in Notepad  
+- which keys slow you down
+- where your fingers start and move
+- what helps you type more accurately
 
-If you choose writing, try writing about:
+If you choose writing, create a short message or paragraph that shows careful spacing, clear sentences, and a title.
 
-- your favorite animal  
-- a fun place you visited  
-- something you want to build someday
-
-After you finish, save your work in your **My Projects** folder.
-
-Every time you practice typing, your fingers get **faster and smarter**.
+When you finish, reflect on what improved and what you still want to practice, then save your work in your **My Projects** folder.
 
 ---
 
 #### Skills Reinforced
-- keyboard familiarity  
-- typing accuracy  
-- correcting mistakes  
-- saving written work
+- analyzing key functions and their effects
+- improving typing accuracy through reflection and revision
+- correcting mistakes strategically while typing
+- creating and saving typed work with growing fluency
 
 ---
 

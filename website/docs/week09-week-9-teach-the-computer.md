@@ -64,11 +64,11 @@ Focus on the idea that computers follow **clear, ordered instructions**.
 ## Guided Session 1
 ### Instructions Control Behavior
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- instructions control what happens
-- order matters
-- computers cannot guess missing steps
+- analyze a set of directions and identify where missing steps cause failure
+- design a clear instruction sequence for a simple task
+- justify why computers and robots need precision instead of guessing
 
 ---
 
@@ -135,20 +135,20 @@ Explain that coding is basically **writing instructions for a computer**.
 ---
 
 #### Reflection Questions
-- “What happens if an instruction is missing?”
-- “Why do computers need clear instructions?”
-- “What instructions would you give a robot?”
+- “How did you know a set of instructions was missing something important?”
+- “Why do computers fail differently from people when directions are unclear?”
+- “What would make your own robot instructions easier to follow?”
 
 ---
 
 ## Guided Session 2
 ### Sequences and Cause-and-Effect
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- instructions happen in order
-- changing the order changes the result
-- coding involves thinking about **sequences**
+- analyze how changing a sequence changes the final outcome
+- evaluate which order of steps works best for a task and explain why
+- create an ordered algorithm that another person could follow successfully
 
 ---
 
@@ -218,29 +218,26 @@ Encourage curiosity.
 ---
 
 #### Reflection Questions
-- “What does the word sequence mean?”
-- “What happened when we changed the order of instructions?”
-- “Why do you think programmers must be careful with instruction order?”
+- “How did changing the order of steps change the outcome?”
+- “Which sequence worked best, and how can you justify that choice?”
+- “Where else in life do you see a sequence that must happen in the right order?”
 
 ---
 
 ## Independent Session
 ### Instruction Creator
 #### Instruction
-Invent a set of instructions for something simple.
+Invent a set of instructions for something simple, then test whether they really work.
 
-Examples:
+Choose a task and write or draw the steps in the clearest order you can.
 
-- how to draw a house
-- how to make a sandwich
-- how to brush your teeth
-- how to play with a dog
+After you finish, review your instructions and ask:
 
-Write the instructions in a document or draw them as pictures.
+- Is anything missing?
+- Could someone follow this without guessing?
+- Would changing the order break the task?
 
-Try to make sure the steps are **clear and in the correct order**.
-
-Save your instructions inside:
+Revise the instructions at least once before saving them inside:
 
 
 My Projects → Experiments
@@ -249,10 +246,10 @@ My Projects → Experiments
 ---
 
 #### Skills Reinforced
-- understanding sequences
-- thinking step-by-step
-- communicating instructions
-- early computational thinking
+- designing and revising clear instruction sequences
+- analyzing how order changes outcomes
+- communicating procedures with precision
+- applying early computational thinking to real tasks
 
 ---
 

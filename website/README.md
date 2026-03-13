@@ -37,11 +37,13 @@ Before you begin, ensure you have the following installed:
 The curriculum is organized into weekly lessons in the `docs/` directory of this Docusaurus site.
 
 - **Weeks 1-4**: Digital foundations, computer systems, files, and typing
-- **Weeks 5-8**: Writing, digital art, searching, and project planning
+- **Weeks 5-8**: Writing, digital art, search strategy, Wikipedia exploration, and source awareness
 - **Weeks 9-12**: Coding concepts, Scratch, debugging, and systems thinking
 - **Weeks 13-14**: AI literacy and creative AI use
 - **Weeks 15-18**: Final project design, build, revision, and showcase
 - **Optional CAD Weeks**: TinkerCAD, 3D modeling, and preparing designs for printing
+
+The lesson sequence is also designed to move students toward stronger thinking skills over time, with frequent prompts to analyze choices, evaluate results, and create improved work.
 
 ## 🔧 Configuration
 

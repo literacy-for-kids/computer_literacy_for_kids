@@ -74,11 +74,11 @@ The goal is not perfect design — the goal is understanding that ideas can move
 ## Guided Session 1
 ### Designing a Real Object
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- designs a simple object intended to be printed
-- understands that objects must have real size
-- practices combining shapes with purpose
+- create a simple printable object with a clear real-world purpose
+- evaluate design choices related to size, shape, strength, and usefulness
+- revise a digital model to improve its readiness for printing
 
 ---
 
@@ -162,11 +162,11 @@ Explain:
 ## Guided Session 2
 ### Turning the Design Into a Real Object
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- learns the basic idea of slicing
-- sees how a 3D printer builds objects layer by layer
-- watches the printing process begin
+- analyze how slicing turns a digital model into printable instructions
+- explain how a 3D printer creates an object layer by layer
+- evaluate the connection between digital design decisions and the printed result
 
 ---
 
@@ -228,32 +228,24 @@ Explain that designers often **test their designs and improve them later**.
 ---
 
 #### Reflection Questions
-- “What surprised you about the printing process?”
-- “Why do printers build objects in layers?”
-- “How did it feel seeing something you designed start to print?”
+- “What part of the printing process changed your understanding of how digital designs become real objects?”
+- “Why does thinking in layers matter when evaluating a 3D print?”
+- “How did seeing the print begin change the way you think about your design choices?”
 
 ---
 
 ## Independent Session
 ### Design Something for Your Desk
 #### Instruction
-Create a new design in TinkerCAD.
+Create a new design in TinkerCAD for **one small object you would actually want on your desk**.
 
-Design **one small object you would like to have on your desk**.
+As you design, think like a real maker:
 
-Ideas:
+- What is the object's purpose?
+- Which shapes will make it useful, stable, or visually interesting?
+- What might you need to improve before printing it?
 
-- a tiny name sign
-- a small animal
-- a pencil holder
-- a decoration
-- a mini tool
-
-Try combining different shapes to make something interesting.
-
-When you're done:
-
-Rename the design:
+When you're done, rename the design:
 
 
 Desk Object Design
@@ -264,10 +256,10 @@ Your design might be printed later!
 ---
 
 #### Skills Reinforced
-- spatial thinking
-- designing with purpose
-- connecting digital ideas to real objects
-- creative experimentation
+- evaluating design choices for usefulness and printability
+- designing with purpose and real-world constraints
+- connecting digital models to physical outcomes
+- experimenting creatively while revising a design
 
 ---
 

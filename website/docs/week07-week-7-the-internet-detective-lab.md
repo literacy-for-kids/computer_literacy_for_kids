@@ -2,11 +2,11 @@
 sidebar_position: 7
 sidebar_label: "Week 7: Internet Detective Lab"
 title: "Week 7: The Internet Detective Lab"
-description: "Learn how to search for information online, think about where information comes from, and understand how videos and recommendations can lead us down rabbit holes."
+description: "Learn how to search for information online, ask better questions, and understand what search results are showing you."
 ---
 
 # Week 7: The Internet Detective Lab  
-*Searching, Sources, and Video Literacy*
+*Searching, Better Questions, and Search Results*
 
 So far we have learned how to:
 
@@ -28,17 +28,11 @@ The big idea this week:
 
 Good searchers think like detectives. They ask questions such as:
 
-- Who made this?
-- Is this trustworthy?
-- Are there other places that say the same thing?
+- What am I really trying to learn?
+- Which words will help me search?
+- Which result looks most useful to open first?
 
-We will also start talking about something very important:
-
-**Video rabbit holes.**
-
-Sometimes websites try to keep showing us more and more videos because they want us to keep watching.
-
-Learning to notice this helps us stay **in control of our attention**.
+This week focuses on how to ask better questions and how to understand what search results are showing us.
 
 ---
 
@@ -67,19 +61,18 @@ Learning to notice this helps us stay **in control of our attention**.
   - https://kids.nationalgeographic.com
   - https://www.nasa.gov/kidsclub
 - Prepare a few topics related to the child's interests (dogs, animals, rockets, machines, etc.).
-- Prepare a short educational video to demonstrate how recommendations work.
 - Set up a visual timer.
 :::
 
 :::tip Teaching Mindset
 The goal is not memorizing search tools.
 
-The goal is helping the student develop **curiosity and healthy skepticism**.
+The goal is helping the student develop **curiosity and search habits**.
 
 Encourage questions like:
 
-> “Who made this?”  
-> “Why might they have made it?”
+> “What am I really trying to find out?”  
+> “Which words will help me search better?”
 :::
 
 ---
@@ -87,11 +80,11 @@ Encourage questions like:
 ## Guided Session 1
 ### How Searching Works
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- search engines help us find information
-- search works by typing **keywords**
-- different websites may have different information
+- analyze a broad question and turn it into stronger search terms
+- compare multiple searches and evaluate which wording produces better results
+- create a more effective search strategy by revising keywords and questions
 
 ---
 
@@ -136,7 +129,60 @@ Explain that each result leads to a **different website**.
 
 ---
 
-**3. Open Two Different Results**
+**3. Try a Better Search**
+
+Search for something broad first, such as:
+
+> dogs
+
+Then improve the search with more specific words, such as:
+
+> why do dogs wag their tails
+
+Ask the student:
+
+- Which search gave a clearer answer?
+- Which words made the search better?
+
+Explain that search works better when we ask a **clear question**.
+
+---
+
+#### Reflection Questions
+- “How did your search change after you improved your question or keywords?”
+- “Which search words gave you the best results, and why?”
+- “What search strategy would you use next time if the first results were weak?”
+
+---
+
+## Guided Session 2
+### Understanding Search Results
+#### Learning Goal
+By the end of this session, the student can:
+
+- analyze a search results page and interpret clues about what each result offers
+- evaluate which result is most worth opening and justify that choice
+- judge how algorithms influence what appears first while still making an independent decision about where to click
+
+---
+
+#### Activities
+**1. Look Closely at a Results Page**
+
+Search for a familiar topic.
+
+Ask the student to notice:
+
+- the title of the result
+- the short description
+- pictures, if the search engine shows them
+- which result seems most helpful to open first
+
+Explain that the search results page is giving us **clues** before we click.
+
+---
+
+**2. Open Two Different Results**
 
 Choose two different websites about the same topic.
 
@@ -154,122 +200,58 @@ Explain that different websites are created by **different people**.
 
 ---
 
-#### Reflection Questions
-- “What question did you search for today?”
-- “What do search engines help us do?”
-- “Why might two websites explain things differently?”
-
----
-
-## Guided Session 2
-### Video Rabbit Holes and Algorithms
-#### Learning Goal
-The student begins to understand that:
-
-- video platforms recommend more videos
-- recommendations are influenced by what we watch
-- it is easy to fall into a **rabbit hole**
-
----
-
-#### Activities
-**1. What Is a Recommendation?**
+**3. Why Do Some Results Show Up First?**
 
 Explain simply:
 
-Many websites try to guess what we might want to watch next.
+Search engines use **algorithms** to decide what results to show and what order to show them in.
 
-For example:
+That means the internet is not just a big pile of information. It is also organized by systems that influence what we notice first.
 
-If we watch:
+You do not need to explain the full technology. The goal is simply for the student to notice:
 
-- dog videos
-
-The website may show **more dog videos**.
-
-Explain that this is called a **recommendation system**.
-
----
-
-**2. Demonstrate the Effect**
-
-Open a short educational video.
-
-After it ends, look at the suggested videos.
-
-Ask the student:
-
-> “Why do you think these videos are being suggested?”
-
-Discuss how platforms try to keep people watching.
-
----
-
-**3. The Rabbit Hole Idea**
-
-Explain the concept:
-
-A **rabbit hole** happens when we keep clicking one video after another and suddenly realize we have been watching for a long time.
-
-Ask the student:
-
-> “Has that ever happened to you?”
-
-Explain that smart internet users notice when this happens and decide whether they want to keep watching or do something else.
-
----
-
-**4. Taking Control of Attention**
-
-Discuss strategies such as:
-
-- choosing videos intentionally
-- setting time limits
-- asking “Is this helping me learn something?”
-
-Explain that the goal is not to avoid videos, but to **watch them thoughtfully**.
+- search results are chosen by a system
+- the first result is not automatically the only good one
+- we can make thoughtful choices about where to click
 
 ---
 
 #### Reflection Questions
-- “Why do websites suggest more videos?”
-- “What is a rabbit hole?”
-- “How can we decide what videos to watch?”
+- “Which clues on the results page helped you judge where to click first?”
+- “How did you compare two possible results before making a choice?”
+- “Why is it important to evaluate results instead of trusting the top one automatically?”
 
 ---
 
 ## Independent Session
 ### Curiosity Search
 #### Instruction
-Think of something you are curious about.
+Think of something you are curious about and investigate it like a careful searcher.
 
-Use the search engine to explore it.
+Try two or more searches for the same topic: one broad and one more specific.
 
-Examples:
+As you search, compare:
 
-- animals
-- space
-- machines
-- how something is built
+- which wording gave better results
+- which result looked most useful
+- what clues helped you decide where to click
 
-Find **one interesting fact**.
+Then create one short record of your investigation:
 
-Then choose one of these:
-
-- write the fact in a document  
-- draw something you learned  
-- tell someone what you discovered
+- write the best fact you found and how you found it
+- draw something you learned and label it
+- explain to someone which search worked best and why
 
 Save anything you create in your **My Projects** folder.
 
 ---
 
 #### Skills Reinforced
-- using search engines
-- forming questions
-- comparing sources
-- noticing recommendation systems
-- curiosity-driven exploration
+- designing better searches from stronger questions
+- refining keywords to improve results
+- analyzing search result clues before clicking
+- evaluating which search paths are most useful
+- exploring information with curiosity and judgment
 
 ---
 

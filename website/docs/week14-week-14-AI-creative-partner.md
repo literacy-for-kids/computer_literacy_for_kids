@@ -75,11 +75,11 @@ Students should feel like:
 ## Guided Session 1
 ### Asking Better Questions
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- AI responses depend on the question being asked
-- clearer prompts produce better results
-- experimenting with prompts can change the outcome
+- design and refine prompts to improve AI responses
+- analyze how small prompt changes affect the output
+- evaluate which prompt produces the strongest result and explain why
 
 ---
 
@@ -142,20 +142,20 @@ Explain that small changes in prompts can produce **very different ideas**.
 ---
 
 #### Reflection Questions
-- “What is a prompt?”
-- “Why do better prompts produce better results?”
-- “What new idea did the AI create?”
+- “How did changing the prompt change the quality of the response?”
+- “Which prompt worked best, and what made it stronger?”
+- “How would you improve your next prompt even further?”
 
 ---
 
 ## Guided Session 2
 ### Improving AI Ideas
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- AI-generated ideas can be improved
-- creativity often happens through **iteration**
-- humans guide the creative process
+- evaluate an AI-generated idea for strengths and weaknesses
+- revise and iterate on an AI idea to make it clearer, stronger, or more original
+- create an original artifact that shows human choices shaping the final result
 
 ---
 
@@ -228,31 +228,22 @@ My Projects → Experiments
 ---
 
 #### Reflection Questions
-- “What part of the AI idea did you change?”
-- “How did your changes improve the idea?”
-- “Why do creators improve ideas instead of using the first version?”
+- “Which parts of the AI idea were worth keeping, and which needed revision?”
+- “How did your changes make the final idea more original or useful?”
+- “Why is revision such an important part of real creative work?”
 
 ---
 
 ## Independent Session
 ### AI Collaboration Lab
 #### Instruction
-Use AI to help you explore a creative idea.
+Use AI to help you explore a creative idea, then turn it into something that clearly shows your own choices.
 
-Try prompts like:
+Try one or more prompts, compare the results, and decide which idea is most worth developing.
 
-- invent a new animal
-- design a robot helper
-- create a story idea
-- imagine a new invention
+Then make it your own by drawing it, describing it, or improving it in a new direction.
 
-Then choose one idea and **make it your own**.
-
-You can:
-
-- draw the idea
-- write a short description
-- add your own improvements
+Be ready to explain what the AI contributed and what you changed as the creator.
 
 Save your creation in:
 
@@ -263,10 +254,10 @@ My Projects → Experiments
 ---
 
 #### Skills Reinforced
-- writing prompts
-- evaluating AI responses
-- creative iteration
-- combining AI ideas with personal creativity
+- designing and refining prompts intentionally
+- evaluating AI responses for quality and usefulness
+- iterating creatively to improve early ideas
+- combining AI suggestions with personal creative decisions
 
 ---
 

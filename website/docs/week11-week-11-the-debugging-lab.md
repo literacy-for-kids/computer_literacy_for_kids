@@ -74,11 +74,11 @@ This mindset is the foundation of engineering and programming.
 ## Guided Session 1
 ### When Programs Go Wrong
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- mistakes in programs are normal
-- debugging means finding and fixing problems
-- careful observation helps solve problems
+- analyze a broken program to identify likely causes of the problem
+- evaluate what the program is doing versus what it was supposed to do
+- choose and justify a fix based on evidence from observation
 
 ---
 
@@ -162,21 +162,20 @@ Explain that programmers often **observe carefully before making changes**.
 ---
 
 #### Reflection Questions
-- “What does debugging mean?”
-- “Why do programmers expect mistakes to happen?”
-- “What helped us find the problem in the program?”
+- “What evidence helped you identify the likely cause of the bug?”
+- “Why is careful observation more useful than random guessing when debugging?”
+- “How would you explain debugging to someone who thinks mistakes mean failure?”
 
 ---
 
 ## Guided Session 2
 ### Debugging Strategies
 #### Learning Goal
-The student learns simple debugging strategies:
+By the end of this session, the student can:
 
-- read the instructions carefully
-- test the program
-- change one thing at a time
-- try again
+- apply a debugging process to test, revise, and improve a program
+- evaluate the effect of one change at a time before making the next one
+- create a reasoned plan for solving a simple coding problem
 
 ---
 
@@ -274,57 +273,40 @@ This turns debugging into a puzzle.
 ---
 
 #### Reflection Questions
-- “What helped you find the mistake?”
-- “Why do programmers change one thing at a time?”
-- “How did the program behave differently after the fix?”
+- “Which debugging step gave you the clearest evidence about the problem?”
+- “Why does changing one thing at a time lead to better decisions?”
+- “How did the program’s behavior help you judge whether your fix worked?”
 
 ---
 
 ## Independent Session
 ### Debugging Detective
 #### Instruction
-Open your Scratch project from last week, or start a new one.
+Open your Scratch project from last week, or start a new one, and use it like a debugging lab.
 
-Try building a small program.
+Build a small program, then do one of these:
 
-Examples:
+**Challenge 1: Break It and Diagnose It**
 
-- a sprite that spins
-- a sprite that moves in a pattern
-- a sprite that talks
+Change something so the program behaves incorrectly, then figure out:
 
-Then try one of these challenges:
+- what it was supposed to do
+- what it actually did
+- which part likely caused the problem
 
-**Challenge 1: Break It**
+**Challenge 2: Improve It Carefully**
 
-Change something in the program so it doesn't behave the way you expected.
-
-Then try to **debug it**.
-
-**Challenge 2: Improve It**
-
-Add a new block and see how it changes the program.
-
-Examples:
-
-- repeat blocks
-- turn blocks
-- say blocks
-
-Ask yourself:
-
-- What changed?
-- Why did it change?
+Add one new block or change one value, then explain how that one change affected the program.
 
 Give your project a fun name when you finish.
 
 ---
 
 #### Skills Reinforced
-- problem solving
-- debugging strategies
-- understanding cause and effect
-- experimenting with code
+- solving problems through evidence-based debugging
+- applying and evaluating debugging strategies
+- analyzing cause and effect in broken and fixed code
+- revising code through controlled experimentation
 
 ---
 

@@ -83,11 +83,11 @@ This week should feel like a **showcase**, not a test.
 ## Guided Session 1
 ### The Creator Presentation
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- presents their project clearly
-- explains how it works
-- reflects on their creative process
+- present and defend a project clearly to an audience
+- explain and justify creative choices, tools, and design decisions
+- reflect on challenges, solutions, and growth across the project process
 
 ---
 
@@ -142,16 +142,20 @@ Explain that creators often learn the most while solving problems.
 ---
 
 #### Reflection Questions
-- “What part of your project are you most proud of?”
-- “What was the most interesting thing you learned while building it?”
-- “If you had more time, what would you add next?”
+- “Which part of your project best shows your strongest thinking or creativity?”
+- “What did the building process teach you about problem solving or revision?”
+- “If you made a new version, what would you improve first and why?”
 
 ---
 
 ## Guided Session 2
 ### Looking Back and Looking Forward
 #### Learning Goal
-The student reflects on what they learned and begins thinking about future creations.
+By the end of this session, the student can:
+
+- evaluate the most important skills and ideas from the course
+- synthesize what they learned into a vision for future creations
+- create or propose a next-step project based on their new abilities and interests
 
 ---
 
@@ -211,22 +215,24 @@ This reinforces that computers are tools for **lifelong creativity**.
 ---
 
 #### Reflection Questions
-- “What skill are you most proud of learning?”
-- “What new project would you like to build someday?”
-- “How can computers help you create things in the future?”
+- “Which course skill has changed the way you think most, and why?”
+- “How do several skills from the course connect in the kind of project you want to build next?”
+- “What do you now believe computers can help you create, investigate, or improve?”
 
 ---
 
 ## Independent Session
 ### Creator Reflection
 #### Instruction
-Create a short reflection about your learning journey.
+Create a short reflection about your learning journey that shows what changed in your thinking.
 
 You can choose one of these options:
 
-- write a paragraph about what you learned
-- draw your favorite moment from the course
-- describe a future project you want to build
+- write about the most important thing you learned and why it matters
+- draw a favorite moment and explain what it taught you
+- describe a future project and how this course prepared you to build it
+
+Try to include both reflection and reasoning, not just description.
 
 Save your reflection in:
 
@@ -243,10 +249,10 @@ CreatorReflection
 ---
 
 #### Skills Reinforced
-- explaining ideas clearly
-- reflecting on learning
-- organizing creative work
-- planning future projects
+- explaining and defending ideas clearly
+- reflecting on learning with evidence and insight
+- organizing creative work for presentation and review
+- planning future projects from past growth and interests
 
 ---
 

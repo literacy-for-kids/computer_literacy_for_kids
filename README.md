@@ -13,16 +13,18 @@ https://zcohen-nerd.github.io/computer_literacy_for_kids/
 
 # About the Curriculum
 
-This project provides an **18-week introduction to computing** designed for young learners (approximately age 7+).
+This project provides an **18-week introduction to computing** designed for young learners (roughly ages 7-11, with adult guidance as needed).
 
 Instead of focusing on memorizing software steps, the curriculum helps students develop **mental models for how computers work** and how to **figure things out independently**.
+
+The lessons increasingly ask students to **analyze, evaluate, and create**, not just follow directions.
 
 Students gradually explore topics including:
 
 - digital citizenship and internet safety
 - computer fundamentals and file organization
 - typing and digital communication
-- searching and evaluating information
+- search strategy, comparing results, Wikipedia exploration, and source awareness
 - coding concepts using Scratch
 - debugging and digital problem solving
 - understanding how digital systems work
@@ -34,7 +36,7 @@ For learners who want to go further, the curriculum also includes an optional CA
 The program gradually moves students from:
 
 
-digital awareness → digital fluency → digital creativity
+digital awareness → digital reasoning → digital creativity
 
 
 ---
@@ -63,7 +65,7 @@ The curriculum progresses through several stages:
 |------|------|------|
 | Digital Foundations | 1–3 | Internet safety, computers as systems, files & folders |
 | Core Computer Skills | 4–6 | Typing, communication, images and creativity |
-| Information & Media Literacy | 7–8 | Search skills, video literacy, project planning |
+| Information & Media Literacy | 7–8 | Search strategy, evaluating results, Wikipedia exploration, and understanding sources |
 | Coding & Problem Solving | 9–11 | Coding concepts, Scratch programming, debugging |
 | Systems Thinking | 12 | Understanding how technology works |
 | AI Literacy | 13–14 | Understanding and using generative AI |
@@ -75,7 +77,7 @@ Each week includes:
 - two guided sessions
 - one independent creative session
 
-The curriculum emphasizes **exploration, creativity, and problem solving**.
+The curriculum emphasizes **exploration, reasoning, creativity, and problem solving**.
 
 ---
 

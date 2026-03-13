@@ -144,7 +144,7 @@ The focus is on **creative ownership**, not passive screen time.
 |------|-------|--------|
 | **Digital Foundations** | 1–3 | Internet basics, computers as systems, files & folders |
 | **Core Computer Skills** | 4–6 | Typing, communication, images and creativity |
-| **Information & Media Literacy** | 7–8 | Search skills, video literacy, project planning |
+| **Information & Media Literacy** | 7–8 | Search strategy, evaluating results, Wikipedia exploration, and understanding sources |
 | **Coding & Problem Solving** | 9–11 | Coding concepts, Scratch programming, debugging |
 | **How Things Work** | 12 | Digital and physical systems |
 | **AI Literacy** | 13–14 | Understanding generative AI and using it creatively |
@@ -181,7 +181,7 @@ Students are encouraged to **experiment and observe what happens.**
 
 Expands on the concept with a hands-on activity or small project.
 
-Students begin applying what they discovered during the first session.
+Students begin applying what they discovered during the first session by comparing choices, testing ideas, and explaining their reasoning.
 
 ---
 
@@ -189,7 +189,7 @@ Students begin applying what they discovered during the first session.
 
 A guided exploration session where the student practices skills or creates something new.
 
-The goal is **confidence and ownership**, not perfection.
+The goal is **confidence, ownership, and thoughtful decision-making**, not perfection.
 
 ---
 
@@ -203,7 +203,9 @@ Students are encouraged to:
 - experiment
 - ask questions
 - notice patterns
-- figure things out
+- analyze what happened
+- evaluate different options
+- create improved versions of their work
 
 Reflection questions help build awareness, such as:
 
@@ -212,6 +214,8 @@ Reflection questions help build awareness, such as:
 - *What might happen if you tried something different?*
 
 These conversations help children begin developing the **systems thinking and curiosity** that strong problem solvers use.
+
+Across the course, students are regularly asked to move beyond simple recall by explaining ideas, comparing results, justifying choices, and revising their work.
 
 ---
 

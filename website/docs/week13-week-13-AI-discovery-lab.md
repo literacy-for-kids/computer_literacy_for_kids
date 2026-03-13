@@ -88,11 +88,11 @@ The student should leave with three ideas:
 ## Guided Session 1
 ### What Is AI?
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- AI is a computer system trained on large amounts of information
-- AI generates responses based on patterns
-- AI is a tool that helps people think and create
+- analyze AI output as pattern-based rather than human understanding
+- compare what AI does well with what people still need to decide or judge
+- create or extend an idea using AI as a brainstorming partner
 
 ---
 
@@ -147,20 +147,20 @@ But the human decides whether those ideas are good.
 ---
 
 #### Reflection Questions
-- “What surprised you about what AI could do?”
-- “Do you think AI actually understands things like humans do?”
-- “Why might AI sometimes make mistakes?”
+- “What evidence makes AI seem powerful, and what evidence shows its limits?”
+- “How is AI pattern-making different from human understanding?”
+- “When would you trust AI to help you brainstorm, and when would you question it more carefully?”
 
 ---
 
 ## Guided Session 2
 ### When AI Gets Things Wrong
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- AI responses are not always correct
-- humans must check information
-- AI should be used as a **thinking partner**, not a replacement for thinking
+- evaluate whether an AI response is sensible, useful, or questionable
+- verify AI information by comparing it with another source or their own reasoning
+- justify why AI should support thinking instead of replacing it
 
 ---
 
@@ -222,35 +222,26 @@ AI gives a starting point, and **people improve it**.
 ---
 
 #### Reflection Questions
-- “Why shouldn’t we trust every AI answer automatically?”
-- “How can AI help people create things?”
-- “Why is human thinking still important?”
+- “What helped you decide whether an AI answer was sensible or questionable?”
+- “How can AI support creativity without making the important decisions for us?”
+- “Why is human judgment still necessary even when AI sounds confident?”
 
 ---
 
 ## Independent Session
 ### AI Idea Explorer
 #### Instruction
-Use AI to explore an idea you are curious about.
-
-Examples:
-
-- invent a new animal
-- design a robot
-- write a short story
-- describe a new invention
+Use AI to explore an idea you are curious about, but evaluate the result instead of just accepting it.
 
 After reading the AI response, ask yourself:
 
-- Does this idea make sense?
-- What would I change?
-- How could I improve it?
+- Does this make sense?
+- What parts seem useful?
+- What parts need to be checked, changed, or improved?
 
-Then choose one of these:
+Then create your own version by writing, drawing, or expanding the idea into something better.
 
-- write your own version
-- draw the idea
-- expand the idea into something new
+Be ready to explain what you kept, what you changed, and why.
 
 Save any drawings or writing in:
 
@@ -261,10 +252,10 @@ My Projects → Experiments
 ---
 
 #### Skills Reinforced
-- understanding AI as a tool
-- asking good questions
-- evaluating generated information
-- creative idea development
+- analyzing AI as a tool rather than a thinker
+- asking stronger questions to test or extend ideas
+- evaluating generated information for usefulness and accuracy
+- developing ideas creatively with human judgment
 
 ---
 

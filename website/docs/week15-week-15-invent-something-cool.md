@@ -84,11 +84,11 @@ The goal is not perfection — it is **creative exploration and persistence**.
 ## Guided Session 1
 ### Choosing a Project Idea
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- chooses a project idea they are excited about
-- understands that projects can combine multiple skills
-- begins planning the project
+- evaluate multiple project ideas and justify which one is best to pursue
+- connect a chosen project to earlier skills, tools, and interests
+- create a project plan that breaks a large idea into smaller parts
 
 ---
 
@@ -181,20 +181,20 @@ This becomes the **project plan**.
 ---
 
 #### Reflection Questions
-- “What project idea did you choose?”
-- “Why does that idea sound exciting?”
-- “What might the first step be?”
+- “Why is your chosen project stronger than the other ideas you considered?”
+- “How does your project connect to skills you learned earlier in the course?”
+- “Which first step matters most, and why?”
 
 ---
 
 ## Guided Session 2
 ### Building the First Version
 #### Learning Goal
-The student:
+By the end of this session, the student can:
 
-- begins building the first version of the project
-- understands that the first version does not have to be perfect
-- experiences the creative process of iteration
+- create a first version or prototype that tests the main idea
+- evaluate what is working and revise the plan while building
+- justify why a rough first version is useful in the creative process
 
 ---
 
@@ -269,29 +269,22 @@ Explain that creators often keep **multiple versions** as their project evolves.
 ---
 
 #### Reflection Questions
-- “What part of the project did you build today?”
-- “What was the hardest part so far?”
-- “What might you try next time?”
+- “What did your first version help you learn about the project idea?”
+- “Which problem challenged you most, and how did you respond to it?”
+- “What revision or next step would most improve the next version?”
 
 ---
 
 ## Independent Session
 ### Creator Time
 #### Instruction
-Spend time continuing to work on your project.
+Spend time continuing to work on your project with a clear building goal.
 
-You can:
+Choose one part of the project to create or improve, then ask yourself:
 
-- draw characters
-- build Scratch scenes
-- write parts of the story
-- design inventions
-- use AI to brainstorm ideas
-
-Ask yourself:
-
-- What should happen next?
-- What part of the project should I improve?
+- What is the most important thing to build next?
+- What evidence will show that this part is working?
+- What should I revise if the first try is weak?
 
 Save your progress inside:
 
@@ -304,11 +297,11 @@ Give your files clear names so you can find them later.
 ---
 
 #### Skills Reinforced
-- project planning
-- creative ownership
-- persistence
-- problem solving
-- combining multiple digital skills
+- evaluating project ideas and planning intentionally
+- taking creative ownership of a chosen project
+- persisting through early problems and revisions
+- solving design problems during project creation
+- combining multiple digital skills into one artifact
 
 ---
 

@@ -85,11 +85,11 @@ Encourage observation and curiosity.
 ## Guided Session 1
 ### What Is a System?
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- systems are made of multiple parts
-- each part has a job
-- when parts work together, the system works
+- analyze a system by breaking it into parts and jobs
+- explain how parts interact to produce a larger result
+- create a simple system map that shows how motion, energy, or information flows
 
 ---
 
@@ -165,11 +165,11 @@ The blocks send instructions to the sprite.
 ## Guided Session 2
 ### Digital Systems and Physical Systems
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- systems exist in both digital and physical worlds
-- many real systems combine both
-- computers are often part of larger systems
+- compare digital, physical, and hybrid systems and evaluate how they are alike or different
+- analyze the role a computer plays inside a larger real-world system
+- create or explain a model of how parts in a real system work together
 
 ---
 
@@ -247,37 +247,25 @@ Each block plays a role in the **system of the program**.
 ---
 
 #### Reflection Questions
-- “What parts did you notice in the video?”
-- “Why do systems need different parts?”
-- “How do parts work together to make something happen?”
+- “Which parts seemed most important to the system, and why?”
+- “How did the parts depend on each other to make the system work?”
+- “If one part failed, what do you think would happen to the whole system?”
 
 ---
 
 ## Independent Session
 ### System Detective
 #### Instruction
-Choose something interesting around you and try to figure out **what system it is part of**.
+Choose something interesting around you and analyze **what system it is part of**.
 
-Examples:
-
-- a bicycle
-- a video game
-- a kitchen appliance
-- a toy
-- a robot
-- a machine
-
-Ask yourself:
+As you study it, ask:
 
 - What parts does it have?
 - What job does each part do?
-- How do the parts work together?
+- Which parts seem most important?
+- What would happen if one part stopped working?
 
-Then choose one of these ways to record your idea:
-
-- draw a diagram  
-- write a short description  
-- explain it to someone
+Then record your thinking by drawing a diagram, writing a short analysis, or explaining the system to someone else.
 
 Save your drawing or notes in:
 
@@ -288,10 +276,10 @@ My Projects → Experiments
 ---
 
 #### Skills Reinforced
-- systems thinking
-- observing parts and roles
-- understanding interactions between components
-- connecting digital and physical systems
+- analyzing systems as connected parts with roles
+- observing and interpreting how components interact
+- evaluating how one part affects a larger system
+- connecting digital and physical systems through systems thinking
 
 ---
 

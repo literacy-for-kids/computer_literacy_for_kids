@@ -40,15 +40,15 @@ const roadmapSections = [
   },
   {
     title: 'Communication & Media',
-    weeks: 'Weeks 5-7',
+    weeks: 'Weeks 5-8',
     description:
-      'Text, images, search literacy',
+      'Text, images, search strategy, Wikipedia, and source awareness',
   },
   {
     title: 'Coding & Problem Solving',
-    weeks: 'Weeks 8-11',
+    weeks: 'Weeks 9-11',
     description:
-      'Planning projects, Scratch programming, debugging',
+      'Algorithms, Scratch programming, debugging',
   },
   {
     title: 'Technology Systems',
@@ -95,7 +95,8 @@ export default function HomepageFeatures() {
             Computer Literacy for Kids is designed to help educators and families move beyond
             basic device use and into deeper understanding. Students learn how computers respond,
             how digital work is stored, how online systems shape what they see, and how to use
-            technology for creation instead of passive consumption.
+            technology for creation instead of passive consumption. The lessons also push students
+            to analyze, evaluate, and create as they move through the course.
           </p>
         </div>
       </section>
@@ -119,8 +120,8 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Curriculum Roadmap</Heading>
           <p className={styles.sectionLead}>
-            The learning progression moves from digital foundations into communication, coding,
-            systems thinking, and a final creative project.
+            The learning progression moves from digital foundations into communication and
+            information literacy, coding, systems thinking, and a final creative project.
           </p>
           <div className={styles.roadmapVisual}>
             <img

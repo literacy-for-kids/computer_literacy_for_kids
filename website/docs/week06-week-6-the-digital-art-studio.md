@@ -75,11 +75,11 @@ This is about learning that the computer is a tool for **creating ideas visually
 ## Guided Session 1
 ### Exploring the Digital Canvas
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- drawing apps provide tools for creating images
-- different tools produce different effects
-- the screen can act like a **canvas**
+- analyze how different digital art tools change the look of an image
+- choose tools and colors intentionally to match a creative goal
+- create a digital image that expresses a specific idea or feeling
 
 ---
 
@@ -144,20 +144,20 @@ Explain that drawings are **another type of digital file**.
 ---
 
 #### Reflection Questions
-- “What tool did you like the most?”
-- “What surprised you while drawing?”
-- “How is drawing on a computer different from drawing on paper?”
+- “Which tool changed your drawing the most, and why?”
+- “How did your choices of tool or color affect the final image?”
+- “When might digital drawing work better than paper for a creator?”
 
 ---
 
 ## Guided Session 2
 ### Pictures Tell Stories
 #### Learning Goal
-The student understands that:
+By the end of this session, the student can:
 
-- images can tell stories
-- pictures can communicate ideas without words
-- drawings can be saved and organized like other digital work
+- create a short visual story using images instead of words
+- evaluate how well a picture communicates an idea to another viewer
+- organize saved artwork in a way that supports later reflection or revision
 
 ---
 
@@ -224,26 +224,24 @@ Saving allows us to return and improve ideas later.
 ---
 
 #### Reflection Questions
-- “How did your pictures tell a story?”
-- “Why might someone choose pictures instead of words?”
-- “What would happen if we kept adding more pictures?”
+- “What choices helped your pictures communicate the story clearly?”
+- “How might a viewer interpret your pictures differently from the way you intended?”
+- “If you added another picture, how could it deepen or change the story?”
 
 ---
 
 ## Independent Session
 ### Creative Drawing Time
 #### Instruction
-Open your drawing program and create a new picture.
+Open your drawing program and create a new picture with a clear idea or message.
 
-You can draw:
+Before you start, decide:
 
-- your favorite animal
-- a machine or invention
-- an imaginary creature
-- a scene from a story
-- something you saw this week
+- what you want the viewer to notice first
+- which tools might help communicate that idea
+- what details matter most
 
-Try using **at least three different tools**.
+Use **at least three different tools**, then review your picture and improve one part of it before saving.
 
 When you finish, save the drawing inside:
 
@@ -256,10 +254,10 @@ Give your picture a name.
 ---
 
 #### Skills Reinforced
-- using drawing tools  
-- creative exploration  
-- saving image files  
-- communicating ideas visually  
+- choosing drawing tools intentionally for a visual goal
+- experimenting with and revising creative choices
+- saving artwork for later review or improvement
+- communicating ideas visually through design decisions
 
 ---
 
