@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import {literacyHub} from './src/data/literacyLinks.js';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -117,6 +118,15 @@ const config = {
               {
                 label: 'License',
                 to: '/docs/license',
+              },
+            ],
+          },
+          {
+            title: 'Literacy for Kids',
+            items: [
+              {
+                label: 'Project Hub',
+                href: literacyHub.href,
               },
             ],
           },

@@ -1,6 +1,7 @@
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
+import {literacyCurricula, literacyHub} from '@site/src/data/literacyLinks';
 import styles from './styles.module.css';
 
 const features = [
@@ -133,6 +134,38 @@ export default function HomepageFeatures() {
           <div className={styles.roadmapGrid}>
             {roadmapSections.map((section) => (
               <RoadmapCard key={section.title} {...section} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className={styles.sectionAlt}>
+        <div className="container">
+          <Heading as="h2">Part of the Literacy for Kids Project</Heading>
+          <p className={styles.sectionLead}>
+            This curriculum is part of Literacy for Kids, a collection of open-source
+            curricula designed to help children ages 8–12 understand the systems that
+            shape the modern world.
+          </p>
+          <p className={styles.sectionLead}>
+            Each curriculum focuses on a different foundational life skill. You can
+            explore the full curriculum collection here:
+          </p>
+          <p className={styles.hubLink}>
+            <Link to={literacyHub.href}>
+              ➡ Literacy for Kids Hub
+            </Link>
+          </p>
+          <Heading as="h3">Explore the Other Literacies</Heading>
+          <div className={styles.cardGrid}>
+            {literacyCurricula.map((literacy) => (
+              <article key={literacy.title} className={styles.card}>
+                <Heading as="h4">{literacy.title}</Heading>
+                <p>{literacy.description}</p>
+                <Link className={styles.inlineLink} to={literacy.href}>
+                  Visit curriculum
+                </Link>
+              </article>
             ))}
           </div>
         </div>
