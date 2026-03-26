@@ -1,6 +1,7 @@
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
+import {literacyCurricula, literacyHub} from '@site/src/data/literacyLinks';
 import styles from './styles.module.css';
 
 const features = [
@@ -61,39 +62,6 @@ const roadmapSections = [
     weeks: 'Weeks 15-18',
     description:
       'Students build their own digital artifact',
-  },
-];
-
-const literacyLinks = [
-  {
-    title: '🧠 Decision Literacy',
-    href: 'https://zcohen-nerd.github.io/decision_literacy_for_kids/',
-    description:
-      'How to think clearly, evaluate choices, and understand consequences.',
-  },
-  {
-    title: '💻 Computer Literacy',
-    href: 'https://zcohen-nerd.github.io/computer_literacy_for_kids/',
-    description:
-      'How computers work and how to use them responsibly.',
-  },
-  {
-    title: '📰 Media Literacy',
-    href: 'https://zcohen-nerd.github.io/media_literacy_for_kids/',
-    description:
-      'How to evaluate information and recognize bias.',
-  },
-  {
-    title: '💰 Financial Literacy',
-    href: 'https://zcohen-nerd.github.io/financial_literacy_for_kids/',
-    description:
-      'How money works and how to make responsible financial decisions.',
-  },
-  {
-    title: '🏛 Civic Literacy',
-    href: 'https://zcohen-nerd.github.io/civic_literacy_for_kids/',
-    description:
-      'How societies organize themselves and how citizens shape their communities.',
   },
 ];
 
@@ -184,13 +152,13 @@ export default function HomepageFeatures() {
             explore the full curriculum collection here:
           </p>
           <p className={styles.hubLink}>
-            <Link to="https://zcohen-nerd.github.io/literacy_for_kids/">
+            <Link to={literacyHub.href}>
               ➡ Literacy for Kids Hub
             </Link>
           </p>
           <Heading as="h3">Explore the Other Literacies</Heading>
           <div className={styles.cardGrid}>
-            {literacyLinks.map((literacy) => (
+            {literacyCurricula.map((literacy) => (
               <article key={literacy.title} className={styles.card}>
                 <Heading as="h4">{literacy.title}</Heading>
                 <p>{literacy.description}</p>

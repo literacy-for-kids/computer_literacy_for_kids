@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import {literacyHub} from './src/data/literacyLinks.js';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -125,7 +126,7 @@ const config = {
             items: [
               {
                 label: 'Project Hub',
-                href: 'https://zcohen-nerd.github.io/literacy_for_kids/',
+                href: literacyHub.href,
               },
             ],
           },
