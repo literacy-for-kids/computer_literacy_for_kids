@@ -50,10 +50,12 @@ This week the student begins thinking of the computer as a **creative art studio
 
 ## Teacher Preparation
 :::info Before You Begin
-- Ensure a simple drawing program is available:
-  - Paint
-  - Paint 3D
-  - Tux Paint (optional alternative)
+- **Time needed:** approximately 30–40 minutes per guided session.
+- **Device needed:** any computer or tablet with a mouse, trackpad, or stylus.
+- Ensure a simple drawing program is available — any basic drawing tool will work:
+  - Paint, Paint 3D, or Tux Paint (Windows)
+  - Paintbrush or Preview markup (Mac)
+  - Any free online drawing tool such as Sketchpad or Kleki
 - Confirm the **My Projects** folder from Week 3 exists.
 - Prepare to demonstrate a few basic drawing tools:
   - brush/pencil
@@ -148,6 +150,11 @@ Explain that drawings are **another type of digital file**.
 - “How did your choices of tool or color affect the final image?”
 - “When might digital drawing work better than paper for a creator?”
 
+:::tip Sentence Starters for Younger Learners
+- “The tool that changed my drawing the most was…”
+- “I chose that color because…”
+:::
+
 ---
 
 ## Guided Session 2
@@ -228,6 +235,11 @@ Saving allows us to return and improve ideas later.
 - “How might a viewer interpret your pictures differently from the way you intended?”
 - “If you added another picture, how could it deepen or change the story?”
 
+:::tip Sentence Starters for Younger Learners
+- “I wanted the viewer to see…”
+- “If I added another picture, it would show…”
+:::
+
 ---
 
 ## Independent Session
@@ -265,3 +277,36 @@ Give your picture a name.
 - drawing program open  
 - access to **My Projects → Drawings**  
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify (younger or struggling learners):**
+- Let the learner freely scribble and experiment with tools before giving a prompt.
+- Reduce the task to one drawing instead of a two-picture story.
+- Sit alongside and narrate what they are doing: “I see you picked the blue — what are you making?”
+
+**To extend (older or advanced learners):**
+- Challenge them to create a three- or four-panel visual story.
+- Ask them to add text labels or a title to their artwork.
+- Introduce the concept of layers if the drawing tool supports them.
+
+---
+
+## 💾 Save This Week’s Artifact
+
+Save the learner’s best digital drawing (or both story panels) in the **My Projects → Drawings** folder. This artwork shows they can use a computer as a creative tool to express ideas visually. Give each file a descriptive name like “Silly Creature” or “Rocket Story.”
+
+---
+
+## ✅ Success Indicators
+
+Look for these signs that the learner is making progress:
+
+- They can open a drawing app and find basic tools (brush, shapes, colors) without help.
+- They used at least two or three different tools in their artwork.
+- They created an original drawing that expresses a clear idea or tells a simple story.
+- They made at least one intentional revision — erasing, changing a color, or redrawing a part.
+- They saved their artwork to the correct folder with a name they chose.
+- They can describe what they drew and the choices they made.

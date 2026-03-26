@@ -67,12 +67,22 @@ Curious learners ask questions like:
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time needed:** approximately 30–40 minutes per guided session.
+- **Device needed:** any computer or tablet with a browser and internet access.
+- **Websites needed:** [Wikipedia](https://en.wikipedia.org) or [Simple English Wikipedia](https://simple.wikipedia.org) (no account required).
 - Ensure access to previously used tools:
   - browser
 - Confirm the student can reach Wikipedia or Simple English Wikipedia.
 - Prepare a few safe, high-interest starting topics such as volcanoes, octopuses, Mars, dinosaurs, or robotics.
 - Have a simple recording sheet, notebook, or document ready for the activity.
 - Set up a visual timer.
+:::
+
+:::note[🔒 Safety Note]
+Wikipedia is a valuable learning tool, but it is important for learners to understand:
+- **Anyone can edit Wikipedia.** That means some information might be incomplete, outdated, or even incorrect.
+- **Use Wikipedia as a starting point, not the final answer.** Encourage the learner to check important facts by looking at the references or searching for a second source.
+- **Stick to the article and its links.** External links at the bottom of articles may lead to sites that are not designed for children — preview them together first.
 :::
 
 :::tip Teaching Mindset
@@ -174,6 +184,11 @@ Explain that this is one reason Wikipedia is useful: it helps us see how knowled
 - “What did the links reveal about how knowledge connects across topics?”
 - “Why do references make an article more useful to a careful learner?”
 
+:::tip Sentence Starters for Younger Learners
+- “The headings helped me because…”
+- “When I clicked a link, I learned that…”
+:::
+
 ---
 
 ## Guided Session 2
@@ -222,6 +237,11 @@ Explain:
 - “What did the references help you infer about where the information came from?”
 - “How would you decide whether to keep reading the article or open one of its sources next?”
 - “Why is ‘start learning’ a stronger role for Wikipedia than ‘stop learning’?”
+
+:::tip Sentence Starters for Younger Learners
+- “I think the information came from…”
+- “I would check another source because…”
+:::
 
 ---
 
@@ -275,3 +295,36 @@ Remember:
 - browser available
 - notebook or document for recording discoveries
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify (younger or struggling learners):**
+- Use [Simple English Wikipedia](https://simple.wikipedia.org) which has shorter sentences and simpler vocabulary.
+- Limit the rabbit hole to three link-clicks instead of five.
+- Read the article introduction together aloud and discuss it before moving on.
+
+**To extend (older or advanced learners):**
+- Ask the learner to find one reference in the article and look up that source to see if the information matches.
+- Have them write a short summary comparing what two different articles say about the same topic.
+- Challenge them to explain to someone else why Wikipedia is a starting point, not a final source.
+
+---
+
+## 💾 Save This Week’s Artifact
+
+Save the learner’s notes or summary from their Wikipedia exploration in the **My Projects** folder. This might be a list of topics they visited, a short paragraph about what they learned, or their rabbit-hole path with one surprising connection. It shows they can navigate, explore, and reflect on information they find online.
+
+---
+
+## ✅ Success Indicators
+
+Look for these signs that the learner is making progress:
+
+- They can navigate to a Wikipedia article and identify its main parts (summary, headings, links, references).
+- They followed at least one link from one article to a related topic.
+- They can explain in their own words what they learned from an article.
+- They understand that Wikipedia is written by many people and can be edited.
+- They noticed references at the bottom of an article and can explain why sources matter.
+- They recorded their exploration path or wrote a short summary of what they discovered.

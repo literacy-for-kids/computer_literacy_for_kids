@@ -55,10 +55,11 @@ This week the student will start thinking of the computer as a **tool for expres
 
 ## Teacher Preparation
 :::info Before You Begin
-- Ensure a simple writing tool is available:
-  - Notepad
-  - WordPad
-  - Google Docs (optional)
+- **Time needed:** approximately 30–40 minutes per guided session.
+- **Device needed:** any computer or tablet with a keyboard.
+- Ensure a simple writing tool is available — any word processor will work:
+  - Notepad, WordPad, TextEdit, or any plain text editor
+  - Google Docs, LibreOffice Writer, or Microsoft Word
 - Confirm the **My Projects** folder created in Week 3 still exists.
 - Prepare a few fun writing prompts.
 - Be ready to demonstrate:
@@ -151,6 +152,11 @@ Focus on ideas rather than correctness.
 - “What writing choice helped make your message clearer for a reader?”
 - “Why does digital writing give you more control over your ideas than paper sometimes does?”
 
+:::tip Sentence Starters for Younger Learners
+- “When I moved the cursor, I noticed…”
+- “I think writing on a computer is easier because…”
+:::
+
 ---
 
 ## Guided Session 2
@@ -237,6 +243,11 @@ My First Story
 - “Which revision made your writing clearer, stronger, or more interesting?”
 - “If you revised it again, what would you improve next?”
 
+:::tip Sentence Starters for Younger Learners
+- “My writing got better when I…”
+- “Next time I would change…”
+:::
+
 ---
 
 ## Independent Session
@@ -279,3 +290,36 @@ My Projects → Stories
 - Notepad, WordPad, or Google Docs open  
 - access to the **My Projects** folder  
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify (younger or struggling learners):**
+- Let the learner dictate their ideas while the adult types, then have them try typing one sentence on their own.
+- Use a larger font size so the text is easier to see and track.
+- Limit the writing to just one or two sentences instead of a full paragraph.
+
+**To extend (older or advanced learners):**
+- Challenge the learner to write a full paragraph with a beginning, middle, and end.
+- Introduce copy and paste (Ctrl+C / Ctrl+V) to rearrange sentences.
+- Ask them to write for a specific audience, such as a younger sibling or a friend, and explain their choices.
+
+---
+
+## 💾 Save This Week's Artifact
+
+Save the learner's written document (story, message, or creative writing piece) in the **My Projects → Stories** folder. This is their first real piece of digital writing — it shows they can turn ideas into words on a computer and save their work for later.
+
+---
+
+## ✅ Success Indicators
+
+Look for these signs that the learner is making progress:
+
+- They can open a writing app and start typing without help.
+- They use the cursor to place text where they want it.
+- They wrote at least a few connected sentences with a clear idea.
+- They made at least one edit or revision to improve their writing.
+- They saved their document to the correct folder with a meaningful file name.
+- They can explain what they wrote and why they made changes.

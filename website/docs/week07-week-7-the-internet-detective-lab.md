@@ -54,6 +54,8 @@ This week focuses on how to ask better questions and how to understand what sear
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time needed:** approximately 30–40 minutes per guided session.
+- **Device needed:** any computer or tablet with a browser and internet access.
 - Ensure a browser is available.
 - Enable SafeSearch if possible.
 - Bookmark a few kid-friendly sites such as:
@@ -62,6 +64,14 @@ This week focuses on how to ask better questions and how to understand what sear
   - https://www.nasa.gov/kidsclub
 - Prepare a few topics related to the child's interests (dogs, animals, rockets, machines, etc.).
 - Set up a visual timer.
+:::
+
+:::note[🔒 Safety Note]
+Before the learner searches on their own, remind them of these habits:
+- **Never click on links that look unfamiliar, flashy, or promise prizes.** If something looks strange, ask an adult.
+- **Stick to kid-friendly search engines** (like Kiddle) or use SafeSearch on Google.
+- **Check who made the website** — results from schools, museums, and well-known organizations are usually more reliable.
+- **If a page asks for personal information** (name, age, address), close it and tell an adult right away.
 :::
 
 :::tip Teaching Mindset
@@ -153,6 +163,11 @@ Explain that search works better when we ask a **clear question**.
 - “Which search words gave you the best results, and why?”
 - “What search strategy would you use next time if the first results were weak?”
 
+:::tip Sentence Starters for Younger Learners
+- “My search got better when I changed the words to…”
+- “The result I picked was helpful because…”
+:::
+
 ---
 
 ## Guided Session 2
@@ -221,6 +236,11 @@ You do not need to explain the full technology. The goal is simply for the stude
 - “How did you compare two possible results before making a choice?”
 - “Why is it important to evaluate results instead of trusting the top one automatically?”
 
+:::tip Sentence Starters for Younger Learners
+- “I decided to click on that result because…”
+- “I could tell the first result wasn’t the best because…”
+:::
+
 ---
 
 ## Independent Session
@@ -260,3 +280,36 @@ Save anything you create in your **My Projects** folder.
 - kid-friendly search engine ready
 - access to **My Projects** folder
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify (younger or struggling learners):**
+- Search together side by side — the adult types while the learner suggests keywords.
+- Limit the session to one search topic and two searches (broad vs. specific).
+- Use a kid-friendly search engine like Kiddle that shows visual results.
+
+**To extend (older or advanced learners):**
+- Ask the learner to compare the same search on two different search engines and note differences.
+- Introduce the idea of checking the date of a result to see how recent the information is.
+- Have them create a mini “Fact Sheet” with three facts, each listing where they found the information.
+
+---
+
+## 💾 Save This Week’s Artifact
+
+Save the learner’s search notes, fact sheet, or written record of their investigation in the **My Projects** folder. This could be a short document listing what they searched for, which results they chose, and the best fact they found. It shows they can search with purpose and evaluate what they find.
+
+---
+
+## ✅ Success Indicators
+
+Look for these signs that the learner is making progress:
+
+- They can type a search query and press Enter to get results.
+- They tried improving a search by changing or adding keywords.
+- They looked at more than one result before deciding which to open.
+- They can explain why one result seemed more useful than another.
+- They noticed that not all search results are equally helpful or reliable.
+- They recorded at least one fact or discovery from their search.
