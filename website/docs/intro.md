@@ -20,7 +20,7 @@ For learners who are interested, the curriculum also includes **optional 3D desi
 
 ![Visual roadmap of the 18-week Computer Literacy for Kids curriculum](/img/roadmap.png)
 
-This visual roadmap gives teachers and caregivers a quick big-picture view of how the curriculum progresses from digital foundations into creative project work.
+This visual roadmap gives facilitators and caregivers a quick big-picture view of how the curriculum progresses from digital foundations into creative project work.
 
 ---
 
@@ -30,12 +30,15 @@ This visual roadmap gives teachers and caregivers a quick big-picture view of ho
 - Jump to [What Each Week Includes](#what-each-week-includes) for session format.
 - Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
 - Visit [Optional Extension](#optional-extension) for the CAD track.
+- See [How to Use This Curriculum](./how-to-use-this-curriculum.md) for setup guidance and pacing tips.
 :::
 
-:::info For Caregivers and Teachers
+:::info For Caregivers and Facilitators
 - You do not need to read the full site in order. Start here, then move into the current week you are teaching.
-- Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, teach one session at a time, and come back later for the rest.
-- Use this page when you want the big-picture philosophy, not when you need minute-by-minute teaching directions.
+- Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, facilitate one session at a time, and come back later for the rest.
+- This curriculum works in classrooms, homeschool settings, libraries, and after-school programs — anywhere an adult can guide a young learner through hands-on exploration.
+- Use this page when you want the big-picture philosophy, not when you need minute-by-minute session directions.
+- For more detailed setup guidance, see [How to Use This Curriculum](./how-to-use-this-curriculum.md).
 :::
 
 ## The Big Idea
@@ -86,7 +89,7 @@ Files can be:
 - revisited
 - improved later
 
-Students build a **Personal Project Folder** where they keep things they create throughout the course.
+Students build a **Personal Project Folder** where they keep things they create throughout the course — forming a **digital portfolio** that grows week by week.
 
 ---
 
@@ -217,17 +220,26 @@ These conversations help children begin developing the **systems thinking and cu
 
 Across the course, students are regularly asked to move beyond simple recall by explaining ideas, comparing results, justifying choices, and revising their work.
 
+Assessment throughout the curriculum is **observation-based and low-pressure** — focused on what students can demonstrate through their work and conversations, not tests or grades. For more details, see the [Assessment & Progress](./assessment-and-progress.md) guide.
+
 ---
 
 ## Getting Started
 
 :::tip Start Here
-Begin with **Week 1: Internet Basics & Digital Citizenship** and progress through each week sequentially.
+Begin with **Week 1: Internet Basics & Digital Citizenship** and progress through each week sequentially. For a complete setup guide — including pacing options, environment tips, and planning advice — see [How to Use This Curriculum](./how-to-use-this-curriculum.md).
 :::
 
 Each week builds on the previous one, gradually expanding the student’s understanding of computers, creativity, and digital systems.
 
 Use the sidebar to navigate through the lessons.
+
+**Additional resources for facilitators:**
+
+- [Assessment & Progress](./assessment-and-progress.md) — observation-based tracking and portfolio ideas
+- [Adaptations & Accessibility](./adaptations-and-accessibility.md) — tips for different learners and settings
+- [Tool Alternatives](./tool-alternatives.md) — flexible software options for any platform
+- [Final Project Rubric](./final-project-rubric.md) — evaluation guide for the capstone project
 
 ---
 
@@ -246,3 +258,5 @@ The most important outcome is simple:
 **Students should feel like computers are tools they can understand, control, and create with.**
 
 And for some students, that creativity may even extend beyond the screen — into designing objects that can be **built in the physical world.**
+
+Along the way, learners build a **digital portfolio** of their work — a collection of projects, reflections, and creations they can look back on with pride.
