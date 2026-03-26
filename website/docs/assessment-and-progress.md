@@ -109,7 +109,7 @@ At this stage, confidence matters more than speed. A learner who feels comfortab
 - Presented or shared the project with others
 - Reflected on what they learned and what they'd do differently
 
-For a detailed project evaluation guide, see the [Final Project Rubric](/final-project-rubric).
+For a detailed project evaluation guide, see the [Final Project Rubric](./final-project-rubric.md).
 
 ---
 
@@ -122,7 +122,7 @@ Choose whatever method fits your setting. There's no required tracking system.
 - **Portfolio review** — Periodically look through the learner's saved work. You'll see growth over time without any formal tracking.
 - **Conversation-based check-ins** — Ask the learner how they feel about what they've learned. Their self-assessment tells you a lot.
 
-If your setting requires formal records (like a school or co-op), the milestone checkpoints and the [Final Project Rubric](/final-project-rubric) give you enough structure to document progress. If you're a parent working at home, a quick mental check is plenty.
+If your setting requires formal records (like a school or co-op), the milestone checkpoints and the [Final Project Rubric](./final-project-rubric.md) give you enough structure to document progress. If you're a parent working at home, a quick mental check is plenty.
 
 ---
 

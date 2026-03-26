@@ -4,7 +4,20 @@
 const sidebars = {
   curriculumSidebar: [
     'intro',
-    'license',
+    'how-to-use-this-curriculum',
+    'curriculum-master',
+    {
+      type: 'category',
+      label: 'Educator Resources',
+      description: 'Assessment, adaptations, tool alternatives, and project rubric',
+      collapsed: true,
+      items: [
+        'assessment-and-progress',
+        'adaptations-and-accessibility',
+        'final-project-rubric',
+        'tool-alternatives',
+      ],
+    },
     {
       type: 'category',
       label: 'Digital Foundations',
@@ -75,7 +88,7 @@ const sidebars = {
         'week-CAD-2-from-screen-to-real-objects',
       ],
     },
-    'curriculum-master',
+    'license',
   ],
 };
 

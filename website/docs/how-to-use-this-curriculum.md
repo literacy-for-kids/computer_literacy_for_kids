@@ -13,7 +13,7 @@ This page is your starting point. Whether you're a classroom teacher, a homescho
 You don't need to be a tech expert. You just need to be willing to learn alongside your students.
 
 :::tip Start Here
-If you're brand new, read this page first, then jump to [Week 1](/week-1-internet-playground).
+If you're brand new, read this page first, then jump to [Week 1](./week01-week-1-internet-playground.md).
 :::
 
 ---
@@ -147,7 +147,7 @@ Keep it simple. The goal is saving work, not perfecting organization.
 
 Assessment in this curriculum is **observation-based and growth-focused**. There are no tests or grades built into the program. Instead, each week includes success indicators that help you notice what learners can do, and milestone checkpoints help you reflect on progress at key points.
 
-For the full assessment framework, see the [Assessment and Progress](/assessment) page.
+For the full assessment framework, see the [Assessment and Progress](./assessment-and-progress.md) page.
 
 ---
 
@@ -155,7 +155,7 @@ For the full assessment framework, see the [Assessment and Progress](/assessment
 
 Every group of learners is different. The curriculum is designed to flex — whether you're working with one child at home, a group of twenty in a classroom, or a mixed-age after-school club.
 
-For specific strategies on supporting diverse learners, shared devices, low-internet settings, English language learners, and more, see the [Adaptations and Accessibility](/adaptations) page.
+For specific strategies on supporting diverse learners, shared devices, low-internet settings, English language learners, and more, see the [Adaptations and Accessibility](./adaptations-and-accessibility.md) page.
 
 ---
 
@@ -164,10 +164,10 @@ For specific strategies on supporting diverse learners, shared devices, low-inte
 Here's a concrete list of steps to begin:
 
 1. **Read this page** — you're already doing it ✓
-2. **Skim the [Curriculum Overview](/curriculum-overview)** to see the full arc of the program
+2. **Skim the [Curriculum Overview](./curriculum-overview.md)** to see the full arc of the program
 3. **Check your setup** — make sure you have a computer or tablet with internet access and a web browser
 4. **Create a portfolio folder** for each learner (a folder on the desktop or shared drive)
-5. **Read through [Week 1](/week-1-internet-playground)** — just the prep notes and session outlines, so you know what to expect
+5. **Read through [Week 1](./week01-week-1-internet-playground.md)** — just the prep notes and session outlines, so you know what to expect
 6. **Pick your schedule** — decide when your three weekly sessions will happen
 7. **Start Week 1** — and learn alongside your students
 
