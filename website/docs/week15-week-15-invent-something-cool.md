@@ -60,6 +60,9 @@ Your final project will go through several versions before it is finished.
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time:** Each guided session runs about 30–45 minutes. The independent session is 20–30 minutes.
+- **Device:** One computer or tablet per learner with keyboard and mouse/trackpad.
+- **Accounts:** Ensure the student can log in to any tools they used earlier (Scratch account, AI tool, etc.).
 - Ensure the student has access to the tools they used earlier in the course:
   - writing tools
   - drawing tools
@@ -69,6 +72,7 @@ Your final project will go through several versions before it is finished.
 - Confirm the **My Projects** folder exists and is organized.
 - Prepare a sheet of paper or whiteboard for planning diagrams.
 - Set up the visual timer.
+- For a detailed evaluation guide, see the [Final Project Rubric](./final-project-rubric.md).
 :::
 
 :::tip Teaching Mindset
@@ -185,6 +189,12 @@ This becomes the **project plan**.
 - “How does your project connect to skills you learned earlier in the course?”
 - “Which first step matters most, and why?”
 
+:::tip Sentence Starters for Younger Learners
+- “I picked this idea because…”
+- “This project uses a skill I learned when we…”
+- “The first thing I need to do is… because…”
+:::
+
 ---
 
 ## Guided Session 2
@@ -273,6 +283,12 @@ Explain that creators often keep **multiple versions** as their project evolves.
 - “Which problem challenged you most, and how did you respond to it?”
 - “What revision or next step would most improve the next version?”
 
+:::tip Sentence Starters for Younger Learners
+- “Building my first version taught me…”
+- “The hardest part was… and I tried…”
+- “Next time I will change… because…”
+:::
+
 ---
 
 ## Independent Session
@@ -309,3 +325,36 @@ Give your files clear names so you can find them later.
 - project tools available
 - access to **My Projects → Final Project**
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**Simplify:**
+- Narrow the project to a single scene, page, or drawing instead of a multi-part plan.
+- Let the student dictate the project plan while the adult writes it down.
+- Use a provided template (story starter, Scratch starter project) to reduce the blank-page problem.
+
+**Extend:**
+- Challenge the student to write a project plan with a timeline and milestones.
+- Encourage combining two tools (e.g., a Scratch animation with a written backstory).
+- Ask the student to sketch multiple versions of a character or scene before choosing one.
+
+---
+
+## 💾 Save This Week's Artifact
+
+Save the **project plan document** and the **first version (v1)** of the project to the portfolio. These artifacts capture the very beginning of the creative journey and will be valuable for comparing growth during the Week 18 showcase.
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, the student has:
+
+- ✅ Brainstormed multiple project ideas and explained why they chose one
+- ✅ Created a written or visual project plan that breaks the idea into smaller parts
+- ✅ Started building the first version (prototype) of the project
+- ✅ Saved the first version with a clear file name (e.g., `ProjectName_v1`)
+- ✅ Identified at least one problem encountered and described how they responded
+- ✅ Connected the project to skills learned earlier in the course

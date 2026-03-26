@@ -54,6 +54,9 @@ This week is about making your project **clear, complete, and ready to show**.
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time:** Each guided session runs about 30–45 minutes. The independent session is 20–30 minutes.
+- **Device:** One computer or tablet per learner with keyboard and mouse/trackpad.
+- **Accounts:** Ensure the student can log in to all tools used for the project.
 - Ensure access to all tools the student has used for the project.
 - Confirm the **Final Project** folder exists:
 
@@ -155,6 +158,12 @@ These details make the project feel complete.
 - “What final improvement would make the biggest difference before sharing?”
 - “Why is review an important creative step instead of just an extra chore?”
 
+:::tip Sentence Starters for Younger Learners
+- “An audience would like… because…”
+- “The one thing I still want to fix is… because…”
+- “Reviewing my work matters because…”
+:::
+
 ---
 
 ## Guided Session 2
@@ -223,6 +232,12 @@ Offer supportive feedback.
 - “What challenge in the project reveals the most about your creative process?”
 - “What do you most want the audience to notice, think about, or remember?”
 
+:::tip Sentence Starters for Younger Learners
+- “The part I will explain first is… because…”
+- “A challenge that taught me a lot was…”
+- “I want people to notice… because…”
+:::
+
 ---
 
 ## Independent Session
@@ -264,3 +279,36 @@ ProjectName_Final
 - project tools available
 - access to **My Projects → Final Project**
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**Simplify:**
+- Limit the improvement list to just one or two small changes.
+- Have the adult write the presentation notes while the student dictates.
+- Skip the rehearsal and instead do a casual walkthrough of the project together.
+
+**Extend:**
+- Ask the student to create a title slide or cover page for the project.
+- Encourage them to rehearse the presentation for two different people and compare the feedback.
+- Challenge the student to write a short "creator statement" explaining the project's purpose and inspiration.
+
+---
+
+## 💾 Save This Week's Artifact
+
+Save the **polished final version** of the project (e.g., `ProjectName_Final`) along with any **presentation notes or outline** the student created. These represent the culmination of the creative process and will be the centerpiece of next week's showcase.
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, the student has:
+
+- ✅ Reviewed the entire project from an audience's perspective
+- ✅ Completed a small improvement list and applied the final polish
+- ✅ Created a simple presentation plan with at least three talking points
+- ✅ Practiced explaining the project clearly to another person
+- ✅ Saved the final version with a clear file name (e.g., `ProjectName_Final`)
+- ✅ Expressed confidence or excitement about sharing the project
