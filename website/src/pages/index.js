@@ -15,7 +15,7 @@ function HomepageHeader() {
           <p className={styles.kicker}>Free and open educational curriculum</p>
           <h1 className="hero__title">Computer Literacy for Kids</h1>
           <p className="hero__subtitle">
-            A free, open curriculum that teaches kids how computers actually work.
+            A free, open curriculum that teaches kids ages 8–12 how computers actually work.
           </p>
           <p className={styles.heroLead}>
             Many children know how to use apps but not how computers and the internet

@@ -92,11 +92,11 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Introduction</Heading>
           <p className={styles.sectionLead}>
-            Computer Literacy for Kids is designed to help educators and families move beyond
-            basic device use and into deeper understanding. Students learn how computers respond,
-            how digital work is stored, how online systems shape what they see, and how to use
-            technology for creation instead of passive consumption. The lessons also push students
-            to analyze, evaluate, and create as they move through the course.
+            Computer Literacy for Kids is designed to help educators, families, and facilitators move beyond
+            basic device use and into deeper understanding. Built for ages 8–12, this 18-week curriculum
+            works in classrooms, homeschool settings, libraries, and after-school programs. Students learn
+            how computers respond, how digital work is stored, how online systems shape what they see,
+            and how to use technology for creation instead of passive consumption.
           </p>
         </div>
       </section>
