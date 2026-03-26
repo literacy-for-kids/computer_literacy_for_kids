@@ -39,6 +39,10 @@ This week you will learn how to **collaborate with AI**.
 
 
 
+:::note[🔒 Safety Note]
+All AI interactions for ages 8–12 should be supervised by an adult. Do not let learners share personal information with AI tools. Remind learners that AI can sound confident and still be wrong — always check important facts with a trusted source. AI outputs should be reviewed by a human before being trusted or shared.
+:::
+
 :::info Caregiver Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
@@ -55,7 +59,10 @@ This week you will learn how to **collaborate with AI**.
 
 ## Teacher Preparation
 :::info Before You Begin
-- Ensure access to a generative AI tool.
+- **Time needed:** ~30–45 minutes per guided session; ~20–30 minutes for the independent session.
+- **Devices needed:** A computer or tablet with internet access.
+- **Accounts:** Use an adult-managed account for any AI tool. Learners should not create their own AI accounts.
+- Ensure access to a generative AI tool (such as ChatGPT, Gemini, Copilot, or another conversational AI). Any conversational AI tool will work for this lesson — see [Tool Alternatives](./tool-alternatives.md) for options.
 - Prepare a few example prompts that demonstrate how prompts change results.
 - Have drawing and writing tools available.
 - Confirm the **My Projects** folder exists.
@@ -143,8 +150,11 @@ Explain that small changes in prompts can produce **very different ideas**.
 
 #### Reflection Questions
 - “How did changing the prompt change the quality of the response?”
+  - *Sentence starter: “When I changed the prompt, the AI…”*
 - “Which prompt worked best, and what made it stronger?”
+  - *Sentence starter: “The best prompt was… because it…”*
 - “How would you improve your next prompt even further?”
+  - *Sentence starter: “Next time I would try… because…”*
 
 ---
 
@@ -229,8 +239,11 @@ My Projects → Experiments
 
 #### Reflection Questions
 - “Which parts of the AI idea were worth keeping, and which needed revision?”
+  - *Sentence starter: “I kept… but I changed… because…”*
 - “How did your changes make the final idea more original or useful?”
+  - *Sentence starter: “My changes made it better because…”*
 - “Why is revision such an important part of real creative work?”
+  - *Sentence starter: “Revision matters because the first version…”*
 
 ---
 
@@ -262,7 +275,40 @@ My Projects → Experiments
 ---
 
 #### Setup
-- AI tool open
+- AI tool open (adult-supervised account)
 - drawing or writing tool available
 - access to **My Projects → Experiments**
 - visual timer
+
+---
+
+## 💾 Save This Week’s Artifact
+
+Save your AI-assisted creation to your portfolio folder (**My Projects → Experiments**). Include brief notes about what the AI generated, what you changed or improved, and why. This shows your creative ownership — the AI helped, but you made the final decisions.
+
+---
+
+## 🔄 Simplify or Extend
+
+**Simplify:**
+- Provide 2–3 ready-made prompts for the learner to try, rather than asking them to write their own.
+- Focus on just one round of “generate → improve” rather than multiple iterations.
+- Keep the creative output simple: a drawing or a few sentences is enough.
+
+**Extend:**
+- Challenge the learner to refine the same prompt three or more times and track how the AI output improves.
+- Ask the learner to create a side-by-side comparison: the original AI idea vs. their improved version, with annotations explaining each change.
+- Have the learner write a short reflection: “What did the AI do well? What did I do better?”
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, look for evidence that the learner can:
+
+- Write a clear, specific prompt and explain why detail improves AI responses.
+- Revise an AI-generated idea by adding, removing, or changing parts to make it stronger.
+- Explain the difference between what the AI contributed and what they created themselves.
+- Show creative ownership — the final artifact reflects their choices, not just the AI’s output.
+- Describe how iterating (trying, improving, trying again) leads to better results.
+- Talk about AI as a helpful tool while understanding it is not an authority or a replacement for their own thinking.

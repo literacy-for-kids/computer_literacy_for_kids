@@ -58,6 +58,8 @@ This is one of the most important ideas in engineering, science, and programming
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time needed:** ~30–45 minutes per guided session; ~20–30 minutes for the independent session.
+- **Devices needed:** A computer or tablet with access to Scratch.
 - Prepare examples of systems the student is familiar with:
   - bicycle
   - dog leash + collar
@@ -157,8 +159,11 @@ The blocks send instructions to the sprite.
 
 #### Reflection Questions
 - “What is a system?”
+  - *Sentence starter: “A system is when…”*
 - “What are some parts of a bicycle?”
+  - *Sentence starter: “Some parts I noticed are…”*
 - “What parts make a Scratch project work?”
+  - *Sentence starter: “A Scratch project needs… to work because…”*
 
 ---
 
@@ -248,8 +253,11 @@ Each block plays a role in the **system of the program**.
 
 #### Reflection Questions
 - “Which parts seemed most important to the system, and why?”
+  - *Sentence starter: “I think the most important part is… because without it…”*
 - “How did the parts depend on each other to make the system work?”
+  - *Sentence starter: “The parts depend on each other because…”*
 - “If one part failed, what do you think would happen to the whole system?”
+  - *Sentence starter: “If the… stopped working, then… would happen.”*
 
 ---
 
@@ -287,3 +295,36 @@ My Projects → Experiments
 - drawing or writing tool available
 - access to **My Projects → Experiments**
 - visual timer
+
+---
+
+## 💾 Save This Week's Artifact
+
+Save your system diagram or written description to your portfolio folder (**My Projects → Experiments**). This is your record of how you analyzed a real system — label it with the system you chose and the date.
+
+---
+
+## 🔄 Simplify or Extend
+
+**Simplify:**
+- Focus on just one system (like a bicycle) and identify only 3–4 major parts.
+- Use a pre-drawn diagram template and have the learner fill in labels.
+- Skip the Scratch connection and concentrate on physical systems only.
+
+**Extend:**
+- Ask the learner to compare two different systems and explain what they have in common.
+- Challenge them to design a brand-new system on paper — what parts would it need?
+- Have the learner explain what happens when two different parts fail — how do the effects differ?
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, look for evidence that the learner can:
+
+- Explain that a system is made of parts that work together toward a purpose.
+- Identify at least 3–4 parts of a familiar system and describe what each part does.
+- Draw or describe how parts in a system are connected (e.g., a simple flow diagram).
+- Explain what would happen if one part of a system were removed or broken.
+- Recognize that both physical things (bicycles) and digital things (Scratch projects) are systems.
+- Use the word "system" meaningfully when describing how something works.

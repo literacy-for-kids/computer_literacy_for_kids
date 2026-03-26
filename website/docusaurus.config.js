@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Computer Literacy Curriculum for Kids',
-  tagline: 'A comprehensive 18-week program to introduce young learners to essential digital skills',
+  tagline: 'A free, open 18-week curriculum teaching ages 8–12 how computers and the internet actually work',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -105,6 +105,10 @@ const config = {
               {
                 label: 'Get Started',
                 to: '/docs/intro',
+              },
+              {
+                label: 'How to Use This Curriculum',
+                to: '/docs/how-to-use',
               },
               {
                 label: 'Week 1: Internet Playground',

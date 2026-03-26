@@ -45,6 +45,9 @@ Just like keeping treasures in a chest or toys in labeled bins, computers use **
 ## Teacher Preparation
 
 :::info Before You Begin
+- **Time needed:** ~30–40 minutes per guided session, ~30 minutes for the independent session.
+- **Devices needed:** One computer (desktop or laptop) with File Explorer (Windows) or Finder (Mac).
+- **Accounts needed:** None. All activities use built-in apps and local file storage.
 - Ensure File Explorer is easy to access.
 - Prepare to demonstrate creating folders and saving files.
 - Make sure these apps are available:
@@ -153,6 +156,10 @@ This is one of the most powerful things computers can do.
 - “Why does a saved file have more value than something that disappears when you close the app?”
 - “What kinds of work should always be saved carefully, and why?”
 
+**Sentence starters for younger learners:**
+- “Saving a file is important because…”
+- “I think the difference between creating and saving is…”
+
 ---
 
 ## Guided Session 2
@@ -252,6 +259,10 @@ Open File Explorer and confirm the drawing appears there.
 - “What would happen if all your files were in one place with no organization?”
 - “How could you improve your folder system if your projects kept growing?”
 
+**Sentence starters for younger learners:**
+- “I organized my folders by…”
+- “If I had more files, I would…”
+
 ---
 
 ## Independent Session
@@ -287,3 +298,30 @@ Be ready to explain why your folder system works.
 - Paint available
 - Notepad available
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify:**
+- Create only one folder (My Projects) and save one file into it, skipping subfolders for now.
+- Walk through the Save As process together step by step, narrating each choice aloud.
+
+**To extend:**
+- Have the learner design a folder system with at least three levels of nesting and explain why each level exists.
+- Ask the learner to move existing files from the Desktop or Downloads into their organized folder structure and explain their choices.
+
+## 💾 Save This Week’s Artifact
+
+This week’s artifact is the **My Projects** folder itself, with its subfolders and at least one saved file inside. Check that the learner can open File Explorer, navigate to their folder, and find their saved work. This organized folder will be used throughout the rest of the curriculum.
+
+## ✅ Success Indicators
+
+By the end of this week, look for whether the learner can:
+
+- Create a new folder and give it a meaningful name without help
+- Save a file using Save As and choose both a file name and a destination folder
+- Close a file completely, then find and reopen it from File Explorer
+- Explain in their own words why saving digital work matters
+- Navigate their folder structure to locate a specific file
+- Describe the difference between a file and a folder

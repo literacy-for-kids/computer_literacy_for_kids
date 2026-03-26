@@ -8,6 +8,10 @@ description: "Learn how objects are built from simple shapes using TinkerCAD. In
 # Optional Week: Shape Builders  
 *Introduction to 3D Design with TinkerCAD*
 
+:::info[Optional Enrichment]
+This lesson is **optional enrichment** and is not required for the core Computer Literacy curriculum. It extends the curriculum into 3D design and physical making. You can use these lessons at any point after Week 12, or skip them entirely without affecting the core learning path.
+:::
+
 Computers can be used to write stories, draw pictures, and build programs.
 
 But they can also be used to **design real objects**.
@@ -35,7 +39,7 @@ In this week you will learn how to:
 - resize shapes
 - combine shapes to make something new
 
-You will begin using a tool called **TinkerCAD**, which is used by students, makers, and engineers around the world.
+You will begin using a tool called **TinkerCAD** or any beginner-friendly 3D design tool (see [Tool Alternatives](./tool-alternatives.md) for options), which are used by students, makers, and engineers around the world.
 
 ---
 
@@ -57,7 +61,9 @@ You will begin using a tool called **TinkerCAD**, which is used by students, mak
 
 ## Teacher Preparation
 :::info Before You Begin
-- Create a free account at **https://www.tinkercad.com**
+- **Time needed:** approximately 30–40 minutes per guided session.
+- **Device needed:** any computer with a modern web browser and mouse (a mouse with scroll wheel is strongly recommended for 3D navigation).
+- **Account needed:** create a free account at **https://www.tinkercad.com** or your chosen 3D design tool (see [Tool Alternatives](./tool-alternatives.md) for options).
 - Set up a student account or classroom access.
 - Confirm the student can log in successfully.
 - Test that the computer can run TinkerCAD smoothly in the browser.
@@ -172,8 +178,11 @@ Encourage experimentation.
 
 #### Reflection Questions
 - “What shapes did you try today?”
+  - *Sentence starter: “I tried using… and I noticed…”*
 - “How did you make a shape bigger or smaller?”
+  - *Sentence starter: “To change the size, I…”*
 - “Why might someone design something on a computer before building it?”
+  - *Sentence starter: “Designing on a computer first helps because…”*
 
 ---
 
@@ -252,8 +261,11 @@ Explain that naming files helps keep projects organized.
 
 #### Reflection Questions
 - “How did you decide which shapes worked best for your design?”
+  - *Sentence starter: “I chose… because…”*
 - “Which shape choice had the biggest effect on the final object?”
+  - *Sentence starter: “The shape that mattered most was… because…”*
 - “If you rebuilt it, what would you change to improve the design?”
+  - *Sentence starter: “Next time I would change… to make it…”*
 
 ---
 
@@ -290,3 +302,32 @@ Shape Explorer
 - TinkerCAD account logged in
 - internet connection
 - visual timer
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, look for whether the learner can:
+
+- Navigate the 3D workspace by rotating, zooming, and panning the camera
+- Place basic shapes (box, cylinder, sphere) onto the workplane with intention
+- Resize and reposition shapes using handles and dragging
+- Combine two or more shapes to create a recognizable simple object
+- Explain in their own words that complex objects are built from simple shapes
+- Rename and save a design in TinkerCAD
+
+## 💾 Save This Week's Artifact
+
+Save the learner's TinkerCAD design by ensuring it is named and saved in their TinkerCAD account. If the learner does not have a persistent account, take a screenshot of the finished design and save it in the **My Projects** folder. This is their first 3D creation — it shows they can think in three dimensions and use digital tools to build something new.
+
+## 🔄 Simplify or Extend
+
+**Simplify:**
+- Focus on placing and resizing just one or two shapes instead of building a full object.
+- Let the learner follow along by copying your example shape-by-shape.
+- Skip the independent session and spend extra time on guided exploration.
+
+**Extend:**
+- Challenge the learner to build a scene with multiple objects (e.g., a house with a tree and a car).
+- Introduce the **hole** tool in TinkerCAD to subtract shapes from each other.
+- Ask the learner to design something and then explain their design choices to someone else, as if presenting to a client.

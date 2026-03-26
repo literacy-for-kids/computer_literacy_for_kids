@@ -38,6 +38,9 @@ This week focuses on helping the student understand **how the internet works at 
 ## Teacher Preparation
 
 :::info Before You Begin
+- **Time needed:** ~30–40 minutes per guided session, ~30 minutes for the independent session.
+- **Devices needed:** One computer or tablet with a web browser and internet access.
+- **Accounts needed:** None. All activities use public, kid-friendly websites.
 - Prepare simple analogies for the internet:
   - a **city full of places**
   - a **library full of information**
@@ -53,6 +56,10 @@ This week is about **understanding and judgment**, not rules.
 
 Avoid saying “don’t go there” or “that’s dangerous.”  
 Instead help the student understand **why certain situations require caution or asking for help**.
+:::
+
+:::note[🔒 Safety Note]
+All browsing this week should be **supervised by an adult**. Sit alongside the learner while they explore websites. Pre-bookmark sites before the session so the learner stays within safe, age-appropriate content. If something unexpected appears, use it as a calm teaching moment rather than a source of alarm.
 :::
 
 ---
@@ -147,6 +154,10 @@ Ask open-ended questions:
 - “What clues helped you infer who made something online?”
 - “How were the sites you explored similar or different in what they were trying to do?”
 - “If you had to explain the internet to someone younger, what idea would you want them to understand?”
+
+**Sentence starters for younger learners:**
+- “I noticed that the website was made by…”
+- “One thing that surprised me was…”
 
 ---
 
@@ -247,6 +258,10 @@ This idea will return later in the course.
 - “Which situations should lead to an adult-help decision, and why?”
 - “What rule would help you stay in control when a website tries to influence your attention?”
 
+**Sentence starters for younger learners:**
+- “I think this information is private because…”
+- “If something felt weird online, I would…”
+
 ---
 
 ## Independent Session
@@ -282,3 +297,29 @@ Be ready to explain **how you decided** what was interesting or useful.
 - open a safe bookmarked website
 - provide paper or a drawing tool
 - set a visual timer for ~30 minutes
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify:**
+- Focus only on the playground analogy and visiting one pre-bookmarked website together.
+- Skip the algorithm discussion and keep the session to exploring and talking about what they see.
+
+**To extend:**
+- Have the learner compare two websites on the same topic and discuss which one seems more trustworthy and why.
+- Ask the learner to create a short list of “rules for smart internet exploring” in their own words.
+
+## 💾 Save This Week’s Artifact
+
+Save a bookmarked list of 3–5 safe, kid-friendly websites the learner explored or wants to return to. This can be a written list, a text file, or browser bookmarks saved to a folder. This will become part of their collection of work that builds toward the final project.
+
+## ✅ Success Indicators
+
+By the end of this week, look for whether the learner can:
+
+- Explain in their own words that the internet connects people and that real people make the content they see
+- Sort examples of information into “public” and “private” categories with reasonable accuracy
+- Describe at least one thing they would do if something online felt confusing or uncomfortable
+- Navigate a kid-friendly website by clicking links, using menus, and identifying what the site is about
+- Talk about why some websites are more helpful or trustworthy than others

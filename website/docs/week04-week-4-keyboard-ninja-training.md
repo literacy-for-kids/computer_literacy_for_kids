@@ -47,6 +47,9 @@ Learning to type comfortably will make everything else in this course easier —
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time needed:** ~30–40 minutes per guided session, ~20–30 minutes for the independent session.
+- **Devices needed:** One computer with a physical keyboard (external keyboards work well for smaller hands).
+- **Accounts needed:** None required. TypingClub and BBC Dance Mat Typing are free and do not require sign-up for basic use.
 - Ensure the keyboard is comfortable and easy to reach.
 - Bookmark a beginner typing site such as:
   - https://www.typingclub.com
@@ -62,6 +65,10 @@ Accuracy matters more than speed.
 Typing should feel like **learning a musical instrument** — practice, patience, and small improvements over time.
 
 Keep it playful and relaxed.
+:::
+
+:::note[🔒 Safety Note]
+Watch for signs of hand or wrist discomfort during typing practice. Ensure the keyboard is at a comfortable height, the learner’s feet reach the floor (or use a footrest), and encourage short breaks every 10–15 minutes. Typing should never feel painful — if it does, stop and adjust the setup.
 :::
 
 ---
@@ -150,6 +157,10 @@ Do not worry about perfection — this is just familiarity.
 - “How do different keys create different results on the screen?”
 - “If you were teaching someone else the keyboard, which keys would you introduce first?”
 
+**Sentence starters for younger learners:**
+- “The most useful key I found was… because…”
+- “I noticed that when I pressed…, it…”
+
 ---
 
 ## Guided Session 2
@@ -225,6 +236,10 @@ My Projects → Stories
 - “Which typing habit would help you improve the most next time?”
 - “How does stronger typing help someone create, communicate, or solve problems on a computer?”
 
+**Sentence starters for younger learners:**
+- “One pattern that helped me type faster was…”
+- “Next time I practice, I want to work on…”
+
 ---
 
 ## Independent Session
@@ -258,3 +273,30 @@ or
 - Notepad available  
 - access to the **My Projects** folder  
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify:**
+- Skip the home row introduction and just let the learner freely explore typing their name and favorite words in Notepad.
+- Use only one typing game or activity per session instead of combining a game with a writing task.
+
+**To extend:**
+- Challenge the learner to type a full paragraph (4–5 sentences) about a topic they enjoy and save it with a title.
+- Introduce the Shift key for capital letters and ask the learner to type proper sentences with correct capitalization.
+
+## 💾 Save This Week’s Artifact
+
+Save a short typed paragraph or message the learner created in Notepad, or a screenshot of their typing practice score from TypingClub or Dance Mat Typing. Store it in the **My Projects → Stories** folder. This will become part of their collection of work that builds toward the final project.
+
+## ✅ Success Indicators
+
+By the end of this week, look for whether the learner can:
+
+- Place their fingers on or near the home row keys (A S D F — J K L) with gentle reminders
+- Type their own name and a simple sentence without looking at the screen for every letter
+- Use the space bar, Enter, and Backspace keys with growing confidence
+- Identify and press specific keys when asked (e.g., “Can you find the letter T?”)
+- Show comfort sitting at the keyboard and willingness to keep practicing
+- Save their typed work to the correct folder in their My Projects system

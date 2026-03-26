@@ -8,6 +8,10 @@ description: "Design a simple object in TinkerCAD and turn it into a real object
 # Optional Week: From Screen to Real Object  
 *Designing and 3D Printing with TinkerCAD*
 
+:::info[Optional Enrichment]
+This lesson is **optional enrichment** and is not required for the core Computer Literacy curriculum. It extends the curriculum into 3D design and physical making. You can use these lessons at any point after Week 12, or skip them entirely without affecting the core learning path.
+:::
+
 Last week you learned that **3D objects are built from shapes**.
 
 Designers use CAD software to combine shapes and create new things.
@@ -55,10 +59,11 @@ This is one of the ways computers help people **build things in the real world**
 
 ## Teacher Preparation
 :::info Before You Begin
-- Ensure the student can log into **TinkerCAD**.
-- Ensure **Bambu Studio** (or other slicer) is installed and working.
-- Confirm the **Bambu A1 Mini** is ready to print.
-- Prepare a small amount of filament.
+- **Time needed:** approximately 30–40 minutes per guided session, plus print time (20–40 minutes depending on the design).
+- **Device needed:** any computer with a modern web browser and mouse.
+- **Account needed:** a TinkerCAD account (or your chosen 3D design tool — see [Tool Alternatives](./tool-alternatives.md) for options).
+- **Slicer software:** a slicer application (such as Bambu Studio, Cura, PrusaSlicer, or your printer’s recommended software) installed and working.
+- **Printer:** any FDM 3D printer, ready to print with filament loaded. If you don’t have a printer, see the [No-Printer Path](#️-no-printer-path) below.
 - Keep the design simple so the print completes within **20–40 minutes**.
 - Set up a visual timer.
 :::
@@ -154,8 +159,11 @@ Explain:
 
 #### Reflection Questions
 - “What object did you design?”
+  - *Sentence starter: “I designed a… because…”*
 - “Which shapes did you use?”
+  - *Sentence starter: “I used… to make the…”*
 - “Why is it important to check the design before printing?”
+  - *Sentence starter: “Checking the design matters because…”*
 
 ---
 
@@ -182,8 +190,8 @@ Explain that the STL file tells the printer **the shape of the object**.
 
 ---
 
-#### 2. Open the File in Bambu Studio
-Import the STL file into **Bambu Studio**.
+#### 2. Open the File in a Slicer
+Import the STL file into a slicer application (such as Bambu Studio, Cura, PrusaSlicer, or your printer’s recommended software).
 
 Explain that the slicer software:
 
@@ -229,8 +237,11 @@ Explain that designers often **test their designs and improve them later**.
 
 #### Reflection Questions
 - “What part of the printing process changed your understanding of how digital designs become real objects?”
+  - *Sentence starter: “Seeing the printer helped me understand…”*
 - “Why does thinking in layers matter when evaluating a 3D print?”
+  - *Sentence starter: “Layers matter because…”*
 - “How did seeing the print begin change the way you think about your design choices?”
+  - *Sentence starter: “Watching the print made me think about…”*
 
 ---
 
@@ -267,3 +278,41 @@ Your design might be printed later!
 - TinkerCAD open and ready
 - internet connection
 - visual timer
+
+---
+
+## 🖥️ No-Printer Path
+
+If you don’t have access to a 3D printer, you can still complete this lesson:
+
+- **Design only**: Complete the full design in TinkerCAD or another 3D tool. Save the STL file and view it in a free online STL viewer.
+- **Library or makerspace**: Many public libraries and makerspaces offer 3D printing. Export the STL and bring it on a USB drive.
+- **Online printing service**: Services like Shapeways or Craftcloud let you upload an STL and order a print shipped to you.
+- **Focus on the design process**: The core learning is about designing with constraints and thinking in 3D — the print is exciting but not required for learning.
+
+## ✅ Success Indicators
+
+By the end of this week, look for whether the learner can:
+
+- Design a simple object in TinkerCAD with a clear real-world purpose (e.g., name tag, keychain, desk decoration)
+- Make intentional design choices related to size, shape, and usefulness
+- Export a design as an STL file
+- Describe the export → slice → print pipeline in their own words
+- Observe and describe how a 3D printer builds an object layer by layer (if printer access is available)
+- Explain the connection between a digital design and a physical object
+
+## 💾 Save This Week’s Artifact
+
+Save the learner’s exported STL file in the **My Projects** folder. If the object was printed, take a photo of the finished print alongside the on-screen design. If no printer was available, save a screenshot of the completed design in TinkerCAD. This artifact captures the full journey from idea to digital model — and possibly to a real object.
+
+## 🔄 Simplify or Extend
+
+**Simplify:**
+- Provide a pre-built TinkerCAD template and let the learner modify it rather than designing from scratch.
+- Focus on just the design and export steps — skip slicing and printing for now.
+- Walk through the slicer together as a demo rather than having the learner operate it independently.
+
+**Extend:**
+- Challenge the learner to design a second version that improves on the first print.
+- Ask the learner to design something that solves a small real problem (e.g., a phone stand, a cable organizer).
+- Introduce measurement: have the learner measure a real object and try to recreate it in TinkerCAD at the correct size.

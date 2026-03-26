@@ -10,11 +10,13 @@ sidebar_position: 0
 
 # 18-Week Computer Literacy Curriculum
 
-This curriculum provides a **structured introduction to computer literacy** for young beginners (roughly ages 7-11, with adult guidance as needed). It blends guided instruction with independent exploration to help learners develop confidence using computers for **communication, creativity, problem solving, and digital citizenship**.
+This curriculum provides a **structured introduction to computer literacy** for young beginners (roughly ages 8–12, with adult guidance as needed). It blends guided instruction with independent exploration to help learners develop confidence using computers for **communication, creativity, problem solving, and digital citizenship**.
 
-The program progresses from **basic computer interaction** toward **creative digital projects**, gradually introducing concepts like coding, media creation, information literacy, and generative AI.
+The program works in **classrooms, homeschool settings, libraries, and after-school programs** — anywhere an adult can guide a young learner through hands-on exploration. It progresses from **basic computer interaction** toward **creative digital projects**, gradually introducing concepts like coding, media creation, information literacy, and generative AI.
 
-Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing the instructor to adapt activities based on the learner’s curiosity and pace while still pushing students to **analyze, evaluate, and create**.
+Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing the facilitator to adapt activities based on the learner’s curiosity and pace while still pushing students to **analyze, evaluate, and create**.
+
+For detailed setup guidance, pacing options, and environment tips, see [How to Use This Curriculum](./how-to-use-this-curriculum.md).
 
 ![Visual roadmap of the full 18-week computer literacy sequence](/img/roadmap.png)
 
@@ -23,23 +25,25 @@ Use this roadmap image when you want a quick visual summary of how the full sequ
 ---
 
 :::tip Use This Page
-- Review [Curriculum Overview](#curriculum-overview) for pacing and teaching assumptions.
+- Review [Curriculum Overview](#curriculum-overview) for pacing and facilitation assumptions.
 - Use [Program at a Glance](#program-at-a-glance) to jump to a specific week quickly.
 - Check [Optional CAD Extension](#optional-cad-extension) for the bonus 3D design track.
 - Open [Learning Ladder: How Skills Build Over Time](#learning-ladder-how-skills-build-over-time) to see how the course connects.
-- Save [Independent Session Setup Tips](#independent-session-setup-tips) for caregiver logistics.
+- Save [Independent Session Setup Tips](#independent-session-setup-tips) for logistics.
+- See [Assessment & Progress](./assessment-and-progress.md) and [Tool Alternatives](./tool-alternatives.md) for additional planning support.
 :::
 
 :::info Planning Help
 - Use this page as your roadmap before the course starts or whenever you need to find the right lesson quickly.
-- The week-by-week table is the fastest way to jump into a teaching page.
+- The week-by-week table is the fastest way to jump into a lesson page.
 - If you are planning lighter weeks, the optional CAD extension can stay separate from the main 18-week sequence.
+- For accessibility and adaptation guidance, see [Adaptations & Accessibility](./adaptations-and-accessibility.md).
 :::
 
 ## Curriculum Overview
 
 ### Target Audience
-Young beginner computer users (roughly ages 7-11).  
+Young beginner computer users (roughly ages 8–12).  
 Basic reading ability is helpful, but adult guidance is expected.
 
 ### Weekly Structure
@@ -84,6 +88,24 @@ The final format is flexible and may include:
 - interactive project
 - digital artwork presentation
 
+### Assessment Approach
+
+Assessment in this curriculum is **observation-based and low-pressure**. Rather than tests or grades, facilitators track progress by watching what students can do, listening to how they explain their thinking, and reviewing the artifacts they create.
+
+Each week includes natural checkpoints — reflection questions, show-and-tell moments, and creative outputs — that make learning visible without adding stress.
+
+For a complete guide to tracking progress, see [Assessment & Progress](./assessment-and-progress.md). For the final project specifically, see the [Final Project Rubric](./final-project-rubric.md).
+
+### Digital Portfolio
+
+Throughout the course, students build a **digital portfolio** — a growing collection of their saved work, creative projects, and reflections. This begins with the **Personal Project Folder** introduced in Week 3 and expands each week as students add new artifacts.
+
+The portfolio serves multiple purposes:
+
+- It gives learners a **visible record of growth** they can look back on with pride
+- It provides facilitators with **concrete evidence of progress** without formal testing
+- It creates a natural foundation for the **final project showcase** in Week 18
+
 ### Digital Citizenship Theme
 
 The curriculum repeatedly reinforces the key safety message:
@@ -105,6 +127,8 @@ Adjust pacing based on the learner’s:
 
 If a concept is mastered quickly, explore optional challenges.  
 If a topic feels difficult, slow down and revisit it through play or discussion.
+
+The curriculum suggests specific tools (like Scratch, TinkerCAD, and Google Slides), but most activities can be completed with alternatives. See [Tool Alternatives](./tool-alternatives.md) for platform-flexible options.
 
 The ultimate goal is **confidence and curiosity**, not rushing through content.
 
@@ -327,7 +351,7 @@ Helpful materials to prepare ahead of time:
 
 ## Final Notes
 
-This curriculum is designed to introduce children to **computing as a creative and empowering tool**.
+This curriculum is designed to introduce children to **computing as a creative and empowering tool** — whether used in a classroom, at home, in a library, or in an after-school program.
 
 By the end of the program, students will have experience with:
 
@@ -341,4 +365,14 @@ By the end of the program, students will have experience with:
 - generative AI
 - project-based creation
 
+They will also have a **digital portfolio** of work they created and improved over the course — a tangible record of their growth.
+
 Most importantly, they will build **confidence exploring technology and expressing ideas digitally**.
+
+**Facilitator resources:**
+
+- [How to Use This Curriculum](./how-to-use-this-curriculum.md) — setup, pacing, and environment guidance
+- [Assessment & Progress](./assessment-and-progress.md) — observation-based tracking
+- [Adaptations & Accessibility](./adaptations-and-accessibility.md) — support for diverse learners
+- [Tool Alternatives](./tool-alternatives.md) — flexible software options
+- [Final Project Rubric](./final-project-rubric.md) — capstone evaluation guide

@@ -53,6 +53,9 @@ Your project will also grow through **experimentation and improvement**.
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time:** Each guided session runs about 30–45 minutes. The independent session is 20–30 minutes.
+- **Device:** One computer or tablet per learner with keyboard and mouse/trackpad.
+- **Accounts:** Ensure the student can log in to Scratch and any other project tools.
 - Ensure access to all tools the student may use for their project:
   - Scratch
   - drawing tools
@@ -147,6 +150,12 @@ Explain that creators usually improve projects **one step at a time**.
 - “Which part of your project is strongest right now, and what evidence supports that?”
 - “Which part most needs improvement, and why does it matter?”
 - “How does testing and revision make a project stronger over time?”
+
+:::tip Sentence Starters for Younger Learners
+- “The strongest part of my project is… because…”
+- “I think I should improve… because…”
+- “Testing helped me find…”
+:::
 
 ---
 
@@ -248,6 +257,12 @@ Explain that version numbers help creators keep track of progress.
 - “How did the new feature add value instead of just making the project bigger?”
 - “What problem did you solve during revision, and how did you solve it?”
 
+:::tip Sentence Starters for Younger Learners
+- “The improvement that helped the most was… because…”
+- “My new feature adds value by…”
+- “I solved a problem when I…”
+:::
+
 ---
 
 ## Independent Session
@@ -286,3 +301,36 @@ Use version numbers if possible.
 - project tools available
 - access to **My Projects → Final Project**
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**Simplify:**
+- Focus on improving just one part of the project instead of multiple features.
+- Let the student choose between fixing something or adding something — not both.
+- Offer specific improvement suggestions if the student feels stuck.
+
+**Extend:**
+- Encourage the student to test the project with a family member and collect feedback.
+- Challenge them to save three or more distinct versions and compare how the project evolved.
+- Ask the student to write a short changelog describing what changed between versions.
+
+---
+
+## 💾 Save This Week's Artifact
+
+Save the **improved project (version 2 or later)** to the portfolio. If possible, keep earlier versions too so the student can see how the project evolved through iteration. This progression is a powerful story to tell during the showcase.
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, the student has:
+
+- ✅ Tested the current project and identified at least one strength and one weakness
+- ✅ Created a focused improvement plan based on evidence from testing
+- ✅ Made at least one meaningful improvement to an existing feature
+- ✅ Added one new feature that strengthens the project
+- ✅ Solved a problem during revision using debugging strategies
+- ✅ Saved an updated version with a version number (e.g., `ProjectName_v2`)
