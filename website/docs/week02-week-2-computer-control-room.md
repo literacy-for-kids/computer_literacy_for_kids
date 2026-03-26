@@ -48,6 +48,9 @@ This week helps the student begin thinking about computers as **systems that res
 ## Teacher Preparation
 
 :::info Before You Begin
+- **Time needed:** ~30–40 minutes per guided session, ~30 minutes for the independent session.
+- **Devices needed:** One computer (desktop or laptop) with a mouse or trackpad.
+- **Accounts needed:** None. All activities use built-in apps.
 - Ensure a few simple apps are easily accessible:
   - Calculator
   - Paint 3D (or similar drawing app)
@@ -153,6 +156,10 @@ This builds early computational thinking.
 - “How could you explain the cause-and-effect pattern you noticed today?”
 - “What new input experiment would you design if you wanted to test the computer again?”
 
+**Sentence starters for younger learners:**
+- “When I clicked on…, the computer…”
+- “I was surprised that pressing… made…”
+
 ---
 
 ## Guided Session 2
@@ -230,6 +237,10 @@ This builds intuitive understanding of multitasking.
 - “What window arrangement helped you work most effectively, and why?”
 - “If someone else needed to multitask, what advice would you give them about using windows?”
 
+**Sentence starters for younger learners:**
+- “The best app for that job would be… because…”
+- “I arranged my windows by…”
+
 ---
 
 ## Independent Session
@@ -265,3 +276,30 @@ Then choose **one app** and create a short explanation, drawing, or demonstratio
 - Start menu accessible
 - a few apps easy to find
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify:**
+- Limit exploration to just two apps (e.g., Calculator and Paint) instead of three.
+- Focus on single-click and drag actions before introducing right-click or window management.
+
+**To extend:**
+- Challenge the learner to arrange three windows so they can see all of them at once and explain their layout choice.
+- Ask the learner to write a short “instruction manual” entry for one app, describing what it does and how to use it.
+
+## 💾 Save This Week’s Artifact
+
+Take a screenshot of the learner’s desktop with their arranged windows or a drawing/diagram they made showing the input → computer → result pattern. Save it to the learner’s portfolio folder. This will become part of their collection of work that builds toward the final project.
+
+## ✅ Success Indicators
+
+By the end of this week, look for whether the learner can:
+
+- Use a mouse or trackpad to click, drag, and right-click with growing comfort
+- Open and close at least two different apps on their own
+- Move, resize, minimize, and restore windows without step-by-step help
+- Explain in their own words that computers respond to inputs and produce results
+- Predict what will happen before trying a new input (e.g., “I think clicking this will…”)
+- Identify which app is the right tool for a given task (e.g., “I’d use Paint to draw”)
