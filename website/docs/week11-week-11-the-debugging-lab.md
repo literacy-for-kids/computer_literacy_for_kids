@@ -48,6 +48,9 @@ Debugging is really just **careful problem solving**.
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time needed:** ~30–40 minutes per guided session; ~20 minutes for the independent session.
+- **Devices:** A computer or tablet with a web browser and access to the learner’s Scratch project from last week.
+- **Accounts:** Same Scratch account as Week 10 (optional but helpful).
 - Ensure Scratch is accessible:
   https://scratch.mit.edu
 - Prepare one or two **simple Scratch scripts with intentional mistakes**.
@@ -163,8 +166,11 @@ Explain that programmers often **observe carefully before making changes**.
 
 #### Reflection Questions
 - “What evidence helped you identify the likely cause of the bug?”
+  - *Sentence starter: “I figured out the problem by looking at…”*
 - “Why is careful observation more useful than random guessing when debugging?”
+  - *Sentence starter: “Observing carefully is better because…”*
 - “How would you explain debugging to someone who thinks mistakes mean failure?”
+  - *Sentence starter: “I would tell them that mistakes are…”*
 
 ---
 
@@ -274,8 +280,11 @@ This turns debugging into a puzzle.
 
 #### Reflection Questions
 - “Which debugging step gave you the clearest evidence about the problem?”
+  - *Sentence starter: “The step that helped most was…”*
 - “Why does changing one thing at a time lead to better decisions?”
+  - *Sentence starter: “Changing one thing at a time helps because…”*
 - “How did the program’s behavior help you judge whether your fix worked?”
+  - *Sentence starter: “I knew my fix worked because the sprite…”*
 
 ---
 
@@ -314,3 +323,37 @@ Give your project a fun name when you finish.
 - Scratch editor open
 - previous Scratch project accessible (optional)
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify:**
+- Pre-build a broken program yourself and let the learner focus only on finding the one mistake.
+- Use the Debugging Checklist as a printed handout so the learner can follow it step-by-step.
+- Limit the session to one bug at a time — finding and fixing a single problem is a full lesson.
+
+**To extend:**
+- Ask the learner to intentionally create a broken program and challenge you (or a sibling) to debug it.
+- Introduce the idea of “edge cases” — what happens if a number is very large or very small?
+- Have the learner write a short “bug report” describing what went wrong, what they tried, and what fixed it.
+- Explore Scratch community projects and look for programs that behave unexpectedly — discuss what might be causing it.
+
+---
+
+## 💾 Save This Week’s Artifact
+
+Save the learner’s fixed or improved Scratch project by downloading it (**File → Save to your computer**) or taking a screenshot of the final script. If the learner wrote a bug report or debugging checklist, save that too. Place everything in **My Projects → Experiments**. This artifact shows growth — not just what the learner built, but what they figured out when things went wrong.
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, look for signs that the learner can:
+
+- Look at a broken program and describe what it is doing versus what it should be doing.
+- Use the Debugging Checklist (or a similar process) to investigate a problem systematically.
+- Identify at least one bug in a simple Scratch program and explain what caused it.
+- Fix a bug with guidance — or independently — and test to confirm the fix works.
+- Stay calm and curious when something doesn’t work, rather than giving up. Getting stuck is a normal and valuable part of learning.
+- Explain debugging in their own words — for example, “It’s when you find out why something isn’t working and try to fix it.”

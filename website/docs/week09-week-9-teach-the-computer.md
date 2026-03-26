@@ -46,9 +46,12 @@ This is the beginning of **coding**.
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time needed:** ~30–40 minutes per guided session; ~20 minutes for the independent session.
+- **Devices:** This week is mostly unplugged — no computer is required for Sessions 1 and 2. A drawing app or browser is helpful for Session 2, Activity 2 but not essential.
+- **Accounts:** None needed this week.
 - Prepare a simple space on the floor or table for a movement activity.
 - Print or write a few simple instructions on paper (optional).
-- Ensure a browser is available.
+- Ensure a browser is available for Session 2 if you plan to use a drawing app.
 - Bookmark a beginner-friendly block coding site (Scratch or Scratch Jr preview page is fine, but full Scratch will be used next week).
 - Set up a visual timer.
 :::
@@ -136,8 +139,11 @@ Explain that coding is basically **writing instructions for a computer**.
 
 #### Reflection Questions
 - “How did you know a set of instructions was missing something important?”
+  - *Sentence starter: “I noticed something was missing when…”*
 - “Why do computers fail differently from people when directions are unclear?”
+  - *Sentence starter: “Computers are different because…”*
 - “What would make your own robot instructions easier to follow?”
+  - *Sentence starter: “My instructions would be better if…”*
 
 ---
 
@@ -219,8 +225,11 @@ Encourage curiosity.
 
 #### Reflection Questions
 - “How did changing the order of steps change the outcome?”
+  - *Sentence starter: “When I changed the order, it…”*
 - “Which sequence worked best, and how can you justify that choice?”
+  - *Sentence starter: “The best order was ___ because…”*
 - “Where else in life do you see a sequence that must happen in the right order?”
+  - *Sentence starter: “One place I see this is…”*
 
 ---
 
@@ -257,3 +266,36 @@ My Projects → Experiments
 - writing tool or drawing tool available
 - access to **My Projects → Experiments**
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify:**
+- Use only the Human Robot Game and keep instructions to 3–4 steps.
+- Let the learner draw their instructions instead of writing them.
+- Skip the drawing app activity and keep the entire session unplugged.
+
+**To extend:**
+- Ask the learner to write instructions that include a decision point (e.g., "If the door is closed, open it first").
+- Challenge them to test their instructions on a family member and observe where confusion happens.
+- Introduce the idea that programmers sometimes add comments to explain what instructions do.
+
+---
+
+## 💾 Save This Week's Artifact
+
+Save the learner's written or drawn instruction sets from the activities and independent session. Place them in **My Projects → Experiments**. These are the learner's first "algorithms" — simple step-by-step procedures — and they connect directly to the real coding work starting next week.
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, look for signs that the learner can:
+
+- Write clear, step-by-step instructions that someone else could follow without guessing.
+- Recognize that the **order** of instructions matters and changing it changes the result.
+- Identify when a set of instructions is missing a step or is ambiguous.
+- Explain in their own words why computers need precise instructions.
+- Revise their own instructions after testing or reviewing them.
+- Approach the task with curiosity rather than frustration when instructions don't work as expected.

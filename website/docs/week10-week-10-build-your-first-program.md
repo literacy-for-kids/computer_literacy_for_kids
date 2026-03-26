@@ -45,8 +45,12 @@ The big idea this week:
 
 ## Teacher Preparation
 :::info Before You Begin
+- **Time needed:** ~30–40 minutes per guided session; ~20 minutes for the independent session.
+- **Devices:** A computer or tablet with a web browser. Scratch runs in the browser — no installation required.
+- **Accounts:** A Scratch account is optional but helpful for saving projects. You can also save by downloading projects to the computer.
 - Ensure access to **Scratch**:
   - https://scratch.mit.edu
+  - Scratch is **free and web-based** — it works on most devices with a modern browser. If Scratch is not available, other block-based coding tools work for the same concepts. See [Tool Alternatives](tool-alternatives.md) for options.
 - Log in or open the **Scratch editor** in advance to avoid delays.
 - Confirm the student can use the mouse comfortably for dragging blocks.
 - Prepare to demonstrate:
@@ -138,8 +142,11 @@ Explain that this is called a **sequence**.
 
 #### Reflection Questions
 - “How did the blocks work together to control what happened on the screen?”
+  - *Sentence starter: “The blocks made the sprite…”*
 - “What did you predict before running the program, and what evidence showed whether you were right?”
+  - *Sentence starter: “I predicted ___ and then I saw…”*
 - “What sequence would you change if you wanted a different result?”
+  - *Sentence starter: “To get a different result, I would change…”*
 
 ---
 
@@ -205,8 +212,11 @@ This is where curiosity matters most.
 
 #### Reflection Questions
 - “How did changing numbers or blocks change the behavior of your sprite?”
+  - *Sentence starter: “When I changed ___, the sprite…”*
 - “Which change gave the most interesting or useful result, and why?”
+  - *Sentence starter: “The most interesting change was ___ because…”*
 - “What revision would you make next to improve your program?”
+  - *Sentence starter: “Next time I would try…”*
 
 ---
 
@@ -245,3 +255,37 @@ Examples:
 - Scratch editor open  
 - mouse ready for dragging blocks  
 - visual timer
+
+---
+
+## 🔄 Simplify or Extend
+
+**To simplify:**
+- Focus only on Session 1 — touring the interface and running one short program is plenty for a first encounter.
+- Pre-build a simple project and let the learner press the green flag and observe before building their own.
+- Reduce block choices by starting with only the “Motion” category.
+
+**To extend:**
+- Challenge the learner to add a second sprite and give it its own script.
+- Introduce the “repeat” block and ask the learner to make a shape using movement and turning.
+- Ask the learner to explain their program to someone else, narrating what each block does.
+- Encourage the learner to remix a project from the Scratch Explore page.
+
+---
+
+## 💾 Save This Week’s Artifact
+
+Save the learner’s Scratch project by clicking **File → Save to your computer** (downloads a `.sb3` file), or take a screenshot of the finished script and stage. Place the file or screenshot in **My Projects → Experiments**. This is the learner’s first real program — it’s worth celebrating.
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, look for signs that the learner can:
+
+- Open Scratch and identify the main areas: stage, sprite, block palette, and script area.
+- Drag blocks into the script area and connect them into a working sequence.
+- Click the green flag to run their program and describe what happened.
+- Predict what a short sequence of blocks will do before running it.
+- Make a small change (number, block, or order) and observe how the output changes.
+- Show enthusiasm or curiosity about experimenting — “What happens if I…?” is a great sign.
