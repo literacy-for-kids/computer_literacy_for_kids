@@ -7,7 +7,6 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
-const navbarItems = require('literacy-site-theme/navbarItems');
 const footerConfig = require('literacy-site-theme/footerConfig');
 
 /** @type {import('@docusaurus/types').Config} */
@@ -17,14 +16,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://zcohen-nerd.github.io',
+  url: 'https://literacy-for-kids.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it should match your repo name
   baseUrl: '/computer_literacy_for_kids/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'zcohen-nerd', // Usually your GitHub org/user name.
+  organizationName: 'literacy-for-kids', // Usually your GitHub org/user name.
   projectName: 'computer_literacy_for_kids', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -49,26 +48,10 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/zcohen-nerd/computer_literacy_for_kids/tree/main/website/',
+            'https://github.com/literacy-for-kids/computer_literacy_for_kids/tree/main/website/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/zcohen-nerd/computer_literacy_for_kids/tree/main/website/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -82,7 +65,47 @@ const config = {
       // Replace with your project's social card
       image: 'img/hero-image.png',
       navbar: {
-        items: navbarItems,
+        title: 'Computer Literacy for Kids',
+        items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'curriculumSidebar',
+            position: 'left',
+            label: 'Curriculum',
+          },
+          {
+            type: 'dropdown',
+            label: 'Literacy for Kids',
+            position: 'left',
+            items: [
+              {
+                label: 'Decision',
+                href: 'https://literacy-for-kids.github.io/decision_literacy_for_kids/',
+              },
+              {
+                label: 'Computer',
+                href: 'https://literacy-for-kids.github.io/computer_literacy_for_kids/',
+              },
+              {
+                label: 'Media',
+                href: 'https://literacy-for-kids.github.io/media_literacy_for_kids/',
+              },
+              {
+                label: 'Financial',
+                href: 'https://literacy-for-kids.github.io/financial_literacy_for_kids/',
+              },
+              {
+                label: 'Civic',
+                href: 'https://literacy-for-kids.github.io/civic_literacy_for_kids/',
+              },
+            ],
+          },
+          {
+            href: 'https://github.com/literacy-for-kids/computer_literacy_for_kids',
+            label: 'GitHub',
+            position: 'right',
+          },
+        ],
       },
       footer: footerConfig,
       prism: {

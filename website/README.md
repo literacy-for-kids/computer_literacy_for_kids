@@ -166,7 +166,7 @@ If you encounter issues or have questions:
 
 1. Check the [Docusaurus documentation](https://docusaurus.io/docs)
 2. Open an issue in this repository
-3. Join our [GitHub Discussions](https://github.com/zcohen-nerd/computer_literacy_for_kids/discussions)
+3. Join our [GitHub Discussions](https://github.com/literacy-for-kids/computer_literacy_for_kids/discussions)
 
 ---
 

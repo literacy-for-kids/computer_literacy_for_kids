@@ -117,6 +117,37 @@ export default function HomepageFeatures() {
         </div>
       </section>
 
+      <section className={styles.sectionAlt}>
+        <div className="container">
+          <Heading as="h2">Part of the Literacy for Kids Ecosystem</Heading>
+          <p className={styles.sectionLead}>
+            This curriculum is part of{' '}
+            <Link to={literacyHub.href}>Literacy for Kids</Link>, a collection
+            of open-source curricula designed to help children ages 8–12
+            understand the systems that shape the modern world.
+          </p>
+          <p className={styles.sectionLead}>
+            Each curriculum explores a foundational literacy:
+          </p>
+          <div className={styles.cardGrid}>
+            {literacyCurricula.map((literacy) => (
+              <article key={literacy.title} className={styles.card}>
+                <Heading as="h4">{literacy.title}</Heading>
+                <p>{literacy.description}</p>
+                <Link className={styles.inlineLink} to={literacy.href}>
+                  Visit curriculum
+                </Link>
+              </article>
+            ))}
+          </div>
+          <p className={styles.hubLink}>
+            <Link to={literacyHub.href}>
+              ➡ Visit the Literacy for Kids Hub
+            </Link>
+          </p>
+        </div>
+      </section>
+
       <section className={styles.section}>
         <div className="container">
           <Heading as="h2">Curriculum Roadmap</Heading>
@@ -139,38 +170,6 @@ export default function HomepageFeatures() {
         </div>
       </section>
 
-      <section className={styles.sectionAlt}>
-        <div className="container">
-          <Heading as="h2">Part of the Literacy for Kids Project</Heading>
-          <p className={styles.sectionLead}>
-            This curriculum is part of Literacy for Kids, a collection of open-source
-            curricula designed to help children ages 8–12 understand the systems that
-            shape the modern world.
-          </p>
-          <p className={styles.sectionLead}>
-            Each curriculum focuses on a different foundational life skill. You can
-            explore the full curriculum collection here:
-          </p>
-          <p className={styles.hubLink}>
-            <Link to={literacyHub.href}>
-              ➡ Literacy for Kids Hub
-            </Link>
-          </p>
-          <Heading as="h3">Explore the Other Literacies</Heading>
-          <div className={styles.cardGrid}>
-            {literacyCurricula.map((literacy) => (
-              <article key={literacy.title} className={styles.card}>
-                <Heading as="h4">{literacy.title}</Heading>
-                <p>{literacy.description}</p>
-                <Link className={styles.inlineLink} to={literacy.href}>
-                  Visit curriculum
-                </Link>
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <section className={styles.finalCta}>
         <div className="container">
           <Heading as="h2">Start Teaching Computer Literacy</Heading>
@@ -185,7 +184,7 @@ export default function HomepageFeatures() {
           </div>
           <p className={styles.feedbackPrompt}>
             Found a mistake or have a suggestion?{' '}
-            <Link to="https://github.com/zcohen-nerd/computer_literacy_for_kids/issues">
+            <Link to="https://github.com/literacy-for-kids/computer_literacy_for_kids/issues">
               Open an issue on GitHub.
             </Link>
           </p>

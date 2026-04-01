@@ -42,7 +42,7 @@ Read the full license here:
 
 You can also review the repository license in the project source:
 
-- [GitHub repository](https://github.com/zcohen-nerd/computer_literacy_for_kids)
+- [GitHub repository](https://github.com/literacy-for-kids/computer_literacy_for_kids)
 
 ## Notes for Educators
 

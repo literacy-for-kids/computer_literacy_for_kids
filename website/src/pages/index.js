@@ -3,7 +3,6 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import EcosystemLinks from '@site/src/components/EcosystemLinks';
 
 import styles from './index.module.css';
 
@@ -31,7 +30,7 @@ function HomepageHeader() {
             </Link>
             <Link
               className="button button--outline button--lg"
-              to="https://github.com/zcohen-nerd/computer_literacy_for_kids">
+              to="https://github.com/literacy-for-kids/computer_literacy_for_kids">
               View on GitHub
             </Link>
           </div>
@@ -56,7 +55,6 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <EcosystemLinks />
       </main>
     </Layout>
   );
