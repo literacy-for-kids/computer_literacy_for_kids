@@ -5,7 +5,10 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-import {literacyHub} from './src/data/literacyLinks.js';
+import {createRequire} from 'module';
+const require = createRequire(import.meta.url);
+const navbarItems = require('literacy-site-theme/navbarItems');
+const footerConfig = require('literacy-site-theme/footerConfig');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -36,6 +39,8 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  themes: ['literacy-site-theme'],
 
   presets: [
     [
@@ -77,92 +82,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/hero-image.png',
       navbar: {
-        title: 'Computer Literacy for Kids',
-        logo: {
-          alt: 'Computer Literacy Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'curriculumSidebar',
-            position: 'left',
-            label: 'Curriculum',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/zcohen-nerd/computer_literacy_for_kids',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+        items: navbarItems,
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Curriculum',
-            items: [
-              {
-                label: 'Get Started',
-                to: '/docs/intro',
-              },
-              {
-                label: 'How to Use This Curriculum',
-                to: '/docs/how-to-use',
-              },
-              {
-                label: 'Week 1: Internet Playground',
-                to: '/docs/week01-week-1-internet-playground',
-              },
-              {
-                label: 'License',
-                to: '/docs/license',
-              },
-            ],
-          },
-          {
-            title: 'Literacy for Kids',
-            items: [
-              {
-                label: 'Project Hub',
-                href: literacyHub.href,
-              },
-            ],
-          },
-          {
-            title: 'License',
-            items: [
-              {
-                label: 'CC BY-NC-SA 4.0',
-                href: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
-              },
-              {
-                label: 'License Summary',
-                to: '/docs/license',
-              },
-              {
-                label: 'Source Repository',
-                href: 'https://github.com/zcohen-nerd/computer_literacy_for_kids',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'GitHub Discussions',
-                href: 'https://github.com/zcohen-nerd/computer_literacy_for_kids/discussions',
-              },
-              {
-                label: 'Issues',
-                href: 'https://github.com/zcohen-nerd/computer_literacy_for_kids/issues',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Zachary Cohen. Curriculum content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. See the <a href="/computer_literacy_for_kids/docs/license">license page</a> for attribution, sharing, and adaptation details.`,
-      },
+      footer: footerConfig,
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
