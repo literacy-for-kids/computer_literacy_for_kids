@@ -235,6 +235,8 @@ Test again.
 
 Explain that this is a normal part of the creative process.
 
+If you feel stuck for more than a few minutes, try the full [Troubleshooting Routine](./troubleshooting-routine.md).
+
 ---
 
 **4. Save the Improved Version**
@@ -326,11 +328,18 @@ Save the **improved project (version 2 or later)** to the portfolio. If possible
 
 ## ✅ Success Indicators
 
-By the end of this week, the student has:
+By the end of this week, look for signs that the learner can:
 
-- ✅ Tested the current project and identified at least one strength and one weakness
-- ✅ Created a focused improvement plan based on evidence from testing
-- ✅ Made at least one meaningful improvement to an existing feature
-- ✅ Added one new feature that strengthens the project
-- ✅ Solved a problem during revision using debugging strategies
-- ✅ Saved an updated version with a version number (e.g., `ProjectName_v2`)
+- Test the current project and identify at least one strength and one weakness
+- Create a focused improvement plan based on evidence from testing
+- Make at least one meaningful improvement to an existing feature
+- Add one new feature that strengthens the project
+- Solve a problem during revision using debugging strategies
+- Save an updated version with a version number (e.g., `ProjectName_v2`)
+
+---
+
+:::tip Vocabulary This Week
+**Iteration** • **Version** • **Prototype** • **Feature** • **Test** • **Revise** • **Changelog** (extension)  
+See the [Glossary](./glossary.md) for definitions.
+:::

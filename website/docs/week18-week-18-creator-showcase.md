@@ -305,11 +305,22 @@ For a detailed evaluation guide, see the [Final Project Rubric](./final-project-
 
 ## ✅ Success Indicators
 
-By the end of this week, the student has:
+By the end of this week, look for signs that the learner can:
 
-- ✅ Presented the final project clearly to at least one audience member
-- ✅ Explained creative choices, tools used, and how the project was built
-- ✅ Reflected on challenges faced and how they were solved across the project
-- ✅ Identified favorite skills and ideas from the entire 18-week course
-- ✅ Created a written or visual reflection about the learning journey
-- ✅ Celebrated the full portfolio of work — not just the final project, but everything created along the way
+- Present the final project clearly to at least one audience member
+- Explain creative choices, tools used, and how the project was built
+- Reflect on challenges faced and how they were solved across the project
+- Identify favorite skills and ideas from the entire 18-week course
+- Create a written or visual reflection about the learning journey
+- Celebrate the full portfolio of work — not just the final project, but everything created along the way
+
+---
+
+:::tip Vocabulary This Week
+**Portfolio** • **Showcase** • **Reflection** • **Presentation** • **Feedback** • **Growth**  
+See the [Glossary](./glossary.md) for definitions.
+:::
+
+:::info What's Next?
+Use the [Portfolio Tracker](./portfolio-tracker.md) to review all 18 weeks of artifacts. The [Competency Map](./competency-map.md) shows how far the learner has come across all skill areas. For learners who want to keep going, check out the optional [3D Design weeks](./week-CAD-1-shape-builders.md) and [Everyday Productivity Extensions](./everyday-productivity-extensions.md).
+:::

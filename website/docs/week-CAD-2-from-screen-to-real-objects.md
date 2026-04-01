@@ -63,7 +63,7 @@ This is one of the ways computers help people **build things in the real world**
 - **Device needed:** any computer with a modern web browser and mouse.
 - **Account needed:** a TinkerCAD account (or your chosen 3D design tool — see [Tool Alternatives](./tool-alternatives.md) for options).
 - **Slicer software:** a slicer application (such as Bambu Studio, Cura, PrusaSlicer, or your printer’s recommended software) installed and working.
-- **Printer:** any FDM 3D printer, ready to print with filament loaded. If you don’t have a printer, see the [No-Printer Path](#️-no-printer-path) below.
+- **Printer:** any FDM 3D printer, ready to print with filament loaded. If you don’t have a printer, see the [No-Printer Path](#no-printer-path) below.
 - Keep the design simple so the print completes within **20–40 minutes**.
 - Set up a visual timer.
 :::
@@ -281,7 +281,7 @@ Your design might be printed later!
 
 ---
 
-## 🖥️ No-Printer Path
+## No-Printer Path
 
 If you don’t have access to a 3D printer, you can still complete this lesson:
 
@@ -290,20 +290,7 @@ If you don’t have access to a 3D printer, you can still complete this lesson:
 - **Online printing service**: Services like Shapeways or Craftcloud let you upload an STL and order a print shipped to you.
 - **Focus on the design process**: The core learning is about designing with constraints and thinking in 3D — the print is exciting but not required for learning.
 
-## ✅ Success Indicators
-
-By the end of this week, look for whether the learner can:
-
-- Design a simple object in TinkerCAD with a clear real-world purpose (e.g., name tag, keychain, desk decoration)
-- Make intentional design choices related to size, shape, and usefulness
-- Export a design as an STL file
-- Describe the export → slice → print pipeline in their own words
-- Observe and describe how a 3D printer builds an object layer by layer (if printer access is available)
-- Explain the connection between a digital design and a physical object
-
-## 💾 Save This Week’s Artifact
-
-Save the learner’s exported STL file in the **My Projects** folder. If the object was printed, take a photo of the finished print alongside the on-screen design. If no printer was available, save a screenshot of the completed design in TinkerCAD. This artifact captures the full journey from idea to digital model — and possibly to a real object.
+---
 
 ## 🔄 Simplify or Extend
 
@@ -316,3 +303,22 @@ Save the learner’s exported STL file in the **My Projects** folder. If the obj
 - Challenge the learner to design a second version that improves on the first print.
 - Ask the learner to design something that solves a small real problem (e.g., a phone stand, a cable organizer).
 - Introduce measurement: have the learner measure a real object and try to recreate it in TinkerCAD at the correct size.
+
+---
+
+## 💾 Save This Week’s Artifact
+
+Save the learner’s exported STL file in the **My Projects** folder. If the object was printed, take a photo of the finished print alongside the on-screen design. If no printer was available, save a screenshot of the completed design in TinkerCAD. This artifact captures the full journey from idea to digital model — and possibly to a real object.
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, look for whether the learner can:
+
+- Design a simple object in TinkerCAD with a clear real-world purpose (e.g., name tag, keychain, desk decoration)
+- Make intentional design choices related to size, shape, and usefulness
+- Export a design as an STL file
+- Describe the export → slice → print pipeline in their own words
+- Observe and describe how a 3D printer builds an object layer by layer (if printer access is available)
+- Explain the connection between a digital design and a physical object

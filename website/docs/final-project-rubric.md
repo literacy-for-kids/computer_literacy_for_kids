@@ -17,7 +17,34 @@ This rubric is a tool for reflection and conversation — not a scoring sheet. I
 The final project (Weeks 15–18) is the culmination of everything learners have explored in the curriculum. Students plan, build, revise, and present a project of their own design using the digital skills they've developed.
 
 This rubric helps you look at that work across six areas. The goal is to **celebrate what the learner accomplished** and **identify areas for continued growth** — not to assign a grade.
+---
 
+## Project Types
+
+The final project can take many forms. Any of the following pathways are valid:
+
+| Pathway | Examples | Skills Demonstrated |
+|---|---|---|
+| **Scratch Animation or Game** | Dancing cat, maze game, interactive story | Programming, sequencing, debugging, iteration |
+| **Illustrated Story** | Adventure tale with original drawings | Writing, digital art, file management, revision |
+| **Fact Page or Guide** | Animal encyclopedia page, "how rockets work" guide | Research, writing, source evaluation, organization |
+| **Invention Design** | Robot blueprint, machine description with diagrams | Systems thinking, creative design, communication |
+| **AI-Assisted Creation** | AI-brainstormed story with human revisions | Prompt design, critical evaluation, creative ownership |
+| **Combination** | Scratch animation + written backstory, fact guide + illustrations | Multiple skill integration |
+
+The project type should match the learner's interests and strengths. A well-executed simple project is more valuable than an overambitious incomplete one.
+
+---
+
+## Scope Guide
+
+Help learners choose a scope that is **challenging but completable** in 3–4 working sessions:
+
+- **Just right**: A Scratch animation with 2–3 sprites and movement. A 1-page illustrated guide. A drawing series with 3–4 panels and labels.
+- **Too small**: A single drawing with no explanation. One typed sentence saved as a file.
+- **Too big**: A full video game with levels. A 10-page research paper. A complete interactive website.
+
+If the idea is too big, help the student pick **one part** to build well. They can always expand later.
 ---
 
 ## How to Use It
@@ -57,8 +84,24 @@ After completing the project, ask the learner to reflect on their experience. Th
 3. **What would I do differently next time?**
 4. **What new skill did I use that I didn't know before this curriculum?**
 5. **If I had two more weeks, what would I add or change?**
+6. **Which skill from the [Competency Map](./competency-map.md) did I use the most in this project?**
+7. **What part of my [portfolio](./portfolio-tracker.md) helped me prepare for this project?**
 
 These questions help learners see their own growth — which is often the most meaningful part of the assessment.
+
+---
+
+## Kid-Friendly Success Checklist
+
+Share this simpler version with the learner before they start the final project phase:
+
+- [ ] I have an idea I'm excited about
+- [ ] I made a plan that breaks my idea into parts
+- [ ] I built a first version and saved it
+- [ ] I tested my project and found at least one thing to improve
+- [ ] I made improvements and saved a new version
+- [ ] I can explain what my project is and how it works
+- [ ] I can talk about what I learned while building it
 
 ---
 

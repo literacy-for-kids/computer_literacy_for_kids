@@ -126,12 +126,18 @@ Each button, click, or key press tells the computer **what to do next**.
 
 Encourage the student to try different inputs:
 
-- right-click something
-- open the start menu
-- press different keys
-- move windows around
+- **Single-click** an icon (selects it)
+- **Double-click** an icon (opens it)
+- **Right-click** something (a menu appears with options)
+- **Drag** an icon from one place to another
+- **Scroll** using the mouse wheel or trackpad (the page moves up and down)
+- Open the start menu
+- Press different keys
+- Move windows around
 
 Observe together what happens.
+
+Name each action as you do it so the student builds vocabulary for what they are doing.
 
 ---
 
@@ -144,10 +150,22 @@ Examples:
 - What happens if you press **Enter** in Notepad?
 - What happens if you press **Backspace**?
 - What happens if you drag an icon?
+- What happens if you **scroll** on a long web page?
+- What happens if you **double-click** a word in Notepad? (It selects the word!)
 
 Ask the student to **predict the result before trying it**.
 
 This builds early computational thinking.
+
+---
+
+**4. When Something Goes Wrong: The Troubleshooting Mindset**
+
+During experiments, something may not work as expected. Use that moment to introduce a simple idea:
+
+> "When something doesn't work, we don't panic. We stop, think about what happened, and try one small thing."
+
+This is the beginning of a troubleshooting habit that will grow throughout the curriculum. For a printable step-by-step routine, see the [Troubleshooting Routine](./troubleshooting-routine.md).
 
 ---
 
@@ -297,9 +315,17 @@ Take a screenshot of the learner’s desktop with their arranged windows or a dr
 
 By the end of this week, look for whether the learner can:
 
-- Use a mouse or trackpad to click, drag, and right-click with growing comfort
+- Use a mouse or trackpad to single-click, double-click, drag, right-click, and scroll with growing comfort
 - Open and close at least two different apps on their own
 - Move, resize, minimize, and restore windows without step-by-step help
 - Explain in their own words that computers respond to inputs and produce results
-- Predict what will happen before trying a new input (e.g., “I think clicking this will…”)
-- Identify which app is the right tool for a given task (e.g., “I’d use Paint to draw”)
+- Predict what will happen before trying a new input (e.g., "I think clicking this will…")
+- Identify which app is the right tool for a given task (e.g., "I'd use Paint to draw")
+- Respond to a small problem by pausing and trying one thing before asking for help
+
+---
+
+:::tip Vocabulary This Week
+**Input** • **Output** • **App (application)** • **Window** • **Single-click** • **Double-click** • **Right-click** • **Drag** • **Scroll** • **Minimize / Maximize / Close**  
+See the [Glossary](./glossary.md) for definitions.
+:::

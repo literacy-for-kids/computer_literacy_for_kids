@@ -304,11 +304,18 @@ Save the **polished final version** of the project (e.g., `ProjectName_Final`) a
 
 ## ✅ Success Indicators
 
-By the end of this week, the student has:
+By the end of this week, look for signs that the learner can:
 
-- ✅ Reviewed the entire project from an audience's perspective
-- ✅ Completed a small improvement list and applied the final polish
-- ✅ Created a simple presentation plan with at least three talking points
-- ✅ Practiced explaining the project clearly to another person
-- ✅ Saved the final version with a clear file name (e.g., `ProjectName_Final`)
-- ✅ Expressed confidence or excitement about sharing the project
+- Review the entire project from an audience's perspective
+- Complete a small improvement list and apply the final polish
+- Create a simple presentation plan with at least three talking points
+- Practice explaining the project clearly to another person
+- Save the final version with a clear file name (e.g., `ProjectName_Final`)
+- Express confidence or excitement about sharing the project
+
+---
+
+:::tip Vocabulary This Week
+**Polish** • **Review** • **Presentation** • **Audience** • **Detail** • **Final version**  
+See the [Glossary](./glossary.md) for definitions.
+:::

@@ -125,3 +125,30 @@ You don't need a formal accommodation plan to use these strategies. Most of them
 If you're unsure where to start, pick **one or two adjustments** that seem most relevant to your learners and try them for a week. You can always add more later.
 
 The curriculum is a guide, not a rigid script. The more you adapt it to fit the real humans in front of you, the better it works.
+
+---
+
+## Device-Specific Notes
+
+Different devices have small differences that can trip up learners. Here are the most common ones.
+
+### Chromebooks
+- File management uses the **Files** app instead of File Explorer. It works similarly but looks different.
+- Most activities work well in Chrome browser. Scratch, TinkerCAD, and Google apps all run in the browser.
+- Right-click is done by tapping the trackpad with **two fingers**.
+- There is no traditional "desktop" for saving files. Use Google Drive or the Downloads folder.
+
+### Windows vs. Mac
+- File management: **File Explorer** (Windows) vs. **Finder** (Mac). Both do the same job with different interfaces.
+- Keyboard shortcuts: Windows uses **Ctrl** where Mac uses **Cmd** (⌘). Example: Ctrl+S (Windows) = Cmd+S (Mac).
+- Right-click: On Mac trackpads, use **two-finger tap** or hold **Control** while clicking.
+- The curriculum notes these differences with "Ctrl/Cmd" wherever shortcuts appear.
+
+### Tablets (iPad, Android)
+- Limited file management — there is no traditional folder system. Use a cloud drive (Google Drive, OneDrive) for the portfolio.
+- Scratch works on tablets but is harder without a mouse. Consider pairing with a Bluetooth keyboard and mouse.
+- Drawing activities often work well on tablets, especially with a stylus.
+- Multitasking (multiple windows side by side) is limited compared to laptops.
+- Some activities involving File Explorer or window management may need to be adapted or simplified.
+
+For full tool options by category, see [Tool Alternatives](./tool-alternatives.md).

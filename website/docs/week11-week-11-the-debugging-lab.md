@@ -206,6 +206,8 @@ Test again.
 
 Explain that engineers and programmers often use steps like this.
 
+Note how this is similar to the [Troubleshooting Routine](./troubleshooting-routine.md) they've been practicing (Stop → Think Back → Try One Small Thing → Try Again → Ask for Help). Debugging is troubleshooting applied specifically to code.
+
 ---
 
 **2. Debug a Small Program Together**
@@ -357,3 +359,9 @@ By the end of this week, look for signs that the learner can:
 - Fix a bug with guidance — or independently — and test to confirm the fix works.
 - Stay calm and curious when something doesn’t work, rather than giving up. Getting stuck is a normal and valuable part of learning.
 - Explain debugging in their own words — for example, “It’s when you find out why something isn’t working and try to fix it.”
+---
+
+:::tip Vocabulary This Week
+**Bug** • **Debugging** • **Checklist** • **Test** • **Evidence** • **Edge case** (extension) • **Bug report** (extension)  
+See the [Glossary](./glossary.md) for definitions.
+:::

@@ -299,3 +299,11 @@ By the end of this week, look for signs that the learner can:
 - Explain in their own words why computers need precise instructions.
 - Revise their own instructions after testing or reviewing them.
 - Approach the task with curiosity rather than frustration when instructions don't work as expected.
+- Follow the [Troubleshooting Routine](./troubleshooting-routine.md) (Stop → Think Back → Try One Thing) when an instruction set doesn't produce the expected result.
+
+---
+
+:::tip Vocabulary This Week
+**Instruction** • **Sequence** • **Algorithm** • **Predict** • **Debugging** (preview) • **Input / Output** (review)  
+See the [Glossary](./glossary.md) for definitions.
+:::

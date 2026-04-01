@@ -120,18 +120,36 @@ Let the student experiment with a few keys:
 - space bar  
 - enter  
 - backspace  
+- **Shift** (hold it and press a letter — it makes a capital!)
 
 Observe what happens when:
 
 - space adds distance between words  
 - enter creates a new line  
 - backspace deletes something
+- Shift + a letter makes that letter uppercase
 
 Encourage curiosity.
 
 Ask:
 
-> “What do you think this key will do?”
+> "What do you think this key will do?"
+
+---
+
+**2a. Your First Keyboard Shortcut: Ctrl+S**
+
+Once the student has typed a few words, introduce the very first **keyboard shortcut**:
+
+> "Instead of using the menu to save, you can press **Ctrl** and **S** at the same time. It saves your work instantly."
+
+Let them try it. Explain:
+
+- **Ctrl** stands for Control — it is a "helper key" that gives other keys special powers
+- **Ctrl+S** means "Save" — it works in almost every app
+- Building the habit of pressing Ctrl+S often protects your work
+
+This shortcut will come back every week from now on.
 
 ---
 
@@ -285,6 +303,7 @@ or
 **To extend:**
 - Challenge the learner to type a full paragraph (4–5 sentences) about a topic they enjoy and save it with a title.
 - Introduce the Shift key for capital letters and ask the learner to type proper sentences with correct capitalization.
+- Practice the **Ctrl+S** shortcut multiple times during the session so it becomes second nature.
 
 ## 💾 Save This Week’s Artifact
 
@@ -300,3 +319,11 @@ By the end of this week, look for whether the learner can:
 - Identify and press specific keys when asked (e.g., “Can you find the letter T?”)
 - Show comfort sitting at the keyboard and willingness to keep practicing
 - Save their typed work to the correct folder in their My Projects system
+- Use **Ctrl+S** to save their work at least once during a session (with a reminder)
+
+---
+
+:::tip Vocabulary This Week
+**Keyboard** • **Home row** • **Space bar** • **Enter** • **Backspace** • **Shift** • **Ctrl (Control key)** • **Keyboard shortcut** • **Ctrl+S (Save)**  
+See the [Glossary](./glossary.md) for definitions.
+:::

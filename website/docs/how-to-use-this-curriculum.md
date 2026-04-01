@@ -13,7 +13,7 @@ This page is your starting point. Whether you're a classroom teacher, a homescho
 You don't need to be a tech expert. You just need to be willing to learn alongside your students.
 
 :::tip Start Here
-If you're brand new, read this page first, then jump to [Week 1](./week01-week-1-internet-playground.md).
+If you're brand new, read this page first, then jump to [Week 1](./week01-week-1-internet-playground.md). For a one-page summary of the whole curriculum, see [Curriculum at a Glance](./curriculum-at-a-glance.md).
 :::
 
 ---
@@ -35,7 +35,17 @@ If you're an adult who wants to help a young person become confident and thought
 
 ## Age Range
 
-The curriculum is designed for learners **ages 8–12** (roughly grades 3–6). Activities assume basic reading ability and no prior computer experience. Older or more experienced learners will move through material faster and can be challenged with the stretch activities included in each week.
+The curriculum is designed for learners **ages 7–12** (roughly grades 2–6). Activities assume basic reading ability and no prior computer experience. Younger learners (7–8) will benefit from extra adult support and may need the "Simplify" options in each week. Older or more experienced learners will move through material faster and can be challenged with the stretch activities included in each week.
+
+### Adapting for Different Ages and Experiences
+
+| Learner Profile | What to Expect | What Helps |
+|----------------|----------------|------------|
+| **Ages 7–8 / little computer experience** | May need help reading instructions; slower with mouse and keyboard; gets tired faster | Read aloud; shorter sessions; use "Simplify" options; focus on one activity per session |
+| **Ages 9–10 / some computer experience** | Comfortable clicking and typing basics; may need support with file management and search skills | Follow the curriculum as written; use the standard pacing |
+| **Ages 11–12 / more computer exposure** | May already know some basics; wants more independence and challenge | Move through foundations quickly; use "Extend" options; add productivity extensions |
+| **Emerging readers** | Can follow along with adult help but struggles with dense text | Adult reads instructions aloud; use oral responses; focus on hands-on activities |
+| **Learner with prior Scratch or coding experience** | May breeze through Weeks 9–10 | Challenge them with more complex Scratch projects; let them peer-mentor; start the final project earlier |
 
 ---
 
@@ -47,6 +57,16 @@ The curriculum is designed for learners **ages 8–12** (roughly grades 3–6). 
 - **No prior tech expertise from the adult** — the curriculum teaches you alongside the learner
 
 That's it. No expensive subscriptions, no downloads, no IT department required.
+
+### Device Notes
+
+| Device | Works Well For | Watch Out For |
+|--------|---------------|---------------|
+| **Laptop or desktop (Windows/Mac)** | All activities; best for file management and Scratch | None — this is the ideal setup |
+| **Chromebook** | Most activities; great for web-based tools | File Explorer works differently (use the Files app); some desktop apps unavailable; Scratch works in the browser |
+| **iPad or tablet** | Browsing, drawing, typing with a keyboard | No real file management system; Scratch works but is harder without a mouse; limited multitasking |
+
+A mouse (rather than just a trackpad) is recommended for younger learners, especially for drawing activities, Scratch, and drag-and-drop tasks.
 
 ---
 
@@ -137,7 +157,7 @@ This isn't complicated:
 The portfolio serves two purposes:
 
 1. **It gives learners a sense of progress** — they can look back and see how much they've done
-2. **It feeds into the final project** — in Weeks 15–18, learners draw on their collected work to plan and build a capstone project
+2. **It feeds into the final project** — in Weeks 15–18, learners draw on their collected work to plan and build a final project
 
 Keep it simple. The goal is saving work, not perfecting organization.
 
@@ -172,6 +192,8 @@ Here's a concrete list of steps to begin:
 7. **Start Week 1** — and learn alongside your students
 
 That's it. You don't need to read the whole curriculum in advance. Take it one week at a time.
+
+For templates, checklists, and other planning tools, see the [Facilitator Toolkit](./facilitator-toolkit.md).
 
 :::info You've Got This
 The most important thing you bring to this curriculum isn't tech knowledge — it's your willingness to be curious alongside the learners in your care. That's enough.

@@ -305,21 +305,6 @@ Shape Explorer
 
 ---
 
-## ✅ Success Indicators
-
-By the end of this week, look for whether the learner can:
-
-- Navigate the 3D workspace by rotating, zooming, and panning the camera
-- Place basic shapes (box, cylinder, sphere) onto the workplane with intention
-- Resize and reposition shapes using handles and dragging
-- Combine two or more shapes to create a recognizable simple object
-- Explain in their own words that complex objects are built from simple shapes
-- Rename and save a design in TinkerCAD
-
-## 💾 Save This Week's Artifact
-
-Save the learner's TinkerCAD design by ensuring it is named and saved in their TinkerCAD account. If the learner does not have a persistent account, take a screenshot of the finished design and save it in the **My Projects** folder. This is their first 3D creation — it shows they can think in three dimensions and use digital tools to build something new.
-
 ## 🔄 Simplify or Extend
 
 **Simplify:**
@@ -331,3 +316,22 @@ Save the learner's TinkerCAD design by ensuring it is named and saved in their T
 - Challenge the learner to build a scene with multiple objects (e.g., a house with a tree and a car).
 - Introduce the **hole** tool in TinkerCAD to subtract shapes from each other.
 - Ask the learner to design something and then explain their design choices to someone else, as if presenting to a client.
+
+---
+
+## 💾 Save This Week's Artifact
+
+Save the learner's TinkerCAD design by ensuring it is named and saved in their TinkerCAD account. If the learner does not have a persistent account, take a screenshot of the finished design and save it in the **My Projects** folder. This is their first 3D creation — it shows they can think in three dimensions and use digital tools to build something new.
+
+---
+
+## ✅ Success Indicators
+
+By the end of this week, look for whether the learner can:
+
+- Navigate the 3D workspace by rotating, zooming, and panning the camera
+- Place basic shapes (box, cylinder, sphere) onto the workplane with intention
+- Resize and reposition shapes using handles and dragging
+- Combine two or more shapes to create a recognizable simple object
+- Explain in their own words that complex objects are built from simple shapes
+- Rename and save a design in TinkerCAD

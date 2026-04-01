@@ -50,7 +50,7 @@ The big idea this week:
 - **Accounts:** A Scratch account is optional but helpful for saving projects. You can also save by downloading projects to the computer.
 - Ensure access to **Scratch**:
   - https://scratch.mit.edu
-  - Scratch is **free and web-based** — it works on most devices with a modern browser. If Scratch is not available, other block-based coding tools work for the same concepts. See [Tool Alternatives](tool-alternatives.md) for options.
+  - Scratch is **free and web-based** — it works on most devices with a modern browser. If Scratch is not available, other block-based coding tools work for the same concepts. See [Tool Alternatives](./tool-alternatives.md) for options.
 - Log in or open the **Scratch editor** in advance to avoid delays.
 - Confirm the student can use the mouse comfortably for dragging blocks.
 - Prepare to demonstrate:
@@ -276,7 +276,9 @@ Examples:
 ## 💾 Save This Week’s Artifact
 
 Save the learner’s Scratch project by clicking **File → Save to your computer** (downloads a `.sb3` file), or take a screenshot of the finished script and stage. Place the file or screenshot in **My Projects → Experiments**. This is the learner’s first real program — it’s worth celebrating.
+Remind the learner of good file-naming habits from Week 3: name the file something descriptive like "dancing-cat" or "spinning-rocket" rather than "project1".
 
+If using a Scratch account, the project saves online automatically — but downloading a local copy to the portfolio folder is still a good practice.
 ---
 
 ## ✅ Success Indicators
@@ -289,3 +291,9 @@ By the end of this week, look for signs that the learner can:
 - Predict what a short sequence of blocks will do before running it.
 - Make a small change (number, block, or order) and observe how the output changes.
 - Show enthusiasm or curiosity about experimenting — “What happens if I…?” is a great sign.
+---
+
+:::tip Vocabulary This Week
+**Scratch** • **Sprite** • **Stage** • **Block** • **Script** • **Sequence** • **Loop (repeat)** • **Program**  
+See the [Glossary](./glossary.md) for definitions.
+:::

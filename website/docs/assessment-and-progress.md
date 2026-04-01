@@ -25,6 +25,8 @@ You don't need special tools or forms. Here's the approach:
 
 That's the whole system. No rubrics to fill out during class, no scores to calculate. Just pay attention, and use what you notice to guide your next steps.
 
+For a full list of what learners should be able to do at each stage, see the [Competency Map](./competency-map.md). For a printable artifact checklist, see the [Portfolio Tracker](./portfolio-tracker.md).
+
 ---
 
 ## Student Self-Assessment
@@ -123,6 +125,8 @@ Choose whatever method fits your setting. There's no required tracking system.
 - **Conversation-based check-ins** — Ask the learner how they feel about what they've learned. Their self-assessment tells you a lot.
 
 If your setting requires formal records (like a school or co-op), the milestone checkpoints and the [Final Project Rubric](./final-project-rubric.md) give you enough structure to document progress. If you're a parent working at home, a quick mental check is plenty.
+
+For templates and checklists you can print or copy, see the [Facilitator Toolkit](./facilitator-toolkit.md).
 
 ---
 

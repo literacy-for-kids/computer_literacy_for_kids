@@ -10,7 +10,7 @@ sidebar_position: 0
 
 # 18-Week Computer Literacy Curriculum
 
-This curriculum provides a **structured introduction to computer literacy** for young beginners (roughly ages 8–12, with adult guidance as needed). It blends guided instruction with independent exploration to help learners develop confidence using computers for **communication, creativity, problem solving, and digital citizenship**.
+This curriculum provides a **structured introduction to computer literacy** for young beginners (roughly ages 7–12, with adult guidance as needed). It blends guided instruction with independent exploration to help learners develop confidence using computers for **communication, creativity, problem solving, and digital citizenship**.
 
 The program works in **classrooms, homeschool settings, libraries, and after-school programs** — anywhere an adult can guide a young learner through hands-on exploration. It progresses from **basic computer interaction** toward **creative digital projects**, gradually introducing concepts like coding, media creation, information literacy, and generative AI.
 
@@ -31,6 +31,7 @@ Use this roadmap image when you want a quick visual summary of how the full sequ
 - Open [Learning Ladder: How Skills Build Over Time](#learning-ladder-how-skills-build-over-time) to see how the course connects.
 - Save [Independent Session Setup Tips](#independent-session-setup-tips) for logistics.
 - See [Assessment & Progress](./assessment-and-progress.md) and [Tool Alternatives](./tool-alternatives.md) for additional planning support.
+- Check the [Competency Map](./competency-map.md) to see what learners should be able to do at each stage.
 :::
 
 :::info Planning Help
@@ -38,12 +39,14 @@ Use this roadmap image when you want a quick visual summary of how the full sequ
 - The week-by-week table is the fastest way to jump into a lesson page.
 - If you are planning lighter weeks, the optional CAD extension can stay separate from the main 18-week sequence.
 - For accessibility and adaptation guidance, see [Adaptations & Accessibility](./adaptations-and-accessibility.md).
+- For a one-page weekly summary with tools and artifacts, see [Curriculum at a Glance](./curriculum-at-a-glance.md).
+- For checklists and templates, see the [Facilitator Toolkit](./facilitator-toolkit.md).
 :::
 
 ## Curriculum Overview
 
 ### Target Audience
-Young beginner computer users (roughly ages 8–12).  
+Young beginner computer users (roughly ages 7–12).  
 Basic reading ability is helpful, but adult guidance is expected.
 
 ### Weekly Structure
@@ -55,7 +58,7 @@ Each week contains:
 Guided sessions introduce concepts and tools.  
 Independent sessions reinforce skills through creative exploration, reflection, and purposeful revision.
 
-Across the curriculum, students are regularly asked to explain what they notice, compare possible choices, judge what works best, and create stronger next versions of their work.
+Students regularly explain observations, compare choices, evaluate results, and revise their work.
 
 ### Typing Practice
 Beginning **Week 4**, incorporate **5–10 minutes of typing practice** during guided sessions.
@@ -90,11 +93,9 @@ The final format is flexible and may include:
 
 ### Assessment Approach
 
-Assessment in this curriculum is **observation-based and low-pressure**. Rather than tests or grades, facilitators track progress by watching what students can do, listening to how they explain their thinking, and reviewing the artifacts they create.
+Assessment is **observation-based and low-pressure**. Each week includes natural checkpoints — reflection questions, show-and-tell moments, and creative outputs — that make learning visible without tests or grades.
 
-Each week includes natural checkpoints — reflection questions, show-and-tell moments, and creative outputs — that make learning visible without adding stress.
-
-For a complete guide to tracking progress, see [Assessment & Progress](./assessment-and-progress.md). For the final project specifically, see the [Final Project Rubric](./final-project-rubric.md).
+For details, see [Assessment & Progress](./assessment-and-progress.md). For the final project, see the [Final Project Rubric](./final-project-rubric.md).
 
 ### Digital Portfolio
 
@@ -113,7 +114,20 @@ The curriculum repeatedly reinforces the key safety message:
 > **“When in Doubt, Talk It Out.”**
 
 Students are encouraged to speak with a trusted adult whenever something online feels confusing or uncomfortable.
+Beyond this core message, the curriculum progressively builds **web literacy and digital judgment** — helping learners recognize ads versus real content, spot clickbait, handle popups wisely, protect personal information, and evaluate whether online information is trustworthy. These skills are woven into the weekly lessons rather than taught in isolation. For a quick-reference summary, see [Digital Habits & Safety](./digital-habits-and-safety.md).
 
+### Practical Computer Operations
+
+Alongside creative and thinking skills, the curriculum builds a visible strand of **practical computer fluency**. Across the 18 weeks, learners progressively practice:
+
+- opening, closing, and switching between apps and windows
+- browser navigation: tabs, links, URLs, and the address bar
+- mouse skills: click, double-click, right-click, drag, scroll
+- keyboard skills: typing, shortcuts (Ctrl+S, Ctrl+Z, Ctrl+C/V), cursor placement
+- file management: save, save as, naming, organizing, finding files
+- basic troubleshooting habits: observe, think back, try one thing, ask for help
+
+These operations are embedded in lesson activities, not taught as abstract drills. By the final project, learners use these skills fluidly as part of building their own work. See the [Competency Map](./competency-map.md) for what learners should be able to do at each stage.
 ### Flexibility & Adaptability
 
 This curriculum is a **guide, not a rigid script**.
@@ -145,24 +159,24 @@ Each week below links to a detailed lesson page containing:
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [Week 1](./week01-week-1-internet-playground) | 🌐 Welcome to the Digital World | Internet basics, digital citizenship, online safety |
-| [Week 2](./week02-week-2-computer-control-room) | 🖥️ How Computers Work | Inputs, outputs, windows, apps, and basic interactions |
-| [Week 3](./week03-week-3-digital-treasure-chest) | 📁 Organizing the Digital World | Files, folders, saving work, digital ownership |
-| [Week 4](./week04-week-4-keyboard-ninja-training) | ⌨️ Keyboard Skills | Touch typing basics and keyboard confidence |
-| [Week 5](./week05-week-5-the-power-of-words) | ✉️ Writing on Computers | Text communication and simple writing tools |
-| [Week 6](./week06-week-6-the-digital-art-studio) | 🎨 Pictures Tell Stories | Digital drawing and image communication |
-| [Week 7](./week07-week-7-the-internet-detective-lab) | 🔎 Smart Searching | Better questions, search terms, search results, and choosing what to open |
-| [Week 8](./week08-week-8-the-idea-workshop) | 💡 The Idea Workshop | Wikipedia exploration, connected knowledge, references, and source awareness |
-| [Week 9](./week09-week-9-teach-the-computer) | 🧠 Thinking Like a Programmer | Algorithms, logic, and coding concepts |
-| [Week 10](./week10-week-10-build-your-first-program) | 🧩 Coding with Blocks | Scratch programming and interactive logic |
-| [Week 11](./week11-week-11-the-debugging-lab) | 🛠 Fixing Digital Problems | Debugging and troubleshooting |
-| [Week 12](./week12-week-12-how-things-are-built) | ⚙️ How Digital Systems Work | Understanding digital and physical systems |
-| [Week 13](./week13-week-13-AI-discovery-lab) | 🤖 Meet AI | What generative AI is and how it works |
-| [Week 14](./week14-week-14-AI-creative-partner) | 🎨 AI as a Creative Tool | Using AI for ideas, images, and storytelling |
-| [Week 15](./week15-week-15-invent-something-cool) | 🚀 Project Creation | Beginning the final project |
-| [Week 16](./week16-week-16-build-and-improve) | 🔧 Building the Project | Developing and improving the project |
-| [Week 17](./week17-week-17-final-touches) | 🧪 Final Development | Testing and finishing the project |
-| [Week 18](./week18-week-18-creator-showcase) | 🎉 Project Showcase | Presentation and reflection |
+| [Week 1](./week01-week-1-internet-playground.md) | 🌐 Welcome to the Digital World | Internet basics, digital citizenship, online safety |
+| [Week 2](./week02-week-2-computer-control-room.md) | 🖥️ How Computers Work | Inputs, outputs, windows, apps, and basic interactions |
+| [Week 3](./week03-week-3-digital-treasure-chest.md) | 📁 Organizing the Digital World | Files, folders, saving work, digital ownership |
+| [Week 4](./week04-week-4-keyboard-ninja-training.md) | ⌨️ Keyboard Skills | Touch typing basics and keyboard confidence |
+| [Week 5](./week05-week-5-the-power-of-words.md) | ✉️ Writing on Computers | Text communication and simple writing tools |
+| [Week 6](./week06-week-6-the-digital-art-studio.md) | 🎨 Pictures Tell Stories | Digital drawing and image communication |
+| [Week 7](./week07-week-7-the-internet-detective-lab.md) | 🔎 Smart Searching | Better questions, search terms, search results, and choosing what to open |
+| [Week 8](./week08-week-8-the-idea-workshop.md) | 💡 The Idea Workshop | Wikipedia exploration, connected knowledge, references, and source awareness |
+| [Week 9](./week09-week-9-teach-the-computer.md) | 🧠 Thinking Like a Programmer | Algorithms, logic, and coding concepts |
+| [Week 10](./week10-week-10-build-your-first-program.md) | 🧩 Coding with Blocks | Scratch programming and interactive logic |
+| [Week 11](./week11-week-11-the-debugging-lab.md) | 🛠 Fixing Digital Problems | Debugging and troubleshooting |
+| [Week 12](./week12-week-12-how-things-are-built.md) | ⚙️ How Digital Systems Work | Understanding digital and physical systems |
+| [Week 13](./week13-week-13-AI-discovery-lab.md) | 🤖 Meet AI | What generative AI is and how it works |
+| [Week 14](./week14-week-14-AI-creative-partner.md) | 🎨 AI as a Creative Tool | Using AI for ideas, images, and storytelling |
+| [Week 15](./week15-week-15-invent-something-cool.md) | 🚀 Project Creation | Beginning the final project |
+| [Week 16](./week16-week-16-build-and-improve.md) | 🔧 Building the Project | Developing and improving the project |
+| [Week 17](./week17-week-17-final-touches.md) | 🧪 Final Development | Testing and finishing the project |
+| [Week 18](./week18-week-18-creator-showcase.md) | 🎉 Project Showcase | Presentation and reflection |
 
 ---
 
@@ -172,8 +186,8 @@ If the learner is interested in **3D design or 3D printing**, the following opti
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [CAD Week 1](./week-CAD-1-shape-builders) | 🧊 Building in 3D | Learning TinkerCAD, shapes, and spatial thinking |
-| [CAD Week 2](./week-CAD-2-from-screen-to-real-objects) | 🖨 From Screen to Real Object | Preparing designs for 3D printing |
+| [CAD Week 1](./week-CAD-1-shape-builders.md) | 🧊 Building in 3D | Learning TinkerCAD, shapes, and spatial thinking |
+| [CAD Week 2](./week-CAD-2-from-screen-to-real-objects.md) | 🖨 From Screen to Real Object | Preparing designs for 3D printing |
 
 These modules introduce:
 
@@ -241,51 +255,6 @@ N --> O --> P --> Q
 ```
 Each layer of the curriculum builds on the previous one.  
 Students begin by learning how computers work and how to stay safe online, then move into communication, information literacy, coding, and finally producing a complete digital project.
-
----
-
----
-
-# How to Read the Roadmap
-
-This diagram shows the **learning journey** across the course.
-
-Students move through stages:
-
-
-Digital Safety
-↓
-Computer Basics
-↓
-Communication
-↓
-Information Literacy
-↓
-Coding & Logic
-↓
-Systems Thinking
-↓
-AI Literacy
-↓
-Creative Project
-↓
-Presentation
-
-
-Each step builds the foundation for the next.
-
-By the time students reach the final project, they have practiced:
-
-- digital citizenship  
-- computer navigation  
-- file organization  
-- typing  
-- digital communication  
-- searching, comparing results, and tracing information back to sources  
-- coding logic  
-- debugging and problem solving  
-- creative digital tools  
-- AI-assisted creativity  
 
 ---
 
@@ -372,7 +341,15 @@ Most importantly, they will build **confidence exploring technology and expressi
 **Facilitator resources:**
 
 - [How to Use This Curriculum](./how-to-use-this-curriculum.md) — setup, pacing, and environment guidance
+- [Curriculum at a Glance](./curriculum-at-a-glance.md) — one-page week-by-week summary
+- [Competency Map](./competency-map.md) — what learners should be able to do at each stage
+- [Facilitator Toolkit](./facilitator-toolkit.md) — checklists, templates, and planning tools
+- [Glossary](./glossary.md) — key vocabulary definitions
 - [Assessment & Progress](./assessment-and-progress.md) — observation-based tracking
 - [Adaptations & Accessibility](./adaptations-and-accessibility.md) — support for diverse learners
+- [Digital Habits & Safety Reference](./digital-habits-and-safety.md) — quick-reference safety guide
+- [Troubleshooting Routine](./troubleshooting-routine.md) — kid-friendly problem-solving steps
 - [Tool Alternatives](./tool-alternatives.md) — flexible software options
-- [Final Project Rubric](./final-project-rubric.md) — capstone evaluation guide
+- [Portfolio Tracker](./portfolio-tracker.md) — track learner artifacts and progress
+- [Final Project Rubric](./final-project-rubric.md) — final project evaluation guide
+- [Everyday Productivity Extensions](./everyday-productivity-extensions.md) — optional advanced activities

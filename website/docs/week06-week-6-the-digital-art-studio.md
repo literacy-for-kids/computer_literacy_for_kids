@@ -143,6 +143,10 @@ Encourage creativity rather than detail.
 
 Explain that drawings are **another type of digital file**.
 
+:::tip Drawing Tip: Undo Is Your Friend
+If the student makes a mistake or doesn't like a line, show them **Ctrl+Z** (Undo). In a drawing app, undo takes back the last stroke or action. Artists use undo constantly — it's not cheating, it's part of the creative process!
+:::
+
 ---
 
 #### Reflection Questions
@@ -211,6 +215,20 @@ Example:
 - the robot starts moving
 
 Save both drawings.
+
+**Saving with Clear Names**
+
+When saving, use descriptive names:
+
+- "dog sleeping" is better than "drawing1"
+- "rocket launch" is better than "picture"
+
+If the app offers a choice of file format (PNG, JPEG, BMP), explain briefly:
+
+- **PNG** keeps quality and is a good default
+- **JPEG** makes smaller files but quality may decrease slightly
+
+Use **Ctrl+S** to save, or **File → Save As** if the student wants to save a new version while keeping the original.
 
 ---
 
@@ -282,12 +300,12 @@ Give your picture a name.
 
 ## 🔄 Simplify or Extend
 
-**To simplify (younger or struggling learners):**
+**To simplify:**
 - Let the learner freely scribble and experiment with tools before giving a prompt.
 - Reduce the task to one drawing instead of a two-picture story.
-- Sit alongside and narrate what they are doing: “I see you picked the blue — what are you making?”
+- Sit alongside and narrate what they are doing: "I see you picked the blue — what are you making?"
 
-**To extend (older or advanced learners):**
+**To extend:**
 - Challenge them to create a three- or four-panel visual story.
 - Ask them to add text labels or a title to their artwork.
 - Introduce the concept of layers if the drawing tool supports them.
@@ -310,3 +328,10 @@ Look for these signs that the learner is making progress:
 - They made at least one intentional revision — erasing, changing a color, or redrawing a part.
 - They saved their artwork to the correct folder with a name they chose.
 - They can describe what they drew and the choices they made.
+
+---
+
+:::tip Vocabulary This Week
+**Canvas** • **Brush / Pencil tool** • **Shape tool** • **Fill bucket** • **Eraser** • **Undo (Ctrl+Z)** • **PNG / JPEG** • **Save As**  
+See the [Glossary](./glossary.md) for definitions.
+:::

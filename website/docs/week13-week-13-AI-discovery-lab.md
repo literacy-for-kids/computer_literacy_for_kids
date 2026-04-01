@@ -207,6 +207,12 @@ Both require us to ask:
 
 AI is simply **another tool for exploring ideas**.
 
+Connect to something they already know:
+
+> "Remember in Week 7 when we learned that not every search result is trying to help you? And in Week 8 when we learned that polished doesn't mean true? The same rules apply to AI. Just because the AI writes a confident-sounding answer doesn't mean it's correct. Always check important facts."
+
+For a refresher on evaluating online information, see [Digital Habits & Safety](./digital-habits-and-safety.md).
+
 ---
 
 **3. Improve an AI Idea**
@@ -280,12 +286,6 @@ My Projects → Experiments
 
 ---
 
-## 💾 Save This Week’s Artifact
-
-Save your AI interaction notes, screenshots of prompts and responses, or written observations about AI accuracy to your portfolio folder (**My Projects → Experiments**). Include at least one example where you identified something the AI got wrong or something you improved. Label it with the date.
-
----
-
 ## 🔄 Simplify or Extend
 
 **Simplify:**
@@ -300,6 +300,13 @@ Save your AI interaction notes, screenshots of prompts and responses, or written
 
 ---
 
+
+## 💾 Save This Week’s Artifact
+
+Save your AI interaction notes, screenshots of prompts and responses, or written observations about AI accuracy to your portfolio folder (**My Projects → Experiments**). Include at least one example where you identified something the AI got wrong or something you improved. Label it with the date.
+
+---
+
 ## ✅ Success Indicators
 
 By the end of this week, look for evidence that the learner can:
@@ -309,4 +316,11 @@ By the end of this week, look for evidence that the learner can:
 - Describe why AI answers should be checked with a trusted source before being trusted.
 - Explain that AI is a tool that helps people think, not a replacement for thinking.
 - Identify at least one way AI could be helpful and one way it could be misleading.
-- Use phrases like “I need to check that” or “that doesn’t sound right” when reviewing AI output.
+- Use phrases like "I need to check that" or "that doesn't sound right" when reviewing AI output.
+
+---
+
+:::tip Vocabulary This Week
+**Artificial Intelligence (AI)** • **Generative AI** • **Prompt** • **Pattern** • **Output** • **Verify** • **Hallucination** (when AI confidently states something false)  
+See the [Glossary](./glossary.md) for definitions.
+:::

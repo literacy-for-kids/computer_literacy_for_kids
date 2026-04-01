@@ -59,7 +59,7 @@ Instead help the student understand **why certain situations require caution or 
 :::
 
 :::note[🔒 Safety Note]
-All browsing this week should be **supervised by an adult**. Sit alongside the learner while they explore websites. Pre-bookmark sites before the session so the learner stays within safe, age-appropriate content. If something unexpected appears, use it as a calm teaching moment rather than a source of alarm.
+All browsing this week should be **supervised by an adult**. Sit alongside the learner while they explore websites. Pre-bookmark sites before the session so the learner stays within safe, age-appropriate content. If something unexpected appears, use it as a calm teaching moment rather than a source of alarm. For a complete safety quick-reference, see [Digital Habits & Safety](./digital-habits-and-safety.md).
 :::
 
 ---
@@ -142,9 +142,23 @@ Point out things like:
 - pictures
 - menus
 - videos
-- links
+- links (clickable text, usually blue or underlined)
 
 Explain that each page is **something someone made and shared**.
+
+---
+
+**4. Browser Basics: Your First Tools**
+
+While exploring, introduce a few browser basics naturally:
+
+- **The address bar**: Point to it at the top of the browser. Explain that every website has an address (called a URL). You can see it change as you visit different pages.
+- **Links**: Show how clicking a link takes you to a new page. Some links open in the same tab, some in a new one.
+- **Tabs**: Open a second website in a new tab. Show how tabs let you keep two pages open at once. Practice switching between them.
+- **Back and forward buttons**: Show the arrow buttons at the top left. Click Back to return to the previous page.
+- **Scrolling**: Point out that most pages are longer than the screen. Scroll down to see more content.
+
+Keep this light and exploratory. The goal is familiarity, not memorization.
 
 ---
 
@@ -322,4 +336,13 @@ By the end of this week, look for whether the learner can:
 - Sort examples of information into “public” and “private” categories with reasonable accuracy
 - Describe at least one thing they would do if something online felt confusing or uncomfortable
 - Navigate a kid-friendly website by clicking links, using menus, and identifying what the site is about
+- Use basic browser controls: address bar, back button, scroll, and switch between tabs
 - Talk about why some websites are more helpful or trustworthy than others
+- Recognize at least one example of an online trick (popup, flashy ad, clickbait) and describe what to do
+
+---
+
+:::tip Vocabulary This Week
+**Browser** • **URL (web address)** • **Link** • **Tab** • **Scroll** • **Popup** • **Clickbait** • **Private information**  
+See the [Glossary](./glossary.md) for definitions.
+:::

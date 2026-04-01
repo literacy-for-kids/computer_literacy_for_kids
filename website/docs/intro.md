@@ -31,6 +31,7 @@ This visual roadmap gives facilitators and caregivers a quick big-picture view o
 - Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
 - Visit [Optional Extension](#optional-extension) for the CAD track.
 - See [How to Use This Curriculum](./how-to-use-this-curriculum.md) for setup guidance and pacing tips.
+- Check the [Curriculum at a Glance](./curriculum-at-a-glance.md) for a one-page week-by-week summary.
 :::
 
 :::info For Caregivers and Facilitators
@@ -38,7 +39,7 @@ This visual roadmap gives facilitators and caregivers a quick big-picture view o
 - Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, facilitate one session at a time, and come back later for the rest.
 - This curriculum works in classrooms, homeschool settings, libraries, and after-school programs — anywhere an adult can guide a young learner through hands-on exploration.
 - Use this page when you want the big-picture philosophy, not when you need minute-by-minute session directions.
-- For more detailed setup guidance, see [How to Use This Curriculum](./how-to-use-this-curriculum.md).
+- For setup guidance, see [How to Use This Curriculum](./how-to-use-this-curriculum.md). For checklists and templates, see the [Facilitator Toolkit](./facilitator-toolkit.md).
 :::
 
 ## The Big Idea
@@ -50,9 +51,12 @@ Instead of teaching **which buttons to press**, we focus on helping students dev
 
 - curiosity
 - creative confidence
+- practical computer fluency
 - problem solving
 - safe internet judgment
 - the ability to figure things out independently
+
+At the same time, learners build **real-world computer skills** throughout the course — things like opening apps, managing files, using keyboard shortcuts, navigating a browser, and saving their work. These practical skills are woven into every unit, not bolted on as a separate track.
 
 Computers are treated as **tools for thinking and creating**, not just devices for watching videos or playing games.
 
@@ -101,9 +105,10 @@ This means:
 
 - someone made the content
 - sometimes people want attention, views, or clicks
-- sometimes information is wrong
+- sometimes information is wrong or misleading
+- ads, clickbait, and fake buttons are designed to get your attention
 
-Understanding this helps students develop **judgment instead of fear** when navigating the internet.
+Understanding this helps students develop **judgment instead of fear** when navigating the internet. The curriculum builds web literacy progressively, helping learners recognize common online tricks and evaluate whether information is trustworthy.
 
 ---
 
@@ -145,13 +150,11 @@ The focus is on **creative ownership**, not passive screen time.
 
 | Unit | Weeks | Topics |
 |------|-------|--------|
-| **Digital Foundations** | 1–3 | Internet basics, computers as systems, files & folders |
-| **Core Computer Skills** | 4–6 | Typing, communication, images and creativity |
-| **Information & Media Literacy** | 7–8 | Search strategy, evaluating results, Wikipedia exploration, and understanding sources |
-| **Coding & Problem Solving** | 9–11 | Coding concepts, Scratch programming, debugging |
-| **How Things Work** | 12 | Digital and physical systems |
-| **AI Literacy** | 13–14 | Understanding generative AI and using it creatively |
-| **Creative Project Work** | 15–18 | Designing, building, and presenting a final project |
+| **Digital Foundations** | 1–4 | Internet basics, computers as systems, files & folders, typing |
+| **Creative Tools & Research** | 5–8 | Writing, drawing, searching, evaluating sources |
+| **Coding & Logic** | 9–11 | Programming concepts, Scratch, debugging |
+| **Systems & AI** | 12–14 | How systems work, intro to AI, critical thinking |
+| **Final Project** | 15–18 | Planning, building, revising, presenting |
 
 ### Optional Extension
 
@@ -188,7 +191,7 @@ Students begin applying what they discovered during the first session by compari
 
 ---
 
-### Independent Session (≈30 minutes)
+### Independent Session (≈20 minutes)
 
 A guided exploration session where the student practices skills or creates something new.
 
@@ -236,10 +239,16 @@ Use the sidebar to navigate through the lessons.
 
 **Additional resources for facilitators:**
 
+- [Curriculum at a Glance](./curriculum-at-a-glance.md) — one-page week-by-week summary
+- [Competency Map](./competency-map.md) — what learners should be able to do at each stage
+- [Facilitator Toolkit](./facilitator-toolkit.md) — checklists, templates, and planning tools
+- [Glossary](./glossary.md) — key vocabulary for the curriculum
 - [Assessment & Progress](./assessment-and-progress.md) — observation-based tracking and portfolio ideas
 - [Adaptations & Accessibility](./adaptations-and-accessibility.md) — tips for different learners and settings
+- [Digital Habits & Safety Reference](./digital-habits-and-safety.md) — quick-reference safety guide
 - [Tool Alternatives](./tool-alternatives.md) — flexible software options for any platform
-- [Final Project Rubric](./final-project-rubric.md) — evaluation guide for the capstone project
+- [Everyday Productivity Extensions](./everyday-productivity-extensions.md) — optional activities for slide decks, tables, and digital messages
+- [Final Project Rubric](./final-project-rubric.md) — evaluation guide for the final project
 
 ---
 

@@ -72,6 +72,9 @@ Before the learner searches on their own, remind them of these habits:
 - **Stick to kid-friendly search engines** (like Kiddle) or use SafeSearch on Google.
 - **Check who made the website** — results from schools, museums, and well-known organizations are usually more reliable.
 - **If a page asks for personal information** (name, age, address), close it and tell an adult right away.
+- **Watch for ads disguised as results** — some search results have a small "Ad" label. Those are paid placements, not necessarily the best answers.
+
+For a full quick-reference on staying safe online, see [Digital Habits & Safety](./digital-habits-and-safety.md).
 :::
 
 :::tip Teaching Mindset
@@ -155,6 +158,44 @@ Ask the student:
 - Which words made the search better?
 
 Explain that search works better when we ask a **clear question**.
+
+---
+
+**4. Ads, Clickbait, and Tricks on Search Pages**
+
+This is an important part of becoming an internet detective.
+
+Explain that search results pages often include things that are **not real answers**:
+
+- **Ads**: Some results at the top or side have a small "Ad" or "Sponsored" label. These are paid by companies to appear first. They may or may not be helpful.
+- **Clickbait titles**: Headlines like "You won't BELIEVE what happened!" are designed to get your click, not to teach you something.
+- **Fake download buttons**: Some websites show big "Download" or "Play" buttons that are actually ads leading somewhere else entirely.
+
+Demonstrate by scrolling through a real search results page together. Point to:
+
+- The small "Ad" label on sponsored results
+- The difference between a normal result title and a clickbait-style title
+
+Ask the student:
+
+> "If you saw a result that said 'Click Here for FREE Dog Facts!!!' and another that said 'Why Dogs Wag Their Tails — National Geographic Kids,' which would you trust more? Why?"
+
+The key message:
+
+> "Good searchers slow down and look at the results before clicking. Not everything on the results page is trying to help you learn."
+
+---
+
+**5. Opening Links in a New Tab**
+
+Show the student a useful browser skill:
+
+- **Right-click a link → Open in new tab**: This lets you keep the search results page open while you read a result in a new tab.
+- On some computers, **Ctrl+click** does the same thing.
+
+Explain why this is useful:
+
+> "If the page you open isn't helpful, you can close that tab and go back to your results without searching again."
 
 ---
 
@@ -285,12 +326,12 @@ Save anything you create in your **My Projects** folder.
 
 ## 🔄 Simplify or Extend
 
-**To simplify (younger or struggling learners):**
+**To simplify:**
 - Search together side by side — the adult types while the learner suggests keywords.
 - Limit the session to one search topic and two searches (broad vs. specific).
 - Use a kid-friendly search engine like Kiddle that shows visual results.
 
-**To extend (older or advanced learners):**
+**To extend:**
 - Ask the learner to compare the same search on two different search engines and note differences.
 - Introduce the idea of checking the date of a result to see how recent the information is.
 - Have them create a mini “Fact Sheet” with three facts, each listing where they found the information.
@@ -312,4 +353,12 @@ Look for these signs that the learner is making progress:
 - They looked at more than one result before deciding which to open.
 - They can explain why one result seemed more useful than another.
 - They noticed that not all search results are equally helpful or reliable.
+- They can identify at least one ad, clickbait headline, or suspicious result on a search page and explain why they would skip it.
 - They recorded at least one fact or discovery from their search.
+
+---
+
+:::tip Vocabulary This Week
+**Search engine** • **Keywords** • **Search results** • **Ad / Sponsored result** • **Clickbait** • **Tab (browser)** • **Algorithm** • **Source**  
+See the [Glossary](./glossary.md) for definitions.
+:::

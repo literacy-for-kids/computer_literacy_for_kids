@@ -298,13 +298,7 @@ My Projects → Experiments
 
 ---
 
-## 💾 Save This Week's Artifact
-
-Save your system diagram or written description to your portfolio folder (**My Projects → Experiments**). This is your record of how you analyzed a real system — label it with the system you chose and the date.
-
----
-
-## 🔄 Simplify or Extend
+## � Simplify or Extend
 
 **Simplify:**
 - Focus on just one system (like a bicycle) and identify only 3–4 major parts.
@@ -318,6 +312,12 @@ Save your system diagram or written description to your portfolio folder (**My P
 
 ---
 
+## 💾 Save This Week's Artifact
+
+Save your system diagram or written description to your portfolio folder (**My Projects → Experiments**). This is your record of how you analyzed a real system — label it with the system you chose and the date.
+
+---
+
 ## ✅ Success Indicators
 
 By the end of this week, look for evidence that the learner can:
@@ -328,3 +328,10 @@ By the end of this week, look for evidence that the learner can:
 - Explain what would happen if one part of a system were removed or broken.
 - Recognize that both physical things (bicycles) and digital things (Scratch projects) are systems.
 - Use the word "system" meaningfully when describing how something works.
+
+---
+
+:::tip Vocabulary This Week
+**System** • **Part / Component** • **Sensor** • **Motor** • **Diagram** • **Flow** • **Interaction** • **Engineer**  
+See the [Glossary](./glossary.md) for definitions.
+:::

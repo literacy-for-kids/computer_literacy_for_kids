@@ -116,6 +116,29 @@ List examples together:
 
 Explain that the final project can be **anything creative** that uses the computer.
 
+:::tip Project Pathway Ideas
+Not sure which direction to go? Here are some project types that work well:
+
+- **Scratch Animation or Game** — Make a sprite move, tell a story, or respond to key presses. Good for learners who enjoyed Weeks 10–11.
+- **Illustrated Story** — Write a short story and add drawings. Good for learners who enjoyed Weeks 5–6.
+- **Fact Page or Guide** — Research a topic and present it as a mini-website page, poster, or slide deck. Good for learners who enjoyed Weeks 7–8.
+- **Invention Design** — Draw and describe an imaginary machine, robot, or tool. Good for learners who enjoyed Week 12.
+- **AI-Assisted Creation** — Use AI to help brainstorm ideas, then build and refine the project with your own creative choices. Good for learners who enjoyed Weeks 13–14.
+- **Combination** — Mix types! A Scratch animation with a written backstory, or a fact page with original illustrations.
+
+Any of these pathways is valid. The important thing is that the learner is **interested in the idea and can explain their choices**.
+:::
+
+:::note Scope Guidance
+A good final project is **focused and completable in 3–4 sessions**. Help the learner pick a scope that feels challenging but achievable:
+
+- **Just right**: A Scratch animation with 2–3 sprites and a short story. A 1-page illustrated guide about an animal. A drawing series with 3–4 panels.
+- **Too small**: A single drawing with no explanation. A one-sentence story.
+- **Too big**: A full video game with multiple levels. A 10-page research paper. A complete website.
+
+If the idea is too big, help the student pick **one part** of it to build well. They can always expand later.
+:::
+
 ---
 
 **2. Brainstorm Project Ideas**
@@ -350,11 +373,25 @@ Save the **project plan document** and the **first version (v1)** of the project
 
 ## ✅ Success Indicators
 
-By the end of this week, the student has:
+By the end of this week, look for signs that the learner can:
 
-- ✅ Brainstormed multiple project ideas and explained why they chose one
-- ✅ Created a written or visual project plan that breaks the idea into smaller parts
-- ✅ Started building the first version (prototype) of the project
-- ✅ Saved the first version with a clear file name (e.g., `ProjectName_v1`)
-- ✅ Identified at least one problem encountered and described how they responded
-- ✅ Connected the project to skills learned earlier in the course
+- Brainstorm multiple project ideas and explain why they chose one
+- Create a written or visual project plan that breaks the idea into smaller parts
+- Start building the first version (prototype) of the project
+- Save the first version with a clear file name (e.g., `ProjectName_v1`)
+- Identify at least one problem encountered and describe how they responded
+- Connect the project to skills learned earlier in the course
+
+---
+
+:::tip Vocabulary This Week
+**Project** • **Prototype** • **Iteration** • **Version** • **Plan** • **Creator**  
+See the [Glossary](./glossary.md) for definitions.
+:::
+
+:::info Cross-References
+- Use the [Portfolio Tracker](./portfolio-tracker.md) to record project milestones.
+- Review the [Troubleshooting Routine](./troubleshooting-routine.md) when you get stuck.
+- Check your [Competency Map](./competency-map.md) progress — this project draws on skills from every stage.
+- See the [Final Project Rubric](./final-project-rubric.md) for how the project will be evaluated.
+:::

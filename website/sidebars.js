@@ -8,16 +8,31 @@ const sidebars = {
     'intro',
     'how-to-use-this-curriculum',
     'curriculum-master',
+    'curriculum-at-a-glance',
     {
       type: 'category',
       label: 'Educator Resources',
-      description: 'Assessment, adaptations, tool alternatives, and project rubric',
+      description: 'Assessment, adaptations, tool alternatives, planning tools, and project rubric',
       collapsed: true,
       items: [
+        'competency-map',
         'assessment-and-progress',
         'adaptations-and-accessibility',
         'final-project-rubric',
+        'facilitator-toolkit',
+        'portfolio-tracker',
         'tool-alternatives',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Reference & Safety',
+      description: 'Glossary, safety guide, and troubleshooting routine for learners and facilitators',
+      collapsed: true,
+      items: [
+        'glossary',
+        'digital-habits-and-safety',
+        'troubleshooting-routine',
       ],
     },
     {
@@ -62,8 +77,8 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Technology & AI',
-      description: 'Weeks 12–14: How technology works and AI exploration',
+      label: 'Systems & AI',
+      description: 'Weeks 12–14: How systems work and AI exploration',
       items: [
         'week12-week-12-how-things-are-built',
         'week13-week-13-AI-discovery-lab',
@@ -88,6 +103,14 @@ const sidebars = {
       items: [
         'week-CAD-1-shape-builders',
         'week-CAD-2-from-screen-to-real-objects',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Optional: Everyday Productivity',
+      description: 'Extension activities: slide decks, tables, digital messages, and more',
+      items: [
+        'everyday-productivity-extensions',
       ],
     },
     'license',

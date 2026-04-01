@@ -233,6 +233,30 @@ Explain:
 
 ---
 
+**4. Polished Does Not Mean True**
+
+Introduce an important idea for young internet users:
+
+> "Just because something looks professional or polished doesn't mean it is true."
+
+Explain:
+
+- A website can look clean and well-designed but still contain wrong or misleading information.
+- A video can have music and graphics but still make false claims.
+- An image can be edited, cropped, or taken out of context.
+
+Ask the student:
+
+> "If you saw a really pretty website that said dogs can fly, would you believe it? Why or why not?"
+
+The goal is not to make learners suspicious of everything. The goal is to build the habit of **checking before trusting** — especially when something seems too dramatic, too perfect, or too good to be true.
+
+This connects to what they learned in Week 7 about ads and clickbait. The same principle applies to entire websites and articles: **look for evidence, not just appearance**.
+
+For more on recognizing online tricks, see [Digital Habits & Safety](./digital-habits-and-safety.md).
+
+---
+
 #### Reflection Questions
 - “What did the references help you infer about where the information came from?”
 - “How would you decide whether to keep reading the article or open one of its sources next?”
@@ -328,3 +352,11 @@ Look for these signs that the learner is making progress:
 - They understand that Wikipedia is written by many people and can be edited.
 - They noticed references at the bottom of an article and can explain why sources matter.
 - They recorded their exploration path or wrote a short summary of what they discovered.
+- They can describe why a polished-looking website still needs to be checked for accuracy.
+
+---
+
+:::tip Vocabulary This Week
+**Wikipedia** • **Article** • **Reference / Source** • **Hyperlink** • **Summary** • **Heading / Section** • **Evidence** • **Verify**  
+See the [Glossary](./glossary.md) for definitions.
+:::

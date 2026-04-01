@@ -211,7 +211,31 @@ If using WordPad or Google Docs, experiment with:
 - color
 
 Explain these are ways to **format text**.
+---
 
+**2a. Keyboard Shortcuts for Editing**
+
+Now that the student can select text, introduce three powerful shortcuts:
+
+| Shortcut | What It Does |
+|---|---|
+| **Ctrl+C** | Copy — remembers the selected text |
+| **Ctrl+X** | Cut — removes the selected text but remembers it |
+| **Ctrl+V** | Paste — puts the remembered text wherever the cursor is |
+| **Ctrl+Z** | Undo — takes back the last thing you did |
+
+Let the student try each one:
+
+1. Type a sentence.
+2. Select a word, press **Ctrl+C** to copy it.
+3. Click somewhere else, press **Ctrl+V** to paste it.
+4. Try **Ctrl+Z** to undo.
+
+Explain:
+
+> "These shortcuts work in almost every app. Once you learn them, you'll use them forever."
+
+Remind them that **Ctrl+S** (from Week 4) saves their work. Encourage them to press Ctrl+S after each paragraph.
 ---
 
 **3. Expand the Writing**
@@ -295,14 +319,14 @@ My Projects → Stories
 
 ## 🔄 Simplify or Extend
 
-**To simplify (younger or struggling learners):**
+**To simplify:**
 - Let the learner dictate their ideas while the adult types, then have them try typing one sentence on their own.
 - Use a larger font size so the text is easier to see and track.
 - Limit the writing to just one or two sentences instead of a full paragraph.
 
-**To extend (older or advanced learners):**
+**To extend:**
 - Challenge the learner to write a full paragraph with a beginning, middle, and end.
-- Introduce copy and paste (Ctrl+C / Ctrl+V) to rearrange sentences.
+- Have them practice rearranging sentences using **Ctrl+X** (cut) and **Ctrl+V** (paste) to improve the flow of their writing.
 - Ask them to write for a specific audience, such as a younger sibling or a friend, and explain their choices.
 
 ---
@@ -323,3 +347,11 @@ Look for these signs that the learner is making progress:
 - They made at least one edit or revision to improve their writing.
 - They saved their document to the correct folder with a meaningful file name.
 - They can explain what they wrote and why they made changes.
+- They used at least one keyboard shortcut (Ctrl+C, Ctrl+V, Ctrl+Z, or Ctrl+S) during their work.
+
+---
+
+:::tip Vocabulary This Week
+**Cursor** • **Select (highlight)** • **Copy (Ctrl+C)** • **Cut (Ctrl+X)** • **Paste (Ctrl+V)** • **Undo (Ctrl+Z)** • **Format** • **Draft / Revision**  
+See the [Glossary](./glossary.md) for definitions.
+:::

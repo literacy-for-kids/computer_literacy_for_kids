@@ -282,12 +282,6 @@ My Projects → Experiments
 
 ---
 
-## 💾 Save This Week’s Artifact
-
-Save your AI-assisted creation to your portfolio folder (**My Projects → Experiments**). Include brief notes about what the AI generated, what you changed or improved, and why. This shows your creative ownership — the AI helped, but you made the final decisions.
-
----
-
 ## 🔄 Simplify or Extend
 
 **Simplify:**
@@ -302,6 +296,12 @@ Save your AI-assisted creation to your portfolio folder (**My Projects → Exper
 
 ---
 
+## 💾 Save This Week’s Artifact
+
+Save your AI-assisted creation to your portfolio folder (**My Projects → Experiments**). Include brief notes about what the AI generated, what you changed or improved, and why. This shows your creative ownership — the AI helped, but you made the final decisions.
+
+---
+
 ## ✅ Success Indicators
 
 By the end of this week, look for evidence that the learner can:
@@ -312,3 +312,10 @@ By the end of this week, look for evidence that the learner can:
 - Show creative ownership — the final artifact reflects their choices, not just the AI’s output.
 - Describe how iterating (trying, improving, trying again) leads to better results.
 - Talk about AI as a helpful tool while understanding it is not an authority or a replacement for their own thinking.
+
+---
+
+:::tip Vocabulary This Week
+**Prompt Refinement** • **Iteration** • **Creative Ownership** • **AI-Assisted** • **Revision** • **Collaboration**  
+See the [Glossary](./glossary.md) for definitions.
+:::

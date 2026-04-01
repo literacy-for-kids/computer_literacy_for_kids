@@ -126,10 +126,34 @@ Then show the **Save As** process.
 
 Explain:
 
-- the file needs a **name**
-- the file needs a **place to live**
+- the file needs a **name** — choose something descriptive so you can find it later (e.g., "fun dog facts" is better than "stuff")
+- the file needs a **place to live** — we will pick a folder
+
+Tips for good file names:
+
+- Use words that describe what is inside
+- Keep it short but clear
+- Avoid names like "asdfg" or "untitled"
 
 Save the file somewhere easy to find.
+
+---
+
+**3a. What Kind of File Is This?**
+
+After saving, point to the file in File Explorer.
+
+Explain that different apps create **different kinds of files**:
+
+- Notepad creates **.txt** files (plain text)
+- Paint creates **.png** or **.bmp** files (images)
+- Word processors create **.docx** files (formatted writing)
+
+You can often tell what a file is by the little letters after its name.
+
+Say:
+
+> "These letters are called a **file extension**. They tell the computer which app should open the file."
 
 ---
 
@@ -249,8 +273,13 @@ Then save it in:
 
 My Projects → Drawings
 
+Use Save As, give the file a clear name (e.g., "silly creature" rather than "drawing1"), and choose the destination folder together.
 
 Open File Explorer and confirm the drawing appears there.
+
+:::note Quick Troubleshooting
+If the file doesn't seem to appear, use the [Troubleshooting Routine](./troubleshooting-routine.md): Stop → Think Back → Try One Small Thing (check the folder path, check the file name). This is a normal and common situation, not a mistake.
+:::
 
 ---
 
@@ -321,7 +350,15 @@ By the end of this week, look for whether the learner can:
 
 - Create a new folder and give it a meaningful name without help
 - Save a file using Save As and choose both a file name and a destination folder
+- Give files descriptive names that reflect their content
 - Close a file completely, then find and reopen it from File Explorer
 - Explain in their own words why saving digital work matters
 - Navigate their folder structure to locate a specific file
 - Describe the difference between a file and a folder
+
+---
+
+:::tip Vocabulary This Week
+**File** • **Folder** • **Save** • **Save As** • **File name** • **File extension** (.txt, .png) • **File Explorer / Finder** • **Navigate**  
+See the [Glossary](./glossary.md) for definitions.
+:::
