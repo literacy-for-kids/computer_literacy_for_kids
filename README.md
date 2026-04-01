@@ -7,7 +7,7 @@
 A curiosity-driven **18-week computer literacy curriculum** that helps young learners explore computers as tools for **thinking, creating, and solving problems.**
 
 🌐 **View the curriculum website:**  
-https://zcohen-nerd.github.io/computer_literacy_for_kids/
+https://literacy-for-kids.github.io/computer_literacy_for_kids/
 
 ---
 
