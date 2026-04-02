@@ -13,7 +13,7 @@ https://literacy-for-kids.github.io/computer_literacy_for_kids/
 
 # About the Curriculum
 
-This project provides an **18-week introduction to computing** designed for young learners (roughly ages 7-11, with adult guidance as needed).
+This project provides an **18-week introduction to computing** designed for young learners (roughly ages 8-12, with adult guidance as needed).
 
 Instead of focusing on memorizing software steps, the curriculum helps students develop **mental models for how computers work** and how to **figure things out independently**.
 
