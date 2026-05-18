@@ -1,10 +1,8 @@
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
-import ecosystemLinks from 'literacy-site-theme/ecosystemLinks';
+import {hub, curricula} from 'literacy-site-theme/ecosystem';
 import styles from './styles.module.css';
-
-const [hub, ...curricula] = ecosystemLinks;
 
 const features = [
   {
