@@ -7,7 +7,9 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
+const ecosystemLinks = require('literacy-site-theme/ecosystemLinks');
 const footerConfig = require('literacy-site-theme/footerConfig');
+const [hub, ...curricula] = ecosystemLinks;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -78,26 +80,11 @@ const config = {
             label: 'Literacy for Kids',
             position: 'left',
             items: [
-              {
-                label: 'Decision',
-                href: 'https://literacy-for-kids.github.io/decision_literacy_for_kids/',
-              },
-              {
-                label: 'Computer',
-                href: 'https://literacy-for-kids.github.io/computer_literacy_for_kids/',
-              },
-              {
-                label: 'Media',
-                href: 'https://literacy-for-kids.github.io/media_literacy_for_kids/',
-              },
-              {
-                label: 'Financial',
-                href: 'https://literacy-for-kids.github.io/financial_literacy_for_kids/',
-              },
-              {
-                label: 'Civic',
-                href: 'https://literacy-for-kids.github.io/civic_literacy_for_kids/',
-              },
+              {label: 'Hub', href: hub.href},
+              ...curricula.map((curriculum) => ({
+                label: curriculum.label.replace(' Literacy', ''),
+                href: curriculum.href,
+              })),
             ],
           },
           {

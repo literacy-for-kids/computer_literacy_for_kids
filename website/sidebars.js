@@ -1,6 +1,10 @@
 // @ts-check
 
-import {literacyCurricula, literacyHub} from './src/data/literacyLinks.js';
+import {createRequire} from 'module';
+
+const require = createRequire(import.meta.url);
+const ecosystemLinks = require('literacy-site-theme/ecosystemLinks');
+const [hub, ...curricula] = ecosystemLinks;
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
@@ -120,14 +124,16 @@ const sidebars = {
       items: [
         {
           type: 'link',
-          label: literacyHub.label,
-          href: literacyHub.href,
+          label: hub.label,
+          href: hub.href,
         },
-        ...literacyCurricula.map(({label, href}) => ({
-          type: 'link',
-          label,
-          href,
-        })),
+        ...curricula
+          .filter(({href}) => href !== 'https://literacy-for-kids.github.io/computer_literacy_for_kids/')
+          .map(({label, href}) => ({
+            type: 'link',
+            label,
+            href,
+          })),
       ],
     },
   ],

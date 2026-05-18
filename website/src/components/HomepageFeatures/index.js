@@ -1,8 +1,10 @@
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
-import {literacyCurricula, literacyHub} from '@site/src/data/literacyLinks';
+import ecosystemLinks from 'literacy-site-theme/ecosystemLinks';
 import styles from './styles.module.css';
+
+const [literacyHub, ...literacyCurricula] = ecosystemLinks;
 
 const features = [
   {
@@ -131,8 +133,8 @@ export default function HomepageFeatures() {
           </p>
           <div className={styles.cardGrid}>
             {literacyCurricula.map((literacy) => (
-              <article key={literacy.title} className={styles.card}>
-                <Heading as="h4">{literacy.title}</Heading>
+              <article key={literacy.href} className={styles.card}>
+                <Heading as="h4">{literacy.label}</Heading>
                 <p>{literacy.description}</p>
                 <Link className={styles.inlineLink} to={literacy.href}>
                   Visit curriculum
