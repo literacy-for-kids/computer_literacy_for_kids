@@ -7,7 +7,7 @@ const sidebars = {
   curriculumSidebar: [
     'intro',
     'how-to-use-this-curriculum',
-    'curriculum-master',
+    'curriculum-overview',
     'curriculum-at-a-glance',
     {
       type: 'category',

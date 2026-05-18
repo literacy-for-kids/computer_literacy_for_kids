@@ -1,5 +1,5 @@
 ---
-id: curriculum-master
+id: curriculum-overview
 slug: /curriculum-overview
 title: 18-Week Computer Literacy Curriculum
 description: >
