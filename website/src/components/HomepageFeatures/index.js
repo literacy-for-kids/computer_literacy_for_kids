@@ -1,8 +1,10 @@
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
-import {literacyCurricula, literacyHub} from '@site/src/data/literacyLinks';
+import ecosystemLinks from 'literacy-site-theme/ecosystemLinks';
 import styles from './styles.module.css';
+
+const [hub, ...curricula] = ecosystemLinks;
 
 const features = [
   {
@@ -119,20 +121,20 @@ export default function HomepageFeatures() {
 
       <section className={styles.sectionAlt}>
         <div className="container">
-          <Heading as="h2">Part of the Literacy for Kids Ecosystem</Heading>
-          <p className={styles.sectionLead}>
-            This curriculum is part of{' '}
-            <Link to={literacyHub.href}>Literacy for Kids</Link>, a collection
-            of open-source curricula designed to help children ages 8–12
-            understand the systems that shape the modern world.
-          </p>
+            <Heading as="h2">Part of the Literacy for Kids Ecosystem</Heading>
+            <p className={styles.sectionLead}>
+              This curriculum is part of{' '}
+              <Link to={hub.href}>Literacy for Kids</Link>, a collection
+              of open-source curricula designed to help children ages 8–12
+              understand the systems that shape the modern world.
+            </p>
           <p className={styles.sectionLead}>
             Each curriculum explores a foundational literacy:
           </p>
           <div className={styles.cardGrid}>
-            {literacyCurricula.map((literacy) => (
-              <article key={literacy.title} className={styles.card}>
-                <Heading as="h4">{literacy.title}</Heading>
+            {curricula.map((literacy) => (
+              <article key={literacy.label} className={styles.card}>
+                <Heading as="h4">{literacy.label}</Heading>
                 <p>{literacy.description}</p>
                 <Link className={styles.inlineLink} to={literacy.href}>
                   Visit curriculum
@@ -141,7 +143,7 @@ export default function HomepageFeatures() {
             ))}
           </div>
           <p className={styles.hubLink}>
-            <Link to={literacyHub.href}>
+            <Link to={hub.href}>
               ➡ Visit the Literacy for Kids Hub
             </Link>
           </p>
