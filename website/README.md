@@ -7,7 +7,7 @@ This website contains a comprehensive 18-week Computer Literacy Curriculum desig
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (version 18.0 or above)
+- [Node.js](https://nodejs.org/) (version 20.0 or above)
 - npm (comes with Node.js)
 
 ### Local Development
