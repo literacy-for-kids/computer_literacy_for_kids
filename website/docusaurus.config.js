@@ -10,6 +10,7 @@ const require = createRequire(import.meta.url);
 const ecosystemLinks = require('literacy-site-theme/ecosystemLinks');
 const footerConfig = require('literacy-site-theme/footerConfig');
 const [hub, ...curricula] = ecosystemLinks;
+const shortenCurriculumLabel = (label) => label.replace(/ Literacy$/, '');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -82,7 +83,7 @@ const config = {
             items: [
               {label: 'Hub', href: hub.href},
               ...curricula.map((curriculum) => ({
-                label: curriculum.label.replace(' Literacy', ''),
+                label: shortenCurriculumLabel(curriculum.label),
                 href: curriculum.href,
               })),
             ],

@@ -5,6 +5,7 @@ import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
 const ecosystemLinks = require('literacy-site-theme/ecosystemLinks');
 const [hub, ...curricula] = ecosystemLinks;
+const currentSiteHref = 'https://literacy-for-kids.github.io/computer_literacy_for_kids/';
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
@@ -128,7 +129,7 @@ const sidebars = {
           href: hub.href,
         },
         ...curricula
-          .filter(({href}) => href !== 'https://literacy-for-kids.github.io/computer_literacy_for_kids/')
+          .filter(({href}) => href !== currentSiteHref)
           .map(({label, href}) => ({
             type: 'link',
             label,
