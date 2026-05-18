@@ -133,7 +133,7 @@ export default function HomepageFeatures() {
           </p>
           <div className={styles.cardGrid}>
             {curricula.map((literacy) => (
-              <article key={literacy.href} className={styles.card}>
+              <article key={literacy.label} className={styles.card}>
                 <Heading as="h4">{literacy.label}</Heading>
                 <p>{literacy.description}</p>
                 <Link className={styles.inlineLink} to={literacy.href}>
