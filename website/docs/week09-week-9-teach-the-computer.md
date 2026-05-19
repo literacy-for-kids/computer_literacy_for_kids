@@ -5,7 +5,7 @@ title: "Week 9: Teach the Computer to Follow Instructions"
 description: "Introduction to simple coding ideas like instructions, sequences, and cause-and-effect."
 ---
 
-# Week 9: Teach the Computer to Follow Instructions  
+# Week 9: Teach the Computer to Follow Instructions
 *Introduction to Simple Coding Concepts*
 
 Up to this point you’ve been **using tools on the computer**.

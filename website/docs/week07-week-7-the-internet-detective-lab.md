@@ -5,7 +5,7 @@ title: "Week 7: The Internet Detective Lab"
 description: "Learn how to search for information online, ask better questions, and understand what search results are showing you."
 ---
 
-# Week 7: The Internet Detective Lab  
+# Week 7: The Internet Detective Lab
 *Searching, Better Questions, and Search Results*
 
 So far we have learned how to:

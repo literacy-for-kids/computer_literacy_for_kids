@@ -5,7 +5,7 @@ title: "Week 3: The Digital Treasure Chest"
 description: "Learn how files and folders work and understand that digital creations can be saved, organized, and returned to later."
 ---
 
-# Week 3: The Digital Treasure Chest  
+# Week 3: The Digital Treasure Chest
 *Files, Folders, and Digital Ownership*
 
 Last week we learned that computers respond to **inputs**.

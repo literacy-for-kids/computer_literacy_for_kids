@@ -5,7 +5,7 @@ title: "Week 2: The Computer Control Room"
 description: "Discover how computers respond to inputs, explore windows and apps, and begin thinking about computers as systems."
 ---
 
-# Week 2: The Computer Control Room  
+# Week 2: The Computer Control Room
 *Computers as Systems (Inputs, Actions, Windows, Apps)*
 
 Last week we explored the internet as a giant network of people and information.

@@ -5,7 +5,7 @@ title: "Week 10: Build Your First Program"
 description: "Use Scratch to create simple programs by connecting blocks of instructions."
 ---
 
-# Week 10: Build Your First Program  
+# Week 10: Build Your First Program
 *Scratch or Block-Based Programming*
 
 Last week we learned that computers follow **instructions step by step**.

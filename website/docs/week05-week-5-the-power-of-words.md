@@ -5,7 +5,7 @@ title: "Week 5: The Power of Words"
 description: "Learn how computers help us communicate ideas through writing, messages, and simple digital documents."
 ---
 
-# Week 5: The Power of Words  
+# Week 5: The Power of Words
 *Communicating with Text*
 
 Last week we trained our **Keyboard Ninja skills**.

@@ -5,7 +5,7 @@ title: "Week 16: Build and Improve"
 description: "Continue developing the final project by improving ideas, fixing problems, and adding new features."
 ---
 
-# Week 16: Build and Improve  
+# Week 16: Build and Improve
 *Digital Project Work — Phase 2*
 
 Last week you began your **final project**.

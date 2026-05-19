@@ -6,7 +6,7 @@ description: "Introduction to the internet as a network of people and ideas, and
 slug: /week1
 ---
 
-# Week 1: Internet Playground  
+# Week 1: Internet Playground
 *Internet Basics & Digital Citizenship*
 
 In our first week, we explore a big idea:

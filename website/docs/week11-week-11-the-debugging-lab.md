@@ -5,7 +5,7 @@ title: "Week 11: The Debugging Lab"
 description: "Learn how programmers solve problems when code doesn't work the way they expect."
 ---
 
-# Week 11: The Debugging Lab  
+# Week 11: The Debugging Lab
 *Digital Problem Solving*
 
 Last week you wrote your **first real programs** using Scratch.

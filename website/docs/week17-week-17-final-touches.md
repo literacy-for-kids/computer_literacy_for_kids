@@ -5,7 +5,7 @@ title: "Week 17: Final Touches"
 description: "Refine the final project, polish the details, and prepare to present it to others."
 ---
 
-# Week 17: Final Touches  
+# Week 17: Final Touches
 *Final Project Development — Phase 3*
 
 Over the past two weeks you have been building your **final project**.
