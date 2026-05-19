@@ -38,7 +38,7 @@ This week is about making your project **clear, complete, and ready to show**.
 
 
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -52,7 +52,7 @@ This week is about making your project **clear, complete, and ready to show**.
 - [Setup Notes](#setup)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 :::info Before You Begin
 - **Time:** Each guided session runs about 30–45 minutes. The independent session is 20–30 minutes.
 - **Device:** One computer or tablet per learner with keyboard and mouse/trackpad.

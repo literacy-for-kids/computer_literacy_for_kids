@@ -43,7 +43,7 @@ This week you will learn how to **collaborate with AI**.
 All AI interactions for ages 8–12 should be supervised by an adult. Do not let learners share personal information with AI tools. Remind learners that AI can sound confident and still be wrong — always check important facts with a trusted source. AI outputs should be reviewed by a human before being trusted or shared.
 :::
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -57,7 +57,7 @@ All AI interactions for ages 8–12 should be supervised by an adult. Do not let
 - [Setup Notes](#setup)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** ~30–45 minutes per guided session; ~20–30 minutes for the independent session.
 - **Devices needed:** A computer or tablet with internet access.

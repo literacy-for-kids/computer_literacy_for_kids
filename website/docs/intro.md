@@ -20,7 +20,7 @@ For learners who are interested, the curriculum also includes **optional 3D desi
 
 ![Visual roadmap of the 18-week Computer Literacy for Kids curriculum](/img/roadmap.png)
 
-This visual roadmap gives facilitators and caregivers a quick big-picture view of how the curriculum progresses from digital foundations into creative project work.
+This visual roadmap gives facilitators and facilitators a quick big-picture view of how the curriculum progresses from digital foundations into creative project work.
 
 ---
 
@@ -36,7 +36,7 @@ This visual roadmap gives facilitators and caregivers a quick big-picture view o
 
 :::info For Caregivers and Facilitators
 - You do not need to read the full site in order. Start here, then move into the current week you are teaching.
-- Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, facilitate one session at a time, and come back later for the rest.
+- Each weekly page is designed to be skimmed quickly: review the facilitator snapshot, facilitate one session at a time, and come back later for the rest.
 - This curriculum works in classrooms, homeschool settings, libraries, and after-school programs — anywhere an adult can guide a young learner through hands-on exploration.
 - Use this page when you want the big-picture philosophy, not when you need minute-by-minute session directions.
 - For setup guidance, see [How to Use This Curriculum](./how-to-use-this-curriculum.md). For checklists and templates, see the [Facilitator Toolkit](./facilitator-toolkit.md).
