@@ -69,6 +69,10 @@ const config = {
       image: 'img/hero-image.png',
       navbar: {
         title: 'Computer Literacy for Kids',
+        logo: {
+          alt: 'Computer Literacy Logo',
+          src: 'img/logo.svg',
+        },
         items: [
           {
             type: 'docSidebar',
