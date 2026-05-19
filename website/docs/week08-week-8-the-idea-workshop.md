@@ -49,7 +49,7 @@ Curious learners ask questions like:
 
 
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -65,7 +65,7 @@ Curious learners ask questions like:
 - [Setup Notes](#setup)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session.
 - **Device needed:** any computer or tablet with a browser and internet access.
