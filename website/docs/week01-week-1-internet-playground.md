@@ -3,6 +3,7 @@ sidebar_position: 1
 sidebar_label: "Week 1: Internet Playground"
 title: "Week 1: Internet Playground"
 description: "Introduction to the internet as a network of people and ideas, and how to explore it safely and thoughtfully."
+slug: /week1
 ---
 
 # Week 1: Internet Playground  
