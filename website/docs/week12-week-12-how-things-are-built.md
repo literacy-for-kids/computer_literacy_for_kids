@@ -5,7 +5,7 @@ title: "Week 12: How Things Are Built"
 description: "Explore how complex systems are made from smaller parts and how digital and physical systems work together."
 ---
 
-# Week 12: How Things Are Built  
+# Week 12: How Things Are Built
 *Digital + Physical Systems*
 
 So far in this course you have learned how to:

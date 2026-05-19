@@ -5,7 +5,7 @@ title: "Week 6: The Digital Art Studio"
 description: "Explore how images communicate ideas and learn to create digital drawings using simple art tools."
 ---
 
-# Week 6: The Digital Art Studio  
+# Week 6: The Digital Art Studio
 *Communicating with Images*
 
 Last week we explored how computers help us communicate using **words**.

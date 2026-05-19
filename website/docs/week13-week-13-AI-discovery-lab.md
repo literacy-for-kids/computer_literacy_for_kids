@@ -5,7 +5,7 @@ title: "Week 13: The AI Discovery Lab"
 description: "Discover what generative AI is, how it works at a basic level, and why it is a powerful but imperfect tool."
 ---
 
-# Week 13: The AI Discovery Lab  
+# Week 13: The AI Discovery Lab
 *Introduction to Generative AI*
 
 Throughout this course you have learned how to:

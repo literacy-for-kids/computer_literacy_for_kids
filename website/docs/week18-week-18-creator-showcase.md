@@ -5,7 +5,7 @@ title: "Week 18: Creator Showcase"
 description: "Present the final project, explain how it works, and reflect on everything learned during the course."
 ---
 
-# Week 18: Creator Showcase  
+# Week 18: Creator Showcase
 *Final Project Presentation & Reflection*
 
 You have reached the final week of the course.

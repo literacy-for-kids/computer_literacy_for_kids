@@ -5,7 +5,7 @@ title: "Week 8: The Idea Workshop"
 description: "Explore Wikipedia, understand how articles connect to sources, and practice evaluating information online."
 ---
 
-# Week 8: The Idea Workshop  
+# Week 8: The Idea Workshop
 *Exploring Wikipedia and Understanding Sources*
 
 Over the past several weeks you have learned how to:

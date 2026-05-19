@@ -5,7 +5,7 @@ title: "Week 14: AI as a Creative Partner"
 description: "Learn how to collaborate with AI tools to generate ideas, improve projects, and explore creativity while staying in control of the thinking."
 ---
 
-# Week 14: AI as a Creative Partner  
+# Week 14: AI as a Creative Partner
 *Using AI as a Creative Tool*
 
 Last week we discovered something important:

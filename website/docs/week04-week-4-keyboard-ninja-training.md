@@ -5,7 +5,7 @@ title: "Week 4: Keyboard Ninja Training"
 description: "Learn how typing works, develop comfortable keyboard habits, and begin building speed and accuracy through exploration."
 ---
 
-# Week 4: Keyboard Ninja Training  
+# Week 4: Keyboard Ninja Training
 *Touch Typing Foundations*
 
 So far we’ve learned:

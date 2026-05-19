@@ -5,7 +5,7 @@ title: "Week 15: Invent Something Cool"
 description: "Begin the final project by choosing an idea, planning it carefully, and starting the first version."
 ---
 
-# Week 15: Invent Something Cool  
+# Week 15: Invent Something Cool
 *Digital Project Work — Phase 1*
 
 Throughout this course you have learned many important skills:
