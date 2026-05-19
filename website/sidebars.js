@@ -3,8 +3,7 @@
 import {createRequire} from 'module';
 
 const require = createRequire(import.meta.url);
-const ecosystemLinks = require('literacy-site-theme/ecosystemLinks');
-const [hub, ...curricula] = ecosystemLinks;
+const {hub, curricula} = require('literacy-site-theme/ecosystem');
 const currentSiteHref = 'https://literacy-for-kids.github.io/computer_literacy_for_kids/';
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
