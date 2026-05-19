@@ -319,3 +319,7 @@ By the end of this week, look for signs that the learner can:
 **Polish** • **Review** • **Presentation** • **Audience** • **Detail** • **Final version**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week is Creator Showcase week — students present their finished projects, explain how they built them, and reflect on everything they've learned over 18 weeks of computer literacy.

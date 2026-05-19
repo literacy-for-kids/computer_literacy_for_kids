@@ -324,3 +324,7 @@ By the end of this week, look for evidence that the learner can:
 **Artificial Intelligence (AI)** • **Generative AI** • **Prompt** • **Pattern** • **Output** • **Verify** • **Hallucination** (when AI confidently states something false)  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students use AI as a creative partner — designing and refining prompts to improve AI responses and discovering how to stay in control of the thinking while AI handles the generating.

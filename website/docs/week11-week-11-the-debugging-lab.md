@@ -365,3 +365,7 @@ By the end of this week, look for signs that the learner can:
 **Bug** • **Debugging** • **Checklist** • **Test** • **Evidence** • **Edge case** (extension) • **Bug report** (extension)  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students zoom out to explore how complex systems are built from smaller parts — breaking real-world technologies into components and mapping how each piece does its job.

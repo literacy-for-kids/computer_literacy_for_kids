@@ -329,3 +329,7 @@ By the end of this week, look for whether the learner can:
 **Input** • **Output** • **App (application)** • **Window** • **Single-click** • **Double-click** • **Right-click** • **Drag** • **Scroll** • **Minimize / Maximize / Close**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students discover how computers store their work as files organized into folders — learning to save, rename, and find their own digital creations so nothing ever gets lost.

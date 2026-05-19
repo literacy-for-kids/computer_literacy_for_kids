@@ -327,3 +327,7 @@ By the end of this week, look for whether the learner can:
 **Keyboard** • **Home row** • **Space bar** • **Enter** • **Backspace** • **Shift** • **Ctrl (Control key)** • **Keyboard shortcut** • **Ctrl+S (Save)**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students learn how computers help us communicate ideas through writing — practicing cursor placement, formatting, and creating a real digital document from start to finish.

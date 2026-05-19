@@ -335,3 +335,7 @@ Look for these signs that the learner is making progress:
 **Canvas** • **Brush / Pencil tool** • **Shape tool** • **Fill bucket** • **Eraser** • **Undo (Ctrl+Z)** • **PNG / JPEG** • **Save As**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students become Internet Detectives — learning how to craft better search queries, understand what search results are really showing, and find trustworthy information online.

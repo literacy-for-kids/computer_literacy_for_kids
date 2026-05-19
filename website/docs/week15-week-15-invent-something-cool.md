@@ -395,3 +395,7 @@ See the [Glossary](./glossary.md) for definitions.
 - Check your [Competency Map](./competency-map.md) progress — this project draws on skills from every stage.
 - See the [Final Project Rubric](./final-project-rubric.md) for how the project will be evaluated.
 :::
+
+## Preview of Next Week
+
+Next week, students keep building and improving their project — testing it themselves, gathering feedback, and making revisions that make it better and more polished.

@@ -355,3 +355,7 @@ Look for these signs that the learner is making progress:
 **Cursor** • **Select (highlight)** • **Copy (Ctrl+C)** • **Cut (Ctrl+X)** • **Paste (Ctrl+V)** • **Undo (Ctrl+Z)** • **Format** • **Draft / Revision**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, we open the Digital Art Studio — students explore how images communicate ideas and use digital drawing tools to create and save their own original artwork.
