@@ -307,3 +307,7 @@ By the end of this week, look for signs that the learner can:
 **Instruction** • **Sequence** • **Algorithm** • **Predict** • **Debugging** (preview) • **Input / Output** (review)  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students build their first real program in Scratch — connecting blocks of instructions to make a sprite move, speak, and react on screen.

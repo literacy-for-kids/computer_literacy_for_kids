@@ -360,3 +360,7 @@ Look for these signs that the learner is making progress:
 **Wikipedia** • **Article** • **Reference / Source** • **Hyperlink** • **Summary** • **Heading / Section** • **Evidence** • **Verify**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students take their first step into coding — learning that computers follow exact instructions and writing their own step-by-step algorithms before touching a single line of code.

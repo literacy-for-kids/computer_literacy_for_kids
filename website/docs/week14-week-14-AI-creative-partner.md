@@ -319,3 +319,7 @@ By the end of this week, look for evidence that the learner can:
 **Prompt Refinement** • **Iteration** • **Creative Ownership** • **AI-Assisted** • **Revision** • **Collaboration**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students launch their final project — choosing a project idea, planning it carefully with a design document, and building the very first version.

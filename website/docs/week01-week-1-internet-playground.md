@@ -347,3 +347,7 @@ By the end of this week, look for whether the learner can:
 **Browser** • **URL (web address)** • **Link** • **Tab** • **Scroll** • **Popup** • **Clickbait** • **Private information**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, we turn our attention from the internet to the computer itself — students will explore how computers respond to every click, drag, and keypress, and practice controlling windows, apps, and the desktop like a pro.

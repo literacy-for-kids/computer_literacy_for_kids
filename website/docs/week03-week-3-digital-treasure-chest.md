@@ -362,3 +362,7 @@ By the end of this week, look for whether the learner can:
 **File** • **Folder** • **Save** • **Save As** • **File name** • **File extension** (.txt, .png) • **File Explorer / Finder** • **Navigate**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students dive into keyboard skills — exploring every key group on the keyboard and starting to build speed and accuracy through fun typing challenges.

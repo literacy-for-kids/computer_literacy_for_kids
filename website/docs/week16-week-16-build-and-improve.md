@@ -343,3 +343,7 @@ By the end of this week, look for signs that the learner can:
 **Iteration** • **Version** • **Prototype** • **Feature** • **Test** • **Revise** • **Changelog** (extension)  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students add the final touches — reviewing the whole project from an audience's point of view and preparing a clear, confident presentation for the Creator Showcase.

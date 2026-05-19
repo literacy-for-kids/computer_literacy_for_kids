@@ -335,3 +335,7 @@ By the end of this week, look for evidence that the learner can:
 **System** • **Part / Component** • **Sensor** • **Motor** • **Diagram** • **Flow** • **Interaction** • **Engineer**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students enter the AI Discovery Lab — investigating how generative AI works at a basic level, testing its limits, and learning why verifying AI output is always the human's job.

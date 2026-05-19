@@ -297,3 +297,7 @@ By the end of this week, look for signs that the learner can:
 **Scratch** • **Sprite** • **Stage** • **Block** • **Script** • **Sequence** • **Loop (repeat)** • **Program**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, we enter the Debugging Lab — students learn how programmers systematically find and fix broken code, and practice the detective mindset that makes every programmer better.

@@ -362,3 +362,7 @@ Look for these signs that the learner is making progress:
 **Search engine** • **Keywords** • **Search results** • **Ad / Sponsored result** • **Clickbait** • **Tab (browser)** • **Algorithm** • **Source**  
 See the [Glossary](./glossary.md) for definitions.
 :::
+
+## Preview of Next Week
+
+Next week, students explore Wikipedia as a model for how information is organized and verified, practicing how to trace a claim back to its original source.
