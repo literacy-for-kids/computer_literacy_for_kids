@@ -371,7 +371,7 @@ Save the **project plan document** and the **first version (v1)** of the project
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for signs that the learner can:
 

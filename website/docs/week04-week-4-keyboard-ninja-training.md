@@ -309,7 +309,7 @@ or
 
 Save a short typed paragraph or message the learner created in Notepad, or a screenshot of their typing practice score from TypingClub or Dance Mat Typing. Store it in the **My Projects → Stories** folder. This will become part of their collection of work that builds toward the final project.
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for whether the learner can:
 

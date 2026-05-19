@@ -326,7 +326,7 @@ Save the **improved project (version 2 or later)** to the portfolio. If possible
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for signs that the learner can:
 

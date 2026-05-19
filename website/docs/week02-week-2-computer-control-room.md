@@ -311,7 +311,7 @@ Then choose **one app** and create a short explanation, drawing, or demonstratio
 
 Take a screenshot of the learner’s desktop with their arranged windows or a drawing/diagram they made showing the input → computer → result pattern. Save it to the learner’s portfolio folder. This will become part of their collection of work that builds toward the final project.
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for whether the learner can:
 

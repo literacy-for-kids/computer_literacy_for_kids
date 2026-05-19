@@ -329,7 +329,7 @@ Be ready to explain **how you decided** what was interesting or useful.
 
 Save a bookmarked list of 3–5 safe, kid-friendly websites the learner explored or wants to return to. This can be a written list, a text file, or browser bookmarks saved to a folder. This will become part of their collection of work that builds toward the final project.
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for whether the learner can:
 

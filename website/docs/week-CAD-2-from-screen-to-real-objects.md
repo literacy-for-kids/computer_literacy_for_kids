@@ -312,7 +312,7 @@ Save the learner’s exported STL file in the **My Projects** folder. If the obj
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for whether the learner can:
 

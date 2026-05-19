@@ -344,7 +344,7 @@ Save the learner’s search notes, fact sheet, or written record of their invest
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 Look for these signs that the learner is making progress:
 

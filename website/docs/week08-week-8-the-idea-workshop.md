@@ -342,7 +342,7 @@ Save the learner’s notes or summary from their Wikipedia exploration in the **
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 Look for these signs that the learner is making progress:
 
