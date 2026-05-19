@@ -307,7 +307,7 @@ Save your AI interaction notes, screenshots of prompts and responses, or written
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for evidence that the learner can:
 

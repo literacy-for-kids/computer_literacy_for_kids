@@ -289,7 +289,7 @@ Save the learner's written or drawn instruction sets from the activities and ind
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for signs that the learner can:
 

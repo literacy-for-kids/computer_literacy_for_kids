@@ -281,7 +281,7 @@ Remind the learner of good file-naming habits from Week 3: name the file somethi
 If using a Scratch account, the project saves online automatically — but downloading a local copy to the portfolio folder is still a good practice.
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for signs that the learner can:
 

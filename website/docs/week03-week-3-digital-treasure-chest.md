@@ -344,7 +344,7 @@ Be ready to explain why your folder system works.
 
 This week’s artifact is the **My Projects** folder itself, with its subfolders and at least one saved file inside. Check that the learner can open File Explorer, navigate to their folder, and find their saved work. This organized folder will be used throughout the rest of the curriculum.
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for whether the learner can:
 

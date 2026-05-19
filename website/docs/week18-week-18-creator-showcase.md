@@ -303,7 +303,7 @@ For a detailed evaluation guide, see the [Final Project Rubric](./final-project-
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for signs that the learner can:
 

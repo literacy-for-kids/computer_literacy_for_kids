@@ -318,7 +318,7 @@ Save the learner’s best digital drawing (or both story panels) in the **My Pro
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 Look for these signs that the learner is making progress:
 

@@ -325,7 +325,7 @@ Save the learner's TinkerCAD design by ensuring it is named and saved in their T
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for whether the learner can:
 

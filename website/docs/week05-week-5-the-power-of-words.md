@@ -337,7 +337,7 @@ Save the learner's written document (story, message, or creative writing piece) 
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 Look for these signs that the learner is making progress:
 

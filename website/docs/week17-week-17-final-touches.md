@@ -302,7 +302,7 @@ Save the **polished final version** of the project (e.g., `ProjectName_Final`) a
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for signs that the learner can:
 

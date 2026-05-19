@@ -302,7 +302,7 @@ Save your AI-assisted creation to your portfolio folder (**My Projects → Exper
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for evidence that the learner can:
 

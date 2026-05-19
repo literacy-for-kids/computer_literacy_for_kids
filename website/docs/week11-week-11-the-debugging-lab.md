@@ -349,7 +349,7 @@ Save the learner’s fixed or improved Scratch project by downloading it (**File
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for signs that the learner can:
 

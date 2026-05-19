@@ -318,7 +318,7 @@ Save your system diagram or written description to your portfolio folder (**My P
 
 ---
 
-## ✅ Success Indicators
+## Check for Understanding
 
 By the end of this week, look for evidence that the learner can:
 
