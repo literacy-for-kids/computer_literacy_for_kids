@@ -58,6 +58,13 @@ Just like keeping treasures in a chest or toys in labeled bins, computers use **
 - Set up a visual timer.
 :::
 
+:::note Windows 11 Users
+Paint 3D is no longer included by default on newer Windows 11 systems.
+If Paint 3D isn't available, use the classic Paint app (search "Paint"
+in the Start menu) or any other drawing program. See
+[Tool Alternatives](./tool-alternatives.md) for more options.
+:::
+
 :::tip Teaching Mindset
 This week introduces **digital ownership**.
 
