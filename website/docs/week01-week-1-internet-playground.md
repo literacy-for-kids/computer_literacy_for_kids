@@ -96,9 +96,9 @@ Explain:
 
 Examples:
 
-- Someone made the videos she watches.
+- Someone made the videos they watch.
 - Someone wrote the website about dogs.
-- Someone built the game she plays.
+- Someone built the game they play.
 
 ---
 
