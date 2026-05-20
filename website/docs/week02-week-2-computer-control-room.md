@@ -53,8 +53,8 @@ This week helps the student begin thinking about computers as **systems that res
 - **Accounts needed:** None. All activities use built-in apps.
 - Ensure a few simple apps are easily accessible:
   - Calculator
-  - Paint 3D (or similar drawing app)
-  - Notepad or a simple text editor
+  - Paint or Paint 3D (Mac: Preview's markup tools or Paintbrush; Chromebook: Chrome Canvas or any free drawing app)
+  - Notepad or a simple text editor (Mac: TextEdit, Chromebook: any text app or Google Docs)
 - Prepare a quick explanation of **inputs and outputs**.
 - Be ready to demonstrate opening and moving windows.
 - Have paper or a whiteboard available for quick diagrams.
