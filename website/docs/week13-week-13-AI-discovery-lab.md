@@ -72,7 +72,7 @@ All AI interactions for ages 8–12 should be supervised by an adult. Do not let
 :::info Before You Begin
 - **Time needed:** ~30–45 minutes per guided session; ~20–30 minutes for the independent session.
 - **Devices needed:** A computer or tablet with internet access.
-- **Accounts:** Use an adult-managed account for any AI tool. Learners should not create their own AI accounts.
+- **Accounts:** All major AI tools (ChatGPT, Gemini, Copilot, and others) require users to be **13 or older** to create an account. Use your own adult account and operate the tool yourself — do not create a new account for the learner or let them log in with a student account. Learners should direct the conversation while you handle the tool.
 - Ensure access to a generative AI tool (such as ChatGPT, Gemini, Copilot, or another conversational AI). Any conversational AI tool will work for this lesson — see [Tool Alternatives](./tool-alternatives.md) for options.
 - Prepare a few simple prompts to demonstrate AI behavior.
 - Have paper or a whiteboard available for discussion.
