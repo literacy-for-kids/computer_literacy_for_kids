@@ -48,11 +48,11 @@ Just like keeping treasures in a chest or toys in labeled bins, computers use **
 - **Time needed:** ~30–40 minutes per guided session, ~30 minutes for the independent session.
 - **Devices needed:** One computer (desktop or laptop) with File Explorer (Windows) or Finder (Mac).
 - **Accounts needed:** None. All activities use built-in apps and local file storage.
-- Ensure File Explorer is easy to access.
+- Ensure File Explorer (Mac: Finder; Chromebook: Files app) is easy to access.
 - Prepare to demonstrate creating folders and saving files.
 - Make sure these apps are available:
-  - Paint (or Paint 3D)
-  - Notepad (or simple text editor)
+  - Paint or Paint 3D (Mac: Preview's markup tools or Paintbrush; Chromebook: Chrome Canvas or any free drawing app)
+  - Notepad or a simple text editor (Mac: TextEdit, Chromebook: any text app or Google Docs)
 - Decide where the student's **main project folder** will live (Documents is recommended).
 - Prepare a quick analogy: toy bins, drawers, or treasure chests.
 - Set up a visual timer.
