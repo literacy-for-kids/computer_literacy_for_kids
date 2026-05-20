@@ -139,7 +139,7 @@ Save the file somewhere easy to find.
 
 ---
 
-**3a. What Kind of File Is This?**
+**3. What Kind of File Is This?**
 
 After saving, point to the file in File Explorer.
 
@@ -157,7 +157,7 @@ Say:
 
 ---
 
-**3. Close and Reopen the File**
+**4. Close and Reopen the File**
 
 Close Notepad completely.
 
