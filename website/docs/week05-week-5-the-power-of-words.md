@@ -213,7 +213,7 @@ If using WordPad or Google Docs, experiment with:
 Explain these are ways to **format text**.
 ---
 
-**2a. Keyboard Shortcuts for Editing**
+**3. Keyboard Shortcuts for Editing**
 
 Now that the student can select text, introduce three powerful shortcuts:
 
@@ -238,7 +238,7 @@ Explain:
 Remind them that **Ctrl+S** (from Week 4) saves their work. Encourage them to press Ctrl+S after each paragraph.
 ---
 
-**3. Expand the Writing**
+**4. Expand the Writing**
 
 Ask the student to add **one more sentence** to their writing.
 
