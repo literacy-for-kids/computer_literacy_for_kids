@@ -72,7 +72,7 @@ A mouse (rather than just a trackpad) is recommended for younger learners, espec
 
 ## How the Curriculum Is Structured
 
-The curriculum has **18 core weeks** organized into **5 units**, plus an optional CAD enrichment extension:
+The curriculum has **18 core weeks** organized into **5 units**, plus two optional extension modules:
 
 | Unit | Weeks | Focus |
 |------|-------|-------|
@@ -82,6 +82,7 @@ The curriculum has **18 core weeks** organized into **5 units**, plus an optiona
 | **Unit 4: Systems & AI** | Weeks 12–14 | How systems work, intro to AI, critical thinking |
 | **Unit 5: Final Project** | Weeks 15–18 | Planning, building, revising, presenting |
 | **Optional: CAD Enrichment** | 2 extra weeks | 3D design and modeling |
+| **Optional: Everyday Productivity** | 2 extra weeks | Spreadsheets, documents, and real-world workflows |
 
 ### Each Week Includes
 
