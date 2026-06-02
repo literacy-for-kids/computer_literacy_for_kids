@@ -158,7 +158,7 @@ We welcome contributions to improve this curriculum! Please:
 
 ## 📄 License
 
-This curriculum is available under the [CC BY-NC-SA 4.0 license](../LICENSE).
+This curriculum is available under the [CC BY-NC-SA 4.0 license](../LICENSE-CONTENT).
 
 ## 📞 Support
 
@@ -166,7 +166,7 @@ If you encounter issues or have questions:
 
 1. Check the [Docusaurus documentation](https://docusaurus.io/docs)
 2. Open an issue in this repository
-3. Join our [GitHub Discussions](https://github.com/literacy-for-kids/computer_literacy_for_kids/discussions)
+3. Use [GitHub Issues](https://github.com/literacy-for-kids/computer_literacy_for_kids/issues) for questions, bug reports, or suggestions
 
 ---
 

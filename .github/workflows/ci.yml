@@ -32,6 +32,10 @@ jobs:
             --root-dir ./website/static
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
+            --exclude 'https://chat.openai.com/'
+            --exclude 'https://onedrive.live.com/'
+            --exclude 'https://www.canva.com/'
+            --exclude 'https://www.kidrex.org/'
             './README.md'
             './website/README.md'
             './website/docs/**/*.md'
