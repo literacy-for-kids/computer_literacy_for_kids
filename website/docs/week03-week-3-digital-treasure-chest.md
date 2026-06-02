@@ -75,6 +75,26 @@ The goal is helping the student understand:
 This idea will carry through the entire curriculum.
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can save my work in the right folder, give it a helpful name, and find it again later.
+
+### Materials
+- computer with File Explorer, Finder, or Files app
+- one drawing app and one writing app
+- a place to create the `My Projects` folder
+
+### Quick Formative Check
+Show a file icon and a folder icon and ask the learner what each one is for before creating anything new.
+
+### What Success Looks Like
+- The learner can explain the difference between a file and a folder.
+- The learner can save one item into `My Projects` and reopen it.
+
+### Low-Tech / Offline Option
+Use index cards as files and envelopes or boxes as folders, then practice naming, sorting, and finding the right "saved work."
+
 ---
 
 ## Guided Session 1

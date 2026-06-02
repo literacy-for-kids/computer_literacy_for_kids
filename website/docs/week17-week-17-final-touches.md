@@ -56,7 +56,7 @@ This week is about making your project **clear, complete, and ready to show**.
 :::info Before You Begin
 - **Time:** Each guided session runs about 30–45 minutes. The independent session is 20–30 minutes.
 - **Device:** One computer or tablet per learner with keyboard and mouse/trackpad.
-- **Accounts:** Ensure the student can log in to all tools used for the project.
+- **Access note:** Keep using the simplest working access path: saved local files, classroom-managed tools, adult-operated logins, or screenshots for presentation planning. Do not require a new student-owned account just to finish the project.
 - Ensure access to all tools the student has used for the project.
 - Confirm the **Final Project** folder exists:
 
@@ -75,6 +75,38 @@ Focus on **confidence and pride in the work**.
 The student should begin to feel:
 
 > “I built something interesting, and I can explain it.”
+:::
+
+## Week at a Glance
+
+### Learner Goal
+I can polish my project and practice explaining it clearly to an audience.
+
+### Materials
+- latest project version
+- simple presentation outline or note card
+- checklist of final improvements
+
+### Quick Formative Check
+Ask the learner for a 30-second explanation: what the project is, who it is for, and one thing they improved.
+
+### What Success Looks Like
+- The learner can make final improvements with a clear reason for each one.
+- The learner can rehearse a simple explanation without reading every word from a script.
+
+### Low-Tech / Offline Option
+Use printed screenshots, a poster board, or a paper storyboard as the presentation surface if the final project cannot be shown live.
+
+:::info Creator Reflection Draft
+By the end of this week, help the learner draft short answers to:
+
+- What I made
+- Who it is for
+- What tools I used
+- If I used AI, how I used it and what I changed
+- What I improved after feedback
+
+These notes can become the Week 18 reflection or presentation card.
 :::
 
 ---

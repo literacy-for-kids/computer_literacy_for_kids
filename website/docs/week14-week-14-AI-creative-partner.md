@@ -61,7 +61,7 @@ All AI interactions for ages 8–12 should be supervised by an adult. Do not let
 :::info Before You Begin
 - **Time needed:** ~30–45 minutes per guided session; ~20–30 minutes for the independent session.
 - **Devices needed:** A computer or tablet with internet access.
-- **Accounts:** All major AI tools (ChatGPT, Gemini, Copilot, and others) require users to be **13 or older** to create an account. Use your own adult account and operate the tool yourself — do not create a new account for the learner or let them log in with a student account. Learners should direct the conversation while you handle the tool.
+- **Access note:** Check provider terms, school or library policy, and family expectations before using any AI tool. In this curriculum, **adult-managed access** is the default, and saved prompt examples are a valid fallback when live use is not appropriate.
 - Ensure access to a generative AI tool (such as ChatGPT, Gemini, Copilot, or another conversational AI). Any conversational AI tool will work for this lesson — see [Tool Alternatives](./tool-alternatives.md) for options.
 - Prepare a few example prompts that demonstrate how prompts change results.
 - Have drawing and writing tools available.
@@ -75,6 +75,30 @@ Focus on **creative collaboration**.
 Students should feel like:
 
 > “AI can help me explore ideas, but I am still the creator.”
+:::
+
+## Week at a Glance
+
+### Learner Goal
+I can use AI for ideas, then make choices that keep the final work mine.
+
+### Materials
+- adult-managed AI tool or saved sample responses
+- drawing or writing tools for student revisions
+- note sheet for prompt changes and creator decisions
+
+### Quick Formative Check
+Show two prompts and ask which one would give a more useful answer, then ask how the learner would change the output to make it more their own.
+
+### What Success Looks Like
+- The learner can explain the difference between AI-assisted work and fully human-created work.
+- The learner can name what they changed, checked, kept, or rejected.
+
+### Low-Tech / Offline Option
+Print one AI response, then have the learner mark what to keep, cross out what to reject, and add their own ideas by hand.
+
+:::info AI Ownership Note
+This week is about creative ownership. If AI helps with an idea, the learner should still be able to say what they changed, what they checked, and what choices remained fully theirs. That is how the learner protects **originality** and gets ready to explain or disclose any outside help later.
 :::
 
 ---
@@ -235,6 +259,19 @@ Save the result in:
 My Projects → Experiments
 
 
+**4. Track What You Changed**
+
+Before saving, ask the student to add a short creator note:
+
+- What did the AI suggest?
+- What did you keep?
+- What did you change?
+- What did you reject?
+- Is this piece best described as **AI-assisted** or **fully human-created**?
+
+This keeps the learner's decisions visible.
+
+
 ---
 
 #### Reflection Questions
@@ -244,6 +281,8 @@ My Projects → Experiments
   - *Sentence starter: “My changes made it better because…”*
 - “Why is revision such an important part of real creative work?”
   - *Sentence starter: “Revision matters because the first version…”*
+- “How is AI-assisted work different from work you created fully on your own?”
+  - *Sentence starter: “AI-assisted work means…, but fully human-created work means…”*
 
 ---
 

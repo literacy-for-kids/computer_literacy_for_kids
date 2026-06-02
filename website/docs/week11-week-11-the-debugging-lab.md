@@ -72,6 +72,26 @@ Students should leave this lesson thinking:
 This mindset is the foundation of engineering and programming.
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can spot when a program is not doing what I wanted and try one fix at a time.
+
+### Materials
+- Scratch project from Week 10 or a sample buggy project
+- whiteboard or paper debugging checklist
+- browser with Scratch open
+
+### Quick Formative Check
+Show one small bug and ask: "What is the program doing now, and what did we want it to do instead?"
+
+### What Success Looks Like
+- The learner can compare expected behavior with actual behavior.
+- The learner can test one change instead of changing everything at once.
+
+### Low-Tech / Offline Option
+Debug a paper set of directions or a daily routine with a missing or out-of-order step before moving to Scratch.
+
 ---
 
 ## Guided Session 1

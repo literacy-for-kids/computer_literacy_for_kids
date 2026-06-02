@@ -84,6 +84,38 @@ Focus on **celebration and confidence**.
 This week should feel like a **showcase**, not a test.
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can share my project, explain my choices, and reflect on what I learned.
+
+### Materials
+- final project file or presentation surface
+- creator reflection card or notes
+- audience space and any needed device accessories
+
+### Quick Formative Check
+Before the showcase starts, ask the learner to practice one opening sentence that says what they made and who it is for.
+
+### What Success Looks Like
+- The learner can explain what the project is, how it works, and what changed along the way.
+- The learner can reflect on tools, audience, feedback, and next steps.
+
+### Low-Tech / Offline Option
+Use a printed poster, screenshot slideshow, or oral walk-through of saved artifacts if the final project cannot be shown live.
+
+:::info Final Creator Reflection Card
+Invite the learner to prepare these short responses for the showcase:
+
+- What I made
+- Who it is for
+- What tools I used
+- If I used AI, how I used it and what I changed
+- What I improved after feedback
+
+If AI was used, a one-sentence disclosure is enough. Example: "I used AI to brainstorm ideas, then I changed the wording, checked the facts, and chose the final design myself."
+:::
+
 ---
 
 ## Guided Session 1
@@ -142,6 +174,7 @@ Possible prompts:
 - What was the hardest part?
 - What problem did you solve?
 - What improvement did you make along the way?
+- If AI helped at any point, how did you use it and what did you change yourself?
 
 Explain that creators often learn the most while solving problems.
 

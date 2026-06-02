@@ -20,6 +20,29 @@ The curriculum is designed to be flexible from the start. Sessions include discu
 
 The core principle: **every learner should be able to participate meaningfully, even if the way they participate looks different.**
 
+This is a practical **UDL-style approach**:
+
+- offer more than one way to access instructions
+- offer more than one way to show learning
+- reduce barriers without reducing the thinking
+- keep adult support visible and calm when tools are unfamiliar
+
+The goal is access, not sameness.
+
+---
+
+## Multiple Ways to Show Learning
+
+Learners do not need to prove understanding in the same format every time. Valid evidence can include:
+
+- saying an answer aloud instead of writing it
+- pointing, sorting, highlighting, or choosing between examples
+- sketching a diagram, storyboard, or labeled drawing
+- making a screenshot sequence instead of a typed explanation
+- recording a short explanation with an adult's help
+
+If a learner can explain, demonstrate, or revise the idea, that counts.
+
 ---
 
 ## Reading Level Support
@@ -31,6 +54,15 @@ Not every 8–12 year old reads at the same level, and that shouldn't be a barri
 - **Use oral responses** instead of written ones — many activities note this as an option
 - **Lean on the sentence starters** provided throughout the curriculum; they reduce the blank-page problem
 - **Simplify written tasks** by asking learners to write one sentence instead of a paragraph, or to draw their answer instead
+
+### Reduced Reading Load Moves
+
+When text-heavy tasks become a barrier, try:
+
+- previewing only one short section of a page before exploring the rest
+- highlighting the one sentence or question the learner needs first
+- swapping a paragraph response for a checklist, labels, or oral explanation
+- using Simple English Wikipedia, captions, icons, or teacher-made note sheets
 
 ---
 
@@ -56,6 +88,8 @@ Typing is a skill the curriculum builds over time, but some learners may find ke
 - **Try partner typing** — one learner dictates their ideas while another types; then they switch
 - **Use a trackpad, mouse, or touchscreen** — whatever the learner finds most comfortable
 
+Voice-to-text, read-aloud tools, and copied sentence starters are not shortcuts around learning. They are valid access tools when the goal is thinking, composing, or explaining.
+
 ---
 
 ## Shared or Limited Devices
@@ -66,6 +100,17 @@ Not every setting has one device per learner, and that's okay. Collaboration can
 - **Use intentional partner work** — two learners sharing one device can take turns as "driver" (hands on keyboard) and "navigator" (giving directions)
 - **Adapt independent sessions** to be partly offline — learners can sketch plans on paper, storyboard ideas, or discuss verbally before their turn at the device
 - **Many activities include offline components** — reflection questions, discussions, and planning steps don't require a screen
+
+### Partner Roles That Work Well
+
+When one device must serve multiple learners, assign roles clearly:
+
+- **Driver**: touches the device
+- **Navigator**: reads steps or gives directions
+- **Checker**: watches for mistakes, source clues, or missing steps
+- **Recorder**: writes notes, sketches, or reflection answers
+
+Rotate roles often so every learner gets meaningful participation.
 
 ---
 
@@ -78,6 +123,8 @@ Some of the curriculum's core ideas can be explored even without reliable intern
 - **Drawing, writing, and verbal reflection** can replace digital tasks when devices or internet aren't available
 - **Pre-load websites or download resources** in advance if internet access is intermittent — most tools used in the curriculum work offline once loaded
 - **Use the curriculum as a discussion guide** even if you can only get online occasionally — the thinking skills matter as much as the tool skills
+
+If a digital tool is blocked by policy, age limits, or bandwidth, a **demonstration path** is still valid: the adult opens the tool, the learner directs decisions, and the class captures what happened through screenshots, sketches, or observation notes.
 
 ---
 

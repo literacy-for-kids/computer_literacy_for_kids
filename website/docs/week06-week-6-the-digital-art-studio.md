@@ -72,6 +72,26 @@ Focus on **exploration instead of artistic skill**.
 This is about learning that the computer is a tool for **creating ideas visually**, not making perfect drawings.
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can use digital art tools to make a picture that shows an idea, place, character, or feeling.
+
+### Materials
+- computer or tablet with a drawing app
+- mouse, trackpad, or stylus
+- a few creative prompts based on learner interests
+
+### Quick Formative Check
+Before the main activity, ask the learner which tool they would choose for a line, a filled shape, or changing colors.
+
+### What Success Looks Like
+- The learner can choose at least one tool on purpose instead of guessing.
+- The learner can save a picture that communicates a clear idea.
+
+### Low-Tech / Offline Option
+Sketch on paper first, then label which digital tools or colors the learner would use when device time becomes available.
+
 ---
 
 ## Guided Session 1

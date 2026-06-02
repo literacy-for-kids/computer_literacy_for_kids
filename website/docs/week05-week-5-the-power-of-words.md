@@ -79,6 +79,26 @@ The goal is helping the student realize:
 > “The computer helps me turn my ideas into words.”
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can write a short message or story on the computer and improve it by making changes.
+
+### Materials
+- computer or tablet with a keyboard
+- simple writing tool
+- a few fun writing prompts or picture prompts
+
+### Quick Formative Check
+Place one sentence on the screen and ask the learner to move the cursor, add one word, and fix one small mistake.
+
+### What Success Looks Like
+- The learner can write something meant for a reader.
+- The learner can make at least one revision instead of leaving the first version untouched.
+
+### Low-Tech / Offline Option
+Have the learner plan the message on paper or dictate it aloud first, then type only the final short version when device time is available.
+
 ---
 
 ## Guided Session 1

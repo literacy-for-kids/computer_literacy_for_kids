@@ -71,6 +71,26 @@ Keep it playful and relaxed.
 Watch for signs of hand or wrist discomfort during typing practice. Ensure the keyboard is at a comfortable height, the learner’s feet reach the floor (or use a footrest), and encourage short breaks every 10–15 minutes. Typing should never feel painful — if it does, stop and adjust the setup.
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can use the keyboard to type letters, spaces, and simple edits without rushing.
+
+### Materials
+- computer with a physical keyboard
+- beginner typing website or app
+- simple writing tool such as Notepad or TextEdit
+
+### Quick Formative Check
+Ask the learner to type their name and one short sentence, then point to the space bar, Enter, and Backspace.
+
+### What Success Looks Like
+- The learner can use a few key groups on purpose instead of pressing randomly.
+- The learner can type and correct a short message with patience.
+
+### Low-Tech / Offline Option
+Use a printed keyboard map or paper keyboard to practice key names, finger placement, and short typing challenges away from the screen.
+
 ---
 
 ## Guided Session 1

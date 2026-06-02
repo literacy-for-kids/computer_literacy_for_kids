@@ -19,13 +19,28 @@ The goal is simple: notice what learners can do, celebrate their progress, and i
 You don't need special tools or forms. Here's the approach:
 
 1. **Observe during sessions** — Watch how learners engage. Are they trying things independently? Asking good questions? Getting stuck in the same place repeatedly?
-2. **Check the Success Indicators** — Each weekly lesson page includes specific things to look for. Use them as a quick mental checklist.
-3. **Use milestone checkpoints** — At the end of each unit, review the milestone below to reflect on where learners are.
-4. **Invite self-assessment** — When appropriate, let learners reflect on their own progress using the simple framework below.
+2. **Use the weekly quick check** — Each lesson now includes a short formative check. Use it as a fast read on whether to simplify, extend, or repeat.
+3. **Collect one visible artifact** — A screenshot, saved file, search note, drawing, or project version is usually enough.
+4. **Review the unit milestone** — At the end of each unit, use the checkpoint below to decide what feels secure and what needs another pass.
+5. **Invite self-assessment** — When appropriate, let learners reflect on their own progress using the simple framework below.
 
 That's the whole system. No rubrics to fill out during class, no scores to calculate. Just pay attention, and use what you notice to guide your next steps.
 
 For a full list of what learners should be able to do at each stage, see the [Competency Map](./competency-map.md). For a printable artifact checklist, see the [Portfolio Tracker](./portfolio-tracker.md).
+
+---
+
+## Lightweight Evidence to Collect
+
+Keep evidence simple and repeatable. Most weeks, one of these is enough:
+
+- a saved artifact from the portfolio folder
+- a screenshot showing a completed task or in-progress work
+- a short student explanation captured in writing or by adult notes
+- a reflection answer using the self-assessment levels
+- a project version file showing revision over time
+
+For research and AI weeks, it helps to save evidence that shows **thinking**, not just the final product. Examples include search notes, second-source comparisons, prompt-and-response screenshots, or a short note about what the learner changed, checked, or rejected.
 
 ---
 
@@ -81,6 +96,8 @@ At this stage, confidence matters more than speed. A learner who feels comfortab
 - Explain why not everything online is true
 - Save their work to their portfolio folder
 
+**Suggested evidence:** saved writing sample, drawing, search notes, and one short explanation of why a source seemed useful or needed checking.
+
 ### After Unit 3 — Coding & Logic (Weeks 9–11)
 
 **The learner can:**
@@ -101,6 +118,8 @@ At this stage, confidence matters more than speed. A learner who feels comfortab
 - Ask thoughtful questions about how a technology works or who it affects
 - Identify at least one way technology connects to their daily life
 
+**Suggested evidence:** system diagram, AI notes with one fact-check or correction, and a short record of what the learner changed or rejected after using AI.
+
 ### After Final Project (Weeks 15–18)
 
 **The learner has:**
@@ -111,7 +130,25 @@ At this stage, confidence matters more than speed. A learner who feels comfortab
 - Presented or shared the project with others
 - Reflected on what they learned and what they'd do differently
 
+**Suggested evidence:** project planning sheet, at least two saved versions, brief feedback notes, a creator reflection, and AI disclosure if AI assisted the work.
+
 For a detailed project evaluation guide, see the [Final Project Rubric](./final-project-rubric.md).
+
+---
+
+## Final Project Evidence Spine
+
+During Weeks 15–18, collect evidence across the whole process, not just the final showcase.
+
+| Stage | What to Look For | Good Enough Evidence |
+|---|---|---|
+| **Plan** | Clear idea, audience, tool choice | Planning sheet or annotated sketch |
+| **Build** | First version exists | Saved `v1` file or screenshot |
+| **Revise** | Learner responded to testing or feedback | `v2` or later file plus one note about what changed |
+| **Source / AI care** | Learner can explain where ideas or facts came from | Source list, citation note, or AI disclosure statement |
+| **Share** | Learner can explain the project to an audience | Presentation notes or creator reflection |
+
+For many settings, this is enough assessment documentation by itself.
 
 ---
 

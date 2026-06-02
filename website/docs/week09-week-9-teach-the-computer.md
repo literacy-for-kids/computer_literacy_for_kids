@@ -62,6 +62,26 @@ This week introduces **computational thinking**, not programming syntax.
 Focus on the idea that computers follow **clear, ordered instructions**.
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can give clear step-by-step instructions and notice when the order matters.
+
+### Materials
+- open floor or table space for movement games
+- paper or cards for writing steps
+- optional drawing app or Scratch preview page
+
+### Quick Formative Check
+Give the learner three instruction cards and ask them to put the steps in the order that makes sense.
+
+### What Success Looks Like
+- The learner can write or say a short algorithm another person can follow.
+- The learner can explain how changing the order changes the outcome.
+
+### Low-Tech / Offline Option
+This week already works well unplugged: use a human-robot game, paper arrows, or a drawing sequence with no device at all.
+
 ---
 
 ## Guided Session 1

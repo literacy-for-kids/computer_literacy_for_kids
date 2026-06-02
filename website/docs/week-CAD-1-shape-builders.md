@@ -63,9 +63,9 @@ You will begin using a tool called **TinkerCAD** or any beginner-friendly 3D des
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session.
 - **Device needed:** any computer with a modern web browser and mouse (a mouse with scroll wheel is strongly recommended for 3D navigation).
-- **Account needed:** create a free account at **https://www.tinkercad.com** or your chosen 3D design tool (see [Tool Alternatives](./tool-alternatives.md) for options).
-- Set up a student account or classroom access.
-- Confirm the student can log in successfully.
+- **Access note:** Use educator-managed or classroom-managed access, family-managed access, or a teacher demonstration path with screenshots. A student-owned account is **not required** for this week.
+- Set up whichever access path fits your setting before the lesson.
+- If live login is not appropriate, prepare a shared demonstration or a few screenshot examples the learner can direct and discuss.
 - Test that the computer can run TinkerCAD smoothly in the browser.
 - Ensure the student understands basic mouse skills (click, drag, scroll).
 - Have a few **simple example objects** ready to show (cube tower, simple house, etc.).
@@ -78,6 +78,30 @@ The goal is **not perfection**.
 The goal is **exploration**.
 
 Encourage curiosity and experimentation with shapes.
+:::
+
+## Week at a Glance
+
+### Learner Goal
+I can build a simple 3D object from shapes and explain how I made it.
+
+### Materials
+- computer with a beginner 3D design tool or a shared teacher demo
+- mouse with scroll wheel if possible
+- a few simple real-world objects to compare with shapes
+
+### Quick Formative Check
+Ask the learner to point to width, height, and depth on a real object, then name one basic 3D shape they recognize.
+
+### What Success Looks Like
+- The learner can combine shapes to make something recognizable.
+- The learner can explain at least one design choice they made.
+
+### Low-Tech / Offline Option
+Build with blocks, paper nets, or clay first, then sketch front, side, and top views as the 3D design record.
+
+:::info No-Account Option
+If a live 3D design tool is not available, the learner can still complete the lesson by directing a teacher demo, annotating screenshots, or sketching a shape-built design on paper.
 :::
 
 ---

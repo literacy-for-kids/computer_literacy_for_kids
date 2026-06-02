@@ -69,6 +69,26 @@ The goal is helping the student **notice cause and effect**:
 > "When I do this… the computer does that."
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can make the computer do something on purpose and explain which input caused the result.
+
+### Materials
+- computer with mouse or trackpad
+- two or three simple built-in apps
+- paper or whiteboard for quick input/output diagrams
+
+### Quick Formative Check
+Before opening apps, ask: "What do you think will happen if I click here, drag this window, or press this key?" Then test one prediction together.
+
+### What Success Looks Like
+- The learner can describe a simple input and the computer's response.
+- The learner can open, move, or close an app with growing confidence.
+
+### Low-Tech / Offline Option
+Act out a "human computer" game where one person gives inputs and the other person must respond exactly as instructed.
+
 ---
 
 ## Guided Session 1

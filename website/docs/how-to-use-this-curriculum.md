@@ -37,6 +37,18 @@ If you're an adult who wants to help a young person become confident and thought
 
 The curriculum is designed for learners **ages 7–12** (roughly grades 2–6). Activities assume basic reading ability and no prior computer experience. Younger learners (7–8) will benefit from extra adult support and may need the "Simplify" options in each week. Older or more experienced learners will move through material faster and can be challenged with the stretch activities included in each week.
 
+### Standards and Support Note
+
+The curriculum is written in **standards-neutral language** so it can fit classrooms, homeschool plans, libraries, and mixed-age clubs without forcing one formal framework. In practice, it supports five recurring areas:
+
+- digital citizenship
+- computing systems
+- information search and evaluation
+- computational thinking
+- creative communication
+
+Use those strands as a practical crosswalk to your local expectations. Adapt pacing, artifact choices, and tool choices to fit your setting.
+
 ### Adapting for Different Ages and Experiences
 
 | Learner Profile | What to Expect | What Helps |
@@ -57,6 +69,16 @@ The curriculum is designed for learners **ages 7–12** (roughly grades 2–6). 
 - **No prior tech expertise from the adult** — the curriculum teaches you alongside the learner
 
 That's it. No expensive subscriptions, no downloads, no IT department required.
+
+### Accounts, Access, and Adult Setup
+
+Try not to make **student-owned accounts** the default. In most settings, one of these options works better:
+
+- educator-managed or classroom accounts
+- family-managed access at home
+- no-account paths such as screenshots, shared demonstration, offline planning sheets, or saved sample files
+
+For AI tools and some creation platforms, always check **provider terms**, **school or library policy**, and whether **adult-managed access** is expected. The curriculum is designed so learners can still participate when the adult operates the account or when a no-account fallback is used.
 
 ### Device Notes
 
@@ -91,6 +113,15 @@ The curriculum has **18 core weeks** organized into **5 units**, plus two option
 
 Every session includes learning goals, activities, and reflection questions. You don't need to plan from scratch — just read the session before you begin and follow along.
 
+Each weekly page also works best when you look for four things before you teach:
+
+- the learner-facing goal
+- the materials or device setup
+- the quick formative check
+- the portfolio artifact or saved work for the week
+
+Those four items help keep the curriculum teachable even when time is short.
+
 ---
 
 ## Recommended Pacing
@@ -104,6 +135,17 @@ But the curriculum is flexible:
 - **Working with a group that needs more practice?** Stay on a week longer. There's no penalty for spending extra time where learners need it.
 
 The important thing is that learners feel comfortable — not rushed.
+
+### Mixed-Age Grouping Tips
+
+If you are teaching ages 7-12 together, keep one shared theme but vary the output:
+
+- let younger learners answer orally, draw, sort cards, or complete fewer steps
+- let older learners explain their reasoning, compare tools, or add an extra revision step
+- use partner roles on shared devices such as **driver**, **navigator**, **reader**, or **checker**
+- keep the guided sessions shared, then split independent work by readiness
+
+This usually works better than trying to run separate lessons for each age band.
 
 ---
 
@@ -162,6 +204,18 @@ The portfolio serves two purposes:
 
 Keep it simple. The goal is saving work, not perfecting organization.
 
+For a printable artifact checklist and project milestone log, use the [Portfolio Tracker](./portfolio-tracker.md).
+
+### Final Project Continuity
+
+From Week 15 onward, keep three simple habits visible:
+
+1. **Planning sheet**: what the learner wants to make, who it is for, and which tools they plan to use
+2. **Version tracking**: save project files with clear names such as `ProjectName_v1`, `ProjectName_v2`, and `ProjectName_final`
+3. **Creator reflection**: keep short notes on what changed after feedback, what problems were solved, and whether AI help was used
+
+These habits make progress easier to teach, assess, and celebrate in Week 18.
+
 ---
 
 ## Assessment
@@ -177,6 +231,11 @@ For the full assessment framework, see the [Assessment and Progress](./assessmen
 Every group of learners is different. The curriculum is designed to flex — whether you're working with one child at home, a group of twenty in a classroom, or a mixed-age after-school club.
 
 For specific strategies on supporting diverse learners, shared devices, low-internet settings, English language learners, and more, see the [Adaptations and Accessibility](./adaptations-and-accessibility.md) page.
+
+Two reliable fallback moves are worth planning in advance:
+
+- an **offline or low-tech version** of each week, using discussion, drawing, paper planning, or screenshots
+- a **shared-demo version**, where the adult projects or operates the tool while learners direct decisions and record observations
 
 ---
 
@@ -195,6 +254,14 @@ Here's a concrete list of steps to begin:
 That's it. You don't need to read the whole curriculum in advance. Take it one week at a time.
 
 For templates, checklists, and other planning tools, see the [Facilitator Toolkit](./facilitator-toolkit.md).
+
+Useful companion pages:
+
+- [Assessment & Progress](./assessment-and-progress.md)
+- [Portfolio Tracker](./portfolio-tracker.md)
+- [Competency Map](./competency-map.md)
+- [Troubleshooting Routine](./troubleshooting-routine.md)
+- [Digital Habits & Safety](./digital-habits-and-safety.md)
 
 :::info You've Got This
 The most important thing you bring to this curriculum isn't tech knowledge — it's your willingness to be curious alongside the learners in your care. That's enough.

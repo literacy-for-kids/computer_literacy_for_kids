@@ -51,7 +51,7 @@ Learning to use AI well means:
 
 
 :::note[🔒 Safety Note]
-All AI interactions for ages 8–12 should be supervised by an adult. Do not let learners share personal information with AI tools. Remind learners that AI can sound confident and still be wrong — always check important facts with a trusted source. AI outputs should be reviewed by a human before being trusted or shared.
+All AI interactions for ages 8–12 should be supervised by an adult. Do not let learners share personal information with AI tools, including full names, addresses, school names, passwords, or private photos. Remind learners that AI can sound confident and still be wrong — always check important facts with a trusted source. AI outputs should be reviewed by a human before being trusted or shared.
 :::
 
 :::info Facilitator Snapshot
@@ -72,7 +72,7 @@ All AI interactions for ages 8–12 should be supervised by an adult. Do not let
 :::info Before You Begin
 - **Time needed:** ~30–45 minutes per guided session; ~20–30 minutes for the independent session.
 - **Devices needed:** A computer or tablet with internet access.
-- **Accounts:** All major AI tools (ChatGPT, Gemini, Copilot, and others) require users to be **13 or older** to create an account. Use your own adult account and operate the tool yourself — do not create a new account for the learner or let them log in with a student account. Learners should direct the conversation while you handle the tool.
+- **Access note:** Check provider terms, school or library policy, and family expectations before using any AI tool. In this curriculum, **adult-managed access** is the default: the adult opens the tool, the learner directs the questions, and saved examples or screenshots are a valid no-login fallback.
 - Ensure access to a generative AI tool (such as ChatGPT, Gemini, Copilot, or another conversational AI). Any conversational AI tool will work for this lesson — see [Tool Alternatives](./tool-alternatives.md) for options.
 - Prepare a few simple prompts to demonstrate AI behavior.
 - Have paper or a whiteboard available for discussion.
@@ -88,6 +88,30 @@ The student should leave with three ideas:
 - AI can generate things
 - AI can make mistakes
 - humans must still think carefully
+:::
+
+## Week at a Glance
+
+### Learner Goal
+I can ask AI a question, notice when it sounds helpful or wrong, and keep my private information safe.
+
+### Materials
+- adult-managed AI tool or saved prompt-and-response examples
+- paper or note sheet for observations
+- a second source to compare against when needed
+
+### Quick Formative Check
+Ask two questions before using any tool: "Should we type our full name into AI?" and "Can AI sound right but still be wrong?"
+
+### What Success Looks Like
+- The learner can name one privacy rule for using AI.
+- The learner can point out at least one part of an AI answer that should be checked, changed, or questioned.
+
+### Low-Tech / Offline Option
+Use printed AI prompts and responses, then annotate what seems useful, questionable, private, or worth checking with another source.
+
+:::info AI Use Note
+If live AI access is not appropriate in your setting, use saved examples and keep the focus on privacy, fact-checking, and judgment. The learning goal is not logging in. The learning goal is thinking clearly about outputs.
 :::
 
 ---
@@ -121,6 +145,14 @@ Explain that AI is really a **computer system trained to recognize patterns and 
 **2. Demonstrate AI Generating Text**
 
 Open an AI tool.
+
+Before typing, do a quick privacy pause together:
+
+- no full name
+- no address
+- no school name
+- no passwords
+- no private photos or identifying details
 
 Ask it a simple question such as:
 
@@ -205,6 +237,10 @@ Both require us to ask:
 - Does it make sense?
 - Should we check another source?
 
+Add one more question:
+
+- Is there anything here we should reject, rewrite, or keep private?
+
 AI is simply **another tool for exploring ideas**.
 
 Connect to something they already know:
@@ -244,6 +280,8 @@ AI gives a starting point, and **people improve it**.
   - *Sentence starter: “AI can help by… but the person still needs to…”*
 - “Why is human judgment still necessary even when AI sounds confident?”
   - *Sentence starter: “Even when AI sounds sure, a person should… because…”*
+- “What information should stay private when using AI, and what should we double-check before sharing?”
+  - *Sentence starter: “I would keep … private, and I would check … before sharing it.”*
 
 ---
 

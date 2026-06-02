@@ -12,6 +12,10 @@ This curriculum is designed to work across different devices, platforms, and bud
 
 This page lists options for each category of tool used in the curriculum.
 
+:::tip Access First
+Choose tools that fit your setting's age expectations, privacy rules, and device reality. When a tool needs an account, check **provider terms**, **school or library policy**, and whether **adult-managed access** is the better option. If a tool is blocked or unavailable, screenshots, shared demonstration, and offline planning are all valid substitutes.
+:::
+
 ---
 
 ## Typing Practice
@@ -100,6 +104,13 @@ Scratch is the recommended tool because it's free, visual, and gives learners ro
 | [KidRex](https://www.kidrex.org/) | Kid-safe search powered by Google SafeSearch |
 | Any search engine | Make sure appropriate safety settings are enabled |
 
+Teaching reminder for Weeks 7-8:
+
+- a **search result** is a preview, not the source itself
+- the first result is not always the best result
+- sponsored or ad-labeled results should be noticed before clicking
+- open a second source when a fact matters
+
 ---
 
 ## AI Tools
@@ -108,13 +119,14 @@ Scratch is the recommended tool because it's free, visual, and gives learners ro
 
 | Tool | Notes |
 |------|-------|
-| [ChatGPT](https://chat.openai.com/) | Free tier available; requires account |
-| [Google Gemini](https://gemini.google.com/) | Free, web-based |
-| [Microsoft Copilot](https://copilot.microsoft.com/) | Free, web-based |
-| Any conversational AI tool | Always with an adult present |
+| [ChatGPT](https://chat.openai.com/) | Adult-managed access recommended; review provider terms before use |
+| [Google Gemini](https://gemini.google.com/) | Check provider terms and local policy before using |
+| [Microsoft Copilot](https://copilot.microsoft.com/) | Adult-managed or school-approved access recommended |
+| Teacher-selected prompt/response examples | Good no-account fallback for discussion and annotation |
+| Any conversational AI tool | Use only when an adult manages access and checks outputs |
 
 :::tip Important
-All AI interactions in this curriculum should be **supervised by an adult**. Learners ages 8–12 should not use AI tools independently. The lessons are designed for guided, shared exploration — not solo use.
+All AI interactions in this curriculum should be **supervised by an adult**. Check **provider terms**, **school or library policy**, and **family expectations** before use. The lessons are designed for guided, shared exploration — not solo use. If live AI access is not appropriate, use saved examples and focus on privacy, fact-checking, originality, and disclosure.
 :::
 
 ---
@@ -125,11 +137,12 @@ All AI interactions in this curriculum should be **supervised by an adult**. Lea
 
 | Tool | Notes |
 |------|-------|
-| [TinkerCAD](https://www.tinkercad.com/) | Free, web-based — recommended for beginners |
+| [TinkerCAD](https://www.tinkercad.com/) | Free, web-based — recommended for beginners; classroom or family-managed access is preferred |
 | [BlocksCAD](https://www.blockscad3d.com/) | Free, web-based, code-based 3D modeling |
 | [3D Slash](https://www.3dslash.net/) | Simplified interface, free tier |
+| Screenshot storyboard or paper design sketch | Valid no-account alternative when live design access is not appropriate |
 
-3D printing access isn't required. If learners want to print their designs, options include school or library printers, local makerspaces, or online 3D printing services.
+3D printing access isn't required. If learners want to print their designs, options include school or library printers, local makerspaces, or online 3D printing services. A no-printer path that ends with screenshots, labeled design views, or a design explanation is still a complete outcome.
 
 ---
 

@@ -32,10 +32,10 @@ This week introduces a powerful idea:
 
 You will:
 
-- design a small object in TinkerCAD
-- prepare it for printing
-- watch it being printed
-- hold the object you designed
+- design a small object in TinkerCAD or another beginner CAD tool
+- prepare it for printing or for a screenshot storyboard
+- watch it being printed when printer access is available
+- explain how the design could move from screen to object
 
 This is one of the ways computers help people **build things in the real world**.
 
@@ -61,7 +61,7 @@ This is one of the ways computers help people **build things in the real world**
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session, plus print time (20–40 minutes depending on the design).
 - **Device needed:** any computer with a modern web browser and mouse.
-- **Account needed:** a TinkerCAD account (or your chosen 3D design tool — see [Tool Alternatives](./tool-alternatives.md) for options).
+- **Access note:** Use educator-managed, classroom-managed, family-managed, or teacher-demo access. A student-owned account is not required if the learner can work from a shared device, screenshots, or exported sample files.
 - **Slicer software:** a slicer application (such as Bambu Studio, Cura, PrusaSlicer, or your printer’s recommended software) installed and working.
 - **Printer:** any FDM 3D printer, ready to print with filament loaded. If you don’t have a printer, see the [No-Printer Path](#no-printer-path) below.
 - Keep the design simple so the print completes within **20–40 minutes**.
@@ -73,6 +73,26 @@ Focus on **the connection between digital design and physical objects**.
 
 The goal is not perfect design — the goal is understanding that ideas can move from **screen → object**.
 :::
+
+## Week at a Glance
+
+### Learner Goal
+I can turn a digital design into a print-ready plan, or explain it clearly even without a printer.
+
+### Materials
+- 3D design tool or teacher-prepared screenshots
+- optional slicer software
+- optional 3D printer or print demo
+
+### Quick Formative Check
+Ask the learner what happens after designing: export, slice, print. Then ask what to do instead if there is no printer.
+
+### What Success Looks Like
+- The learner can explain the basic design-to-print pipeline.
+- The learner can finish with a valid artifact even when printing is not available.
+
+### Low-Tech / Offline Option
+Create a screenshot storyboard or labeled paper diagram that shows the design, export, slicing, and final object idea.
 
 ---
 
@@ -284,6 +304,8 @@ Your design might be printed later!
 ## No-Printer Path
 
 If you don’t have access to a 3D printer, you can still complete this lesson:
+
+A **screenshot storyboard**, **labeled design explanation**, or **saved STL plus reflection** counts as a complete finished outcome for this week.
 
 - **Design only**: Complete the full design in TinkerCAD or another 3D tool. Save the STL file and view it in a free online STL viewer.
 - **Library or makerspace**: Many public libraries and makerspaces offer 3D printing. Export the STL and bring it on a USB drive.
