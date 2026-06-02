@@ -88,6 +88,26 @@ Encourage questions like:
 > “Which words will help me search better?”
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can choose better search words, read the results page carefully, and decide what is worth opening.
+
+### Materials
+- browser with SafeSearch or a kid-friendly search engine
+- 2-3 high-interest topics
+- simple notes page or fact sheet template
+
+### Quick Formative Check
+Ask the learner which search is more useful: `dogs` or `why do dogs wag their tails`, and have them explain why.
+
+### What Success Looks Like
+- The learner can explain that a search result is a preview and the source is the page they open.
+- The learner can use more than one clue before clicking the first result.
+
+### Low-Tech / Offline Option
+Use printed search-result cards and ask learners to rank which result they would open first, which one they would skip, and why.
+
 ---
 
 ## Guided Session 1
@@ -139,6 +159,13 @@ Look at:
 - short descriptions
 
 Explain that each result leads to a **different website**.
+
+Clarify an important idea:
+
+- a **search result** is the preview on the search page
+- a **source** is the actual website, article, video, or organization page you open next
+
+That helps learners understand that the results page is a list of options, not the answer itself.
 
 ---
 
@@ -233,6 +260,7 @@ Ask the student to notice:
 - the short description
 - pictures, if the search engine shows them
 - which result seems most helpful to open first
+- who seems to have made the website or page behind the result
 
 Explain that the search results page is giving us **clues** before we click.
 
@@ -272,10 +300,23 @@ You do not need to explain the full technology. The goal is simply for the stude
 
 ---
 
+**4. Quick Double-Check Routine**
+
+After opening one promising result, pause and ask:
+
+- Who made this?
+- Does this seem like a school, museum, library, news site, company, or something else?
+- Can we open one second source to see whether it says something similar?
+
+Explain that careful searchers do not always stop at the first page they open. They often do a quick **second-source check** before trusting an important fact.
+
+---
+
 #### Reflection Questions
 - “Which clues on the results page helped you judge where to click first?”
 - “How did you compare two possible results before making a choice?”
 - “Why is it important to evaluate results instead of trusting the top one automatically?”
+- “How did checking who made the page or opening a second source change your thinking?”
 
 :::tip Sentence Starters for Younger Learners
 - “I decided to click on that result because…”
@@ -296,6 +337,7 @@ As you search, compare:
 - which wording gave better results
 - which result looked most useful
 - what clues helped you decide where to click
+- whether a second source supported the same idea
 
 Then create one short record of your investigation:
 

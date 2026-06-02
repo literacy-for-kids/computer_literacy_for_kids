@@ -55,7 +55,7 @@ Your project will also grow through **experimentation and improvement**.
 :::info Before You Begin
 - **Time:** Each guided session runs about 30–45 minutes. The independent session is 20–30 minutes.
 - **Device:** One computer or tablet per learner with keyboard and mouse/trackpad.
-- **Accounts:** Ensure the student can log in to Scratch and any other project tools.
+- **Access note:** Use whatever access path keeps the project moving: local files, adult-managed logins, classroom-managed tools, or screenshots from a shared device. The learner does not need a new account to keep revising work.
 - Ensure access to all tools the student may use for their project:
   - Scratch
   - drawing tools
@@ -78,6 +78,30 @@ Avoid correcting too much. Instead ask questions that help the student think:
 
 > “What could we try next?”  
 > “What might improve this part?”
+:::
+
+## Week at a Glance
+
+### Learner Goal
+I can test my project, improve one important part, and save a new version.
+
+### Materials
+- latest project file or screenshot
+- planning sheet from Week 15
+- short feedback or testing notes
+
+### Quick Formative Check
+Ask the learner to name one part that already works and one part that needs improvement before they start editing.
+
+### What Success Looks Like
+- The learner can describe one improvement goal based on testing.
+- The learner saves a new version instead of overwriting the only copy.
+
+### Low-Tech / Offline Option
+Use a printed screenshot or storyboard and mark improvements by hand before making digital changes later.
+
+:::tip Version Tracking
+Save each meaningful revision as a new version, such as `ProjectName_v2` or `ProjectName_v3`, and add a short note about what changed. This creates visible evidence of revision.
 :::
 
 ---

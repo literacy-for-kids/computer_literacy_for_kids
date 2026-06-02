@@ -10,11 +10,11 @@ sidebar_position: 0
 
 # 18-Week Computer Literacy Curriculum
 
-This curriculum provides a **structured introduction to computer literacy** for young beginners (roughly ages 7–12, with adult guidance as needed). It blends guided instruction with independent exploration to help learners develop confidence using computers for **communication, creativity, problem solving, and digital citizenship**.
+This curriculum helps children learn to **use computers with confidence, care, and creativity**. Across 18 weeks, learners practice finding their way around a device, saving work, searching wisely, making digital art and writing, trying beginner coding, and building a project they can proudly share.
 
-The program works in **classrooms, homeschool settings, libraries, and after-school programs** — anywhere an adult can guide a young learner through hands-on exploration. It progresses from **basic computer interaction** toward **creative digital projects**, gradually introducing concepts like coding, media creation, information literacy, and generative AI.
+The program works in **classrooms, homeschool settings, libraries, and after-school programs**. It keeps the learning hands-on and flexible so adults can adjust for mixed ages, shared devices, and different levels of reading or prior computer experience.
 
-Lessons are intentionally **hands-on, interest-driven, and flexible**, allowing the facilitator to adapt activities based on the learner’s curiosity and pace while still pushing students to **analyze, evaluate, and create**.
+Lessons move from **basic computer interaction** toward **creative digital projects**, gradually introducing coding, media creation, information search and evaluation, digital citizenship, and guided AI literacy. The goal is not fast coverage. The goal is steady growth in judgment, communication, and practical computer skills.
 
 For detailed setup guidance, pacing options, and environment tips, see [How to Use This Curriculum](./how-to-use-this-curriculum.md).
 
@@ -49,6 +49,17 @@ Use this roadmap image when you want a quick visual summary of how the full sequ
 Young beginner computer users (roughly ages 7–12).  
 Basic reading ability is helpful, but adult guidance is expected.
 
+### Who This Is Best For
+
+This curriculum works best for learners who are ready to:
+
+- explore a computer or tablet with adult guidance
+- talk through what they notice, try, and create
+- save simple digital work in a folder or shared drive
+- build confidence a little at a time instead of rushing ahead
+
+It is especially useful in mixed-age groups because every week can be simplified for younger learners or extended for older learners.
+
 ### Weekly Structure
 Each week contains:
 
@@ -59,6 +70,19 @@ Guided sessions introduce concepts and tools.
 Independent sessions reinforce skills through creative exploration, reflection, and purposeful revision.
 
 Students regularly explain observations, compare choices, evaluate results, and revise their work.
+
+### Standards-Neutral Learning Areas
+
+This curriculum is written to be **standards-aware without locking you into one framework**. Local adaptation is expected. In practical terms, the course regularly supports:
+
+- **Digital citizenship** through privacy, respectful use, safe searching, and healthy online habits
+- **Computing systems** through device basics, files, apps, windows, debugging, and how systems fit together
+- **Information search and evaluation** through keyword choice, result checking, source awareness, and second-source routines
+- **Computational thinking** through sequencing, logic, block coding, testing, and revision
+- **Creative communication** through writing, drawing, presentation, and project sharing for a real audience
+- **Self-reflection** through weekly questions, portfolio habits, and project reflection
+
+Use these strands as a flexible crosswalk to your local standards, library goals, homeschool plans, or classroom outcomes.
 
 ### Typing Practice
 Beginning **Week 4**, incorporate **5–10 minutes of typing practice** during guided sessions.
@@ -95,7 +119,7 @@ The final format is flexible and may include:
 
 Assessment is **observation-based and low-pressure**. Each week includes natural checkpoints — reflection questions, show-and-tell moments, and creative outputs — that make learning visible without tests or grades.
 
-For details, see [Assessment & Progress](./assessment-and-progress.md). For the final project, see the [Final Project Rubric](./final-project-rubric.md).
+For details, see [Assessment & Progress](./assessment-and-progress.md). For the final project, see the [Final Project Rubric](./final-project-rubric.md). For artifact tracking across the full course, see the [Portfolio Tracker](./portfolio-tracker.md).
 
 ### Digital Portfolio
 
@@ -115,6 +139,16 @@ The curriculum repeatedly reinforces the key safety message:
 
 Students are encouraged to speak with a trusted adult whenever something online feels confusing or uncomfortable.
 Beyond this core message, the curriculum progressively builds **web literacy and digital judgment** — helping learners recognize ads versus real content, spot clickbait, handle popups wisely, protect personal information, and evaluate whether online information is trustworthy. These skills are woven into the weekly lessons rather than taught in isolation. For a quick-reference summary, see [Digital Habits & Safety](./digital-habits-and-safety.md).
+
+### Mixed-Age Teaching Note
+
+The course is designed for mixed-age settings. Each weekly lesson can be taught with:
+
+- a shorter, more concrete path for younger learners or students who need more support
+- a deeper extension for older learners or students who are ready to explain more independently
+- an offline or low-tech version when devices, accounts, internet, or printers are limited
+
+This makes it possible to keep a shared theme across a group without expecting every learner to work at the same speed.
 
 ### Practical Computer Operations
 

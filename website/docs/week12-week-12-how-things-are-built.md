@@ -82,6 +82,26 @@ The goal is helping the student realize:
 Encourage observation and curiosity.
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can break a big system into parts and explain how those parts work together.
+
+### Materials
+- one familiar object, machine, or video example
+- paper or whiteboard for system maps
+- optional Scratch or short demonstration tool
+
+### Quick Formative Check
+Ask the learner to name three parts of a familiar system such as a bicycle, game, or website and tell what each part does.
+
+### What Success Looks Like
+- The learner can name parts, jobs, and connections inside a system.
+- The learner can draw or explain a simple system map.
+
+### Low-Tech / Offline Option
+Use paper diagrams, cut-apart labels, or a household object to map parts and jobs without any screen time.
+
 ---
 
 ## Guided Session 1

@@ -91,6 +91,26 @@ This week is about **exploration and connected knowledge**.
 Wikipedia should be presented as a useful starting point, not as the final word on a topic.
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can use Wikipedia to start learning, then check where information came from and where to go next.
+
+### Materials
+- browser with Wikipedia or Simple English Wikipedia
+- a note sheet for links, references, and second sources
+- 2-3 safe, high-interest starting topics
+
+### Quick Formative Check
+Point to a heading, an in-article link, and a reference, then ask the learner what each one helps a reader do.
+
+### What Success Looks Like
+- The learner can explain why Wikipedia is a starting point, not a stopping point.
+- The learner can identify at least one source clue and one next place to verify information.
+
+### Low-Tech / Offline Option
+Use a printed article excerpt with headings, links, and references highlighted, then practice tracing where information came from on paper.
+
 ---
 
 ## Exploring Wikipedia
@@ -167,6 +187,10 @@ You can say:
 - references show where information came from
 - external links help us keep learning
 
+You can also say:
+
+> "A search result helps us find a page. A source is the actual page, article, or book behind the information."
+
 ---
 
 **3. Follow One Interesting Link**
@@ -231,6 +255,24 @@ Explain:
 - Wikipedia helps us explore that topic
 - references help us go deeper and check where the information came from
 
+Make the difference explicit:
+
+- a **search result** is a doorway or preview
+- a **source** is the actual material a claim comes from
+- a **second source** helps us check whether an important fact holds up somewhere else too
+
+---
+
+**4. Quick Source Check Routine**
+
+Pick one claim from the article and ask:
+
+- Who made the source behind this idea?
+- What kind of source is it?
+- Can we find one more source that says something similar?
+
+This simple routine keeps Wikipedia in its proper role: a useful place to begin, not the last word.
+
 ---
 
 **4. Polished Does Not Mean True**
@@ -261,6 +303,7 @@ For more on recognizing online tricks, see [Digital Habits & Safety](./digital-h
 - “What did the references help you infer about where the information came from?”
 - “How would you decide whether to keep reading the article or open one of its sources next?”
 - “Why is ‘start learning’ a stronger role for Wikipedia than ‘stop learning’?”
+- “How did a second source or source clue help you feel more confident about a fact?”
 
 :::tip Sentence Starters for Younger Learners
 - “I think the information came from…”

@@ -63,6 +63,26 @@ Instead help the student understand **why certain situations require caution or 
 All browsing this week should be **supervised by an adult**. Sit alongside the learner while they explore websites. Pre-bookmark sites before the session so the learner stays within safe, age-appropriate content. If something unexpected appears, use it as a calm teaching moment rather than a source of alarm. For a complete safety quick-reference, see [Digital Habits & Safety](./digital-habits-and-safety.md).
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can explore safe websites, tell private information from public information, and know when to ask an adult for help.
+
+### Materials
+- computer or tablet with a browser
+- 3-5 pre-bookmarked kid-friendly websites
+- paper or whiteboard for sorting ideas
+
+### Quick Formative Check
+Ask the learner to sort three examples such as `favorite color`, `home address`, and `a drawing` into `okay to share` or `keep private`, then explain one choice.
+
+### What Success Looks Like
+- The learner can explain that real people make what they see online.
+- The learner can name one safe next step if something online feels strange or confusing.
+
+### Low-Tech / Offline Option
+Use printed screenshots or a paper "internet map" to talk about links, safe choices, and when to ask a trusted adult for help.
+
 ---
 
 ## Guided Session 1

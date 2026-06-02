@@ -16,7 +16,7 @@ This rubric is a tool for reflection and conversation — not a scoring sheet. I
 
 The final project (Weeks 15–18) is the culmination of everything learners have explored in the curriculum. Students plan, build, revise, and present a project of their own design using the digital skills they've developed.
 
-This rubric helps you look at that work across six areas. The goal is to **celebrate what the learner accomplished** and **identify areas for continued growth** — not to assign a grade.
+This rubric helps you look at that work across the full process. The goal is to **celebrate what the learner accomplished** and **identify areas for continued growth** — not to assign a grade.
 ---
 
 ## Project Types
@@ -62,16 +62,27 @@ Use it as a conversation, not a test. The learner's own reflection is just as va
 
 | Area | Getting Started | Growing | Strong |
 |------|----------------|---------|--------|
-| **Planning** | Started building without a clear plan | Had a basic plan but changed it often without thinking through changes | Made a clear plan, followed it, and adjusted thoughtfully when needed |
-| **Digital Skills** | Needed frequent help with basic tools | Used tools with some help; improving | Used tools confidently and tried new features |
-| **Creativity** | Project is very similar to the examples shown | Added some personal ideas | Project shows clear personal voice and original thinking |
-| **Problem Solving** | Got stuck and waited for help | Tried to solve problems but needed guidance | Identified problems and tried solutions before asking for help |
-| **Revision** | Did not go back to improve the project | Made some improvements when asked | Actively reviewed, tested, and improved the project |
-| **Communication** | Could not explain the project clearly | Explained some parts of the project | Clearly explained what the project does, how it works, and what they learned |
+| **Planning & Audience** | Started building without a clear idea of purpose or audience | Had a basic idea and audience, but the plan stayed loose | Made a clear plan for what to build, who it is for, and what needed to happen next |
+| **Digital Skills** | Needed frequent help with basic tools | Used tools with some help; improving | Used tools confidently and chose tools that fit the project well |
+| **Source Awareness** | Used facts, images, or examples without checking where they came from | Showed some awareness of where information or inspiration came from | Clearly identified useful sources, checked important facts, and used information carefully |
+| **Originality & Attribution** | Mostly copied ideas without explaining own choices | Added some personal choices or partial credit for help received | Showed clear personal voice and could explain what was original, what was inspired by sources, and what help was used |
+| **Problem Solving & Revision Evidence** | Got stuck and waited for help; little visible revision | Tried to solve problems and made some changes with support | Tested, revised, saved versions, and could explain how feedback or troubleshooting improved the project |
+| **Communication to an Audience** | Could not explain the project clearly to others | Explained some parts of the project | Clearly explained what the project is, how it works, who it is for, and what was learned while making it |
 
 :::info Reading the Levels
 **Getting Started** doesn't mean failure — it means the learner is early in their development in that area. **Growing** means they're building skill with support. **Strong** means they're showing independence and confidence. Most learners will be a mix across different areas, and that's exactly what you'd expect.
 :::
+
+### AI-Assisted Work and Fully Human-Created Work
+
+Both kinds of projects can be valid in this curriculum.
+
+- A **fully human-created project** should still show planning, revision, and communication.
+- An **AI-assisted project** should also show what the learner changed, checked, rejected, or improved.
+
+If AI was used, look for a simple disclosure such as:
+
+> "I used AI to brainstorm three robot ideas. I kept the idea of a helper robot, changed the setting, and rewrote the description in my own words."
 
 ---
 
@@ -86,6 +97,7 @@ After completing the project, ask the learner to reflect on their experience. Th
 5. **If I had two more weeks, what would I add or change?**
 6. **Which skill from the [Competency Map](./competency-map.md) did I use the most in this project?**
 7. **What part of my [portfolio](./portfolio-tracker.md) helped me prepare for this project?**
+8. **If I used AI or outside sources, how did I use them responsibly and what did I change myself?**
 
 These questions help learners see their own growth — which is often the most meaningful part of the assessment.
 
@@ -96,10 +108,13 @@ These questions help learners see their own growth — which is often the most m
 Share this simpler version with the learner before they start the final project phase:
 
 - [ ] I have an idea I'm excited about
+- [ ] I know who my project is for
 - [ ] I made a plan that breaks my idea into parts
 - [ ] I built a first version and saved it
 - [ ] I tested my project and found at least one thing to improve
 - [ ] I made improvements and saved a new version
+- [ ] I can tell where my facts, pictures, or ideas came from
+- [ ] If I used AI or another source, I can explain what I changed and how I gave credit
 - [ ] I can explain what my project is and how it works
 - [ ] I can talk about what I learned while building it
 

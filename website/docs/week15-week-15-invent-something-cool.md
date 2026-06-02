@@ -62,7 +62,7 @@ Your final project will go through several versions before it is finished.
 :::info Before You Begin
 - **Time:** Each guided session runs about 30–45 minutes. The independent session is 20–30 minutes.
 - **Device:** One computer or tablet per learner with keyboard and mouse/trackpad.
-- **Accounts:** Ensure the student can log in to any tools they used earlier (Scratch account, AI tool, etc.).
+- **Access note:** If a project tool needs sign-in, prefer adult-managed, classroom-managed, or previously saved local access. A student-owned account is not required if the learner can work from downloaded files, screenshots, or teacher-managed sessions.
 - Ensure the student has access to the tools they used earlier in the course:
   - writing tools
   - drawing tools
@@ -81,6 +81,39 @@ Encourage **ownership and curiosity**.
 This project should belong to the student.
 
 The goal is not perfection — it is **creative exploration and persistence**.
+:::
+
+## Week at a Glance
+
+### Learner Goal
+I can choose a project idea, make a plan, and save a first version.
+
+### Materials
+- project planning sheet or notebook page
+- earlier portfolio items for inspiration
+- the tools the learner may use for the final project
+
+### Quick Formative Check
+Before building, ask the learner to say what they want to make, who it is for, and what the first step will be.
+
+### What Success Looks Like
+- The learner has a clear project idea and audience.
+- The learner saves a first version and can explain why it is only the starting point.
+
+### Low-Tech / Offline Option
+Create the full project plan on paper first using a storyboard, labeled sketch, or slide outline, then save a photo of the plan as the portfolio artifact if device time is limited.
+
+:::info Project Planning Sheet
+Use a simple planning page with these fields:
+
+- What I am making
+- Who it is for
+- What tools I will use
+- What my first version needs to include
+- Any facts, images, or outside help I may need to **attribute**
+- If I use AI, how I will use it and what I will still decide, check, or rewrite myself
+
+This sheet becomes the anchor for Weeks 15-18.
 :::
 
 ---

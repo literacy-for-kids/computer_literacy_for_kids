@@ -68,6 +68,26 @@ Scratch is a sandbox. The goal is simply for the student to discover:
 > “I can control what happens on the screen.”
 :::
 
+## Week at a Glance
+
+### Learner Goal
+I can snap blocks together in Scratch to make a sprite do something on purpose.
+
+### Materials
+- computer or tablet with Scratch open
+- mouse or trackpad for dragging blocks
+- local download folder or Scratch account if one is available
+
+### Quick Formative Check
+Before building, point to the stage, sprite, and block palette and ask the learner what each part is for.
+
+### What Success Looks Like
+- The learner can build and run one short sequence of blocks.
+- The learner can save or download the project with support if needed.
+
+### Low-Tech / Offline Option
+Use printed block cards or a storyboard where the learner arranges commands for what the sprite should do next.
+
 ---
 
 ## Guided Session 1
