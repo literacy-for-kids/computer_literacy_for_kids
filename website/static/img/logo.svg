@@ -1,4 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#2e8555"/>
-  <text x="100" y="120" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle">CL</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Computer Literacy for Kids Logo</title>
+  <desc id="desc">A compact blue computer monitor icon with a small circuit and Wi-Fi symbol, designed for the Computer Literacy for Kids curriculum.</desc>
+
+  <!-- Background badge -->
+  <rect x="12" y="12" width="176" height="176" rx="42" fill="#F8FAFC"/>
+  <rect x="12" y="12" width="176" height="176" rx="42" stroke="#4A90D9" stroke-width="8"/>
+
+  <!-- Monitor body -->
+  <rect x="43" y="48" width="114" height="82" rx="16" fill="#4A90D9"/>
+  <rect x="56" y="61" width="88" height="56" rx="8" fill="#FFFFFF"/>
+
+  <!-- Screen code brackets -->
+  <path d="M83 78L69 89L83 100" stroke="#4A90D9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M117 78L131 89L117 100" stroke="#4A90D9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Circuit trace in screen -->
+  <path d="M94 103H106V94" stroke="#93C5FD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="106" cy="94" r="5" fill="#93C5FD"/>
+
+  <!-- Monitor stand -->
+  <path d="M88 130H112V151H88V130Z" fill="#4A90D9"/>
+  <rect x="68" y="148" width="64" height="14" rx="7" fill="#4A90D9"/>
+
+  <!-- Wi-Fi signal -->
+  <path d="M76 43C90 32 110 32 124 43" stroke="#4A90D9" stroke-width="7" stroke-linecap="round"/>
+  <path d="M89 33C96 29 104 29 111 33" stroke="#4A90D9" stroke-width="6" stroke-linecap="round" opacity="0.65"/>
+
+  <!-- Small learning dots -->
+  <circle cx="49" cy="153" r="6" fill="#93C5FD"/>
+  <circle cx="151" cy="153" r="6" fill="#93C5FD"/>
 </svg>
