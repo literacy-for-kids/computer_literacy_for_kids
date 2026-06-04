@@ -21,6 +21,7 @@ jobs:
           cache-dependency-path: ./website/package-lock.json
       - run: npm ci
       - run: npm run build
+      - run: npm run validate:build
 
   lint-links:
     runs-on: ubuntu-latest
