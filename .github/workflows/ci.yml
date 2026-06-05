@@ -30,6 +30,7 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
+            --root-dir ./website/static
             --timeout 30
             --max-retries 3
             --retry-wait-time 5
@@ -42,6 +43,14 @@ jobs:
             --exclude 'https://www.3dslash.net'
             --exclude 'https://www.blockscad3d.com'
             --exclude 'https://www.nitrotype.com'
+            --exclude 'https://chat.openai.com'
+            --exclude 'https://onedrive.live.com'
+            --exclude 'https://www.canva.com'
+            --exclude 'https://docs.google.com'
+            --exclude 'https://drive.google.com'
+            --exclude 'https://gemini.google.com'
+            --exclude 'https://copilot.microsoft.com'
+            --exclude 'https://www.tinkercad.com'
             './README.md'
             './website/docs/**/*.md'
           fail: true
