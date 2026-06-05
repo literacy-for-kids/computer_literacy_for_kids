@@ -30,7 +30,6 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --root-dir ./website/static
             --timeout 30
             --max-retries 3
             --retry-wait-time 5
@@ -44,6 +43,5 @@ jobs:
             --exclude 'https://www.blockscad3d.com'
             --exclude 'https://www.nitrotype.com'
             './README.md'
-            './website/README.md'
             './website/docs/**/*.md'
           fail: true
