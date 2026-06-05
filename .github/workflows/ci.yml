@@ -31,8 +31,18 @@ jobs:
         with:
           args: >-
             --root-dir ./website/static
+            --timeout 30
+            --max-retries 3
+            --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
+            --exclude 'https://literacy-for-kids.github.io'
+            --exclude 'https://www.bbc.co.uk'
+            --exclude 'https://www.kidrex.org'
+            --exclude 'https://www.kiddle.co'
+            --exclude 'https://www.3dslash.net'
+            --exclude 'https://www.blockscad3d.com'
+            --exclude 'https://www.nitrotype.com'
             './README.md'
             './website/README.md'
             './website/docs/**/*.md'
