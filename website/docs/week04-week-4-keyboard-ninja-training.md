@@ -71,6 +71,10 @@ Keep it playful and relaxed.
 Watch for signs of hand or wrist discomfort during typing practice. Ensure the keyboard is at a comfortable height, the learner’s feet reach the floor (or use a footrest), and encourage short breaks every 10–15 minutes. Typing should never feel painful — if it does, stop and adjust the setup.
 :::
 
+:::tip Coping Skill Moment
+Practicing a new skill like typing can get frustrating fast. If your hands get tense or you feel like giving up, that's a signal — take a frustration pause: shake out your hands, one slow breath, then try just the next line. Frustration is part of learning, not proof you can't do it. (More on the [Coping Skills for Digital Life](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 ### Learner Goal

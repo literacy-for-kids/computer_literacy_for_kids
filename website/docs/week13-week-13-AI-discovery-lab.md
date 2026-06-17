@@ -90,6 +90,10 @@ The student should leave with three ideas:
 - humans must still think carefully
 :::
 
+:::tip Coping Skill Moment
+AI tools can sound very sure of themselves, which can feel impressive or convincing. Before believing or acting on an AI answer, run a quick fact-vs-story check: *What do I actually know is true, and what is the tool just claiming?* Slowing down keeps you in charge of the tool. (More on the [Coping Skills for Digital Life](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 ### Learner Goal

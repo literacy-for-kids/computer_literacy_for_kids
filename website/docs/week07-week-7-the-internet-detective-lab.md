@@ -88,6 +88,10 @@ Encourage questions like:
 > “Which words will help me search better?”
 :::
 
+:::tip Coping Skill Moment
+Searching the internet sometimes turns up something confusing, scary, or upsetting. If that happens, that uneasy feeling is a signal: pause, take a breath, and ask a trusted adult. A good detective knows when to bring in help. (More on the [Coping Skills for Digital Life](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 ### Learner Goal

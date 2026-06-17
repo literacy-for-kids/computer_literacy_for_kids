@@ -72,6 +72,10 @@ Students should leave this lesson thinking:
 This mindset is the foundation of engineering and programming.
 :::
 
+:::tip Coping Skill Moment
+When a bug gets frustrating, say: *"One bug at a time."* Step back, breathe once, and describe only the next thing you can test. Debugging gets easier when your brain is calm enough to think clearly. (More on the [Coping Skills for Digital Life](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 ### Learner Goal

@@ -14,6 +14,8 @@ This 18-week program is not focused on memorizing software or following rigid in
 
 The goal is for students to develop **technical confidence and independent problem-solving skills** while building healthy habits around technology use.
 
+Technical confidence also means handling the *feelings* that come with screens — debugging frustration, intense online messages, and attention-grabbing content. The short [Coping Skills for Digital Life](./coping-skills.md) page introduces simple tools for staying in control of your choices online.
+
 By the end of the curriculum, students will understand not just *how* to use a computer — but **how digital systems work and how to figure things out on their own.**
 
 For learners who are interested, the curriculum also includes **optional 3D design (CAD) modules using TinkerCAD**, allowing students to design simple objects and potentially turn their digital ideas into **real-world physical creations through 3D printing.**

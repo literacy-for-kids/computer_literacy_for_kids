@@ -79,6 +79,10 @@ The goal is helping the student realize:
 > “The computer helps me turn my ideas into words.”
 :::
 
+:::tip Coping Skill Moment
+Typed words can feel sharper than someone meant, because there's no face or tone of voice attached. Before firing back a message that stung, pause and check the human on the other side: *Would I say this in person? Could they have meant it differently?* (More on the [Coping Skills for Digital Life](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 ### Learner Goal

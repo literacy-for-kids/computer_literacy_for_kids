@@ -13,6 +13,7 @@ const sidebars = {
     'how-to-use-this-curriculum',
     'curriculum-overview',
     'curriculum-at-a-glance',
+    'coping-skills',
     {
       type: 'category',
       label: 'Educator Resources',
