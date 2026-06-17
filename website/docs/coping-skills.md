@@ -24,6 +24,16 @@ Code breaks. Files vanish. Things don't work the way you expected. This happens 
 
 Without a face, a tone of voice, or a smile, text can feel sharper than someone meant it. A quick pause — and remembering there's a real human on the other side — keeps small misunderstandings from blowing up.
 
+## When this shows up
+
+These tools come in handy in everyday screen moments:
+
+- When debugging gets frustrating and nothing works
+- When notifications keep pulling your attention away
+- When an online message feels harsher than you expected
+- When a file, account, or project will not cooperate
+- When you need to step away and come back with a clearer head
+
 ## Tools that help on a screen
 
 - **Frustration pause** — stop, one breath, name it: *"This is frustrating."*
