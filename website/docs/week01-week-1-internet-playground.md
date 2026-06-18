@@ -40,6 +40,10 @@ This week focuses on helping the student understand **how the internet works at 
 The internet connects you to people, so communication is a safety skill too. When something online is confusing, scary, or just feels off, ask a trusted adult clearly: "I saw ___ and I'm not sure about it — can you look with me?" Asking for help is a skill, not a failure. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Computers do exactly what they're told, so a clear problem statement matters: "I expected ___, but ___ happened." That turns "it's broken" into something you can actually check. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

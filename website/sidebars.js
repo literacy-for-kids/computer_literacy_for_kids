@@ -15,6 +15,7 @@ const sidebars = {
     'curriculum-at-a-glance',
     'coping-skills',
     'communication-skills',
+    'problem-solving-skills',
     {
       type: 'category',
       label: 'Educator Resources',
