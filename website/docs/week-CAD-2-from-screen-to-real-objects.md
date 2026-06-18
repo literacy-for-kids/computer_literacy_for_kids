@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 12.2
 sidebar_label: "Optional: From Screen to Real Object"
 title: "Optional Week: From Screen to Real Object — Designing for 3D Printing"
@@ -50,7 +50,7 @@ This is one of the ways computers help people **build things in the real world**
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)

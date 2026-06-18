@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 3
 sidebar_label: "Week 3: Digital Treasure Chest"
 title: "Week 3: The Digital Treasure Chest"
@@ -35,7 +35,7 @@ Just like keeping treasures in a chest or toys in labeled bins, computers use **
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)

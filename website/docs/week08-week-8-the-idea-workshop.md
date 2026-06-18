@@ -56,7 +56,7 @@ Curious learners ask questions like:
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Exploring Wikipedia](#exploring-wikipedia)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)

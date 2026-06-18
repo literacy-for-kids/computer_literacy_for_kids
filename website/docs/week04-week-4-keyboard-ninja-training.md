@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 4
 sidebar_label: "Week 4: Keyboard Ninja Training"
 title: "Week 4: Keyboard Ninja Training"
@@ -38,7 +38,7 @@ Learning to type comfortably will make everything else in this course easier —
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)

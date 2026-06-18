@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 sidebar_label: "Week 1: Internet Playground"
 title: "Week 1: Internet Playground"
@@ -29,7 +29,7 @@ This week focuses on helping the student understand **how the internet works at 
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)

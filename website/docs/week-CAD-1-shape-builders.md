@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 12.1
 sidebar_label: "Optional: Shape Builders"
 title: "Optional Week: Shape Builders — Introduction to 3D Design"
@@ -52,7 +52,7 @@ You will begin using a tool called **TinkerCAD** or any beginner-friendly 3D des
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)

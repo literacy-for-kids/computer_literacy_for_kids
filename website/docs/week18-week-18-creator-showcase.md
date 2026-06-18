@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 18
 sidebar_label: "Week 18: Creator Showcase"
 title: "Week 18: Creator Showcase"
@@ -52,7 +52,7 @@ The big idea this week:
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)

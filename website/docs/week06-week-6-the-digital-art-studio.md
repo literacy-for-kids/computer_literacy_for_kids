@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 6
 sidebar_label: "Week 6: Digital Art Studio"
 title: "Week 6: The Digital Art Studio"
@@ -41,7 +41,7 @@ This week the student begins thinking of the computer as a **creative art studio
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
