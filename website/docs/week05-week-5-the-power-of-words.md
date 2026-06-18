@@ -53,6 +53,10 @@ This week the student will start thinking of the computer as a **tool for expres
 - [Setup Notes](#setup)
 :::
 
+:::tip Communication Moment
+Words have real effects — the same words can help or hurt depending on how they land. Online, where there's no tone of voice, that's easy to forget. Before you send a message, reread it once and ask: "Could this be read as harsher than I mean?" Clear, kind words prevent a lot of misunderstandings. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session.

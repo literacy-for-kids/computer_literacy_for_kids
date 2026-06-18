@@ -46,6 +46,10 @@ Debugging is really just **careful problem solving**.
 - [Setup Notes](#setup)
 :::
 
+:::tip Communication Moment
+Debugging and bug reports use the same move: describe expected vs. actual behavior. Try "I expected ___, but ___ happened. I already tried ___." That sentence helps a computer *and* a person find the problem faster — and it's the clearest way to ask for help when you're stuck. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** ~30–40 minutes per guided session; ~20 minutes for the independent session.

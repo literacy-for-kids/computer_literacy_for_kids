@@ -52,6 +52,10 @@ This week focuses on how to ask better questions and how to understand what sear
 - [Setup Notes](#setup)
 :::
 
+:::tip Communication Moment
+A good internet detective asks clear questions — of a search box and of people. When you search, name exactly what you want to know: "How do we know this is true?" or "Who says so?" A specific question gets a useful answer; a vague one gets a vague one. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session.

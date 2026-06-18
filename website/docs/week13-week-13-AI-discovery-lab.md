@@ -68,6 +68,10 @@ All AI interactions for ages 8–12 should be supervised by an adult. Do not let
 - [Setup Notes](#setup)
 :::
 
+:::tip Communication Moment
+Talking to an AI rewards the same skill as talking to people: clear requests. A vague prompt gets a vague answer; a specific one — "Explain ___ in two sentences for a 10-year-old" — gets something useful. Saying exactly what you want, and what you already tried, is good communication whether the listener is a person or a program. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** ~30–45 minutes per guided session; ~20–30 minutes for the independent session.
