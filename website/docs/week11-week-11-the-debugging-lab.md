@@ -50,10 +50,6 @@ Debugging is really just **careful problem solving**.
 Debugging and bug reports use the same move: describe expected vs. actual behavior. Try "I expected ___, but ___ happened. I already tried ___." That sentence helps a computer *and* a person find the problem faster — and it's the clearest way to ask for help when you're stuck. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Debugging starts with expected vs. actual: "I expected ___, but ___ happened." That sentence turns "it's broken" into a problem you can test — then change one thing at a time so you know what each change did. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** ~30–40 minutes per guided session; ~20 minutes for the independent session.
@@ -271,6 +267,10 @@ Observe how the behavior changes.
 ---
 
 **3. Change One Thing at a Time**
+
+:::tip Problem Solving Moment
+Once you know what happened, change only one thing before testing again. If you change five things at once, you will not know which change fixed the problem. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 Explain an important debugging rule:
 

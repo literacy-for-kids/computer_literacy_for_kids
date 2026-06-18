@@ -47,3 +47,5 @@ These are everyday problem-solving tools, not therapy, legal advice, or medical 
 The full toolkit has short lessons on naming the problem, sorting facts from guesses, breaking problems into parts, brainstorming options, trying one safe step, observing results, and adjusting:
 
 - [Problem Solving Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving)
+
+For quick-reference cards, see the hub [Printable Problem Solving Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving/problem-solving-printables).
