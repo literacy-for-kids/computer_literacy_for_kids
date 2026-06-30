@@ -24,13 +24,29 @@ jobs:
       - run: npm run validate:build
 
   lint-links:
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: ./website/package-lock.json
+      - run: npm ci
+        working-directory: ./website
+      - run: npm run build
+        working-directory: ./website
+      - name: Mirror build for lychee
+        run: |
+          rm -rf ./.lychee-root
+          mkdir -p ./.lychee-root
+          cp -R ./website/build/. ./.lychee-root/
+          rm -f ./.lychee-root/404.html
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --root-dir ./website/static
+            --root-dir ./.lychee-root
             --timeout 30
             --max-retries 3
             --retry-wait-time 5
@@ -51,6 +67,23 @@ jobs:
             --exclude 'https://gemini.google.com'
             --exclude 'https://copilot.microsoft.com'
             --exclude 'https://www.tinkercad.com'
-            './README.md'
-            './website/docs/**/*.md'
+            --exclude 'https://www.nasa.gov'
+            --exclude 'https://science.nasa.gov'
+            --exclude 'https://gml.noaa.gov'
+            --exclude 'https://keelingcurve.ucsd.edu'
+            --exclude 'https://ourworldindata.org'
+            --exclude 'https://www.nationalacademies.org'
+            --exclude 'https://www.usgs.gov'
+            --exclude 'https://www.europarl.europa.eu'
+            --exclude 'https://www.aluminum.org'
+            --exclude 'https://www.congress.gov'
+            --exclude 'https://bensguide.gpo.gov'
+            --exclude 'https://www.c-span.org'
+            --exclude 'https://www.icivics.org'
+            --exclude 'https://constitutioncenter.org'
+            --exclude 'https://worldslargestlesson.globalgoals.org'
+            --exclude 'https://www.pbslearningmedia.org'
+            --exclude 'https://www.un.org'
+            --exclude 'https://www.usa.gov'
+            './.lychee-root/**/*.html'
           fail: true
