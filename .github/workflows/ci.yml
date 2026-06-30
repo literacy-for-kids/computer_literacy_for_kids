@@ -36,7 +36,7 @@ jobs:
             --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
-            --exclude 'https://literacy-for-kids.github.io'
+            --exclude 'literacy-for-kids\.com'
             --exclude 'https://www.bbc.co.uk'
             --exclude 'https://www.kidrex.org'
             --exclude 'https://www.kiddle.co'

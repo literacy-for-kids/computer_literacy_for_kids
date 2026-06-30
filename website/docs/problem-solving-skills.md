@@ -10,7 +10,7 @@ slug: /problem-solving-skills
 
 This curriculum already includes debugging — figuring out why something on a computer is not doing what you wanted. The Problem Solving Toolkit makes that a life skill you can use anywhere: define the problem with expected vs. actual, change one thing at a time, observe, and adjust.
 
-This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving), connected to the digital skills this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://www.literacy-for-kids.com/docs/toolkits/problem-solving), connected to the digital skills this curriculum builds.
 
 ## A few core ideas
 
@@ -46,6 +46,6 @@ These are everyday problem-solving tools, not therapy, legal advice, or medical 
 
 The full toolkit has short lessons on naming the problem, sorting facts from guesses, breaking problems into parts, brainstorming options, trying one safe step, observing results, and adjusting:
 
-- [Problem Solving Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving)
+- [Problem Solving Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/problem-solving)
 
-For quick-reference cards, see the hub [Printable Problem Solving Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving/problem-solving-printables).
+For quick-reference cards, see the hub [Printable Problem Solving Cards](https://www.literacy-for-kids.com/docs/toolkits/problem-solving/problem-solving-printables).

@@ -1,13 +1,13 @@
 # Contributing to Computer Literacy for Kids
 
-Thank you for your interest in contributing. This is part of the [Literacy for Kids](https://literacy-for-kids.github.io/literacy_for_kids/) open-source curriculum ecosystem.
+Thank you for your interest in contributing. This is part of the [Literacy for Kids](https://www.literacy-for-kids.com/) open-source curriculum ecosystem.
 
 ---
 
 ## About This Curriculum
 
 **Computer Literacy for Kids** is a free, open-source curriculum for children ages 8–12.  
-Live site: https://literacy-for-kids.github.io/computer_literacy_for_kids/  
+Live site: https://computer.literacy-for-kids.com/  
 GitHub: https://github.com/literacy-for-kids/computer_literacy_for_kids
 
 Lesson content lives in `website/docs/`. The site is built with [Docusaurus v3](https://docusaurus.io/).
@@ -43,7 +43,7 @@ Lesson content lives in `website/docs/`. The site is built with [Docusaurus v3](
 - Keep lessons **10–20 minutes** and low-prep
 - Stay **politically neutral** on contested topics
 
-See the full [Content Style Guide](https://literacy-for-kids.github.io/literacy_for_kids/docs/content-style-guide) for details.
+See the full [Content Style Guide](https://www.literacy-for-kids.com/docs/content-style-guide) for details.
 
 ---
 
@@ -54,7 +54,7 @@ See the full [Content Style Guide](https://literacy-for-kids.github.io/literacy_
 - Test the build: `npm run build`
 - Preserve `baseUrl` and `trailingSlash: true` in `docusaurus.config.js`
 
-See the full [Technical Style Guide](https://literacy-for-kids.github.io/literacy_for_kids/docs/technical-style-guide) for details.
+See the full [Technical Style Guide](https://www.literacy-for-kids.com/docs/technical-style-guide) for details.
 
 ---
 

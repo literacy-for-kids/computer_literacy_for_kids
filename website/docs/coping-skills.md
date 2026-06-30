@@ -10,7 +10,7 @@ slug: /coping-skills
 
 This curriculum is about using a computer as a tool with confidence — exploring, creating, and solving problems. Part of that confidence is **handling the feelings that come with screens:** frustration when something won't work, intensity when messages fly back and forth, and the pull of notifications and content designed to grab your attention.
 
-This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills), connected to the digital habits this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://www.literacy-for-kids.com/docs/toolkits/coping-skills), connected to the digital habits this curriculum builds.
 
 ## Screens can overload attention
 
@@ -55,4 +55,4 @@ These are everyday coping and self-management tools, not therapy or medical advi
 
 The full toolkit has short lessons on noticing signals, pausing, grounding, breathing, body resets, checking your thoughts, asking for help, and building a personal coping menu:
 
-- [Coping Skills Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills)
+- [Coping Skills Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/coping-skills)

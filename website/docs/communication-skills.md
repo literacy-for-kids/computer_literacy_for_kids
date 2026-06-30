@@ -10,7 +10,7 @@ slug: /communication-skills
 
 This curriculum is about understanding computers — how they work, how to control them, and how to build with them. But a huge part of digital life is communicating: asking for help when something breaks, describing a bug so someone can fix it, working on a project with others, and sending messages that land the way you meant.
 
-This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication), connected to the building and problem-solving this curriculum teaches.
+This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://www.literacy-for-kids.com/docs/toolkits/communication), connected to the building and problem-solving this curriculum teaches.
 
 ## A few core ideas
 
@@ -46,4 +46,4 @@ These are everyday communication and self-management tools, not therapy or medic
 
 The full toolkit has short lessons on active listening, clarifying questions, explaining your thinking, disagreeing without attacking, asking for help, using feedback, and repairing misunderstandings:
 
-- [Communication Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication)
+- [Communication Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/communication)

@@ -57,26 +57,32 @@ if (BASE_PATH !== '/' && !html.includes(BASE_PATH)) {
   ok(`index.html references base path '${BASE_PATH}'`);
 }
 
-// 4. No incorrect base path variants
-if (html.includes('href="/"')) {
-  fail(`index.html contains 'href="/"' — root-relative link bypasses base path`);
-  failed = true;
-} else {
-  ok('No root-relative href="/" in index.html');
-}
-
-// 5. No asset references outside the base path (excluding hash fragments and external URLs)
+// 4 & 5. Base-path enforcement — only meaningful when NOT root-hosted.
+// Under baseUrl '/' (custom domain), href="/" and /assets/... are valid.
 const escapedBase = BASE_PATH.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-const rootRelativePattern = new RegExp(`(?:src|href)="\\/(?!${escapedBase.slice(1)}|#)`, 'g');
-const badRootRelative = [...html.matchAll(rootRelativePattern)].map((m) => m[0]);
-if (badRootRelative.length > 0) {
-  fail(
-    `index.html has ${badRootRelative.length} asset/link reference(s) not under base path:\n` +
-      badRootRelative.map((s) => `  ${s}`).join('\n')
-  );
-  failed = true;
+if (BASE_PATH !== '/') {
+  // 4. No root-relative href="/" that bypasses the base path
+  if (html.includes('href="/"')) {
+    fail(`index.html contains 'href="/"' — root-relative link bypasses base path`);
+    failed = true;
+  } else {
+    ok('No root-relative href="/" in index.html');
+  }
+
+  // 5. No asset references outside the base path (excluding hash fragments and external URLs)
+  const rootRelativePattern = new RegExp(`(?:src|href)="\\/(?!${escapedBase.slice(1)}|#)`, 'g');
+  const badRootRelative = [...html.matchAll(rootRelativePattern)].map((m) => m[0]);
+  if (badRootRelative.length > 0) {
+    fail(
+      `index.html has ${badRootRelative.length} asset/link reference(s) not under base path:\n` +
+        badRootRelative.map((s) => `  ${s}`).join('\n')
+    );
+    failed = true;
+  } else {
+    ok('No root-relative paths outside the base path in index.html');
+  }
 } else {
-  ok('No root-relative paths outside the base path in index.html');
+  ok('Base path is "/" (custom domain) — root-relative links are valid');
 }
 
 // 6. Referenced JS and CSS assets must exist on disk
