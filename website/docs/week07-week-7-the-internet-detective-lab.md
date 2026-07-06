@@ -56,10 +56,6 @@ This week focuses on how to ask better questions and how to understand what sear
 A good internet detective asks clear questions — of a search box and of people. When you search, name exactly what you want to know: "How do we know this is true?" or "Who says so?" A specific question gets a useful answer; a vague one gets a vague one. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-A good detective sorts facts, guesses, and missing information before deciding. Ask: "What do I actually know, and what do I still need to look up?" Naming the missing piece tells you where to investigate next. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session.
@@ -123,6 +119,10 @@ Use printed search-result cards and ask learners to rank which result they would
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+A good detective sorts facts, guesses, and missing information before deciding. Ask: "What do I actually know, and what do I still need to look up?" Naming the missing piece tells you where to investigate next. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### How Searching Works
 #### Learning Goal
 By the end of this session, the student can:
@@ -399,6 +399,12 @@ Save the learner’s search notes, fact sheet, or written record of their invest
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Search-and-check questions work best when you can recall them without looking. Cover the list, say the questions from memory, then check — practicing recall makes them show up when you actually need them.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 Look for these signs that the learner is making progress:
 

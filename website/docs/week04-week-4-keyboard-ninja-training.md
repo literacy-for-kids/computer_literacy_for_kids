@@ -335,6 +335,12 @@ Save a short typed paragraph or message the learner created in Notepad, or a scr
 
 ## Check for Understanding
 
+:::tip Learning Moment
+Typing gets better through small repeat visits, not one giant session. Five focused minutes today and five tomorrow usually helps more than waiting until it feels easy.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
+
 By the end of this week, look for whether the learner can:
 
 - Place their fingers on or near the home row keys (A S D F — J K L) with gentle reminders

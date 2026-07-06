@@ -188,6 +188,12 @@ The blocks send instructions to the sprite.
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Big things are built by many people doing visible jobs. When your group examines how something is made, try assigning roles: one person traces parts, one records, one asks "who made this piece?"
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Digital Systems and Physical Systems
 #### Learning Goal
 By the end of this session, the student can:

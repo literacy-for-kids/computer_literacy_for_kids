@@ -383,6 +383,12 @@ Save the learner’s fixed or improved Scratch project by downloading it (**File
 
 ## Check for Understanding
 
+:::tip Learning Moment
+A bug is data, not proof you are bad at code. Ask: "What does this error show, and what should I practice next?" Debugging is learning with a built-in clue attached.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
+
 By the end of this week, look for signs that the learner can:
 
 - Look at a broken program and describe what it is doing versus what it should be doing.

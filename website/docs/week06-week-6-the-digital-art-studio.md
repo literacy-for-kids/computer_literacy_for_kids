@@ -182,6 +182,12 @@ If the student makes a mistake or doesn't like a line, show them **Ctrl+Z** (Und
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Art projects collect pieces fast — sketches, colors, versions, saved files. A tiny material list with labels keeps the pieces findable: what exists, what it is called, and where it lives.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Pictures Tell Stories
 #### Learning Goal
 By the end of this session, the student can:

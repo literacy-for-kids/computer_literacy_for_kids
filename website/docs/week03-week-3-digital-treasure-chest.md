@@ -98,6 +98,12 @@ Use index cards as files and envelopes or boxes as folders, then practice naming
 ---
 
 ## Guided Session 1
+
+:::tip Information Organization Moment
+A folder is a category and a filename is a label. Before saving, ask the future-you test: "Will I know what this is and where it lives next month?" Topic + type + date beats "new doc" every time.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### What Is a File?
 #### Learning Goal
 By the end of this session, the student can:
@@ -372,6 +378,12 @@ Be ready to explain why your folder system works.
 This week’s artifact is the **My Projects** folder itself, with its subfolders and at least one saved file inside. Check that the learner can open File Explorer, navigate to their folder, and find their saved work. This organized folder will be used throughout the rest of the curriculum.
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Hard-to-remember file steps stick faster with Look / Cover / Try / Check: look at the steps, cover them, try them from memory, then check. Practice the fuzzy step again instead of just watching it done.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 By the end of this week, look for whether the learner can:
 

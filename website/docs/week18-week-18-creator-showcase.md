@@ -194,6 +194,12 @@ Explain that creators often learn the most while solving problems.
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+A showcase is a finish-together moment. Before presenting, check: "Who contributed what, and is every role credited?" Builders, testers, question askers, and encouragers all did real work.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Looking Back and Looking Forward
 #### Learning Goal
 By the end of this session, the student can:

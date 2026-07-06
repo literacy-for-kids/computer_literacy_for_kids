@@ -140,6 +140,12 @@ Repeat this rule clearly during the lesson:
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+Before a group builds an idea, name the shared goal out loud: "We are making ___ for ___." One target keeps different jobs — sketching, listing, questioning — aimed at the same invention.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Exploring Wikipedia
 #### Learning Goal
 By the end of this session, the student can:

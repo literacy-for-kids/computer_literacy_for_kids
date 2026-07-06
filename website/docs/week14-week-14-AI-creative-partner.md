@@ -104,6 +104,12 @@ This week is about creative ownership. If AI helps with an idea, the learner sho
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+When a group creates with an AI tool, agree on the shared goal first: "What are we trying to make?" Then split roles — one person prompts, one checks the output against the goal, one records what worked.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Asking Better Questions
 #### Learning Goal
 By the end of this session, the student can:
@@ -183,6 +189,12 @@ Explain that small changes in prompts can produce **very different ideas**.
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+When an AI tool gives you something useful, track where it came from: which prompt, which tool, which day. A quick source note keeps your project honest and makes the good results findable again.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Improving AI Ideas
 #### Learning Goal
 By the end of this session, the student can:

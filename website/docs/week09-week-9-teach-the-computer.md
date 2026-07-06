@@ -85,6 +85,12 @@ This week already works well unplugged: use a human-robot game, paper arrows, or
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+In pair work, one person can drive while another navigates. The driver controls the keyboard; the navigator watches the goal, asks questions, and spots patterns. Both roles are real work — swap them often.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Instructions Control Behavior
 #### Learning Goal
 By the end of this session, the student can:

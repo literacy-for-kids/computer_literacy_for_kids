@@ -57,10 +57,6 @@ This week the student will start thinking of the computer as a **tool for expres
 Words have real effects — the same words can help or hurt depending on how they land. Online, where there's no tone of voice, that's easy to forget. Before you send a message, reread it once and ask: "Could this be read as harsher than I mean?" Clear, kind words prevent a lot of misunderstandings. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Precise words make better instructions — and better problem statements. When something isn't working, say exactly what you expected and exactly what happened, step by step. Vague words hide the bug. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session.
@@ -114,6 +110,10 @@ Have the learner plan the message on paper or dictate it aloud first, then type 
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+Precise words make better instructions — and better problem statements. When something isn't working, say exactly what you expected and exactly what happened, step by step. Vague words hide the bug. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### Turning Ideas into Words
 #### Learning Goal
 By the end of this session, the student can:
@@ -370,6 +370,12 @@ Save the learner's written document (story, message, or creative writing piece) 
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+When writing feels hard to start, make the first step tiny: open the document and type the title. Starting is a separate skill from finishing, and a tiny step gets you moving.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 Look for these signs that the learner is making progress:
 

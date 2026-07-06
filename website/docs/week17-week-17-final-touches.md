@@ -336,6 +336,12 @@ Save the **polished final version** of the project (e.g., `ProjectName_Final`) a
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+"Final touches" can go forever without a done-enough check. Ask: "What was the purpose, what parts matter most, and what can wait?" Then stop when it is done enough.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 By the end of this week, look for signs that the learner can:
 
 - Review the entire project from an audience's perspective

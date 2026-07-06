@@ -107,6 +107,12 @@ Save each meaningful revision as a new version, such as `ProjectName_v2` or `Pro
 ---
 
 ## Guided Session 1
+
+:::tip Information Organization Moment
+Versions need labels. "game-v1," "game-v2-faster," and "game-v3-new-levels" tell future-you what changed and which file to open. A version label is a tiny note to your future self.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Testing the Project
 #### Learning Goal
 By the end of this session, the student can:
@@ -351,6 +357,12 @@ Save the **improved project (version 2 or later)** to the portfolio. If possible
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Improving a project is Version 2 learning: "Version 1 taught me ___, so Version 2 will change ___." Try teaching one part of your project to someone — the spot where you get stuck is your next practice target.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 By the end of this week, look for signs that the learner can:
 

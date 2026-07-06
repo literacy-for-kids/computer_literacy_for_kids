@@ -406,6 +406,12 @@ Save the **project plan document** and the **first version (v1)** of the project
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Before inventing, clear the job: "What am I making, and what does done look like?" A blurry idea is hard to start; a clear target gives you a first step.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 By the end of this week, look for signs that the learner can:
 
 - Brainstorm multiple project ideas and explain why they chose one

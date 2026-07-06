@@ -333,6 +333,12 @@ Take a screenshot of the learner’s desktop with their arranged windows or a dr
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Setting up a workspace is easier with a short checklist. Decide where files go and name them clearly now, so future-you does not have to hunt for them later.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 By the end of this week, look for whether the learner can:
 
 - Use a mouse or trackpad to single-click, double-click, drag, right-click, and scroll with growing comfort

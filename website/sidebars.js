@@ -13,9 +13,20 @@ const sidebars = {
     'how-to-use-this-curriculum',
     'curriculum-overview',
     'curriculum-at-a-glance',
-    'coping-skills',
-    'communication-skills',
-    'problem-solving-skills',
+    {
+      type: 'category',
+      label: 'Shared Skills',
+      collapsed: true,
+      items: [
+        'coping-skills',
+        'communication-skills',
+        'problem-solving-skills',
+        'learning-how-to-learn',
+        'executive-function',
+        'collaboration-skills',
+        'information-organization',
+      ],
+    },
     {
       type: 'category',
       label: 'Educator Resources',

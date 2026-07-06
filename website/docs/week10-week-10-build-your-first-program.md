@@ -303,6 +303,12 @@ If using a Scratch account, the project saves online automatically — but downl
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+A program is easier to build as a checklist of small steps. Break "build the program" into ordered steps and check each off — the project stops feeling like one giant task.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 By the end of this week, look for signs that the learner can:
 
 - Open Scratch and identify the main areas: stage, sprite, block palette, and script area.
