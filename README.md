@@ -7,20 +7,26 @@
 
 A curiosity-driven **18-week computer literacy curriculum** that helps young learners explore computers as tools for **thinking, creating, and solving problems.**
 
-🌐 **View the curriculum website:**  
+🌐 **Use the curriculum here:**
 https://computer.literacy-for-kids.com/
 
 ---
 
-# About the Curriculum
+## Why This Curriculum Exists
 
-This project provides an **18-week introduction to computing** designed for young learners (roughly ages 8-12, with adult guidance as needed).
+Many children grow up using computers constantly but never learn how they actually work. This curriculum aims to change that.
 
-Instead of focusing on memorizing software steps, the curriculum helps students develop **mental models for how computers work** and how to **figure things out independently**.
+The goal is simple: help kids feel like computers are tools they can **understand, control, and create with.**
 
-The lessons increasingly ask students to **analyze, evaluate, and create**, not just follow directions.
+---
 
-Students gradually explore topics including:
+## About the Curriculum
+
+This project provides an **18-week introduction to computing** designed for young learners (roughly ages 8–12, with adult guidance as needed).
+
+Instead of focusing on memorizing software steps, the curriculum helps students develop **mental models for how computers work** and how to **figure things out independently**. The lessons increasingly ask students to **analyze, evaluate, and create**, not just follow directions.
+
+Students gradually explore:
 
 - digital citizenship and internet safety
 - computer fundamentals and file organization
@@ -32,35 +38,11 @@ Students gradually explore topics including:
 - generative AI literacy
 - creative digital projects
 
-For learners who want to go further, the curriculum also includes an optional CAD extension using TinkerCAD and 3D printing concepts.
-
-The program gradually moves students from:
-
-
-digital awareness → digital reasoning → digital creativity
-
+The program gradually moves students from **digital awareness → digital reasoning → digital creativity.**
 
 ---
 
-# Optional CAD Extension
-
-For learners interested in design and engineering, the curriculum includes an **optional 3D design module using TinkerCAD**.
-
-Students can learn to:
-
-- create simple 3D models
-- understand spatial design
-- prepare models for **3D printing**
-
-This introduces a powerful idea for kids:
-
-**Ideas can move from imagination → digital design → real physical objects.**
-
----
-
-# Curriculum Structure
-
-The curriculum progresses through several stages:
+## Curriculum Structure
 
 | Stage | Weeks | Focus |
 |------|------|------|
@@ -73,75 +55,49 @@ The curriculum progresses through several stages:
 | Creative Project | 15–18 | Designing and presenting a final digital project |
 | Optional CAD Extension | Bonus | TinkerCAD, 3D modeling, and preparing designs for 3D printing |
 
-Each week includes:
+Each week includes two guided sessions and one independent creative session.
 
-- two guided sessions
-- one independent creative session
+### Optional CAD Extension
 
-The curriculum emphasizes **exploration, reasoning, creativity, and problem solving**.
-
----
-
-# Repository Structure
-
-The curriculum is written as a documentation website built with **Docusaurus**.
-
-Most of the educational content lives in `website/docs/`.
-
-```
-website/
-  docs/
-    intro.md
-    curriculum-overview.md
-    week01-week-1-internet-playground.md
-    week02-week-2-computer-control-room.md
-    ...
-    week18-week-18-creator-showcase.md
-    week-CAD-1-shape-builders.md
-    week-CAD-2-from-screen-to-real-objects.md
-```
-
-Each lesson is written in **Markdown**, which makes it easy to edit and maintain.
-
-The website automatically generates navigation from these files.
+For learners interested in design and engineering, the curriculum includes an **optional 3D design module using TinkerCAD** — creating simple 3D models, understanding spatial design, and preparing models for 3D printing. It introduces a powerful idea for kids: **ideas can move from imagination → digital design → real physical objects.**
 
 ---
 
-# Contributing
+## How to Use It
 
-Contributions that improve the curriculum are welcome.
+You do not need to run all 18 weeks. Every lesson stands alone as a 10–20 minute discussion or activity — use one lesson, one stage, or the full sequence.
 
-Examples include:
-
-- improving explanations
-- fixing typos
-- adding examples or activities
-- suggesting teaching improvements
-- expanding documentation
-
-Typical workflow:
-
-1. Fork the repository  
-2. Create a new branch  
-3. Edit the Markdown files in `website/docs/`  
-4. Submit a pull request
+- **New to Literacy for Kids?** The hub's [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) has dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
+- **Only have 20 minutes?** Pick any week on the [curriculum site](https://computer.literacy-for-kids.com/), read the big idea, run one activity, and ask one discussion question.
+- **Want grab-and-go materials?** The [Shared Toolkit Printables](https://www.literacy-for-kids.com/docs/toolkits/printables/) are one-page cards kids can keep nearby.
 
 ---
 
-# License
+## Shared Skills
+
+This curriculum connects to the seven cross-curriculum [Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/) — short life-skill modules that support every literacy: **Coping Skills, Communication, Problem Solving, Learning How to Learn, Executive Function, Collaboration, and Information Organization.**
+
+The curriculum site includes a local doorway page for each toolkit (connecting the skill to digital life specifically), and weekly lessons contain "Moment" callouts that surface the right skill at the right time — like staying calm while debugging, or naming files so future-you can find them.
+
+---
+
+## Part of Literacy for Kids
+
+This is one of **nine domain literacies** in the [Literacy for Kids](https://www.literacy-for-kids.com/) ecosystem — free, open-source curricula covering decisions, computers, media, money, civic life, law, emotions and relationships, the environment, and health. Browse them all from the [hub site](https://www.literacy-for-kids.com/) or the [GitHub organization](https://github.com/literacy-for-kids).
+
+---
+
+## Contributing
+
+Contributions that improve the curriculum are welcome — fixing typos, sharpening explanations, adding examples or activities, or suggesting teaching improvements. Lesson content is plain Markdown under `website/docs/`; fork, edit, and open a pull request. Every page on the live site also has an "Edit this page" link that takes you straight to the file.
+
+---
+
+## License
 
 This project uses dual licensing:
+
 - Code (JavaScript, CSS, configuration, build scripts): [MIT License](LICENSE-CODE)
 - Curriculum content (Markdown documents under `website/docs/`): [CC BY-NC-SA 4.0](LICENSE-CONTENT)
 
 You are free to use, adapt, and share the curriculum content for non-commercial purposes, with attribution, and under the same license. The site code can be reused under MIT.
-
-# Why This Curriculum Exists
-
-Many children grow up using computers constantly but never learn how they actually work.
-
-This curriculum aims to change that.
-
-The goal is simple:
-
-Help kids feel like computers are tools they can understand, control, and create with.
