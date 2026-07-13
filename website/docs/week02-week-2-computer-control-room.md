@@ -126,6 +126,12 @@ Draw a simple diagram together:
 Input → Computer → Result
 
 
+![The input, computer, result pattern: you give an input like pressing a key, the computer processes it, and you see a result like a letter appearing](/img/diagrams/input-output.svg)
+
+You can also point to the real machine while you talk — here are the parts and their jobs:
+
+![Labeled parts of a computer: the monitor shows results, the tower holds the CPU, memory, and storage, the keyboard and mouse are inputs, and speakers are outputs](/img/diagrams/computer-parts.svg)
+
 Examples:
 
 - Click icon → App opens  

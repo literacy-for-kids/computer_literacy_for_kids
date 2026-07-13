@@ -87,6 +87,8 @@ I can turn a digital design into a print-ready plan, or explain it clearly even 
 ### Quick Formative Check
 Ask the learner what happens after designing: export, slice, print. Then ask what to do instead if there is no printer.
 
+![From screen to real object: design the model, export it as an STL file, a slicer cuts it into printable layers, and the 3D printer builds it layer by layer](/img/diagrams/cad-pipeline.svg)
+
 ### What Success Looks Like
 - The learner can explain the basic design-to-print pipeline.
 - The learner can finish with a valid artifact even when printing is not available.

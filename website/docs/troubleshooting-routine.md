@@ -12,6 +12,8 @@ When something goes wrong on the computer, it can feel frustrating. But most pro
 
 This page teaches a step-by-step routine that works for almost any computer problem. Facilitators can introduce it as early as Week 2, and learners can refer back to it anytime.
 
+![The troubleshooting routine: stop, think back, try one small thing, try again, then ask for help](/img/diagrams/troubleshooting-badge.svg)
+
 ---
 
 ## The 5-Step Troubleshooting Routine

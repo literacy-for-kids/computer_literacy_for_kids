@@ -1,0 +1,76 @@
+<svg viewBox="0 0 860 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="srTitle">
+  <title id="srTitle">A made-up search results page for the query best skateboard for kids: the top result is marked Sponsored because it is a paid ad, followed by organic results — with callouts showing the ad label, the web address, and the snippet</title>
+  <defs>
+    <marker id="srA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="638" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="38" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="700" fill="#1e293b">Reading a Search Results Page (a made-up example)</text>
+
+  <!-- browser frame -->
+  <rect x="45" y="58" width="560" height="556" rx="12" fill="#f8fafc" stroke="#94a3b8" stroke-width="2.5"/>
+  <!-- search box -->
+  <rect x="70" y="80" width="420" height="38" rx="19" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+  <text x="90" y="105" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" fill="#1e293b">best skateboard for kids</text>
+  <circle cx="512" cy="99" r="12" fill="none" stroke="#4a90d9" stroke-width="3"/>
+  <line x1="521" y1="108" x2="530" y2="117" stroke="#4a90d9" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- result 1: AD -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <rect x="66" y="136" width="518" height="112" rx="8" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+    <text x="82" y="162" font-size="12" font-weight="800" fill="#92400e">Sponsored</text>
+    <text x="82" y="186" font-size="16" font-weight="600" fill="#1d4ed8">MegaBoards &#8212; Kids&#8217; Skateboards 50% Off Today!</text>
+    <text x="82" y="206" font-size="12.5" fill="#166534">www.megaboards-shop.example</text>
+    <text x="82" y="228" font-size="13" fill="#475569">The #1 shop for kids&#8217; boards. Free shipping! Buy now and&#8230;</text>
+  </g>
+
+  <!-- result 2: organic -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <text x="82" y="290" font-size="16" font-weight="600" fill="#1d4ed8">How to Choose a First Skateboard &#8212; Kids&#8217; Sports Library</text>
+    <text x="82" y="310" font-size="12.5" fill="#166534">www.kidssportslibrary.example &#8250; guides</text>
+    <text x="82" y="332" font-size="13" fill="#475569">Board size, helmet fit, and where to practice safely. A guide</text>
+    <text x="82" y="350" font-size="13" fill="#475569">written by youth coaches, updated this year.</text>
+  </g>
+
+  <!-- result 3: organic -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <text x="82" y="402" font-size="16" font-weight="600" fill="#1d4ed8">Skateboard Sizes Explained for Beginners</text>
+    <text x="82" y="422" font-size="12.5" fill="#166534">www.skate-encyclopedia.example</text>
+    <text x="82" y="444" font-size="13" fill="#475569">7.5&#8221;, 8&#8221;, mini&#8230; what the numbers mean and how to pick</text>
+    <text x="82" y="462" font-size="13" fill="#475569">the right deck for your height.</text>
+  </g>
+
+  <!-- result 4: organic forum -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <text x="82" y="514" font-size="16" font-weight="600" fill="#1d4ed8">What board did your kid start on? &#8212; Parents&#8217; Forum</text>
+    <text x="82" y="534" font-size="12.5" fill="#166534">forum.parentstalk.example &#8250; sports</text>
+    <text x="82" y="556" font-size="13" fill="#475569">32 replies &#183; real parents sharing what worked (and what broke</text>
+    <text x="82" y="574" font-size="13" fill="#475569">in a week). Opinions, not tests!</text>
+  </g>
+
+  <!-- callouts -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5">
+    <line x1="612" y1="165" x2="588" y2="160" stroke="#dc2626" stroke-width="2.5" marker-end="url(#srA)"/>
+    <text x="622" y="152" fill="#1e293b" font-weight="700">the tiny &#8220;Sponsored&#8221; label</text>
+    <text x="622" y="171" fill="#64748b">this result is here because someone</text>
+    <text x="622" y="188" fill="#64748b">paid &#8212; not because it is the best</text>
+
+    <line x1="612" y1="305" x2="590" y2="308" stroke="#dc2626" stroke-width="2.5" marker-end="url(#srA)"/>
+    <text x="622" y="296" fill="#1e293b" font-weight="700">the web address</text>
+    <text x="622" y="315" fill="#64748b">who is behind this page?</text>
+    <text x="622" y="332" fill="#64748b">a library? a shop? a stranger?</text>
+
+    <line x1="612" y1="446" x2="590" y2="448" stroke="#dc2626" stroke-width="2.5" marker-end="url(#srA)"/>
+    <text x="622" y="437" fill="#1e293b" font-weight="700">the snippet</text>
+    <text x="622" y="456" fill="#64748b">a preview &#8212; read it before</text>
+    <text x="622" y="473" fill="#64748b">you click</text>
+
+    <line x1="612" y1="540" x2="590" y2="540" stroke="#dc2626" stroke-width="2.5" marker-end="url(#srA)"/>
+    <text x="622" y="531" fill="#1e293b" font-weight="700">know what kind of page it is</text>
+    <text x="622" y="550" fill="#64748b">a forum has opinions;</text>
+    <text x="622" y="567" fill="#64748b">a guide should have facts</text>
+  </g>
+
+  <text x="430" y="630" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#94a3b8">All sites shown are fictional. Real results pages change constantly &#8212; the reading habits stay the same.</text>
+</svg>

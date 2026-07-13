@@ -24,6 +24,8 @@ The big idea this week:
 
 Just like keeping treasures in a chest or toys in labeled bins, computers use **folders** to keep things organized.
 
+![A folder tree: the My Projects folder contains Art, Writing, and Experiments folders, each holding clearly named files](/img/diagrams/folder-tree.svg)
+
 ---
 
 

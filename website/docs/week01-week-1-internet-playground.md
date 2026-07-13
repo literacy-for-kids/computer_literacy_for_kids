@@ -117,6 +117,8 @@ Draw a simple diagram together:
 Person → computer → internet → other people
 
 
+![How a web page reaches you: your device sends a request through your router across the internet to a server, and the page travels all the way back in under a second](/img/diagrams/internet-journey.svg)
+
 Explain:
 
 - The internet connects computers.

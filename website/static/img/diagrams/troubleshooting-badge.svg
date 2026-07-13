@@ -1,0 +1,50 @@
+<svg viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tbaTitle">
+  <title id="tbaTitle">The troubleshooting routine: stop, think back, try one small thing, try again, then ask for help</title>
+  <defs>
+    <marker id="tbaA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4a90d9"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="218" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="700" fill="#1e293b">The Troubleshooting Routine</text>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="45" y="80" width="130" height="70" rx="12" fill="#4a90d9"/>
+      <text x="110" y="112" font-size="15" font-weight="800" fill="#ffffff">STOP</text>
+      <text x="110" y="134" font-size="11.5" fill="#dbeafe">take one breath</text>
+    </g>
+    <g>
+      <rect x="205" y="80" width="140" height="70" rx="12" fill="#eff6ff" stroke="#4a90d9" stroke-width="2"/>
+      <text x="275" y="108" font-size="14" font-weight="800" fill="#1e3a8a">THINK BACK</text>
+      <text x="275" y="130" font-size="11.5" fill="#64748b">what changed just</text>
+      <text x="275" y="144" font-size="11.5" fill="#64748b">before it broke?</text>
+    </g>
+    <g>
+      <rect x="375" y="80" width="150" height="70" rx="12" fill="#eff6ff" stroke="#4a90d9" stroke-width="2"/>
+      <text x="450" y="104" font-size="13.5" font-weight="800" fill="#1e3a8a">TRY ONE</text>
+      <text x="450" y="122" font-size="13.5" font-weight="800" fill="#1e3a8a">SMALL THING</text>
+      <text x="450" y="142" font-size="11.5" fill="#64748b">just one &#8212; then look</text>
+    </g>
+    <g>
+      <rect x="555" y="80" width="130" height="70" rx="12" fill="#eff6ff" stroke="#4a90d9" stroke-width="2"/>
+      <text x="620" y="112" font-size="14" font-weight="800" fill="#1e3a8a">TRY AGAIN</text>
+      <text x="620" y="134" font-size="11.5" fill="#64748b">did it work now?</text>
+    </g>
+    <g>
+      <rect x="715" y="80" width="120" height="70" rx="12" fill="#4a90d9"/>
+      <text x="775" y="108" font-size="13.5" font-weight="800" fill="#ffffff">ASK FOR</text>
+      <text x="775" y="126" font-size="13.5" font-weight="800" fill="#ffffff">HELP</text>
+      <text x="775" y="144" font-size="11.5" fill="#dbeafe">that&#8217;s a skill too</text>
+    </g>
+  </g>
+
+  <g stroke="#4a90d9" stroke-width="3">
+    <line x1="175" y1="115" x2="199" y2="115" marker-end="url(#tbaA)"/>
+    <line x1="345" y1="115" x2="369" y2="115" marker-end="url(#tbaA)"/>
+    <line x1="525" y1="115" x2="549" y2="115" marker-end="url(#tbaA)"/>
+    <line x1="685" y1="115" x2="709" y2="115" marker-end="url(#tbaA)"/>
+  </g>
+
+  <text x="430" y="192" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">A stuck computer is a puzzle, not an emergency. Change one thing at a time so you know what fixed it.</text>
+</svg>

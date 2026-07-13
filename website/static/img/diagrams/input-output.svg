@@ -1,0 +1,42 @@
+<svg viewBox="0 0 860 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ioTitle">
+  <title id="ioTitle">The input, computer, result pattern: you give an input like pressing a key, the computer processes it, and you see a result like a letter appearing on the screen</title>
+  <defs>
+    <marker id="ioA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4a90d9"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="318" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Input &#8594; Computer &#8594; Result</text>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="60" y="90" width="200" height="130" rx="12" fill="#dbeafe" stroke="#4a90d9" stroke-width="2.5"/>
+      <text x="160" y="130" font-size="16" font-weight="800" fill="#1e3a8a">INPUT</text>
+      <text x="160" y="158" font-size="13.5" fill="#1e293b">you do something:</text>
+      <text x="160" y="180" font-size="13" fill="#475569">press a key &#183; tap &#183; click</text>
+      <text x="160" y="200" font-size="13" fill="#475569">speak &#183; move the mouse</text>
+    </g>
+    <g>
+      <rect x="330" y="90" width="200" height="130" rx="12" fill="#4a90d9"/>
+      <text x="430" y="130" font-size="16" font-weight="800" fill="#ffffff">COMPUTER</text>
+      <text x="430" y="158" font-size="13.5" fill="#dbeafe">thinks it through:</text>
+      <text x="430" y="180" font-size="13" fill="#dbeafe">follows instructions</text>
+      <text x="430" y="200" font-size="13" fill="#dbeafe">very, very fast</text>
+    </g>
+    <g>
+      <rect x="600" y="90" width="200" height="130" rx="12" fill="#dbeafe" stroke="#4a90d9" stroke-width="2.5"/>
+      <text x="700" y="130" font-size="16" font-weight="800" fill="#1e3a8a">RESULT</text>
+      <text x="700" y="158" font-size="13.5" fill="#1e293b">something happens:</text>
+      <text x="700" y="180" font-size="13" fill="#475569">a letter appears &#183; a song plays</text>
+      <text x="700" y="200" font-size="13" fill="#475569">a picture opens</text>
+    </g>
+  </g>
+
+  <g stroke="#4a90d9" stroke-width="3.5">
+    <line x1="260" y1="155" x2="322" y2="155" marker-end="url(#ioA)"/>
+    <line x1="530" y1="155" x2="592" y2="155" marker-end="url(#ioA)"/>
+  </g>
+
+  <text x="430" y="270" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Every single thing a computer does follows this pattern &#8212; even games, videos, and robots.</text>
+  <text x="430" y="296" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#94a3b8">Challenge: name the input and the result for your favorite app.</text>
+</svg>

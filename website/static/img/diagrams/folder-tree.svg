@@ -1,0 +1,66 @@
+<svg viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ftTitle">
+  <title id="ftTitle">A folder tree: the My Projects folder contains Art, Writing, and Experiments folders; Art contains two image files, Writing contains a story document, and Experiments contains a Scratch project file</title>
+  <rect x="1" y="1" width="858" height="458" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Folders Inside Folders</text>
+  <text x="430" y="64" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Like labeled bins inside a treasure chest &#8212; everything has a home.</text>
+
+  <!-- tree lines -->
+  <g stroke="#94a3b8" stroke-width="2.5" fill="none">
+    <path d="M180,140 L180,220 L245,220"/>
+    <path d="M180,220 L180,300 L245,300"/>
+    <path d="M180,300 L180,380 L245,380"/>
+    <path d="M340,240 L340,250 L400,250"/>
+    <path d="M340,250 L340,282 L400,282"/>
+    <path d="M355,320 L355,330 L415,330"/>
+    <path d="M390,400 L390,410 L450,410"/>
+  </g>
+
+  <!-- root folder -->
+  <g transform="translate(120 110)">
+    <path d="M0,8 L0,40 L150,40 L150,14 L60,14 L50,4 L8,4 Z" fill="#fbbf24" stroke="#b45309" stroke-width="2"/>
+    <text x="75" y="32" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="700" fill="#78350f">My Projects</text>
+  </g>
+
+  <!-- subfolders -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="600">
+    <g transform="translate(245 196)">
+      <path d="M0,6 L0,36 L130,36 L130,12 L52,12 L44,2 L7,2 Z" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+      <text x="65" y="28" text-anchor="middle" fill="#78350f">Art</text>
+    </g>
+    <g transform="translate(245 276)">
+      <path d="M0,6 L0,36 L130,36 L130,12 L52,12 L44,2 L7,2 Z" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+      <text x="65" y="28" text-anchor="middle" fill="#78350f">Writing</text>
+    </g>
+    <g transform="translate(245 356)">
+      <path d="M0,6 L0,36 L130,36 L130,12 L52,12 L44,2 L7,2 Z" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+      <text x="65" y="28" text-anchor="middle" fill="#78350f">Experiments</text>
+    </g>
+  </g>
+
+  <!-- files -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13">
+    <g transform="translate(400 234)">
+      <rect width="200" height="30" rx="6" fill="#eff6ff" stroke="#4a90d9" stroke-width="1.5"/>
+      <text x="12" y="20" fill="#1e293b">&#128444;&#65039; robot-drawing.png</text>
+    </g>
+    <g transform="translate(400 266)">
+      <rect width="200" height="30" rx="6" fill="#eff6ff" stroke="#4a90d9" stroke-width="1.5"/>
+      <text x="12" y="20" fill="#1e293b">&#128444;&#65039; sunset-2026-06.png</text>
+    </g>
+    <g transform="translate(415 314)">
+      <rect width="220" height="30" rx="6" fill="#eff6ff" stroke="#4a90d9" stroke-width="1.5"/>
+      <text x="12" y="20" fill="#1e293b">&#128196; dragon-story-draft2.doc</text>
+    </g>
+    <g transform="translate(450 394)">
+      <rect width="220" height="30" rx="6" fill="#eff6ff" stroke="#4a90d9" stroke-width="1.5"/>
+      <text x="12" y="20" fill="#1e293b">&#128049; my-first-game.sb3</text>
+    </g>
+  </g>
+
+  <!-- side note -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">
+    <text x="680" y="230">Clear names help</text>
+    <text x="680" y="248">future-you: what is it,</text>
+    <text x="680" y="266">and where does it live?</text>
+  </g>
+</svg>

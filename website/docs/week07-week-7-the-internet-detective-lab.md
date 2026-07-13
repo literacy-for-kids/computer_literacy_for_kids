@@ -210,7 +210,9 @@ Explain that search results pages often include things that are **not real answe
 - **Clickbait titles**: Headlines like "You won't BELIEVE what happened!" are designed to get your click, not to teach you something.
 - **Fake download buttons**: Some websites show big "Download" or "Play" buttons that are actually ads leading somewhere else entirely.
 
-Demonstrate by scrolling through a real search results page together. Point to:
+Start with this made-up results page, then demonstrate by scrolling through a real one together. Point to:
+
+![A made-up search results page: the top result is marked Sponsored because it is a paid ad, followed by organic results — with callouts for the ad label, the web address, and the snippet](/img/examples/search-results.svg)
 
 - The small "Ad" label on sponsored results
 - The difference between a normal result title and a clickbait-style title
