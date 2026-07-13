@@ -81,6 +81,10 @@ I can snap blocks together in Scratch to make a sprite do something on purpose.
 ### Quick Formative Check
 Before building, point to the stage, sprite, and block palette and ask the learner what each part is for.
 
+![The Scratch 3 editor: the block palette on the left with colorful code blocks, the script area in the middle where blocks snap together, the stage on the right where the sprite performs, and the sprite panel below the stage](/img/photos/scratch3-editor.png)
+
+*Screenshot of the Scratch editor ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Scratch_3.0_editor.png)). Scratch is developed by the MIT Media Lab.*
+
 ### What Success Looks Like
 - The learner can build and run one short sequence of blocks.
 - The learner can save or download the project with support if needed.
