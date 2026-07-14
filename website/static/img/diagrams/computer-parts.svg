@@ -42,16 +42,16 @@
     <g fill="#1e293b">
       <text x="200" y="85" text-anchor="end" font-weight="700">monitor</text>
       <text x="200" y="103" text-anchor="end" font-size="12" fill="#64748b">shows the results (output)</text>
-      <text x="105" y="252" text-anchor="end" font-weight="700">speaker</text>
-      <text x="105" y="270" text-anchor="end" font-size="12" fill="#64748b">plays sound (output)</text>
+      <text x="130" y="252" text-anchor="end" font-weight="700">speaker</text>
+      <text x="130" y="270" text-anchor="end" font-size="12" fill="#64748b">plays sound (output)</text>
       <text x="298" y="460" text-anchor="middle" font-weight="700">keyboard</text>
       <text x="298" y="478" font-size="12" fill="#64748b" text-anchor="middle">types letters (input)</text>
       <text x="548" y="460" text-anchor="middle" font-weight="700">mouse</text>
       <text x="548" y="478" font-size="12" fill="#64748b" text-anchor="middle">points and clicks (input)</text>
       <text x="766" y="172" font-weight="700">the tower</text>
-      <text x="766" y="192" font-size="12" fill="#64748b">holds the CPU (brain),</text>
-      <text x="766" y="209" font-size="12" fill="#64748b">RAM (memory), and</text>
-      <text x="766" y="226" font-size="12" fill="#64748b">storage (treasure chest)</text>
+      <text x="766" y="192" font-size="12" fill="#64748b">holds the CPU,</text>
+      <text x="766" y="209" font-size="12" fill="#64748b">the memory, and</text>
+      <text x="766" y="226" font-size="12" fill="#64748b">the storage</text>
     </g>
   </g>
 
