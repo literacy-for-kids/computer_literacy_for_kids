@@ -1,0 +1,37 @@
+<svg viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tdTitle">
+  <title id="tdTitle">A book drawn in 3D with three labeled arrows showing its width, height, and depth</title>
+  <defs>
+    <marker id="tdA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4a90d9"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="678" height="318" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="340" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="700" fill="#1e293b">Three Dimensions</text>
+
+  <!-- 3D book: front face, top face, side face -->
+  <g>
+    <!-- front face -->
+    <rect x="200" y="130" width="200" height="130" fill="#dbeafe" stroke="#4a90d9" stroke-width="2.5"/>
+    <!-- top face -->
+    <path d="M200 130 L260 90 L460 90 L400 130 Z" fill="#eff6ff" stroke="#4a90d9" stroke-width="2.5"/>
+    <!-- side face -->
+    <path d="M400 130 L460 90 L460 220 L400 260 Z" fill="#bfdbfe" stroke="#4a90d9" stroke-width="2.5"/>
+    <!-- book cover detail -->
+    <rect x="220" y="150" width="120" height="10" rx="3" fill="#4a90d9"/>
+    <rect x="220" y="170" width="80" height="8" rx="3" fill="#93c5fd"/>
+  </g>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700">
+    <!-- width arrow (bottom) -->
+    <line x1="200" y1="284" x2="400" y2="284" stroke="#4a90d9" stroke-width="2.5" marker-start="url(#tdA)" marker-end="url(#tdA)"/>
+    <text x="300" y="279" text-anchor="middle" fill="#1e293b" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">width</text>
+    <!-- height arrow (left) -->
+    <line x1="172" y1="130" x2="172" y2="260" stroke="#4a90d9" stroke-width="2.5" marker-start="url(#tdA)" marker-end="url(#tdA)"/>
+    <text x="140" y="200" text-anchor="middle" fill="#1e293b" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">height</text>
+    <!-- depth arrow (going back) -->
+    <line x1="416" y1="272" x2="478" y2="230" stroke="#4a90d9" stroke-width="2.5" marker-start="url(#tdA)" marker-end="url(#tdA)"/>
+    <text x="480" y="270" text-anchor="middle" fill="#1e293b" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">depth</text>
+  </g>
+
+  <text x="340" y="308" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">Flat drawings have width and height. 3D objects add depth.</text>
+</svg>

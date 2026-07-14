@@ -236,6 +236,8 @@ Explain that engineers and programmers often use steps like this.
 
 Note how this is similar to the [Troubleshooting Routine](./troubleshooting-routine.md) they've been practicing (Stop → Think Back → Try One Small Thing → Try Again → Ask for Help). Debugging is troubleshooting applied specifically to code.
 
+![The troubleshooting routine badge: stop, think back, try one small thing, try again, ask for help](/img/diagrams/troubleshooting-badge.svg)
+
 ---
 
 **2. Debug a Small Program Together**

@@ -181,8 +181,7 @@ This shortcut will come back every week from now on.
 
 Show the **home row keys**:
 
-A S D F J K L
-
+![A simplified keyboard with the home row keys highlighted — A S D F for the left hand and J K L semicolon for the right — where typing fingers rest](/img/diagrams/home-row.svg)
 
 Explain that many typists rest their fingers here.
 

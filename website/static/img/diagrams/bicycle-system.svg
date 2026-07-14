@@ -1,0 +1,62 @@
+<svg viewBox="0 0 760 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bsTitle">
+  <title id="bsTitle">A bicycle as a system: energy flows from the pedals through the chain to the wheels, producing movement</title>
+  <defs>
+    <marker id="bsA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4a90d9"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="758" height="298" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="380" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="700" fill="#1e293b">A Bicycle Is a System</text>
+
+  <!-- simple bicycle sketch -->
+  <g stroke="#94a3b8" stroke-width="5" fill="none">
+    <circle cx="210" cy="200" r="46"/>
+    <circle cx="430" cy="200" r="46"/>
+    <path d="M210 200 L285 120 L385 120 L430 200"/>
+    <path d="M210 200 L310 200 L285 120"/>
+    <path d="M310 200 L385 120"/>
+    <path d="M285 120 L289 106"/>
+    <path d="M275 105 L305 105"/>
+    <path d="M385 120 L432 106"/>
+    <path d="M425 108 L455 100"/>
+  </g>
+  <!-- pedals crank -->
+  <circle cx="310" cy="200" r="14" fill="#4a90d9"/>
+  <rect x="304" y="214" width="12" height="22" rx="3" fill="#1e293b"/>
+  <!-- chain -->
+  <g stroke="#4a90d9" stroke-width="4" stroke-dasharray="7 5" fill="none">
+    <path d="M310 186 Q260 168 214 186"/>
+    <path d="M310 214 Q260 232 212 216"/>
+  </g>
+
+  <!-- flow strip -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="510" y="80" width="110" height="42" rx="10" fill="#eff6ff" stroke="#4a90d9" stroke-width="2"/>
+      <text x="565" y="106" font-size="15" font-weight="700" fill="#1e293b">Pedals</text>
+    </g>
+    <g>
+      <rect x="510" y="136" width="110" height="42" rx="10" fill="#eff6ff" stroke="#4a90d9" stroke-width="2"/>
+      <text x="565" y="162" font-size="15" font-weight="700" fill="#1e293b">Chain</text>
+    </g>
+    <g>
+      <rect x="510" y="192" width="110" height="42" rx="10" fill="#eff6ff" stroke="#4a90d9" stroke-width="2"/>
+      <text x="565" y="218" font-size="15" font-weight="700" fill="#1e293b">Wheels</text>
+    </g>
+    <g>
+      <rect x="510" y="248" width="110" height="42" rx="10" fill="#4a90d9"/>
+      <text x="565" y="274" font-size="15" font-weight="700" fill="#ffffff">Movement</text>
+    </g>
+    <g stroke="#4a90d9" stroke-width="2.5">
+      <line x1="640" y1="101" x2="640" y2="101"/>
+    </g>
+    <g stroke="#4a90d9" stroke-width="2.5">
+      <line x1="565" y1="122" x2="565" y2="132" marker-end="url(#bsA)"/>
+      <line x1="565" y1="178" x2="565" y2="188" marker-end="url(#bsA)"/>
+      <line x1="565" y1="234" x2="565" y2="244" marker-end="url(#bsA)"/>
+    </g>
+    <text x="688" y="162" font-size="12.5" fill="#64748b">energy passes</text>
+    <text x="688" y="179" font-size="12.5" fill="#64748b">from part</text>
+    <text x="688" y="196" font-size="12.5" fill="#64748b">to part</text>
+  </g>
+</svg>

@@ -148,9 +148,7 @@ Explain that when the parts work together, the system works.
 
 Draw a simple diagram together:
 
-
-Pedals → Chain → Wheels → Movement
-
+![A bicycle as a system: energy flows from the pedals through the chain to the wheels, producing movement](/img/diagrams/bicycle-system.svg)
 
 Explain that systems often pass **energy or information** from one part to another.
 

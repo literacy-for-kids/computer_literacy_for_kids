@@ -125,6 +125,8 @@ Explain that objects in the real world have **three dimensions**:
 - height  
 - depth  
 
+![A book drawn in 3D with three labeled arrows showing its width, height, and depth](/img/diagrams/three-dimensions.svg)
+
 Examples around the room:
 
 - a book  
