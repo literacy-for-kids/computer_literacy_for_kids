@@ -329,6 +329,31 @@ By the end of this week, the student should begin to understand that:
 
 ---
 
+## Core Practice: A Spreadsheet That Answers a Question
+
+**Time:** 20–30 minutes; use this in place of one research practice activity. **Goal:** organize numbers, calculate a total, and check what a chart actually says. **Materials:** an adult-approved spreadsheet app (an offline app works), or squared paper. No new account or personal data is required.
+
+**Question:** How many pretend supplies does the fictional Kite Club need? A **cell** is one box in a spreadsheet. A **row** runs across; a **column** runs down. A **formula** calculates using cell values and starts with `=` in common spreadsheet apps.
+
+Enter this table starting at cell A1. All numbers are invented for practice.
+
+| Supply (column A) | Quantity, items (column B) |
+|---|---:|
+| Paper sheets | 12 |
+| Tape rolls | 3 |
+| Markers | 8 |
+| String spools | 5 |
+| Clips | 10 |
+
+1. Point to B2: it contains 12. Put `Total items` in A7 and `=SUM(B2:B6)` in B7. An alternative is `=B2+B3+B4+B5+B6`.
+2. Predict the total, then check: **38 items**. These are item counts, not costs or weights; tape rolls and clips are different things even though we can count each item.
+3. Change B4 (markers) from 8 to 9. The total should become **39**. If it stays 38, check whether the total is a formula or a typed answer. Undo the change before the next step.
+4. Sort the five supply rows by quantity, keeping each name attached to its number. Do not sort the quantity column by itself or include the total row. Paper version: move the whole row cards. Which supply has the highest count? **Paper sheets, 12**.
+5. Create or draw a bar chart from the five supply rows, excluding the total. Label it "Kite Club Supply Counts (fictional)," the categories, and the quantity axis in **items**, starting at zero.
+6. Add a source note: "Invented classroom supply list." Say one thing the chart tells you and one thing it cannot tell you. It shows counts; it cannot tell you the total cost without prices.
+
+**Save:** `kite-club-supplies` in My Projects, or the paper table and chart. **Check:** explain why the total changes when an input changes; find the largest count; notice that a typed `38` would not recalculate. **Simplify:** add quantities on paper with counters. **Extend:** add a unit-price column and compute row cost as quantity × price, with currency units. Do not mix item counts and money in one total.
+
 ## Independent Session
 ### Wikipedia Rabbit Hole
 #### Instruction

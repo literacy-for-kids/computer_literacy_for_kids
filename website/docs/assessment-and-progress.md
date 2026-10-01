@@ -186,3 +186,14 @@ When a learner is stuck, it can feel like something is going wrong. But struggle
 - Celebrate the effort, not just the result ("You stuck with that even when it was hard — that's what real learning looks like")
 
 Struggle is information, not failure. Use it to adjust your support — not to lower your expectations.
+
+## Practical Skill Checks in the Core Weeks
+
+Use the taught activity or its paper equivalent; assess reasoning, not access to an app.
+
+| When | Prompt | Expected evidence / reteach |
+|---|---|---|
+| Week 3, Unit 1 | Choose view/comment/edit access and recover the dummy story | Least access needed; restored original sentence; same-device copy does not protect against device loss. Revisit copy vs move if needed. |
+| Week 8, Unit 2 | Total the Kite Club quantities, change one value, and label a chart | 38 → 39; formula recalculates; whole-row sort; axis says items. Rebuild the formula range if the answer is frozen. |
+| Week 10, Unit 3 | Trace the space-key conditional twice | Ready when held at flag click; Waiting otherwise. Revisit when the condition is tested. |
+| Week 11, Unit 3 | Trace the count variable and run twice | 0,1,2,3 each run; reset differs from change. Restore reset if an old count carries over. |

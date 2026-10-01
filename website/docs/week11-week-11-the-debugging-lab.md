@@ -324,6 +324,30 @@ This turns debugging into a puzzle.
 
 ---
 
+## Core Practice: A Variable Remembers a Count
+
+**Time:** 20 minutes; use as the debugging example in Guided Session 2. **Goal:** distinguish setting a value from changing it, and reset state before a new run. A **variable** is a named place that stores a value the program can use and update.
+
+In Scratch, make a variable named `steps` for this sprite and show it on the stage. Build:
+
+```text
+when green flag clicked
+set [steps] to (0)
+repeat (3)
+  move (10) steps
+  change [steps] by (1)
+end
+say (steps) for (2) seconds
+```
+
+Here `steps` counts **move actions**, not distance. Trace its values: **0 → 1 → 2 → 3**. Three moves of 10 cover 30 Scratch coordinate units, but the variable ends at 3.
+
+1. Predict, run, and record the final count: **3**.
+2. Replace `change steps by 1` with `set steps to 1`. Predict and test: **1**, because each repetition overwrites the previous value. Restore the change block.
+3. Remove the starting `set steps to 0`. If the variable was 3, the next run ends at **6**. Explain the bug: the old value stayed in memory. Restore the reset, run twice, and check that each run ends at **3**.
+
+**Offline:** a named `steps` card and counters represent the variable; follow the same instructions and faulty versions. **Artifact:** a trace table showing start, each update, and finish. **Check:** "Which block starts a new count? Which adds one? Why test twice?" Expected: set-to-zero resets; change-by-one adds; the second run exposes leftover state. Help learners fix one block at a time.
+
 ## Independent Session
 ### Debugging Detective
 #### Instruction

@@ -14,7 +14,7 @@ This week we discover something equally important:
 
 **Digital creations can be saved and kept.**
 
-When we draw something, write something, or build something on a computer, it doesn't disappear when the app closes.
+When we draw, write, or build on a computer, we can keep it by saving it. Unsaved changes may disappear when an app closes.
 
 Instead, it becomes a **file** that can be saved, organized, and opened again later.
 
@@ -328,6 +328,40 @@ If the file doesn't seem to appear, use the [Troubleshooting Routine](./troubles
 - “If I had more files, I would…”
 
 ---
+
+## Core Practice: Permission, Backup, and Recovery
+
+**Time:** 20–30 minutes. Use this as the second guided session's practice, or split it across two meetings. **Goal:** choose who can access a file and recover a practice copy. **Materials:** a harmless text file, two labeled folders, and paper permission cards. An adult prepares the folders; no public sharing or new account is needed.
+
+A saved file can still be lost. **Saving** keeps the current work; a **backup** is another copy you can recover from. A second folder on the same computer is useful for this rehearsal, but does not protect against that computer failing. An adult can arrange a separate, approved backup location and test that it opens. **Sync** keeps locations matched; it may copy deletions too, so it is not automatically a backup.
+
+### 1. Who needs access?
+
+Give out these pretend permission cards. **View** means read; **comment** means leave feedback; **edit** means change content. **Private** means access is restricted to the intended people; a link that anyone can use is not private. The exact controls vary by tool.
+
+| Fictional situation | Choose access | Why? |
+|---|---|---|
+| Lee wants a partner to suggest changes to a story | Comment | Feedback without changing the story |
+| Lee wants the partner to write the next paragraph | Edit, for that named partner | Changing the story is part of the task |
+| Lee wants a visitor to read a finished poster | View | Reading does not require editing |
+| A stranger asks for the project folder and password | Do not grant access; get adult help | A stranger does not need these, and passwords are not sharing tools |
+
+Ask: "If I remove someone's access later, does that erase a copy they already made?" **No.** Choose access before sharing. Use the paper cards instead of changing a real account. If a tool is already approved, the adult can demonstrate its access list with a dummy file and named test collaborator.
+
+### 2. Recover a rehearsal file
+
+1. Make a new folder called `Recovery Practice` and a separate folder called `Practice Backup`.
+2. Save `robot-story.txt` with the text "The robot found a blue kite." Close and reopen it.
+3. **Copy**, rather than move, the file into `Practice Backup`. Open that copy and check the sentence.
+4. In the original practice file only, replace the sentence with "Oops, wrong version." Save it.
+5. Copy the backup into `Recovery Practice` using the new name `robot-story-restored.txt`. Open it. Which sentence returned?
+6. Explain what was lost: changes made after that backup would not return. Decide when a new backup is needed.
+
+Do not delete real work, empty the trash, change system permissions, or test on private files. If a real file goes missing, pause and ask an adult before overwriting anything. Trash/recycle-bin recovery and version history may help when available, but neither guarantees recovery.
+
+**Offline option:** two paper envelopes hold identical story cards. Change the working card, then recover from the backup envelope. Use view/comment/edit cards for access choices.
+
+**Check and answer guide:** "Can a viewer change the original?" No. "Does a same-device copy survive device failure?" No. "How do you know a backup works?" Open a restored practice copy and check its contents. Collect the restored dummy file or a drawn recovery plan; do not collect passwords or access to personal files.
 
 ## Independent Session
 ### Build Your Treasure Chest

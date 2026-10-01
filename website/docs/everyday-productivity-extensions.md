@@ -75,7 +75,7 @@ Create a simple table or spreadsheet to organize information they collected.
 - Seeing how structure makes information clearer
 
 ### Tips
-- Don't worry about formulas or complex features. The goal is organizing, not calculating.
+- This optional extension builds on the [Week 8 core spreadsheet practice](./week08-week-8-the-idea-workshop.md#core-practice-a-spreadsheet-that-answers-a-question), which teaches a total formula, recalculation, sorting, and a labeled chart. Use a new topic here to practice those skills again.
 - If a full spreadsheet tool feels overwhelming, a simple table in Google Docs or Word works fine.
 
 ### Save It

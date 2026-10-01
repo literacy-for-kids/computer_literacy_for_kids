@@ -387,3 +387,7 @@ Most importantly, they will build **confidence exploring technology and expressi
 - [Portfolio Tracker](./portfolio-tracker.md) — track learner artifacts and progress
 - [Final Project Rubric](./final-project-rubric.md) — final project evaluation guide
 - [Everyday Productivity Extensions](./everyday-productivity-extensions.md) — optional advanced activities
+
+## Practical Core Skills
+
+Core practical skills include [permissions, backup, and recovery in Week 3](./week03-week-3-digital-treasure-chest.md#core-practice-permission-backup-and-recovery), [spreadsheet data and formulas in Week 8](./week08-week-8-the-idea-workshop.md#core-practice-a-spreadsheet-that-answers-a-question), [conditionals in Week 10](./week10-week-10-build-your-first-program.md#core-practice-a-program-chooses-a-branch), and [variables in Week 11](./week11-week-11-the-debugging-lab.md#core-practice-a-variable-remembers-a-count). Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.

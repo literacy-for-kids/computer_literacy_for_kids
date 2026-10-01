@@ -244,6 +244,28 @@ This is where curiosity matters most.
 
 ---
 
+## Core Practice: A Program Chooses a Branch
+
+**Time:** 15–20 minutes, within Guided Session 2. **Goal:** use a **conditional**: an instruction that runs only if its condition is true. Use the already prepared Scratch project or paper blocks; no account is needed for the paper version.
+
+Build this small Scratch stack. The space-key condition comes from Sensing, and `if / else` comes from Control. This checks the key **once** when the green flag is clicked; it is not a continuous listener.
+
+```text
+when green flag clicked
+if <key [space] pressed?> then
+  say [Ready!] for (2) seconds
+else
+  say [Waiting.] for (2) seconds
+end
+```
+
+1. Predict the message with space held down. Hold space while clicking the flag: **Ready!**
+2. Release space and click the flag: **Waiting.**
+3. Press space only after "Waiting." appears. Does the program go back and test again? **No.** It already chose its branch.
+4. Draw the two paths and circle the condition. Explain why changing the input can change the output even though the code stayed the same.
+
+**Offline:** a partner holds a SPACE card or leaves it down. A paper "computer" follows just one branch when the FLAG card is shown. **Artifact:** the saved stack or two traced runs. **Check:** name what gets tested and show both outcomes. **Stretch:** place the conditional inside a `forever` loop to keep checking; explain how this changes when the input is read.
+
 ## Independent Session
 ### Sprite Experiment Lab
 #### Instruction

@@ -28,3 +28,14 @@ sidebar_label: Curriculum Map
 | 18 | Creator Showcase | What did I create and what did I learn? | Synthesis and presentation | showcase, reflect, demonstrate, create | What is one skill you developed during this curriculum that you want to keep using? | Teach one thing you learned to someone who wasn't in the class |
 | CAD 1 | Shape Builders | How are 3D objects built from simple shapes? | 3D design basics | 3D design, TinkerCAD, primitive, shape | Name three primitives used in 3D design | Design one object using only three shapes |
 | CAD 2 | From Screen to Real Object | How does a digital design become a physical object? | 3D printing basics | 3D printing, filament, layer, design for print | What is one limitation of 3D printing that affects design? | Redesign your object to print more successfully |
+
+## Practical Core Activities
+
+These activities are integrated into the existing weeks. Use the lesson's suggested substitution or add a meeting; they do not add new curriculum weeks.
+
+| Week | Added core skill | Evidence to collect |
+|---|---|---|
+| 3 | File access, backup, and recovery | Permission choices and verified restoration |
+| 8 | Spreadsheet data and formulas | 38-item total, recalculation, whole-row sort, labeled chart |
+| 10 | Conditionals | Trace true and false branches at the moment of testing |
+| 11 | Variables and state | Trace a count, debug set vs change, reset before each run |
