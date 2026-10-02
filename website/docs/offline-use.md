@@ -6,7 +6,7 @@ sidebar_label: Offline Use
 
 # Offline Use
 
-Every lesson in the Computer Literacy curriculum can be run with no technology beyond a printed page.
+Selected discussions and supplied paper activities can be used without learner devices. A printed lesson is a starting point; full activities may also need cards, counters, worksheets, other materials, or an approved device. Check the selected week’s preparation notes and offline adaptation before choosing the route.
 
 ## Printing Lessons
 
@@ -14,15 +14,18 @@ Every lesson in the Computer Literacy curriculum can be run with no technology b
 2. Use File > Print (or Ctrl+P / Cmd+P)
 3. Each lesson prints cleanly in portrait format, black and white
 
-Facilitators only need the printed lesson -- students do not need to hold any materials.
+For a read-aloud discussion, the facilitator can hold the lesson and learners can respond aloud. For hands-on practice, provide the listed learner materials or choose the lesson’s supplied alternative. Download or print any needed source cards and answer notes in advance; real software skills may still require practice on a device.
 
 ## Running Without Devices
 
-1. Read the lesson yourself beforehand (5 minutes)
-2. Ask the warm-up question out loud from memory or printed notes
-3. Summarize the main idea in a few sentences
-4. Ask 2-3 discussion questions from the lesson
-5. Close with one exit-ticket prompt -- spoken, not written
+1. Select one discussion or supplied paper activity for a 10–20 minute session; completing a weekly module usually takes several sessions
+2. Read the selected activity and answer notes, check prior concepts, and gather its materials; preparation time varies
+3. Ask the warm-up question out loud from memory or printed notes
+4. Summarize the main idea in a few sentences
+5. Ask 2-3 discussion questions from the lesson
+6. Close with one exit-ticket prompt -- spoken, not written
+
+This discussion format samples the week; it does not replace every experiment, project, or practical tool skill. See [pacing and preparation](https://www.literacy-for-kids.com/docs/using-the-curricula/#pacing-and-preparation) when planning the full sequence.
 
 ## Offline Discussion Tools
 

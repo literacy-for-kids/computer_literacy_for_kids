@@ -6,7 +6,7 @@ sidebar_label: Exit Ticket Bank
 
 # Exit Ticket Bank
 
-Exit tickets are short, low-pressure prompts used at the end of a 10-20 minute lesson. Pick one and ask it out loud -- no writing required. These work with any lesson in this curriculum.
+Exit tickets are short, low-pressure prompts used at the end of a selected discussion or activity. Pick one and ask it out loud -- no writing required. These work with any lesson in this curriculum.
 
 ## Recall
 

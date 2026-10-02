@@ -40,7 +40,7 @@ Lesson content lives in `website/docs/`. The site is built with [Docusaurus v3](
 - **Define terms** when first introduced
 - **Avoid fear, shame, or manipulation** as motivational devices
 - **Do not collect student data** or add tracking
-- Keep lessons **10–20 minutes** and low-prep
+- Offer a **10–20 minute entry discussion or activity** where practical. State the actual timing, prerequisites, materials, and preparation for full sessions and weekly modules; label optional extensions separately.
 - Stay **politically neutral** on contested topics
 
 See the full [Content Style Guide](https://www.literacy-for-kids.com/docs/content-style-guide) for details.
