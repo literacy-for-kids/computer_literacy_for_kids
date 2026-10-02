@@ -267,7 +267,7 @@ Make the difference explicit:
 
 - a **search result** is a doorway or preview
 - a **source** is the actual material a claim comes from
-- a **second source** helps us check whether an important fact holds up somewhere else too
+- another page helps only when we check its **evidence origin**: did it gather separate evidence, or repeat the same report?
 
 ---
 
@@ -277,13 +277,26 @@ Pick one claim from the article and ask:
 
 - Who made the source behind this idea?
 - What kind of source is it?
-- Can we find one more source that says something similar?
+- What original observation or record supports this claim?
+- Does another source offer independent evidence, or copy the same report?
+- What does the evidence support, and what remains uncertain?
+
+**Supplied fictional source cards — no searching needed:** The claim is "The club robot completed 10 laps in its November 6 test without recharging."
+
+| Card | Content and origin |
+|---|---|
+| A: Club newsletter | Announces 10 laps; names no test record. |
+| B: Robotics blog | Repeats A's number and links to A. |
+| C: Search preview | Quotes B's 10-lap sentence. |
+| D: November 6 test log | Original observer's record: one robot, one run, 6 completed laps, then power off; no recharge during that run. |
+
+Ask the learner to draw arrows from each copied claim to its origin. **Answer notes:** C → B → A is one report chain. D is a separate original observation that conflicts with the 10-lap claim about this run. In this fictional packet, the supplied log supports 6 laps for that test; it does not establish what every robot can do or exclude errors in other records. More matching previews would not resolve the conflict. A real investigation would inspect the original log and ask about corrections or another test.
 
 This simple routine keeps Wikipedia in its proper role: a useful place to begin, not the last word.
 
 ---
 
-**4. Polished Does Not Mean True**
+**5. Polished Does Not Mean True**
 
 Introduce an important idea for young internet users:
 
@@ -433,7 +446,7 @@ Look for these signs that the learner is making progress:
 - They followed at least one link from one article to a related topic.
 - They can explain in their own words what they learned from an article.
 - They understand that Wikipedia is written by many people and can be edited.
-- They noticed references at the bottom of an article and can explain why sources matter.
+- They noticed references and can trace the supplied C → B → A report chain, distinguish it from D's original test log, and state what that record does and does not support.
 - They recorded their exploration path or wrote a short summary of what they discovered.
 - They can describe why a polished-looking website still needs to be checked for accuracy.
 

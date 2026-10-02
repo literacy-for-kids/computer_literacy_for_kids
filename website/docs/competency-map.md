@@ -85,7 +85,7 @@ By the end of this stage, the learner can:
 - Save updated work to an existing file (Ctrl+S / Cmd+S)
 - Use a search engine to find information on a chosen topic
 - Read search result titles and descriptions before deciding where to click
-- Open links in new tabs to compare sources
+- Open links in new tabs to compare sources and trace whether they share the same evidence origin
 - Download or save an image from the web (with guidance)
 
 ### Thinking & Reasoning
@@ -94,7 +94,7 @@ By the end of this stage, the learner can:
 - Look at a website and describe whether it seems trustworthy, with reasons
 - Identify the difference between an ad and a real search result
 - Recognize clickbait headlines and explain why they exist
-- Explain that Wikipedia is a starting point, not a final source
+- Explain that Wikipedia is a starting point; follow references to original evidence and distinguish copied reports from independent records
 - Notice that search results are chosen by an algorithm, not presented randomly
 
 ### Creation & Communication
