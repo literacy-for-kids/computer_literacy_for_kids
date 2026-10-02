@@ -30,7 +30,7 @@ Facilitators only need the printed lesson -- students do not need to hold any ma
 
 **Scenario cards:** Print from [Scenario Cards](scenario-cards.md) or write them on index cards by hand.
 
-**Reflection prompts:** Ask out loud. Students can keep private written notes in their own journal.
+**Reflection prompts:** Ask out loud or use a fictional example. Personal written notes are optional and need not be shared; discuss how any selected learning artifact will be handled before collecting it.
 
 ## Settings with Limited Technology
 
@@ -41,5 +41,11 @@ Facilitators only need the printed lesson -- students do not need to hold any ma
 
 ## Privacy Reminder
 
-Offline formats protect student privacy naturally: nothing is typed, submitted, or stored.
-No student names or responses need to be recorded.
+Offline activities can avoid online submission, but paper journals, worksheets, photographs, and saved device files can still be kept or shared. Using paper does not automatically make a response private or prevent a record from existing.
+
+- Use fictional samples; personal reflection and recording personal experiences are optional. Learners can respond aloud or use a nonpersonal example.
+- Personal journals need not be shared. For feedback or a portfolio, select a fictional practice artifact instead of collecting the whole journal.
+- Before recording or collecting an artifact, explain who may see it, whether it will be retained, and for how long. Agree on a suitable way to store, return, or dispose of it under the setting's rules.
+- Ask before photographing, scanning, posting, or forwarding work, and follow the setting's privacy rules. A paper activity can become an online disclosure if someone uploads it.
+
+Student names and personal disclosures are not needed for these discussions. See [Privacy and Student Data](https://www.literacy-for-kids.com/docs/privacy-and-student-data/) for the site's guidance; local handling of paper or digital artifacts still needs care.
