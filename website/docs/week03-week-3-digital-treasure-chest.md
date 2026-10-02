@@ -80,7 +80,7 @@ This idea will carry through the entire curriculum.
 ## Week at a Glance
 
 ### Learner Goal
-I can save my work in the right folder, give it a helpful name, and find it again later.
+I can save and find work, choose appropriate file access, and restore a checked dummy backup.
 
 ### Materials
 - computer with File Explorer, Finder, or Files app
@@ -412,6 +412,13 @@ Be ready to explain why your folder system works.
 ## 💾 Save This Week’s Artifact
 
 This week’s artifact is the **My Projects** folder itself, with its subfolders and at least one saved file inside. Check that the learner can open File Explorer, navigate to their folder, and find their saved work. This organized folder will be used throughout the rest of the curriculum.
+
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 3's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-3) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
 
 ## Check for Understanding
 

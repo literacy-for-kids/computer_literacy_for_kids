@@ -59,6 +59,24 @@ You will begin using a tool called **TinkerCAD** or any beginner-friendly 3D des
 - [Setup Notes](#setup)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 2, 3, and 6: basic controls, saved files, and visual design.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Build a shape plan:** On paper, design a toy tower from one 4 × 4 × 2 model-unit box and two 2 × 2 × 2 cubes. Sketch how they sit above one another. Count component shapes and explain one stable-looking arrangement.
+
+**Illustrative response and reasoning:** There are three component boxes; a centered vertical stack would be 6 model units high. A wide base may help the arrangement, but a sketch alone does not establish physical stability. Distinguish component count from the number of visible faces.
+
+**Optional depth question:** Change a top cube to 3 units high and recalculate total stack height as 7. If using an approved CAD app, compare the saved model with the paper plan; account setup is an adult-prepared route, not required by this paper case.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session.

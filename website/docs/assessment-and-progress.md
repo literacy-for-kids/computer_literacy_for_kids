@@ -197,3 +197,7 @@ Use the taught activity or its paper equivalent; assess reasoning, not access to
 | Week 8, Unit 2 | Total the Kite Club quantities, change one value, and label a chart | 38 → 39; formula recalculates; whole-row sort; axis says items. Rebuild the formula range if the answer is frozen. |
 | Week 10, Unit 3 | Trace the space-key conditional twice | Ready when held at flag click; Waiting otherwise. Revisit when the condition is tested. |
 | Week 11, Unit 3 | Trace the count variable and run twice | 0,1,2,3 each run; reset differs from change. Restore reset if an old count carries over. |
+
+## Using Worked Responses Without Expanding the Core Assessment
+
+The [worked-example cards](./worked-examples-and-optional-depth.md) offer an illustrative response for each core week. Use the scenario to check the already taught idea and reasoning; sample wording is not a scoring key. Additional depth questions, technical vocabulary, and optional modules are enrichment, not requirements for moving to the next core week. External research, a new account, real-world contact, private disclosure, or public presentation is not required by these practice cards. If a core idea remains unclear, reteach it before adding depth. Accept oral, drawn, sorted, or written evidence appropriate to the learner.

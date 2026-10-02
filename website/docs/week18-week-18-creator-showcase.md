@@ -342,6 +342,13 @@ For a detailed evaluation guide, see the [Final Project Rubric](./final-project-
 
 ---
 
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 18's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-18) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
+
 ## Check for Understanding
 
 By the end of this week, look for signs that the learner can:

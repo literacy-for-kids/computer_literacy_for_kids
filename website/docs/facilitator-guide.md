@@ -74,3 +74,7 @@ Avoid collecting or viewing students' actual online accounts, passwords, or mess
 ## Privacy and Student Data
 
 No student data is collected. Student projects stay on the student's device or are printed. Nothing is submitted to the website.
+
+## Worked Examples and Optional Depth
+
+Use the [supplied weekly practice cards](./worked-examples-and-optional-depth.md) for fictional scenarios, illustrative responses, and one bounded depth question for each core week. Allow about 15–20 minutes per selected card after its core teaching. Depth is optional and does not change checkpoint requirements. Suggestions that require the adult to locate or construct missing sources, tool activities, interview records, or real-case materials are **open research prompts**, which need preparation and verification; use a supplied card when that preparation is unavailable. Assess evidence, reasoning, and limits, with oral, drawn, or written responses.

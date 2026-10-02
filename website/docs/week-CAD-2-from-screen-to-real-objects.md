@@ -57,6 +57,24 @@ This is one of the ways computers help people **build things in the real world**
 - [Setup Notes](#setup)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Shape Builders: dimensions, component shapes, and saving a model.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Check fit before printing:** A fictional token is 20 model units wide. Holder A has a 20-unit opening; B has a 22-unit opening. Choose a first prototype and identify what else must be checked before claiming fit.
+
+**Illustrative response and reasoning:** B provides modeled clearance; A has none. Actual fit also depends on units, tolerances, material, shape, and the process. A CAD opening exactly matching nominal size is not a guarantee. Paper planning and a dimension check are sufficient; no printer is required.
+
+**Optional depth question:** Draw the dimensions and a test plan. If an adult operates an already approved printer, follow its procedures; do not grade printing success or require learner contact with hot/moving parts.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Facilitator Preparation
 :::info Before You Begin
 - **Time needed:** approximately 30–40 minutes per guided session, plus print time (20–40 minutes depending on the design).

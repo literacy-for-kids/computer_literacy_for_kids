@@ -285,3 +285,17 @@ A rectangular area on screen where an app displays its content. Windows can be m
 
 **Wikipedia**  
 A free online encyclopedia written by volunteers. Useful as a starting point for learning, but should be verified with other sources. Used in Week 8.
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Permission** | An allowed action on a file or system. View reads, comment adds feedback, and edit changes content; grant only the access needed. | Week 3 |
+| **Backup** | A separate recoverable copy. A same-device practice copy does not protect against device loss; sync may copy deletions. | Week 3 |
+| **Recovery** | Restoring available work from a checked copy or supported history; changes not in that copy may be missing. | Week 3 |
+| **Spreadsheet and cell** | A grid for organizing data; a cell is one box identified by its row and column. | Week 8 |
+| **Formula** | An instruction calculating from values, such as =SUM(B2:B6); a typed answer does not recalculate. | Week 8 |
+| **Conditional** | An instruction that chooses what runs when a stated condition is true or false. When the check occurs matters. | Week 10 |
+| **Variable and state** | A named stored value that can change. State includes remembered values; resetting can start a new run consistently. | Week 11 |

@@ -71,7 +71,7 @@ Scratch is a sandbox. The goal is simply for the student to discover:
 ## Week at a Glance
 
 ### Learner Goal
-I can snap blocks together in Scratch to make a sprite do something on purpose.
+I can build a sequence and a conditional, then trace how true and false inputs choose different branches.
 
 ### Materials
 - computer or tablet with Scratch open
@@ -88,6 +88,7 @@ Before building, point to the stage, sprite, and block palette and ask the learn
 ### What Success Looks Like
 - The learner can build and run one short sequence of blocks.
 - The learner can save or download the project with support if needed.
+- The learner can trace both outcomes of the supplied one-time space-key check, digitally or with paper blocks.
 
 ### Low-Tech / Offline Option
 Use printed block cards or a storyboard where the learner arranges commands for what the sprite should do next.
@@ -326,6 +327,13 @@ Remind the learner of good file-naming habits from Week 3: name the file somethi
 
 If using a Scratch account, the project saves online automatically — but downloading a local copy to the portfolio folder is still a good practice.
 ---
+
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 10's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-10) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
 
 ## Check for Understanding
 

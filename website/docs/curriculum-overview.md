@@ -391,3 +391,7 @@ Most importantly, they will build **confidence exploring technology and expressi
 ## Practical Core Skills
 
 Core practical skills include [permissions, backup, and recovery in Week 3](./week03-week-3-digital-treasure-chest.md#core-practice-permission-backup-and-recovery), [spreadsheet data and formulas in Week 8](./week08-week-8-the-idea-workshop.md#core-practice-a-spreadsheet-that-answers-a-question), [conditionals in Week 10](./week10-week-10-build-your-first-program.md#core-practice-a-program-chooses-a-branch), and [variables in Week 11](./week11-week-11-the-debugging-lab.md#core-practice-a-variable-remembers-a-count). Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.
+
+## Worked Examples and Optional Depth
+
+Use the [supplied weekly practice cards](./worked-examples-and-optional-depth.md) for fictional scenarios, illustrative responses, and one bounded depth question for each core week. Allow about 15–20 minutes per selected card after its core teaching. Depth is optional and does not change checkpoint requirements. Suggestions that require the adult to locate or construct missing sources, tool activities, interview records, or real-case materials are **open research prompts**, which need preparation and verification; use a supplied card when that preparation is unavailable. Assess evidence, reasoning, and limits, with oral, drawn, or written responses.

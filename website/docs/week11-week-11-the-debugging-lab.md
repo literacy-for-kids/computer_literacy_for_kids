@@ -83,7 +83,7 @@ When a bug gets frustrating, say: *"One bug at a time."* Step back, breathe once
 ## Week at a Glance
 
 ### Learner Goal
-I can spot when a program is not doing what I wanted and try one fix at a time.
+I can test one fix at a time, trace a variable, and explain why a new run may need a reset.
 
 ### Materials
 - Scratch project from Week 10 or a sample buggy project
@@ -96,6 +96,7 @@ Show one small bug and ask: "What is the program doing now, and what did we want
 ### What Success Looks Like
 - The learner can compare expected behavior with actual behavior.
 - The learner can test one change instead of changing everything at once.
+- The learner can distinguish setting a count from changing it and explain leftover state using the supplied trace.
 
 ### Low-Tech / Offline Option
 Debug a paper set of directions or a daily routine with a missing or out-of-order step before moving to Scratch.
@@ -406,6 +407,13 @@ Give your project a fun name when you finish.
 Save the learner’s fixed or improved Scratch project by downloading it (**File → Save to your computer**) or taking a screenshot of the final script. If the learner wrote a bug report or debugging checklist, save that too. Place everything in **My Projects → Experiments**. This artifact shows growth — not just what the learner built, but what they figured out when things went wrong.
 
 ---
+
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 11's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-11) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
 
 ## Check for Understanding
 

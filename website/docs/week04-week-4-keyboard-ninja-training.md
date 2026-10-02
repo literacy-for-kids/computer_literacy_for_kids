@@ -332,6 +332,13 @@ or
 
 Save a short typed paragraph or message the learner created in Notepad, or a screenshot of their typing practice score from TypingClub or Dance Mat Typing. Store it in the **My Projects → Stories** folder. This will become part of their collection of work that builds toward the final project.
 
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 4's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-4) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
+
 ## Check for Understanding
 
 :::tip Learning Moment

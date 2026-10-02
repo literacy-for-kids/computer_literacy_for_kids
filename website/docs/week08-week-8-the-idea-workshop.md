@@ -94,11 +94,12 @@ Wikipedia should be presented as a useful starting point, not as the final word 
 ## Week at a Glance
 
 ### Learner Goal
-I can use Wikipedia to start learning, then check where information came from and where to go next.
+I can check information sources and organize the supplied data in a spreadsheet with a recalculating total and labeled chart.
 
 ### Materials
 - browser with Wikipedia or Simple English Wikipedia
 - a note sheet for links, references, and second sources
+- an approved spreadsheet app or squared paper for the supplied Kite Club data
 - 2-3 safe, high-interest starting topics
 
 ### Quick Formative Check
@@ -107,6 +108,7 @@ Point to a heading, an in-article link, and a reference, then ask the learner wh
 ### What Success Looks Like
 - The learner can explain why Wikipedia is a starting point, not a stopping point.
 - The learner can identify at least one source clue and one next place to verify information.
+- Using the supplied data or paper equivalent, the learner can total 38 items, predict 39 after the stated edit, and explain chart units.
 
 ### Low-Tech / Offline Option
 Use a printed article excerpt with headings, links, and references highlighted, then practice tracing where information came from on paper.
@@ -415,6 +417,13 @@ Remember:
 Save the learner’s notes or summary from their Wikipedia exploration in the **My Projects** folder. This might be a list of topics they visited, a short paragraph about what they learned, or their rabbit-hole path with one surprising connection. It shows they can navigate, explore, and reflect on information they find online.
 
 ---
+
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 8's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-8) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
 
 ## Check for Understanding
 
